@@ -2,15 +2,12 @@
 templateKey: index-page
 title: We create experiences
 image: /img/iz.jpg
-heading: Great coffee with a conscience
+heading: My name is isaac and i lost to this dude
 subheading: Support local music and shit
 mainpitch:
   title: Why Big Duck?
   description: Big duck is pretty lit
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: We do a lot of stuff
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -41,13 +38,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: smthng...
 main:
-  heading: Great coffee with no compromises
+  heading: Great events with no compromises
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
