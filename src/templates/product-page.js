@@ -1,11 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import React from 'react';
+import PropTypes from 'prop-types';
+import {graphql} from 'gatsby';
+import Layout from '../components/Layout';
+import FeatureRoll from '../components/FeatureRoll';
+import Testimonials from '../components/Testimonials';
+import Pricing from '../components/Pricing';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 export const ProductPageTemplate = ({
   image,
@@ -25,8 +25,7 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-      }}
-    >
+      }}>
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
@@ -34,8 +33,7 @@ export const ProductPageTemplate = ({
           backgroundColor: '#f40',
           color: 'white',
           padding: '1rem',
-        }}
-      >
+        }}>
         {title}
       </h2>
     </div>
@@ -50,15 +48,6 @@ export const ProductPageTemplate = ({
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
                   <div className="tile">
@@ -102,7 +91,7 @@ export const ProductPageTemplate = ({
       </div>
     </section>
   </div>
-)
+);
 
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -126,10 +115,10 @@ ProductPageTemplate.propTypes = {
     description: PropTypes.string,
     plans: PropTypes.array,
   }),
-}
+};
 
-const ProductPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+const ProductPage = ({data}) => {
+  const {frontmatter} = data.markdownRemark;
 
   return (
     <Layout>
@@ -145,8 +134,8 @@ const ProductPage = ({ data }) => {
         pricing={frontmatter.pricing}
       />
     </Layout>
-  )
-}
+  );
+};
 
 ProductPage.propTypes = {
   data: PropTypes.shape({
@@ -154,13 +143,13 @@ ProductPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default ProductPage
+export default ProductPage;
 
 export const productPageQuery = graphql`
   query ProductPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(id: {eq: $id}) {
       frontmatter {
         title
         image {
@@ -244,4 +233,4 @@ export const productPageQuery = graphql`
       }
     }
   }
-`
+`;
