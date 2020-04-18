@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <h2 style={{color: 'pink', fontWeight: 'bold'}}>
+              <h2 style={{color: 'black', fontWeight: 'bold'}}>
                 Big Duck Music
               </h2>
               <img

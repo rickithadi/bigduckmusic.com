@@ -10,33 +10,45 @@ import vimeo from '../img/social/vimeo.svg';
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer " style={{backgroundColor: '#FFFF66'}}>
         <div className="content has-text-centered">
           <img src={logo} alt="Kaldi" style={{width: '14em', height: '10em'}} />
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div
+          className="content has-text-centered has-black-white-ter"
+          style={{backgroundColor: '#FFFF66', color: 'pink !important'}}>
+          <div
+            className="container has-text-black-ter"
+            style={{backgroundColor: '#FFFF66', color: 'pink !important'}}>
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
+                      <Link to="/" className="navbar-item"
+style={{color:'black'}}
+                      >
                         Home
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
+                      <Link className="navbar-item" to="/about"
+style={{color:'black'}}
+                      >
                         About
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/features">
+                      <Link className="navbar-item" to="/features"
+                        style={{color:'black'}}>
                         Features
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/gigs">
+                      <Link className="navbar-item" to="/gigs"
+
+style={{color:'black'}}
+                      >
                         Gigs
                       </Link>
                     </li>
@@ -47,12 +59,18 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to="/blog"
+
+style={{color:'black'}}
+                      >
                         Latest Stories
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <Link className="navbar-item" to="/contact"
+
+style={{color:'black'}}
+                      >
                         Contact
                       </Link>
                     </li>

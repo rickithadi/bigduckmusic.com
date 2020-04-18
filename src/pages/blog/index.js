@@ -1,16 +1,17 @@
-import React from 'react'
+import React from 'react';
 
-import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import Layout from '../../components/Layout';
+import BlogRoll from '../../components/BlogRoll';
 
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-       <div
-          className="full-width-image-container margin-top-0"
+        <div
+          className="full-width-image-container margin-top-10"
           style={{
             opacity: '0.8',
+            backgroundColor: 'pink',
           }}>
           <div className="text-center" style={{textAlign: 'center'}}>
             <h1
@@ -25,6 +26,7 @@ export default class BlogIndexPage extends React.Component {
               <hr
                 style={{
                   height: '0.1em',
+                width:'50%',
                   color: 'yellow',
                   background: 'yellow',
                   border: 'none',
@@ -38,12 +40,11 @@ export default class BlogIndexPage extends React.Component {
                 color: 'white',
                 padding: '1rem',
               }}>
-              Talk Cock sing
-              song
-           </p>
+              Talk Cock sing song
+            </p>
           </div>
         </div>
-       <section className="section">
+        <section className="section">
           <div className="container">
             <div className="content">
               <BlogRoll />
@@ -51,6 +52,6 @@ export default class BlogIndexPage extends React.Component {
           </div>
         </section>
       </Layout>
-    )
+    );
   }
 }

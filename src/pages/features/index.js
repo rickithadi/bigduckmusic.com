@@ -6,11 +6,12 @@ import FeatureRoll from '../../components/FeatureRoll';
 export default class FeaturesIndexPage extends React.Component {
   render() {
     return (
-      <Layout>
+      <Layout >
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image-container margin-top-10"
           style={{
             opacity: '0.8',
+                backgroundColor: 'pink',
           }}>
           <div className="text-center" style={{textAlign: 'center'}}>
             <h1
@@ -25,6 +26,7 @@ export default class FeaturesIndexPage extends React.Component {
               <hr
                 style={{
                   height: '0.1em',
+                width:'50%',
                   color: 'yellow',
                   background: 'yellow',
                   border: 'none',
@@ -35,13 +37,10 @@ export default class FeaturesIndexPage extends React.Component {
               style={{
                 boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
                 backgroundColor: 'pink',
-                color: 'white',
+                color: 'black',
                 padding: '1rem',
               }}>
-              Reviewing all things Heavy, from Stoner Rock to Doom without
-              forgetting the Psychedelic and Sludgier side ! Let’s make some
-              Fuzzy Discoveries together…
-            </p>
+              Feature me daddy Isaac            </p>
           </div>
         </div>
         <section className="section">
