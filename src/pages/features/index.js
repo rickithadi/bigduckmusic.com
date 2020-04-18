@@ -6,12 +6,12 @@ import FeatureRoll from '../../components/FeatureRoll';
 export default class FeaturesIndexPage extends React.Component {
   render() {
     return (
-      <Layout >
+      <Layout>
         <div
           className="full-width-image-container margin-top-10"
           style={{
             opacity: '0.8',
-                backgroundColor: 'pink',
+            backgroundColor: 'pink',
           }}>
           <div className="text-center" style={{textAlign: 'center'}}>
             <h1
@@ -23,16 +23,18 @@ export default class FeaturesIndexPage extends React.Component {
                 padding: '1rem',
               }}>
               Big Duck Features
+            </h1>
               <hr
                 style={{
+                  textAlign: 'center',
                   height: '0.1em',
-                width:'50%',
+                  align: 'center',
                   color: 'yellow',
                   background: 'yellow',
                   border: 'none',
                 }}
               />
-            </h1>
+ 
             <p
               style={{
                 boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
@@ -40,7 +42,8 @@ export default class FeaturesIndexPage extends React.Component {
                 color: 'black',
                 padding: '1rem',
               }}>
-              Feature me daddy Isaac            </p>
+             Feature me daddy Isaac{' '}
+            </p>
           </div>
         </div>
         <section className="section">

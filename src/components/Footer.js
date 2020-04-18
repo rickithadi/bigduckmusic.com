@@ -13,6 +13,7 @@ const Footer = class extends React.Component {
       <footer className="footer " style={{backgroundColor: '#FFFF66'}}>
         <div className="content has-text-centered">
           <img src={logo} alt="Kaldi" style={{width: '14em', height: '10em'}} />
+            <p>&copy; Big Duck Pte Ltd</p>
         </div>
         <div
           className="content has-text-centered has-black-white-ter"
@@ -25,30 +26,34 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item"
-style={{color:'black'}}
-                      >
+                      <Link
+                        to="/"
+                        className="navbar-item"
+                        style={{color: 'black'}}>
                         Home
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about"
-style={{color:'black'}}
-                      >
+                      <Link
+                        className="navbar-item"
+                        to="/about"
+                        style={{color: 'black'}}>
                         About
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/features"
-                        style={{color:'black'}}>
+                      <Link
+                        className="navbar-item"
+                        to="/features"
+                        style={{color: 'black'}}>
                         Features
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/gigs"
-
-style={{color:'black'}}
-                      >
+                      <Link
+                        className="navbar-item"
+                        to="/gigs"
+                        style={{color: 'black'}}>
                         Gigs
                       </Link>
                     </li>
@@ -59,18 +64,18 @@ style={{color:'black'}}
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog"
-
-style={{color:'black'}}
-                      >
+                      <Link
+                        className="navbar-item"
+                        to="/blog"
+                        style={{color: 'black'}}>
                         Latest Stories
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact"
-
-style={{color:'black'}}
-                      >
+                      <Link
+                        className="navbar-item"
+                        to="/contact"
+                        style={{color: 'black'}}>
                         Contact
                       </Link>
                     </li>

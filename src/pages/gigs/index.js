@@ -26,7 +26,6 @@ export default class gigIndexPage extends React.Component {
               <hr
                 style={{
                   height: '0.1em',
-                width:'50%',
                   color: 'yellow',
                   background: 'yellow',
                   border: 'none',
@@ -37,7 +36,7 @@ export default class gigIndexPage extends React.Component {
               style={{
                 boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
                 backgroundColor: 'pink',
-                color: 'white',
+                color: 'black',
                 padding: '1rem',
               }}>
               Talk Cock sing song
