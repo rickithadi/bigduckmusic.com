@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: We create experiences
-image: /img/big-duck_transparent.png
+image: /img/iz.jpg
 heading: Great coffee with a conscience
 subheading: Support local music and shit
 mainpitch:
