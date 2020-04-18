@@ -1,13 +1,13 @@
-import React from 'react'
+import React from 'react';
 
-import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import Layout from '../../components/Layout';
+import FeatureRoll from '../../components/FeatureRoll';
 
-export default class BlogIndexPage extends React.Component {
+export default class FeaturesIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-       <div
+        <div
           className="full-width-image-container margin-top-0"
           style={{
             opacity: '0.8',
@@ -21,7 +21,7 @@ export default class BlogIndexPage extends React.Component {
                 color: 'white',
                 padding: '1rem',
               }}>
-              Big Duck Blog
+              Big Duck Features
               <hr
                 style={{
                   height: '0.1em',
@@ -38,19 +38,20 @@ export default class BlogIndexPage extends React.Component {
                 color: 'white',
                 padding: '1rem',
               }}>
-              Talk Cock sing
-              song
-           </p>
+              Reviewing all things Heavy, from Stoner Rock to Doom without
+              forgetting the Psychedelic and Sludgier side ! Let’s make some
+              Fuzzy Discoveries together…
+            </p>
           </div>
         </div>
-       <section className="section">
+        <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <FeatureRoll />
             </div>
           </div>
         </section>
       </Layout>
-    )
+    );
   }
 }
