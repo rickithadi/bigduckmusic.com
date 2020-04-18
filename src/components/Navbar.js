@@ -1,6 +1,8 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import logo from '../img/Big-Duck_Transparent.svg';
+import facebook from '../img/social/facebook.svg';
+import instagram from '../img/social/instagram.svg';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -39,12 +41,16 @@ const Navbar = class extends React.Component {
         style={{backgroundColor: '#FFFF66'}}
         aria-label="main-navigation">
         <div className="container">
-          <div className="navbar-brand" >
+          <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <h2 style={{color: 'pink', fontWeight: 'bold'}}>
                 Big Duck Music
               </h2>
-              <img src={logo} alt="Kaldi" style={{width: '88px',color:'white'}} />
+              <img
+                src={logo}
+                alt="Kaldi"
+                style={{width: '88px', color: 'white'}}
+              />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -73,7 +79,37 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-           </div>
+            </div>
+            <div className="navbar-end has-text-centered">
+              <a
+                className="navbar-item"
+                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                target="_blank"
+                rel="noopener noreferrer">
+                <span className="icon">
+                  <a
+                    title="facebook"
+                    href="https://www.facebook.com/pg/bigduckpteltd/">
+                    <img
+                      src={facebook}
+                      alt="Facebook"
+                      style={{width: '1em', height: '1em'}}
+                    />
+                  </a>
+                </span>
+                <span className="icon">
+                  <a
+                    title="instagram"
+                    href="https://instagram.com/bigduckpteltd">
+                    <img
+                      src={instagram}
+                      alt="Instagram"
+                      style={{width: '1em', height: '1em'}}
+                    />
+                  </a>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </nav>
