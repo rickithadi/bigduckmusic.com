@@ -12,13 +12,13 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({node: post}) => (
-            <div className="is-parent column is-4 ">
+            <div className="is-parent column is-4 show">
               <div
                 style={{
+                  padding: '15px',
                   backgroundColor: ' #A3B7DA',
-          borderRadius: '10px',
-          borderColor: 'orange',
-          borderWidth: '20px',
+                  borderRadius: '10px',
+                  border: '1px solid  #FF7500',
                 }}
                 key={post.id}>
                 <article
@@ -39,7 +39,10 @@ class BlogRoll extends React.Component {
                     ) : null}
                     <p className="post-meta">
                       <Link
-                        className="title has-text-primary is-size-4"
+                        className="title is-size-4"
+                        style={{
+                          color: '#FF7500',
+                        }}
                         to={post.fields.slug}>
                         {post.frontmatter.title}
                       </Link>

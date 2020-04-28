@@ -19,11 +19,11 @@ export const IndexPageTemplate = ({
     <div className="container centered" style={{paddingTop: '50px'}}>
       <div
         className="is-three-quarters noisy"
-        style={{textAlign: 'center'}}
         style={{
           backgroundColor: ' #A3B7DA',
           borderRadius: '10px',
           height: '100%',
+          textAlign: 'center',
           padding: '15px',
           lineHeight: '1',
           justifyContent: 'space-around',
