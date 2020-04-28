@@ -16,25 +16,17 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div style={{backgroundColor: '#1A2F5C'}}>
-    <div
-      className="full-width-image margin-top-10 text-center "
-      style={{
-        backgroundPosition: `top left`,
-        background: 'transparent',
-        backgroundAttachment: `fixed`,
-      }}>
+    <div className="container centered" style={{paddingTop: '50px'}}>
       <div
-        className="text-center noisy"
+        className="is-three-quarters noisy"
         style={{textAlign: 'center'}}
         style={{
           backgroundColor: ' #A3B7DA',
           borderRadius: '10px',
-          display: 'flex',
-          height: '250px',
-          maxWidth: '80%',
+          height: '100%',
+          padding: '15px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
           flexDirection: 'column',
         }}>
         <h1
@@ -42,31 +34,25 @@ export const IndexPageTemplate = ({
           style={{
             color: '#1A2F5C',
             fontStyle: 'oblique',
+            textTransform: 'uppercase',
+
+            padding: '15px',
+            textDecoration: 'underline',
             textAlign: 'center',
             lineHeight: '1',
           }}>
           {title}
-     <hr
-          style={{
-            color: '#1A2F5C',
-            backgroundColor: '#1A2F5C',
-            textAlign: 'center',
-            lineHeight: '1',
-          }}>
-        </hr>
+        </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             textAlign: 'center',
             lineHeight: '1',
-            color: '#506E7C',
+            color: '#5C7C80',
           }}>
           {subheading}
         </h3>
- 
-        </h1>
-   
-     </div>
+      </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
