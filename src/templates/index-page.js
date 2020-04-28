@@ -41,7 +41,7 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             color: '#1A2F5C',
-            fontFamily: 'Bradley Hand, cursive !important',
+            fontStyle: 'oblique',
             textAlign: 'center',
             lineHeight: '1',
           }}>
