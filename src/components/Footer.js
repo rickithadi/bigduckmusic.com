@@ -10,17 +10,13 @@ import vimeo from '../img/social/vimeo.svg';
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer " style={{backgroundColor: '#FFFF66'}}>
-        <div className="content has-text-centered">
-          <img src={logo} alt="Kaldi" style={{width: '14em', height: '10em'}} />
-            <p>&copy; Big Duck Pte Ltd</p>
-        </div>
+      <footer className="footer " style={{backgroundColor: '#d9a2f5'}}>
         <div
           className="content has-text-centered has-black-white-ter"
-          style={{backgroundColor: '#FFFF66', color: 'pink !important'}}>
+          style={{backgroundColor: '#d9a2f5', color: 'pink !important'}}>
           <div
             className="container has-text-black-ter"
-            style={{backgroundColor: '#FFFF66', color: 'pink !important'}}>
+            style={{backgroundColor: '#d9a2f5', color: 'pink !important'}}>
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
@@ -102,6 +98,9 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
+        </div>
+        <div className="content has-text-centered">
+          <p> Big Duck Pte Ltd &copy; 2020 - All Rights Reserved</p>
         </div>
       </footer>
     );

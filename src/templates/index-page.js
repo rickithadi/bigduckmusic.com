@@ -15,24 +15,23 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
-  <div>
+  <div style={{backgroundColor: '#1A2F5C'}}>
     <div
-      className="full-width-image margin-top-0"
+      className="full-width-image margin-top-10 text-center "
       style={{
-  /*      backgroundImage: `url(${*/
-          //!!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        /*})`,*/
         backgroundPosition: `top left`,
-            backgroundColor: 'pink',
-            background: 'pink',
+        background: 'transparent',
         backgroundAttachment: `fixed`,
       }}>
       <div
-        className="text-center"
+        className="text-center noisy"
         style={{textAlign: 'center'}}
         style={{
+          backgroundColor: ' #A3B7DA',
+          borderRadius: '10px',
           display: 'flex',
-          height: '150px',
+          height: '250px',
+          maxWidth: '80%',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
@@ -41,28 +40,33 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
-            backgroundColor: 'pink',
-            color: 'white',
-
+            color: '#1A2F5C',
+            fontFamily: 'Bradley Hand, cursive !important',
+            textAlign: 'center',
             lineHeight: '1',
-            padding: '0.25em',
           }}>
           {title}
-        </h1>
+     <hr
+          style={{
+            color: '#1A2F5C',
+            backgroundColor: '#1A2F5C',
+            textAlign: 'center',
+            lineHeight: '1',
+          }}>
+        </hr>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
-            backgroundColor: 'pink',
-            color: 'white',
-
+            textAlign: 'center',
             lineHeight: '1',
-            padding: '0.25em',
+            color: '#506E7C',
           }}>
           {subheading}
         </h3>
-      </div>
+ 
+        </h1>
+   
+     </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
