@@ -1,17 +1,16 @@
 ---
 templateKey: index-page
-title: Big Duck Music
-image: /img/iz.jpg
-heading: My name is isaac and i lost to this dude
-subheading: yea nah yea yea yea
+title: Big Duck Pte ltd
+heading: feel
+subheading: Feel the Big Dick Energy
 mainpitch:
-  title: Why Big Duck?
+  title: What we do
   description: Big duck is pretty lit
-description: We do a lot of stuff
 intro:
   blurbs: []
   heading: What we offer
   description: smthng...
+description: We do a lot of stuff
 main:
   heading: Great events with no compromises
   description: >
@@ -28,4 +27,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+image: /img/iz.jpg
 ---
