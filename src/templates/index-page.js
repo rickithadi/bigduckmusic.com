@@ -7,13 +7,11 @@ import FeatureRoll from '../components/FeatureRoll';
 import BlogRoll from '../components/BlogRoll';
 
 export const IndexPageTemplate = ({
-  image,
   title,
   heading,
   subheading,
   mainpitch,
   description,
-  intro,
 }) => (
   <div style={{backgroundColor: '#1A2F5C'}}>
     <div className="container centered" style={{paddingTop: '50px'}}>
@@ -62,7 +60,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="title" style={{color:'#d9a2f5'}}>{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
