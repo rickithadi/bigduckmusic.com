@@ -2,119 +2,123 @@ backend:
   name: git-gateway
   branch: master
   commit_messages:
-    create: 'Create {{collection}} “{{slug}}”'
-    update: 'Update {{collection}} “{{slug}}”'
-    delete: 'Delete {{collection}} “{{slug}}”'
-    uploadMedia: '[skip ci] Upload “{{path}}”'
-    deleteMedia: '[skip ci] Delete “{{path}}”'
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Upload “{{path}}”"
+    deleteMedia: "[skip ci] Delete “{{path}}”"
 
 media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'src/pages/blog'
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'blog-post',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
         }
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
-      - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
-      - {label: 'Featured Image', name: 'featuredimage', widget: image}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Tags', name: 'tags', widget: 'list'}
-  - name: 'features'
-    label: 'Features'
-    folder: 'src/pages/features'
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
+      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "features"
+    label: "Features"
+    folder: "src/pages/features"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'feature-post',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "feature-post",
         }
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
-      - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
-      - {label: 'isReview', name: 'isReview', widget: 'boolean'}
-      - {label: 'Featured Image', name: 'featuredimage', widget: image}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Tags', name: 'tags', widget: 'list'}
-  - name: 'gigs'
-    label: 'Gigs'
-    folder: 'src/pages/gigs'
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
+      - { label: "isReview", name: "isReview", widget: "boolean" }
+      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "gigs"
+    label: "Gigs"
+    folder: "src/pages/gigs"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'gig-post',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "gig-post",
         }
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
-      - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
-      - {label: 'Featured Image', name: 'featuredimage', widget: image}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
+      - { label: "Featured Image", name: "featuredimage", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: 'picks'
-    label: 'picks'
-    folder: 'src/pages/picks'
+  - name: "picks"
+    label: "picks"
+    folder: "src/pages/picks"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'gig-post',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "gig-post",
         }
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
-      - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Featured Image', name: 'featuredimage', widget: image}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Featured Images",
+          name: "featuredimages",
+          widget: "list",
+          fields:
+            [
+              { label: "image", name: "image", widget: "image" },
+              { label: "link", name: "link", widget: "markdown" },
+            ],
+        }
 
- 
-  - name: 'pages'
-    label: 'Pages'
+  - name: "pages"
+    label: "Pages"
     files:
-      - file: 'src/pages/index.md'
-        label: 'Landing Page'
-        name: 'index'
+      - file: "src/pages/index.md"
+        label: "Landing Page"
+        name: "index"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'index-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "index-page",
             }
-          - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Subheading, name: subheading, widget: string}
+          - { label: Title, name: title, widget: string }
+          - { label: Heading, name: heading, widget: string }
+          - { label: Subheading, name: subheading, widget: string }
           - {
               label: Shows,
               name: shows,
               widget: object,
               fields:
                 [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
+                  { label: Title, name: title, widget: string },
+                  { label: Description, name: description, widget: text },
                 ],
             }
           - {
@@ -123,8 +127,8 @@ collections:
               widget: object,
               fields:
                 [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
+                  { label: Title, name: title, widget: string },
+                  { label: Description, name: description, widget: text },
                 ],
             }
           - {
@@ -133,20 +137,20 @@ collections:
               widget: object,
               fields:
                 [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
+                  { label: Title, name: title, widget: string },
+                  { label: Description, name: description, widget: text },
                 ],
             }
 
-      - file: 'src/pages/about/index.md'
-        label: 'About'
-        name: 'about'
+      - file: "src/pages/about/index.md"
+        label: "About"
+        name: "about"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'about-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
-          - {label: 'Title', name: 'title', widget: 'string'}
-          - {label: 'Body', name: 'body', widget: 'markdown'}
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
