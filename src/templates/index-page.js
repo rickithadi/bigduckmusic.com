@@ -28,11 +28,13 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}>
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head"
           style={{
             color: '#1A2F5C',
             fontStyle: 'oblique',
             textTransform: 'uppercase',
+            backgroundColor: ' #A3B7DA',
+            borderRadius: '10px',
 
             padding: '15px',
             textDecoration: 'underline',
@@ -42,9 +44,11 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen sub"
           style={{
+            backgroundColor: ' #A3B7DA',
             textAlign: 'center',
+            borderRadius: '10px',
             lineHeight: '1',
             color: '#5C7C80',
           }}>
@@ -60,7 +64,9 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title" style={{color:'#d9a2f5'}}>{mainpitch.title}</h1>
+                    <h1 className="title" style={{color: '#d9a2f5'}}>
+                      {mainpitch.title}
+                    </h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
@@ -74,7 +80,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <div className="column is-12">
+               <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest Blog Posts
                   </h3>
@@ -90,7 +96,7 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-    </section>
+        </section>
   </div>
 );
 
