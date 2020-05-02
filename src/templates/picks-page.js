@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
 import Layout from '../components/Layout';
-import PickRoll from '../components/PickRoll';
-import BlogRoll from '../components/BlogRoll';
 
 export const PicksPageTemplate = ({title}) => (
   <div style={{backgroundColor: '#10559A'}}>{title}</div>

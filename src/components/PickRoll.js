@@ -1,5 +1,16 @@
 import React from 'react';
+import ReactDom from 'react-dom';
+import unified from 'unified';
+import parse from 'remark-parse';
+import remark2react from 'remark-react';
 import PropTypes from 'prop-types';
+import Content, {HTMLContent} from './Content';
+import ReactHtmlParser, {
+  processNodes,
+  convertNodeToElement,
+  htmlparser2,
+} from 'react-html-parser';
+
 import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
@@ -13,10 +24,10 @@ class PickRoll extends React.Component {
     const {node: post} = posts[0];
     return (
       <div className="container centered" style={{paddingTop: '50px'}}>
-        {console.log(post.frontmatter)}
+        {console.log(data)}
         <div className="is-parent column is-12 show">
-          <h1 className="title" style={{color: '#DB4C77'}}>
-            Top Picks This Week &bsp;
+          <h1 className="top" style={{color: '#DB4C77'}}>
+            Top Picks This Week, &nbsp;
             <span>{post.frontmatter.date}</span>
           </h1>
 
@@ -24,7 +35,7 @@ class PickRoll extends React.Component {
             style={{
               padding: '15px',
               height: '100%',
-              backgroundColor: ' #A3B7DA',
+              backgroundColor: ' #3CA2C8',
               borderRadius: '10px',
               border: '1px solid  #FF7500',
             }}
@@ -37,9 +48,21 @@ class PickRoll extends React.Component {
                 {post.frontmatter.featuredimages &&
                   post.frontmatter.featuredimages.map(i => {
                     return (
-                      <div className="is-child tile column " key={i.link}>
+                      <div
+                        className="is-child tile column "
+                        style={{textAlign: 'center'}}
+                        key={i.link}>
                         <header>
                           <img src={i.image.childImageSharp.fluid.src} />
+                       
+                          <div id="preview">
+                            {
+                              unified()
+                                .use(parse)
+                                .use(remark2react)
+                                .processSync(i.link).result
+                            }
+                          </div>
                         </header>
                       </div>
                     );
