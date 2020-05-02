@@ -97,6 +97,16 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                featuredimages {
+                  link
+                  image {
+                    childImageSharp {
+                      fluid(maxWidth: 240, quality: 64) {
+                        ...GatsbyImageSharpFluid
+                      }
+                    }
+                  }
+                }
               }
             }
           }

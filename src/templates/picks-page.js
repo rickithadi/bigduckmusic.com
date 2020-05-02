@@ -23,7 +23,7 @@ const PicksPage = ({data}) => {
     <Layout>
       <PicksPageTemplate
         image={frontmatter.image}
-       //featuredimages={frontmatter.intro}
+        //featuredimages={frontmatter.intro}
       />
     </Layout>
   );
@@ -41,9 +41,19 @@ export default PicksPage;
 
 export const pageQuery = graphql`
   query PicksPageTemplate {
-    markdownRemark(frontmatter: {templateKey: {eq: "index-page"}}) {
+    markdownRemark(frontmatter: {templateKey: {eq: "picks-page"}}) {
       frontmatter {
         title
+        featuredimages {
+          link
+          image {
+            childImageSharp {
+              fluid(maxWidth: 240, quality: 64) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
       }
     }
   }
