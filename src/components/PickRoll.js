@@ -16,6 +16,10 @@ class PickRoll extends React.Component {
         {posts &&
           posts.map(({node: post}) => (
             <div className="is-parent column is-12 show">
+              <h1 className="title" style={{color: '#DB4C77'}}>
+                Top Picks This Week
+              </h1>
+
               <div
                 style={{
                   padding: '15px',
@@ -37,7 +41,7 @@ class PickRoll extends React.Component {
                   <div className="columns is-multiline">
                     {post.frontmatter.featuredimages.map(i => {
                       return (
-                        <div className="is-child tile column is-2" key={i.link}>
+                        <div className="is-child tile column " key={i.link}>
                           <header>
                             <img src={i.image.childImageSharp.fluid.src} />
                           </header>
