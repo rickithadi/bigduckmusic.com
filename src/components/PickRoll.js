@@ -10,50 +10,44 @@ class PickRoll extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
-
+    const {node: post} = posts[0];
     return (
       <div className="container centered" style={{paddingTop: '50px'}}>
-        {posts &&
-          posts.map(({node: post}) => (
-            <div className="is-parent column is-12 show">
-              <h1 className="title" style={{color: '#DB4C77'}}>
-                Top Picks This Week
-              </h1>
+        {console.log(post.frontmatter)}
+        <div className="is-parent column is-12 show">
+          <h1 className="title" style={{color: '#DB4C77'}}>
+            Top Picks This Week &bsp;
+            <span>{post.frontmatter.date}</span>
+          </h1>
 
-              <div
-                style={{
-                  padding: '15px',
-                  backgroundColor: ' #A3B7DA',
-                  borderRadius: '10px',
-                  border: '1px solid  #FF7500',
-                }}
-                key={post.id}>
-                <article>
-                  <header>
-                    <p className="post-meta">
-                      {post.frontmatter.title}
-                      <span> &bull; </span>
-                      <span className="subtitle is-size-9 is-block">
-                        {post.frontmatter.date}
-                      </span>
-                    </p>
-                  </header>
-                  <div className="columns is-multiline">
-                    {post.frontmatter.featuredimages &&
-                      post.frontmatter.featuredimages.map(i => {
-                        return (
-                          <div className="is-child tile column " key={i.link}>
-                            <header>
-                              <img src={i.image.childImageSharp.fluid.src} />
-                            </header>
-                          </div>
-                        );
-                      })}
-                  </div>
-                </article>
+          <div
+            style={{
+              padding: '15px',
+              height: '100%',
+              backgroundColor: ' #A3B7DA',
+              borderRadius: '10px',
+              border: '1px solid  #FF7500',
+            }}
+            key={post.id}>
+            <article>
+              <header>
+                <p className="post-meta">{post.frontmatter.title}</p>
+              </header>
+              <div className="columns is-multiline">
+                {post.frontmatter.featuredimages &&
+                  post.frontmatter.featuredimages.map(i => {
+                    return (
+                      <div className="is-child tile column " key={i.link}>
+                        <header>
+                          <img src={i.image.childImageSharp.fluid.src} />
+                        </header>
+                      </div>
+                    );
+                  })}
               </div>
-            </div>
-          ))}
+            </article>
+          </div>
+        </div>
       </div>
     );
   }
