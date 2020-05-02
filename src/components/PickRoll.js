@@ -4,7 +4,6 @@ import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 class PickRoll extends React.Component {
- 
   componentDidMount() {
     console.log('coming from pickrol', this.props);
   }
@@ -86,7 +85,7 @@ export default () => (
       query PickRollQuery {
         allMarkdownRemark(
           sort: {order: DESC, fields: [frontmatter___date]}
-          filter: {frontmatter: {templateKey: {eq: "pick-post"}}}
+          filter: {frontmatter: {templateKey: {eq: "picks-page"}}}
         ) {
           edges {
             node {

@@ -1,5 +1,5 @@
 ---
-templateKey: pick-post
+templateKey: picks-page
 title: picks from week2 may
 date: 2020-05-02T10:32:56.948Z
 featuredimages:
