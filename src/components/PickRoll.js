@@ -39,15 +39,16 @@ class PickRoll extends React.Component {
                     </p>
                   </header>
                   <div className="columns is-multiline">
-                    {post.frontmatter.featuredimages.map(i => {
-                      return (
-                        <div className="is-child tile column " key={i.link}>
-                          <header>
-                            <img src={i.image.childImageSharp.fluid.src} />
-                          </header>
-                        </div>
-                      );
-                    })}
+                    {post.frontmatter.featuredimages &&
+                      post.frontmatter.featuredimages.map(i => {
+                        return (
+                          <div className="is-child tile column " key={i.link}>
+                            <header>
+                              <img src={i.image.childImageSharp.fluid.src} />
+                            </header>
+                          </div>
+                        );
+                      })}
                   </div>
                 </article>
               </div>
