@@ -12,10 +12,10 @@ class PickRoll extends React.Component {
     const {edges: posts} = data.allMarkdownRemark;
 
     return (
-      <div className="columns is-multiline">
+      <div className="container centered" style={{paddingTop: '50px'}}>
         {posts &&
           posts.map(({node: post}) => (
-            <div className="is-parent column is-4 show">
+            <div className="is-parent column is-12 show">
               <div
                 style={{
                   padding: '15px',
@@ -24,22 +24,8 @@ class PickRoll extends React.Component {
                   border: '1px solid  #FF7500',
                 }}
                 key={post.id}>
-                <article
-                  //className={`blog-list-item tile is-child noisy is-warning ${
-                  className={`blog-list-item tile is-child noisy ${
-                    post.frontmatter.featuredpost ? 'is-featured ' : ''
-                  }`}>
+                <article>
                   <header>
-                    {post.frontmatter.featuredimage ? (
-                      <div className="featured-thumbnail">
-                        <PreviewCompatibleImage
-                          imageInfo={{
-                            image: post.frontmatter.featuredimage,
-                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          }}
-                        />
-                      </div>
-                    ) : null}
                     <p className="post-meta">
                       <Link
                         className="title is-size-4"
@@ -55,13 +41,18 @@ class PickRoll extends React.Component {
                       </span>
                     </p>
                   </header>
-                  <p>
-                    <br />
-                    <br />
-                    <Link className="button" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+                  <div className="columns is-multiline">
+                    {post.frontmatter.featuredimages.map(i => {
+                      return (
+                        <div className="is-child tile column is-2">
+                          <header>
+                            <img src={i.image.childImageSharp.fluid.src} />
+                          </header>
+                          {i.link}
+                        </div>
+                      );
+                    })}
+                  </div>
                 </article>
               </div>
             </div>
