@@ -27,14 +27,7 @@ class PickRoll extends React.Component {
                 <article>
                   <header>
                     <p className="post-meta">
-                      <Link
-                        className="title is-size-4"
-                        style={{
-                          color: '#FF7500',
-                        }}
-                        to={post.fields.slug}>
-                        {post.frontmatter.title}
-                      </Link>
+                      {post.frontmatter.title}
                       <span> &bull; </span>
                       <span className="subtitle is-size-9 is-block">
                         {post.frontmatter.date}
@@ -44,11 +37,10 @@ class PickRoll extends React.Component {
                   <div className="columns is-multiline">
                     {post.frontmatter.featuredimages.map(i => {
                       return (
-                        <div className="is-child tile column is-2">
+                        <div className="is-child tile column is-2" key={i.link}>
                           <header>
                             <img src={i.image.childImageSharp.fluid.src} />
                           </header>
-                          {i.link}
                         </div>
                       );
                     })}
