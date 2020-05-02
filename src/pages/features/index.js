@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../../components/Layout';
-import FeatureRoll from '../../components/FeatureRoll';
+//import FeatureRoll from '../../components/FeatureRoll';
 
 export default class FeaturesIndexPage extends React.Component {
   render() {
@@ -49,7 +49,7 @@ export default class FeaturesIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <FeatureRoll />
+              nope
             </div>
           </div>
         </section>

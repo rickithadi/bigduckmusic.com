@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
 import Layout from '../components/Layout';
-import FeatureRoll from '../components/FeatureRoll';
+import PickRoll from '../components/PickRoll';
 import BlogRoll from '../components/BlogRoll';
 
 export const IndexPageTemplate = ({
@@ -13,12 +13,12 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
 }) => (
-  <div style={{backgroundColor: '#1A2F5C'}}>
+  <div style={{backgroundColor: '#10559A'}}>
     <div className="container centered" style={{paddingTop: '50px'}}>
       <div
         className="is-three-quarters noisy"
         style={{
-          backgroundColor: ' #A3B7DA',
+          backgroundColor: ' #3CA2C8',
           borderRadius: '10px',
           height: '100%',
           textAlign: 'center',
@@ -30,10 +30,9 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head"
           style={{
-            color: '#1A2F5C',
+            color: '#10559A',
             fontStyle: 'oblique',
             textTransform: 'uppercase',
-            backgroundColor: ' #A3B7DA',
             borderRadius: '10px',
 
             padding: '15px',
@@ -46,7 +45,6 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen sub"
           style={{
-            backgroundColor: ' #A3B7DA',
             textAlign: 'center',
             borderRadius: '10px',
             lineHeight: '1',
@@ -64,7 +62,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title" style={{color: '#d9a2f5'}}>
+                    <h1 className="title" style={{color: '#DB4C77'}}>
                       {mainpitch.title}
                     </h1>
                   </div>
@@ -97,6 +95,8 @@ export const IndexPageTemplate = ({
         </div>
       </div>
         </section>
+
+                  <PickRoll />
   </div>
 );
 
