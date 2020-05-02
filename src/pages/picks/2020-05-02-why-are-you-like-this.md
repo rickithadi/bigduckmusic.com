@@ -6,5 +6,14 @@ featuredimages:
   - image: /img/photo_2020-04-18_21-48-49.jpg
     link: sex
   - image: /img/big-duck_transparent.png
-    link: "[asdasds](google.com)"
+    link: |-
+      
+
+      [asdasd](youtube.com)
+
+      ```
+      s
+      ```
+
+      [asdasdsasdfsdf](google.com)
 ---
