@@ -83,7 +83,6 @@ collections:
           widget: 'hidden',
           default: 'picks-page',
         }
-      - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {
           label: 'Featured Images',
@@ -92,7 +91,7 @@ collections:
           fields:
             [
               {label: 'image', name: 'image', widget: 'image'},
-              {label: 'link', name: 'link', widget: 'string'},
+              {label: 'link', name: 'link', widget: 'markdown'},
             ],
         }
 

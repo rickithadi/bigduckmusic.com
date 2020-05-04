@@ -41,9 +41,6 @@ class PickRoll extends React.Component {
             }}
             key={post.id}>
             <article>
-              <header>
-                <p className="post-meta">{post.frontmatter.title}</p>
-              </header>
               <div className="columns is-multiline">
                 {post.frontmatter.featuredimages &&
                   post.frontmatter.featuredimages.map(i => {
@@ -54,8 +51,8 @@ class PickRoll extends React.Component {
                         key={i.link}>
                         <header>
                           <img src={i.image.childImageSharp.fluid.src} />
-                       
-                          <div id="preview">
+
+                          <div className="sub">
                             {
                               unified()
                                 .use(parse)
@@ -99,7 +96,6 @@ export default () => (
                 slug
               }
               frontmatter {
-                title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredimages {
