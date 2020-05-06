@@ -25,19 +25,18 @@ class PickRoll extends React.Component {
     const {node: post} = posts[0];
     return (
       <div className="container centered" style={{paddingTop: '50px'}}>
-        {console.log(data)}
-        <div className="is-parent column is-12 show">
+        <div className="is-parent column is-12 ">
           <h1 className="top" style={{color: '#DB4C77'}}>
             Top Picks This Week, &nbsp;
             <span>{post.frontmatter.date}</span>
           </h1>
 
           <div key={post.id}>
-            <div className="columns ">
+            <div className="columns">
               {post.frontmatter.featuredimages &&
                 post.frontmatter.featuredimages.map(i => {
                   return (
-                    <div className="is-parent is-2 tile column show">
+                    <div className="is-parent  tile column " key={i.link}>
                       <div
                         key={i.link}
                         style={{
@@ -47,7 +46,7 @@ class PickRoll extends React.Component {
                           padding: '15px',
                           border: '1px solid  #FF7500',
                         }}>
-                        <figure className="image is-square">
+                        <figure className="image ">
                           <a href={`https://${i.link}`} target="_blank">
                             <img src={i.image.childImageSharp.fluid.src} />
                           </a>
@@ -93,7 +92,7 @@ export default () => (
                   link
                   image {
                     childImageSharp {
-                      fluid(maxWidth: 240, quality: 64) {
+                      fluid(maxWidth: 240, quality: 100) {
                         ...GatsbyImageSharpFluid
                       }
                     }

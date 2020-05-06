@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-10"
+          className="full-width-image-container "
           style={{
             opacity: '0.8',
             backgroundColor: 'pink',

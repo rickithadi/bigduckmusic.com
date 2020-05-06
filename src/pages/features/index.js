@@ -8,7 +8,7 @@ export default class FeaturesIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-10"
+          className="full-width-image-container"
           style={{
             opacity: '0.8',
             backgroundColor: 'pink',
@@ -24,17 +24,17 @@ export default class FeaturesIndexPage extends React.Component {
               }}>
               Big Duck Features
             </h1>
-              <hr
-                style={{
-                  textAlign: 'center',
-                  height: '0.1em',
-                  align: 'center',
-                  color: 'yellow',
-                  background: 'yellow',
-                  border: 'none',
-                }}
-              />
- 
+            <hr
+              style={{
+                textAlign: 'center',
+                height: '0.1em',
+                align: 'center',
+                color: 'yellow',
+                background: 'yellow',
+                border: 'none',
+              }}
+            />
+
             <p
               style={{
                 boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
@@ -42,15 +42,13 @@ export default class FeaturesIndexPage extends React.Component {
                 color: 'black',
                 padding: '1rem',
               }}>
-             Feature me daddy Isaac{' '}
+              Feature me daddy Isaac{' '}
             </p>
           </div>
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">
-              nope
-            </div>
+            <div className="content">nope</div>
           </div>
         </section>
       </Layout>
