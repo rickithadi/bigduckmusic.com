@@ -84,6 +84,7 @@ collections:
           default: 'picks-page',
         }
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
+      - {label: Title, name: title, widget: string}
       - {
           label: 'Featured Images',
           name: 'featuredimages',

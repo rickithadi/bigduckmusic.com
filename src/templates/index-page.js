@@ -28,7 +28,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}>
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head"
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head title-is-1"
           style={{
             color: '#10559A',
             fontStyle: 'oblique',
@@ -78,7 +78,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-               <div className="column is-12">
+                <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest Blog Posts
                   </h3>
@@ -94,9 +94,9 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-        </section>
+    </section>
 
-                  <PickRoll />
+    <PickRoll />
   </div>
 );
 

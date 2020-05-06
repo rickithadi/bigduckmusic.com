@@ -33,39 +33,26 @@ class PickRoll extends React.Component {
           </h1>
 
           <div key={post.id}>
-            <div className="columns is-multiline">
+            <div className="columns ">
               {post.frontmatter.featuredimages &&
                 post.frontmatter.featuredimages.map(i => {
                   return (
-                    <div
-                      className="is-child tile column "
-                      style={{
-                        textAlign: 'center',
-                      }}
-                      key={i.link}>
-                      <header
+                    <div className="is-parent is-2 tile column show">
+                      <div
+                        key={i.link}
                         style={{
                           textAlign: 'center',
-                          padding: '15px',
-                          height: '100%',
-                          backgroundColor: ' #3CA2C8',
+                          backgroundColor: 'pink',
                           borderRadius: '10px',
+                          padding: '15px',
                           border: '1px solid  #FF7500',
                         }}>
-                        <img src={i.image.childImageSharp.fluid.src} />
-
-                        <div className="sub">
-                          <a href={i.link} target="_blank">
-                            i.link
+                        <figure className="image is-square">
+                          <a href={`https://${i.link}`} target="_blank">
+                            <img src={i.image.childImageSharp.fluid.src} />
                           </a>
-                          {
-                            unified()
-                              .use(parse)
-                              .use(remark2react)
-                              .processSync(i.link).result
-                          }
-                        </div>
-                      </header>
+                        </figure>
+                      </div>
                     </div>
                   );
                 })}
