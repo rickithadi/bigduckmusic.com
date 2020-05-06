@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
 import ReactDom from 'react-dom';
 import unified from 'unified';
 import parse from 'remark-parse';
@@ -47,13 +48,16 @@ class PickRoll extends React.Component {
                           textAlign: 'center',
                           padding: '15px',
                           height: '100%',
-                          //backgroundColor: ' #3CA2C8',
+                          backgroundColor: ' #3CA2C8',
                           borderRadius: '10px',
                           border: '1px solid  #FF7500',
                         }}>
                         <img src={i.image.childImageSharp.fluid.src} />
 
                         <div className="sub">
+                          <a href={i.link} target="_blank">
+                            i.link
+                          </a>
                           {
                             unified()
                               .use(parse)
