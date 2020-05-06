@@ -31,41 +31,41 @@ class PickRoll extends React.Component {
             <span>{post.frontmatter.date}</span>
           </h1>
 
-          <div
-            style={{
-              padding: '15px',
-              height: '100%',
-              backgroundColor: ' #3CA2C8',
-              borderRadius: '10px',
-              border: '1px solid  #FF7500',
-            }}
-            key={post.id}>
-            <article>
-              <div className="columns is-multiline">
-                {post.frontmatter.featuredimages &&
-                  post.frontmatter.featuredimages.map(i => {
-                    return (
-                      <div
-                        className="is-child tile column "
-                        style={{textAlign: 'center'}}
-                        key={i.link}>
-                        <header>
-                          <img src={i.image.childImageSharp.fluid.src} />
+          <div key={post.id}>
+            <div className="columns is-multiline">
+              {post.frontmatter.featuredimages &&
+                post.frontmatter.featuredimages.map(i => {
+                  return (
+                    <div
+                      className="is-child tile column "
+                      style={{
+                        textAlign: 'center',
+                      }}
+                      key={i.link}>
+                      <header
+                        style={{
+                          textAlign: 'center',
+                          padding: '15px',
+                          height: '100%',
+                          //backgroundColor: ' #3CA2C8',
+                          borderRadius: '10px',
+                          border: '1px solid  #FF7500',
+                        }}>
+                        <img src={i.image.childImageSharp.fluid.src} />
 
-                          <div className="sub">
-                            {
-                              unified()
-                                .use(parse)
-                                .use(remark2react)
-                                .processSync(i.link).result
-                            }
-                          </div>
-                        </header>
-                      </div>
-                    );
-                  })}
-              </div>
-            </article>
+                        <div className="sub">
+                          {
+                            unified()
+                              .use(parse)
+                              .use(remark2react)
+                              .processSync(i.link).result
+                          }
+                        </div>
+                      </header>
+                    </div>
+                  );
+                })}
+            </div>
           </div>
         </div>
       </div>
