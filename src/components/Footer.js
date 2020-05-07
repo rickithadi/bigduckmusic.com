@@ -42,7 +42,7 @@ const Footer = class extends React.Component {
                         className="navbar-item"
                         to="/features"
                         style={{color: 'black'}}>
-                        Features
+                        Features & Reviews
                       </Link>
                     </li>
                     <li>
@@ -99,7 +99,11 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <div className="content has-text-centered">
+          <div className="content has-text-centered"
+        style={{
+          color: '#10559A',
+        }}>
+ 
           <p> Big Duck Pte Ltd &copy; 2020 - All Rights Reserved</p>
         </div>
       </footer>
