@@ -24,9 +24,11 @@ class PickRoll extends React.Component {
     const {edges: posts} = data.allMarkdownRemark;
     const {node: post} = posts[0];
     return (
-      <div className="container centered" style={{paddingTop: '50px'}}>
+      <div className="container centered" style={{paddingTop: '15px'}}>
         <div className="column is-12 ">
-          <h1 className="top" style={{color: '#DB4C77'}}>
+          <h1
+            className="sub"
+            style={{paddingBottom: '25px', fontSize: 'X-large'}}>
             Top Picks This Week, &nbsp;
             <span>{post.frontmatter.date}</span>
           </h1>
@@ -37,21 +39,21 @@ class PickRoll extends React.Component {
                 post.frontmatter.featuredimages.map(i => {
                   return (
                     <div className="is-parent column " key={i.link}>
-                      <article
-                        key={i.link}
-                        style={{
-                          textAlign: 'center',
-                          backgroundColor: 'pink',
-                          borderRadius: '10px',
-                          padding: '15px',
-                          border: '1px solid  #FF7500',
-                        }}>
-                        <figure className="image ">
-                          <a href={`https://${i.link}`} target="_blank">
+                      <a href={`https://${i.link}`} target="_blank">
+                        <article
+                          key={i.link}
+                          style={{
+                            textAlign: 'center',
+                            backgroundColor: 'pink',
+                            borderRadius: '10px',
+                            padding: '15px',
+                            border: '1px solid  #FF7500',
+                          }}>
+                          <figure className="image ">
                             <img src={i.image.childImageSharp.fluid.src} />
-                          </a>
-                        </figure>
-                      </article>
+                          </figure>
+                        </article>
+                      </a>
                     </div>
                   );
                 })}

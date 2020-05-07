@@ -5,6 +5,7 @@
   "author": "Hadi Rickit",
   "dependencies": {
     "bulma": "^0.8.0",
+    "embla-carousel": "^2.9.1",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
     "gatsby-plugin-netlify": "^2.0.6",
@@ -27,6 +28,7 @@
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.0",
     "react": "^16.8.4",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
     "react-html-parser": "^2.0.2",

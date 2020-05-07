@@ -12,7 +12,7 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.slice(0, 6).map(({node: post}) => (
-            <div className="is-parent column is-4 show">
+            <div className="is-parent column is-6 show">
               <div
                 style={{
                   padding: '15px',

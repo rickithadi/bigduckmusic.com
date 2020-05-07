@@ -33,7 +33,7 @@ export const IndexPageTemplate = ({
       <div className="hero-body">
         <div className="container">
           <h1 className="top" style={{color: '#10559A'}}>
-            Latest Stories
+            Latest Gigs
           </h1>
 
           <BlogRoll />
