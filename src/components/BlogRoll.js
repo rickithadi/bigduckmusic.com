@@ -11,7 +11,7 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({node: post}) => (
+          posts.slice(0, 6).map(({node: post}) => (
             <div className="is-parent column is-4 show">
               <div
                 style={{
