@@ -1,14 +1,14 @@
 import React from 'react';
 
 import Layout from '../../components/Layout';
-//import FeatureRoll from '../../components/FeatureRoll';
+import BlogRoll from '../../components/BlogRoll';
 
-export default class FeaturesIndexPage extends React.Component {
+export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
         <div
-          className="full-width-image-container"
+          className="full-width-image-container "
           style={{
             opacity: '0.8',
             backgroundColor: 'pink',
@@ -22,19 +22,16 @@ export default class FeaturesIndexPage extends React.Component {
                 color: 'white',
                 padding: '1rem',
               }}>
-              Big Duck Features
+              Big Duck Blog
+              <hr
+                style={{
+                  height: '0.1em',
+                  color: 'yellow',
+                  background: 'yellow',
+                  border: 'none',
+                }}
+              />
             </h1>
-            <hr
-              style={{
-                textAlign: 'center',
-                height: '0.1em',
-                align: 'center',
-                color: 'yellow',
-                background: 'yellow',
-                border: 'none',
-              }}
-            />
-
             <p
               style={{
                 boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
@@ -42,13 +39,15 @@ export default class FeaturesIndexPage extends React.Component {
                 color: 'black',
                 padding: '1rem',
               }}>
-              Feature me daddy Isaac{' '}
+              Talk Cock sing song
             </p>
           </div>
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">nope</div>
+            <div className="content">
+              <BlogRoll />
+            </div>
           </div>
         </section>
       </Layout>
