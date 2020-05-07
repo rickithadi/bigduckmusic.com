@@ -27,6 +27,14 @@ class BlogRoll extends React.Component {
                     post.frontmatter.featuredpost ? 'is-featured ' : ''
                   }`}>
                   <header>
+                    <div className="media-right">
+                      {post.frontmatter.isReview && (
+                        <span class="tag is-success">Review</span>
+                      )}
+                      {post.frontmatter.featuredpost ? (
+                        <span class="tag is-warning">Featured</span>
+                      ) : null}
+                    </div>
                     {post.frontmatter.featuredimage ? (
                       <div className="featured-thumbnail">
                         <PreviewCompatibleImage
@@ -37,19 +45,12 @@ class BlogRoll extends React.Component {
                         />
                       </div>
                     ) : null}
-                    <p className="post-meta">
-                      <Link
-                        className="title is-size-4"
-                        style={{
-                          color: '#FF7500',
-                        }}
-                        to={post.fields.slug}>
-                        {post.frontmatter.title}
-                        {post.frontmatter.isReview ? (
-                          <div className="head">
-                            <h1>this is a review</h1>
-                          </div>
-                        ) : null}
+                    <p
+                      style={{
+                        color: '#FF7500 !important',
+                      }}>
+                      <Link className="is-size-4 sub" to={post.fields.slug}>
+                        <h1 className="sub">{post.frontmatter.title}</h1>
                       </Link>
                       <span> &bull; </span>
                       <span className="subtitle is-size-9 is-block">
@@ -102,6 +103,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
+                isReview
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {

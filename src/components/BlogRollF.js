@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
-class BlogRoll extends React.Component {
+class BlogRollF extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
@@ -12,7 +12,8 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({node: post}) => {
-            if (!post.isReview) {
+            if (post.isReview=false) {
+              console.log(post);
               return (
                 <div className="is-parent column is-6 show">
                   <div
@@ -39,15 +40,18 @@ class BlogRoll extends React.Component {
                             />
                           </div>
                         ) : null}
-                        <p className="post-meta">
-                          <Link
-                            className="title is-size-4"
-                            style={{
-                              color: '#FF7500',
-                            }}
-                            to={post.fields.slug}>
-                            {post.frontmatter.title}
+
+                        <p>
+                          <Link className="is-size-4 sub" to={post.fields.slug}>
+                            <h1
+                              className="top"
+                              style={{
+                                color: '#FF7500 !important',
+                              }}>
+                              {post.frontmatter.title}
+                            </h1>
                           </Link>
+
                           <span> &bull; </span>
                           <span className="subtitle is-size-9 is-block">
                             {post.frontmatter.date}
@@ -61,6 +65,14 @@ class BlogRoll extends React.Component {
                         <Link className="button" to={post.fields.slug}>
                           Keep Reading →
                         </Link>
+                        <div class="media-right">
+                          {post.isReview ? (
+                            <span class="tag is-success">Review</span>
+                          ) : null}
+                          {post.frontmatter.featuredpost ? (
+                            <span class="tag is-warning">Featured</span>
+                          ) : null}
+                        </div>
                       </p>
                     </article>
                   </div>
@@ -73,7 +85,7 @@ class BlogRoll extends React.Component {
   }
 }
 
-BlogRoll.propTypes = {
+BlogRollF.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -101,6 +113,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
+                isReview
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {
@@ -114,6 +127,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <BlogRollF data={data} count={count} />}
   />
 );
