@@ -54,22 +54,22 @@ class BlogRoll extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
-                      <div className="columns">
+                    <div className="columns">
                       <div className="column">
-                    <Link className="button" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                    </div>
+                        <Link className="button" to={post.fields.slug}>
+                          Keep Reading →
+                        </Link>
+                      </div>
                       <div className="column">
-                    <div class="media-right">
-                      {post.frontmatter.isReview ? (
-                        <span class="tag is-success">Review</span>
-                      ) : null}
-                      {post.frontmatter.featuredpost ? (
-                        <span class="tag is-warning">Featured</span>
-                      ) : null}
-                    </div>
-                    </div>
+                        <div class="media-right" style={{padding: '15px'}}>
+                          {post.frontmatter.isReview ? (
+                            <span class="tag is-success">Review</span>
+                          ) : null}
+                          {post.frontmatter.featuredpost ? (
+                            <span class="tag is-warning">Featured</span>
+                          ) : null}
+                        </div>
+                      </div>
                     </div>
                   </p>
                 </article>
