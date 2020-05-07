@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
+import logo from '../img/Big Duck_Transparent.png';
 import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRoll from '../components/BlogRoll';
@@ -14,62 +15,32 @@ export const IndexPageTemplate = ({
   description,
 }) => (
   <div style={{backgroundColor: '#10559A'}}>
-    <section style={{height: '100vh', paddingTop: '10%'}}>
+    <section style={{height: '100vh', paddingTop: '5%'}}>
       <div className="container centered ">
-        <h1 className="head">{title}</h1>
+        <figure className="sub" style={{bottom: '5'}}>
+          <img src={logo} style={{height: '50vh', width: '50vh'}} />
+        </figure>
       </div>
-    </section>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title" style={{color: '#DB4C77'}}>
-                      {mainpitch.title}
-                    </h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest Blog Posts
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+
+      <div className="container centered " style={{padding: '5%'}}>
+        <h1 className="head">{title}</h1>
+        <p className="sub">{subheading}</p>
       </div>
     </section>
     <section
       className="hero is-info is-large"
       style={{backgroundColor: 'pink'}}>
       <div className="hero-body">
-        <div className="container" style={{height: '40vh'}}>
-          <h1 className="title">Medium title</h1>
-          <h2 className="subtitle">Medium subtitle</h2>
+        <div className="container">
+          <h1 className="top" style={{color: '#10559A'}}>
+            Latest stories
+          </h1>
+
+          <BlogRoll />
         </div>
       </div>
     </section>
+
     <PickRoll />
   </div>
 );

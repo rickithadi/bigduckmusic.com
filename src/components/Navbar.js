@@ -48,7 +48,7 @@ const Navbar = class extends React.Component {
               </h1>
               <img
                 src={logo}
-                alt="Kaldi"
+                alt="big duck"
                 style={{height: '95px', width: '50px', color: 'orange'}}
               />
             </Link>
