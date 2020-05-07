@@ -1,19 +1,18 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Big Duck
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Who are we
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Big Duck is a passionate collective of music enthusiasts and gig promoters, proud to celebrate all things good about music and their live experiences! Beginning our journey in mid-2019 with Naybeats, we have since followed with a series of fully-packed gigs, featuring carefully curated lineups with artists and arrangements both unorthodox and varied. Always seeking to bring an eclectic mix of both well-loved scene veterans and fresh up-and-comers with potential; we deliver high energy and exciting shows, where every event is an unforgettable experience for our audiences (and artists as well!).
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### What is This
+
+Over time, we felt that this passion didn’t have to be one that stopped at shows - so here at our site, we have built another space to celebrate our music in its different forms. We’ll highlight the tunes and bands our team is passionate about, talk to artists about the music that inspires them and their journeys, give our opinions on the latest releases and entertain you with our columns and everything that lay in between. We look forward to highlight all interesting music across all that genres that lay between! 
+
+### Our Aim
+
+Our aim, in particular, is to create a platform available for smaller, aspiring artists - whose sounds don't necessarily exist within the confines of pop contexts and conventional performances. We want Big Duck to be a space for everyone to feel comfortable in expressing themselves in any way - through dress, dance or however else they may wish!
