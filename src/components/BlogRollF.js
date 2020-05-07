@@ -12,7 +12,7 @@ class BlogRollF extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({node: post}) => {
-            if (post.isReview=false) {
+            if (!post.frontmatter.isReview) {
               console.log(post);
               return (
                 <div className="is-parent column is-6 show">
@@ -66,7 +66,7 @@ class BlogRollF extends React.Component {
                           Keep Reading →
                         </Link>
                         <div class="media-right">
-                          {post.isReview ? (
+                          {post.frontmatter.isReview ? (
                             <span class="tag is-success">Review</span>
                           ) : null}
                           {post.frontmatter.featuredpost ? (
