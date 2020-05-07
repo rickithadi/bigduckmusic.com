@@ -16,7 +16,7 @@ class BlogRoll extends React.Component {
               <div
                 style={{
                   padding: '15px',
-                  backgroundColor: ' #A3B7DA',
+                  backgroundColor: ' #F9C6D7',
                   borderRadius: '10px',
                   border: '1px solid  #FF7500',
                 }}

@@ -14,46 +14,50 @@ export const IndexPageTemplate = ({
   description,
 }) => (
   <div style={{backgroundColor: '#10559A'}}>
-    <div className="container centered" style={{paddingTop: '50px'}}>
-      <div
-        className="is-three-quarters noisy"
-        style={{
-          backgroundColor: ' #3CA2C8',
-          borderRadius: '10px',
-          height: '100%',
-          textAlign: 'center',
-          padding: '15px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          flexDirection: 'column',
-        }}>
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head title-is-1"
+    <section style={{height: '100vh', paddingTop: '10%'}}>
+      <div className="container centered ">
+        <div
+          className="column is-vcentered"
           style={{
-            color: '#10559A',
-            fontStyle: 'oblique',
-            textTransform: 'uppercase',
+            backgroundColor: ' #3CA2C8',
+            border: '1px solid  #FF7500',
             borderRadius: '10px',
-
+            textAlign: 'center',
+            alignItems: 'center',
+            width: '50%',
             padding: '15px',
-            textDecoration: 'underline',
-            textAlign: 'center',
             lineHeight: '1',
+            justifyContent: 'space-around',
+            flexDirection: 'column',
           }}>
-          {title}
-        </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen sub"
-          style={{
-            textAlign: 'center',
-            borderRadius: '10px',
-            lineHeight: '1',
-            color: '#5C7C80',
-          }}>
-          {subheading}
-        </h3>
+          <h1
+            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head title-is-1"
+            style={{
+              color: '#10559A',
+              fontStyle: 'oblique',
+              textTransform: 'uppercase',
+              borderRadius: '10px',
+
+              padding: '15px',
+              textDecoration: 'underline',
+              textAlign: 'center',
+              lineHeight: '1',
+            }}>
+            {title}
+          </h1>
+          <h3
+            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen sub"
+            style={{
+              textAlign: 'center',
+              borderRadius: '10px',
+              lineHeight: '1',
+              color: '#5C7C80',
+            }}>
+            {subheading}
+          </h3>
+        </div>
       </div>
-    </div>
+    </section>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -95,7 +99,16 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
-
+    <section
+      className="hero is-info is-large"
+      style={{backgroundColor: 'pink'}}>
+      <div className="hero-body">
+        <div className="container" style={{height: '40vh'}}>
+          <h1 className="title">Medium title</h1>
+          <h2 className="subtitle">Medium subtitle</h2>
+        </div>
+      </div>
+    </section>
     <PickRoll />
   </div>
 );
