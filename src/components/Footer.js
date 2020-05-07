@@ -62,14 +62,6 @@ const Footer = class extends React.Component {
                     <li>
                       <Link
                         className="navbar-item"
-                        to="/blog"
-                        style={{color: 'black'}}>
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        className="navbar-item"
                         to="/contact"
                         style={{color: 'black'}}>
                         Contact
@@ -99,11 +91,11 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-          <div className="content has-text-centered"
-        style={{
-          color: '#10559A',
-        }}>
- 
+        <div
+          className="content has-text-centered"
+          style={{
+            color: '#10559A',
+          }}>
           <p> Big Duck Pte Ltd &copy; 2020 - All Rights Reserved</p>
         </div>
       </footer>

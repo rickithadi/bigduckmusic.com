@@ -9,38 +9,27 @@ export default class gigIndexPage extends React.Component {
       <Layout>
         <div
           className="full-width-image-container "
-          style={{
-            opacity: '0.8',
-            backgroundColor: 'pink',
-          }}>
-          <div className="text-center" style={{textAlign: 'center'}}>
+          style={{backgroundColor: '#10559A'}}>
+          <div
+            className="text-center"
+            style={{textAlign: 'center'}}
+            style={{
+              backgroundColor: 'pink',
+              boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
+              borderRadius: '10px',
+            }}>
             <h1
-              className="has-text-weight-bold is-size-1"
+              className="has-text-weight-bold is-size-1 head"
               style={{
-                boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
-                backgroundColor: 'pink',
-                color: 'white',
+                color: '#10559A',
+                textDecoration: 'none',
                 padding: '1rem',
               }}>
-              Big Duck gig
-              <hr
-                style={{
-                  height: '0.1em',
-                  color: 'yellow',
-                  background: 'yellow',
-                  border: 'none',
-                }}
-              />
+              Big Duck Gigs
             </h1>
-            <p
-              style={{
-                boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
-                backgroundColor: 'pink',
-                color: 'black',
-                padding: '1rem',
-              }}>
-              Talk Cock sing song
-            </p>
+            <h2 className="top" style={{color: 'orange'}}>
+              Our Main Events! And all our previous ones…
+            </h2>
           </div>
         </div>
         <section className="section">

@@ -1,10 +1,10 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from 'react';
+import PropTypes from 'prop-types';
+import {kebabCase} from 'lodash';
+import Helmet from 'react-helmet';
+import {graphql, Link} from 'gatsby';
+import Layout from '../components/Layout';
+import Content, {HTMLContent} from '../components/Content';
 
 export const gigPostTemplate = ({
   content,
@@ -14,7 +14,7 @@ export const gigPostTemplate = ({
   title,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -28,7 +28,7 @@ export const gigPostTemplate = ({
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
+              <div style={{marginTop: `4rem`}}>
                 <h4>Tags</h4>
                 <ul className="taglist">
                   {tags.map(tag => (
@@ -43,8 +43,8 @@ export const gigPostTemplate = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 gigPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -52,10 +52,10 @@ gigPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-}
+};
 
-const gigPost = ({ data }) => {
-  const { markdownRemark: post } = data
+const gigPost = ({data}) => {
+  const {markdownRemark: post} = data;
 
   return (
     <Layout>
@@ -76,20 +76,20 @@ const gigPost = ({ data }) => {
         title={post.frontmatter.title}
       />
     </Layout>
-  )
-}
+  );
+};
 
 gigPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
-export default gigPost
+export default gigPost;
 
 export const pageQuery = graphql`
   query gigPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(id: {eq: $id}) {
       id
       html
       frontmatter {
@@ -100,4 +100,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

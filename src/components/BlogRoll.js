@@ -16,7 +16,7 @@ class BlogRoll extends React.Component {
               <div
                 style={{
                   padding: '15px',
-                  backgroundColor: ' #10559A',
+                  backgroundColor: 'pink',
                   borderRadius: '10px',
                   border: '1px solid  #FF7500',
                 }}
@@ -42,9 +42,8 @@ class BlogRoll extends React.Component {
                         color: '#FF7500 !important',
                       }}>
                       <Link className="is-size-4 sub" to={post.fields.slug}>
-                        <h1 className="sub">{post.frontmatter.title}</h1>
+                        <h1 className="othersub">{post.frontmatter.title}</h1>
                       </Link>
-                      <span> &bull; </span>
                       <span className="subtitle is-size-9 is-block">
                         {post.frontmatter.date}
                       </span>

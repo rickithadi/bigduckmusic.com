@@ -17,15 +17,15 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section" style={{backgroundColor: '#1A2F5C'}}>
+    <section className="section">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1 noisy">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light ">
+          <div className="column is-10 is-offset-1 noisy" >
+            <h1 className="top" style={{color: 'orange'}}>
               {title}
             </h1>
-            <p>{description}</p>
+              <div style={{backgroundColor:'pink'}}>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{marginTop: `4rem`}}>
@@ -41,6 +41,7 @@ export const BlogPostTemplate = ({
             ) : null}
           </div>
         </div>
+              </div>
       </div>
     </section>
   );

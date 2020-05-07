@@ -1,23 +1,28 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+import React from 'react';
+import PropTypes from 'prop-types';
+import {Link, graphql, StaticQuery} from 'gatsby';
+import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 class GigRoll extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const {data} = this.props;
+    const {edges: posts} = data.allMarkdownRemark;
 
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.map(({node: post}) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
-                className={`gig-list-item tile is-child box notification ${
+                style={{
+                  backgroundColor: 'pink',
+                  borderRadius: '10px',
+
+                  border: '1px solid  #FF7500',
+                }}
+                className={`gig-list-item tile is-child box ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
-              >
+                }`}>
                 <header>
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
@@ -29,18 +34,14 @@ class GigRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
+                  <Link className="title is-size-4" to={post.fields.slug}>
+                    <h1 className="othersub" >
                       {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
+                    </h1>
+                  </Link>
+                  <span className="subtitle is-size-5 is-block">
+                    {post.frontmatter.date}
+                  </span>
                 </header>
                 <p>
                   {post.excerpt}
@@ -54,7 +55,7 @@ class GigRoll extends React.Component {
             </div>
           ))}
       </div>
-    )
+    );
   }
 }
 
@@ -64,15 +65,15 @@ GigRoll.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-}
+};
 
 export default () => (
   <StaticQuery
     query={graphql`
       query GigRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "gig-post" } } }
+          sort: {order: DESC, fields: [frontmatter___date]}
+          filter: {frontmatter: {templateKey: {eq: "gig-post"}}}
         ) {
           edges {
             node {
@@ -101,4 +102,4 @@ export default () => (
     `}
     render={(data, count) => <GigRoll data={data} count={count} />}
   />
-)
+);
