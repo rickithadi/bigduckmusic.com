@@ -24,7 +24,7 @@ class PickRoll extends React.Component {
     const {edges: posts} = data.allMarkdownRemark;
     const {node: post} = posts[0];
     return (
-      <div className="container centered" style={{paddingTop: '15px'}}>
+      <div className="container centered" style={{paddingTop: '15px',minHeight:'100%',height:'100vh'}}>
         <div className="column is-12 ">
           <h1
             className="sub"

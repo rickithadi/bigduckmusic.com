@@ -31,6 +31,12 @@ export const IndexPageTemplate = ({
     <section
       className="hero is-info is-large"
       style={{backgroundColor: 'pink'}}>
+      <div className="columns" style={{textAlign: 'center',color:'#10559A',padding:'15px'}}>
+        <div className="column head">Shows</div>
+        <div className="column head">Music</div>
+        <div className="column head">Community</div>
+      </div>
+
       <div className="hero-body">
         <div className="container">
           <h1 className="top" style={{color: '#10559A'}}>

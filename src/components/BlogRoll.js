@@ -27,14 +27,6 @@ class BlogRoll extends React.Component {
                     post.frontmatter.featuredpost ? 'is-featured ' : ''
                   }`}>
                   <header>
-                    <div className="media-right">
-                      {post.frontmatter.isReview && (
-                        <span class="tag is-success">Review</span>
-                      )}
-                      {post.frontmatter.featuredpost ? (
-                        <span class="tag is-warning">Featured</span>
-                      ) : null}
-                    </div>
                     {post.frontmatter.featuredimage ? (
                       <div className="featured-thumbnail">
                         <PreviewCompatibleImage
@@ -62,9 +54,23 @@ class BlogRoll extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
+                      <div className="columns">
+                      <div className="column">
                     <Link className="button" to={post.fields.slug}>
                       Keep Reading →
                     </Link>
+                    </div>
+                      <div className="column">
+                    <div class="media-right">
+                      {post.frontmatter.isReview ? (
+                        <span class="tag is-success">Review</span>
+                      ) : null}
+                      {post.frontmatter.featuredpost ? (
+                        <span class="tag is-warning">Featured</span>
+                      ) : null}
+                    </div>
+                    </div>
+                    </div>
                   </p>
                 </article>
               </div>

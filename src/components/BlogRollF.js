@@ -11,7 +11,8 @@ class BlogRollF extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({node: post}) => {
+          //posts.map(({node: post}) => {
+          posts.slice(0, 6).map(({node: post}) => {
             if (!post.frontmatter.isReview) {
               console.log(post);
               return (
@@ -62,16 +63,22 @@ class BlogRollF extends React.Component {
                         {post.excerpt}
                         <br />
                         <br />
-                        <Link className="button" to={post.fields.slug}>
-                          Keep Reading →
-                        </Link>
-                        <div class="media-right">
-                          {post.frontmatter.isReview ? (
-                            <span class="tag is-success">Review</span>
-                          ) : null}
-                          {post.frontmatter.featuredpost ? (
-                            <span class="tag is-warning">Featured</span>
-                          ) : null}
+                        <div className="columns">
+                          <div className="column">
+                            <Link className="button" to={post.fields.slug}>
+                              Keep Reading →
+                            </Link>
+                          </div>
+                          <div className="column">
+                            <div class="media-right">
+                              {post.frontmatter.isReview ? (
+                                <span class="tag is-success">Review</span>
+                              ) : null}
+                              {post.frontmatter.featuredpost ? (
+                                <span class="tag is-warning">Featured</span>
+                              ) : null}
+                            </div>
+                          </div>
                         </div>
                       </p>
                     </article>
