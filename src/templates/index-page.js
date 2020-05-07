@@ -6,6 +6,7 @@ import logo from '../img/Big Duck_Transparent.png';
 import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRoll from '../components/BlogRoll';
+import BlogRollF from '../components/BlogRollF';
 
 export const IndexPageTemplate = ({
   title,
@@ -33,10 +34,10 @@ export const IndexPageTemplate = ({
       <div className="hero-body">
         <div className="container">
           <h1 className="top" style={{color: '#10559A'}}>
-            Latest Gigs
+            Latest Features
           </h1>
 
-          <BlogRoll />
+          <BlogRollF />
         </div>
       </div>
     </section>
