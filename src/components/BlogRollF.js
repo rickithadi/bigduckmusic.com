@@ -44,16 +44,9 @@ class BlogRollF extends React.Component {
 
                         <p>
                           <Link className="is-size-4 sub" to={post.fields.slug}>
-                            <h1
-                              className="top"
-                              style={{
-                                color: '#FF7500 !important',
-                              }}>
-                              {post.frontmatter.title}
-                            </h1>
+                            <h1 className="top">{post.frontmatter.title}</h1>
                           </Link>
 
-                          <span> &bull; </span>
                           <span className="subtitle is-size-9 is-block">
                             {post.frontmatter.date}
                           </span>

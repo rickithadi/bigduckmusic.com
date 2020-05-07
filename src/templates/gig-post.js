@@ -6,7 +6,7 @@ import {graphql, Link} from 'gatsby';
 import Layout from '../components/Layout';
 import Content, {HTMLContent} from '../components/Content';
 
-export const gigPostTemplate = ({
+export const GigPostTemplate = ({
   content,
   contentComponent,
   description,
@@ -46,7 +46,7 @@ export const gigPostTemplate = ({
   );
 };
 
-gigPostTemplate.propTypes = {
+GigPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
@@ -54,12 +54,12 @@ gigPostTemplate.propTypes = {
   helmet: PropTypes.object,
 };
 
-const gigPost = ({data}) => {
+const GigPost = ({data}) => {
   const {markdownRemark: post} = data;
-
+  console.log(post);
   return (
     <Layout>
-      <gigPostTemplate
+      <GigPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -79,16 +79,16 @@ const gigPost = ({data}) => {
   );
 };
 
-gigPost.propTypes = {
+GigPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 };
 
-export default gigPost;
+export default GigPost;
 
 export const pageQuery = graphql`
-  query gigPostByID($id: String!) {
+  query GigPostByID($id: String!) {
     markdownRemark(id: {eq: $id}) {
       id
       html
