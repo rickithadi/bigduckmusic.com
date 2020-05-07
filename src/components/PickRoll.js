@@ -25,19 +25,19 @@ class PickRoll extends React.Component {
     const {node: post} = posts[0];
     return (
       <div className="container centered" style={{paddingTop: '50px'}}>
-        <div className="is-parent column is-12 ">
+        <div className="column is-12 ">
           <h1 className="top" style={{color: '#DB4C77'}}>
             Top Picks This Week, &nbsp;
             <span>{post.frontmatter.date}</span>
           </h1>
 
           <div key={post.id}>
-            <div className="columns">
+            <div className="columns is-multiline ">
               {post.frontmatter.featuredimages &&
                 post.frontmatter.featuredimages.map(i => {
                   return (
-                    <div className="is-parent  tile column " key={i.link}>
-                      <div
+                    <div className="is-parent column " key={i.link}>
+                      <article
                         key={i.link}
                         style={{
                           textAlign: 'center',
@@ -51,7 +51,7 @@ class PickRoll extends React.Component {
                             <img src={i.image.childImageSharp.fluid.src} />
                           </a>
                         </figure>
-                      </div>
+                      </article>
                     </div>
                   );
                 })}
