@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {Link, graphql, StaticQuery} from 'gatsby';
-import PreviewCompatibleImage from './PreviewCompatibleImage'; 
+import PreviewCompatibleImage from './PreviewCompatibleImage';
 class BlogRoll extends React.Component {
   render() {
     const {data} = this.props;
@@ -10,7 +10,8 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.slice(0, 6).map(({node: post}) => (
+          //posts.slice(0, 6).map(({node: post}) => (
+          posts.map(({node: post}) => (
             <div className="is-parent column is-6 show">
               <div
                 style={{
@@ -44,6 +45,11 @@ class BlogRoll extends React.Component {
                         }}
                         to={post.fields.slug}>
                         {post.frontmatter.title}
+                        {post.frontmatter.isReview ? (
+                          <div className="head">
+                            <h1>this is a review</h1>
+                          </div>
+                        ) : null}
                       </Link>
                       <span> &bull; </span>
                       <span className="subtitle is-size-9 is-block">
