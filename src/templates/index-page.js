@@ -16,46 +16,7 @@ export const IndexPageTemplate = ({
   <div style={{backgroundColor: '#10559A'}}>
     <section style={{height: '100vh', paddingTop: '10%'}}>
       <div className="container centered ">
-        <div
-          className="column is-vcentered"
-          style={{
-            backgroundColor: ' #3CA2C8',
-            border: '1px solid  #FF7500',
-            borderRadius: '10px',
-            textAlign: 'center',
-            alignItems: 'center',
-            width: '50%',
-            padding: '15px',
-            lineHeight: '1',
-            justifyContent: 'space-around',
-            flexDirection: 'column',
-          }}>
-          <h1
-            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen head title-is-1"
-            style={{
-              color: '#10559A',
-              fontStyle: 'oblique',
-              textTransform: 'uppercase',
-              borderRadius: '10px',
-
-              padding: '15px',
-              textDecoration: 'underline',
-              textAlign: 'center',
-              lineHeight: '1',
-            }}>
-            {title}
-          </h1>
-          <h3
-            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen sub"
-            style={{
-              textAlign: 'center',
-              borderRadius: '10px',
-              lineHeight: '1',
-              color: '#5C7C80',
-            }}>
-            {subheading}
-          </h3>
-        </div>
+        <h1 className="head">{title}</h1>
       </div>
     </section>
     <section className="section section--gradient">
