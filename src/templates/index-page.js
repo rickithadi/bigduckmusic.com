@@ -15,31 +15,33 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
 }) => (
-  <div style={{backgroundColor: '#10559A'}}>
-    <section style={{height: '100vh', paddingTop: '5%'}}>
-      <div className="container centered ">
-        <figure className="sub" style={{bottom: '5'}}>
-          <img src={logo} style={{height: '50vh', width: '50vh'}} />
-        </figure>
-      </div>
-
-      <div className="container centered " style={{padding: '5%'}}>
-        <h1 className="head">{title}</h1>
-        <p className="sub">{subheading}</p>
+  <div style={{backgroundColor: '#18305e'}}>
+    <section style={{paddingTop: '3%'}}>
+      <div className="full-width-image-container " style={{height: '20%'}}>
+        <div
+          className="text-center"
+          style={{textAlign: 'center'}}
+          style={{
+            backgroundColor: '#a3b6de',
+            padding: '20px',
+            boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
+            borderRadius: '10px',
+          }}>
+          <h1 className="head">{title}</h1>
+          <p className="sub">{subheading}</p>
+        </div>
       </div>
     </section>
     <section
       className="hero is-info is-large"
-      style={{backgroundColor: 'pink'}}>
-      <div className="columns" style={{textAlign: 'center',color:'#10559A',padding:'15px'}}>
-        <div className="column head">Shows</div>
-        <div className="column head">Music</div>
-        <div className="column head">Community</div>
-      </div>
-
+      style={{backgroundColor: '#18305e'}}>
       <div className="hero-body">
         <div className="container">
-          <h1 className="top" style={{color: '#10559A'}}>
+          <h1
+            className="top"
+            style={{
+              color: '#f77805 !important',
+            }}>
             Latest Features
           </h1>
 
@@ -53,15 +55,8 @@ export const IndexPageTemplate = ({
 );
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
 };
 
 const IndexPage = ({data}) => {
@@ -70,13 +65,8 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
       />
     </Layout>
   );

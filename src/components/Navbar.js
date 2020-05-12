@@ -38,7 +38,7 @@ const Navbar = class extends React.Component {
       <nav
         className="navbar is-transparent"
         role="navigation"
-        style={{backgroundColor: '#F9C6D7'}}
+        style={{backgroundColor: '#bc9cce'}}
         aria-label="main-navigation">
         <div className="container">
           <div className="navbar-brand">
@@ -63,7 +63,7 @@ const Navbar = class extends React.Component {
             </div>
           </div>
           <div
-            style={{backgroundColor: '#F9C6D7'}}
+            style={{backgroundColor: '#bc9cce'}}
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">

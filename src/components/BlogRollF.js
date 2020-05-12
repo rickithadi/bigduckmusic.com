@@ -20,9 +20,8 @@ class BlogRollF extends React.Component {
                   <div
                     style={{
                       padding: '15px',
-                      backgroundColor: ' #10559A',
+                      backgroundColor: ' #a3b6de',
                       borderRadius: '10px',
-                      border: '1px solid  #FF7500',
                     }}
                     key={post.id}>
                     <article
@@ -52,7 +51,7 @@ class BlogRollF extends React.Component {
                           </span>
                         </p>
                       </header>
-                      <p>
+                      <p style={{color:'#18305e'}}>
                         {post.excerpt}
                         <br />
                         <br />
