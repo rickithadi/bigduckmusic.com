@@ -30,6 +30,16 @@ class BlogRollF extends React.Component {
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
                       <header>
+               <p style={{textAlign:'left'}}>
+                          <Link className="is-size-4 sub" to={post.fields.slug}>
+                            <h1 className="top">{post.frontmatter.title}</h1>
+                          </Link>
+
+                          <span className="subtitle is-size-9 is-block">
+                            {post.frontmatter.date}
+                          </span>
+                        </p>
+          
                         {post.frontmatter.featuredimage ? (
                           <div className="featured-thumbnail">
                             <PreviewCompatibleImage
@@ -41,16 +51,7 @@ class BlogRollF extends React.Component {
                           </div>
                         ) : null}
 
-                        <p>
-                          <Link className="is-size-4 sub" to={post.fields.slug}>
-                            <h1 className="top">{post.frontmatter.title}</h1>
-                          </Link>
-
-                          <span className="subtitle is-size-9 is-block">
-                            {post.frontmatter.date}
-                          </span>
-                        </p>
-                      </header>
+                     </header>
                       <p style={{color:'#18305e'}}>
                         {post.excerpt}
                         <br />
