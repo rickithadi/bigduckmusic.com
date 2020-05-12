@@ -9,6 +9,7 @@ import Carousel from 'react-bootstrap/Carousel';
 
 export const GigPostTemplate = ({
   content,
+  CarouselPics,
   contentComponent,
   description,
   tags,
@@ -27,6 +28,15 @@ export const GigPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            {CarouselPics && (
+              <Carousel>
+                {CarouselPics.map(i => (
+                  <Carousel.Item>
+                    <img src={i.image.childImageSharp.fluid.src} />
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            )}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{marginTop: `4rem`}}>
@@ -50,6 +60,7 @@ export const GigPostTemplate = ({
 GigPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
+  CarouselPics: PropTypes.object,
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -64,6 +75,7 @@ const GigPost = ({data}) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        CarouselPics={post.frontmatter.Carousel}
         helmet={
           <Helmet titleTemplate="%s | gig">
             <title>{`${post.frontmatter.title}`}</title>
@@ -76,11 +88,6 @@ const GigPost = ({data}) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
-      <Carousel>
-        <Carousel.Item>slide 1</Carousel.Item>
-        <Carousel.Item>slide 2</Carousel.Item>
-        <Carousel.Item>slide 3</Carousel.Item>
-      </Carousel>
     </Layout>
   );
 };
@@ -103,6 +110,15 @@ export const pageQuery = graphql`
         title
         description
         tags
+        Carousel {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 120, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
       }
     }
   }
