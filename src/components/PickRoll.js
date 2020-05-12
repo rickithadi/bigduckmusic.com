@@ -36,11 +36,11 @@ class PickRoll extends React.Component {
           </h1>
 
           <div key={post.id}>
-            <div className="columns is-multiline ">
+            <div className="columns is-multiline is-mobile">
               {post.frontmatter.featuredimages &&
                 post.frontmatter.featuredimages.map(i => {
                   return (
-                    <div className="is-parent column " key={i.link}>
+                    <div className="column is-4-mobile" key={i.link}>
                       <a href={`https://${i.link}`} target="_blank">
                         <article
                           key={i.link}
