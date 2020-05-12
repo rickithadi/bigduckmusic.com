@@ -26,20 +26,29 @@ class BlogRollF extends React.Component {
                     key={post.id}>
                     <article
                       //className={`blog-list-item tile is-child noisy is-warning ${
-                      className={`blog-list-item tile is-child noisy ${
+                      className={`blog-list-item tile is-child ${
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
                       <header>
-               <p style={{textAlign:'left'}}>
+                        <p style={{textAlign: 'left'}}>
                           <Link className="is-size-4 sub" to={post.fields.slug}>
-                            <h1 className="top">{post.frontmatter.title}</h1>
+                            <h1 style={{padding: '0px'}} className="top">
+                              {post.frontmatter.title}
+                            </h1>
                           </Link>
-
                           <span className="subtitle is-size-9 is-block">
                             {post.frontmatter.date}
                           </span>
                         </p>
-          
+                      </header>
+                      <div
+                        style={{
+                          height: '50%',
+                          width: '50%',
+                          justifyContent: 'center',
+                          alignItems: 'center',
+                        }}>
+                        {' '}
                         {post.frontmatter.featuredimage ? (
                           <div className="featured-thumbnail">
                             <PreviewCompatibleImage
@@ -50,9 +59,8 @@ class BlogRollF extends React.Component {
                             />
                           </div>
                         ) : null}
-
-                     </header>
-                      <p style={{color:'#18305e'}}>
+                      </div>
+                      <p style={{color: '#18305e'}}>
                         {post.excerpt}
                         <br />
                         <br />
