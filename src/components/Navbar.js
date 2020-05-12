@@ -89,7 +89,8 @@ const Navbar = class extends React.Component {
                 <span className="icon">
                   <a
                     title="facebook"
-                    href="https://www.facebook.com/pg/bigduckpteltd/">
+                    href="https://www.facebook.com/pg/bigduckpteltd/"
+                    target="_blank">
                     <img
                       src={facebook}
                       alt="Facebook"
@@ -100,7 +101,8 @@ const Navbar = class extends React.Component {
                 <span className="icon">
                   <a
                     title="instagram"
-                    href="https://instagram.com/bigduckpteltd">
+                    href="https://instagram.com/bigduckpteltd"
+                    target="_blank">
                     <img
                       src={instagram}
                       alt="Instagram"
