@@ -9,6 +9,7 @@ backend:
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
 media_folder: static/img
+local_backend: true
 site_url: https://bigduckmusic.com
 display_url: https://bigduckmusic.com
 logo_url: https://bigduckmusic.com/static/Big-Duck_Transparent-d2aba81174570b33c2dd317f346e5bf6.svg

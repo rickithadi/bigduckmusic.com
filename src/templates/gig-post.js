@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import {graphql, Link} from 'gatsby';
 import Layout from '../components/Layout';
 import Content, {HTMLContent} from '../components/Content';
+import Carousel from 'react-bootstrap/Carousel';
 
 export const GigPostTemplate = ({
   content,
@@ -75,6 +76,11 @@ const GigPost = ({data}) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
+      <Carousel>
+        <Carousel.Item>slide 1</Carousel.Item>
+        <Carousel.Item>slide 2</Carousel.Item>
+        <Carousel.Item>slide 3</Carousel.Item>
+      </Carousel>
     </Layout>
   );
 };
