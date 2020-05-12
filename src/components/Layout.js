@@ -2,6 +2,7 @@ import React from 'react';
 import {Helmet} from 'react-helmet';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './all.sass';
 import useSiteMetadata from './SiteMetadata';
 import {withPrefix} from 'gatsby';

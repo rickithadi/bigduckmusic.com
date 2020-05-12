@@ -54,6 +54,12 @@ collections:
       - {label: 'Featured Image', name: 'featuredimage', widget: 'image'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
+      - {
+          label: 'Carousel',
+          name: 'Carousel',
+          widget: 'list',
+          fields: [{label: 'image', name: 'image', widget: 'image'}],
+        }
 
   - name: 'picks'
     label: 'picks'
