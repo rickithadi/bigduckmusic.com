@@ -10,7 +10,7 @@ import SpotifyPlayer from 'react-spotify-player';
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  isReview,
+  review,
   spotify,
   tags,
   title,
@@ -20,40 +20,45 @@ export const BlogPostTemplate = ({
   console.log(PostContent);
 
   return (
-    <section className="section">
+    <section
+      className="section"
+      style={{
+        backgroundColor: '#10559A',
+      }}>
       {helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1 noisy">
-            <h1 className="top" style={{color: 'orange'}}>
+            <h1 className="top" style={{color: '#f77805'}}>
               {title}
             </h1>
             <div className="columns">
               <div className="column is-8" style={{backgroundColor: '#a3b6de'}}>
                 <PostContent content={content} />
+                {tags && tags.length ? (
+                  <div>
+                    <ul className="taglist">
+                      {tags.map(tag => (
+                        <li
+                          key={tag + `tag`}
+                          style={{backgroundColor: 'white'}}>
+                          <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : null}
               </div>
-              <div className="column">
+              <div className="column" style={{padding: '0px 0px 0px 5px'}}>
                 {spotify && (
                   <SpotifyPlayer
-                    uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+                    //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+                    uri={spotify}
                     size={{height: '100%', width: '100%'}}
                   />
                 )}
               </div>
             </div>
-
-            {tags && tags.length ? (
-              <div style={{marginTop: `4rem`}}>
-                <h4 className="top">Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
           </div>
         </div>
       </div>
@@ -68,7 +73,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   helmet: PropTypes.object,
   spotify: PropTypes.string,
-  isReview: PropTypes.bool,
+  review: PropTypes.bool,
 };
 
 const BlogPost = ({data}) => {
@@ -78,7 +83,7 @@ const BlogPost = ({data}) => {
     <Layout>
       <BlogPostTemplate
         content={post.html}
-        spotify={post.frontmatter.isReview}
+        review={post.frontmatter.isReview}
         spotify={post.frontmatter.spotify}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
