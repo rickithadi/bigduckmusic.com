@@ -28,7 +28,16 @@ export const IndexPageTemplate = ({
             borderRadius: '10px',
           }}>
           <h1 className="head">{title}</h1>
-          <p className="sub">{subheading}</p>
+          <p
+            className="sub"
+            style={{
+              textAlign: 'center !important',
+
+              alignItems: 'center',
+              justifyContent: 'center',
+            }}>
+            {subheading}
+          </p>
         </div>
       </div>
     </section>

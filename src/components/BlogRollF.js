@@ -42,15 +42,16 @@ class BlogRollF extends React.Component {
                         </p>
                       </header>
                       <div
-                        style={{
-                          height: '50%',
-                          width: '50%',
-                          justifyContent: 'center',
-                          alignItems: 'center',
-                        }}>
+                       className="container centered">
                         {' '}
                         {post.frontmatter.featuredimage ? (
-                          <div className="featured-thumbnail">
+                          <div
+                            className="featured-thumbnail"
+                            style={{
+                              justifyContent: 'center',
+                              textAlign: 'center !important',
+                              alignItems: 'center',
+                            }}>
                             <PreviewCompatibleImage
                               imageInfo={{
                                 image: post.frontmatter.featuredimage,
