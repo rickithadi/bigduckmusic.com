@@ -1,4 +1,5 @@
 import React from 'react';
+import SpotifyPlayer from 'react-spotify-player';
 
 import Layout from '../../components/Layout';
 import BlogRoll from '../../components/BlogRoll';
@@ -27,7 +28,9 @@ export default class BlogIndexPage extends React.Component {
               }}>
               Big Duck Features
             </h1>
-            <h2 className='top' style={{color:'orange'}}>Features, Reviews and Everything else Music!</h2>
+            <h2 className="top" style={{color: 'orange'}}>
+              Features, Reviews and Everything else Music!
+            </h2>
           </div>
         </div>
         <section className="section">

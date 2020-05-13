@@ -29,23 +29,17 @@ collections:
           default: 'blog-post',
         }
 
-      - label: 'Review'
-        name: 'review'
-        widget: object
-        fields:
-          - {label: Review, name: isReview, widget: boolean, default: false}
-          - {
-              label: url,
-              name: url,
-              widget: string,
-              required:false
-            }
-          - {label: Text, name: text, widget: text,required:false }
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Review', name: 'isReview', widget: 'boolean'}
-      - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
+      - {label: 'Review', name: 'isReview', widget: 'boolean', default: false}
+      - {label: 'Spotify link', name: 'spotify', widget: 'string'}
+      - {
+          label: 'Featured Post',
+          name: 'featuredpost',
+          widget: 'boolean',
+          default: false,
+        }
       - {label: 'Featured Image', name: 'featuredimage', widget: image}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
@@ -62,6 +56,7 @@ collections:
           default: 'gig-post',
         }
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Spotify link', name: 'spotify', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Description', name: 'description', widget: 'text'}
       - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
@@ -116,37 +111,6 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
-          - {
-              label: Shows,
-              name: shows,
-              widget: object,
-              fields:
-                [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
-                ],
-            }
-          - {
-              label: Music,
-              name: music,
-              widget: object,
-              fields:
-                [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
-                ],
-            }
-          - {
-              label: Community,
-              name: Community,
-              widget: object,
-              fields:
-                [
-                  {label: Title, name: title, widget: string},
-                  {label: Description, name: description, widget: text},
-                ],
-            }
-
       - file: 'src/pages/about/index.md'
         label: 'About'
         name: 'about'
