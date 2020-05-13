@@ -52,7 +52,7 @@ const TemplateWrapper = ({children}) => {
       <Navbar />
       <div
         style={{
-          backgroundColor: '#10559A',
+          backgroundColor: '#18305e',
           minHeight: '100vh',
         }}>
         {children}

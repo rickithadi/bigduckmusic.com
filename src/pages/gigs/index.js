@@ -1,5 +1,7 @@
 import React from 'react';
 
+//import * as pics from '../../img/carouPics';
+import logo from '../../img/social/facebook.svg';
 import Carousel from 'react-bootstrap/Carousel';
 import Layout from '../../components/Layout';
 import GigRoll from '../../components/GigRoll';
@@ -8,29 +10,24 @@ export default class gigIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <div
-          className="full-width-image-container "
-          style={{backgroundColor: '#10559A'}}>
+        <div className="full-width-image-container ">
           <div
             className="text-center"
             style={{textAlign: 'center'}}
             style={{
-              backgroundColor: 'pink',
-              boxShadow: '0.5rem 0 0 pink, -0.5rem 0 0 pink',
+              backgroundColor: '#a3b6de',
+              padding: '20px',
+              boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
               borderRadius: '10px',
             }}>
             <h1
-              className="has-text-weight-bold is-size-1 head"
+              className=" head"
               style={{
-                color: '#10559A',
-                textDecoration: 'none',
                 padding: '1rem',
               }}>
               Big Duck Gigs
             </h1>
-            <h2 className="top" style={{color: 'orange'}}>
-              Our Main Events! And all our previous ones…
-            </h2>
+            <p className="usb">Our Main Events! And all our previous ones…</p>
           </div>
         </div>
         <section className="section">

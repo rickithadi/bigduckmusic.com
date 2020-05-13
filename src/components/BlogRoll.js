@@ -38,7 +38,9 @@ class BlogRoll extends React.Component {
                         </span>
                       </p>
                     </div>
-                    <div className="column is-pulled-right">
+                    <div
+                      className="column is-pulled-right"
+                      style={{textAlign: 'right'}}>
                       {post.frontmatter.isReview ? (
                         <span class="tag is-success">Review</span>
                       ) : null}
