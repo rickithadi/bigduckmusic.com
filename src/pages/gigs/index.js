@@ -26,7 +26,7 @@ export default class gigIndexPage extends React.Component {
               </Carousel.Item>
             );
           })}
-          <div className="full-width-image-container ">
+          <div className="full-width-image-container">
             <div
               className="text-center"
               style={{textAlign: 'center'}}
