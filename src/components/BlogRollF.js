@@ -41,8 +41,7 @@ class BlogRollF extends React.Component {
                           </span>
                         </p>
                       </header>
-                      <div
-                       className="container centered">
+                      <div className="container centered">
                         {' '}
                         {post.frontmatter.featuredimage ? (
                           <div

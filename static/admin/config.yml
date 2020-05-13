@@ -28,10 +28,23 @@ collections:
           widget: 'hidden',
           default: 'blog-post',
         }
+
+      - label: 'Review'
+        name: 'review'
+        widget: object
+        fields:
+          - {label: Review, name: isReview, widget: boolean, default: false}
+          - {
+              label: url,
+              name: url,
+              widget: string,
+              required:false
+            }
+          - {label: Text, name: text, widget: text,required:false }
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'isReview', name: 'isReview', widget: 'boolean'}
+      - {label: 'Review', name: 'isReview', widget: 'boolean'}
       - {label: 'Featured Post', name: 'featuredpost', widget: 'boolean'}
       - {label: 'Featured Image', name: 'featuredimage', widget: image}
       - {label: 'Body', name: 'body', widget: 'markdown'}
