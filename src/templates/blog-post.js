@@ -33,7 +33,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <div className="columns">
-              <div className="column is-8" style={{backgroundColor: '#a3b6de'}}>
+              <div className="column is-8" style={{backgroundColor: '#a3b6de',minHeight:'100vh'}}>
                 <PostContent content={content} />
                 {tags && tags.length ? (
                   <div>
