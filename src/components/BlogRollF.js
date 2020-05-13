@@ -16,7 +16,9 @@ class BlogRollF extends React.Component {
             if (!post.frontmatter.isReview) {
               console.log(post);
               return (
-                <div className="is-parent column is-6 show">
+                <Link
+                  className="is-parent column is-6 show"
+                  to={post.fields.slug}>
                   <div
                     style={{
                       padding: '15px',
@@ -29,62 +31,58 @@ class BlogRollF extends React.Component {
                       className={`blog-list-item tile is-child ${
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
-                      <header>
-                        <p style={{textAlign: 'left'}}>
-                          <Link className="is-size-4 sub" to={post.fields.slug}>
-                            <h1 style={{padding: '0px'}} className="top">
-                              {post.frontmatter.title}
-                            </h1>
-                          </Link>
-                          <span className="subtitle is-size-9 is-block">
-                            {post.frontmatter.date}
-                          </span>
-                        </p>
-                      </header>
-                      <div className="container centered">
-                        {' '}
-                        {post.frontmatter.featuredimage ? (
-                          <div
-                            className="featured-thumbnail"
-                            style={{
-                              justifyContent: 'center',
-                              textAlign: 'center !important',
-                              alignItems: 'center',
-                            }}>
-                            <PreviewCompatibleImage
-                              imageInfo={{
-                                image: post.frontmatter.featuredimage,
-                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                              }}
-                            />
-                          </div>
-                        ) : null}
-                      </div>
-                      <p style={{color: '#18305e'}}>
-                        {post.excerpt}
-                        <br />
-                        <br />
-                        <div className="columns">
-                          <div className="column">
-                            <Link className="button" to={post.fields.slug}>
-                              Keep Reading →
+                      <div className="columns">
+                        <div className="column">
+                          <p style={{textAlign: 'left'}}>
+                            <Link
+                              className="is-size-4 sub"
+                              to={post.fields.slug}>
+                              <h1 style={{padding: '0px'}} className="top">
+                                {post.frontmatter.title}
+                              </h1>
                             </Link>
-                          </div>
-                          <div className="column">
-                            <div class="media-right">
-                              {post.frontmatter.isReview ? (
-                                <span class="tag is-success">Review</span>
-                              ) : null}
-                              {post.frontmatter.featuredpost ? (
-                                <span class="tag is-warning">Featured</span>
-                              ) : null}
-                            </div>
+                            <span className="subtitle is-size-9 is-block">
+                              {post.frontmatter.date}
+                            </span>
+                          </p>
+                        </div>
+                        <div className="column is-pulled-right" style={{textAlign:'right'}}>
+                            {post.frontmatter.isReview ? (
+                              <span class="tag is-success">Review</span>
+                            ) : null}
+                            {post.frontmatter.featuredpost ? (
+                              <span class="tag is-warning">Featured</span>
+                            ) : null}
+                        </div>
+                      </div>
+                      <header>
+                        <div className="container content centered">
+                          <div className="columns centered">
+                            {post.frontmatter.featuredimage ? (
+                              <div
+                                className="column is-6"
+                                style={{
+                                  justifyContent: 'center',
+                                  textAlign: 'center !important',
+                                  alignItems: 'center',
+                                }}>
+                                <div className="featured-thumbnail">
+                                  <PreviewCompatibleImage
+                                    imageInfo={{
+                                      image: post.frontmatter.featuredimage,
+                                      alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                            ) : null}
                           </div>
                         </div>
-                      </p>
+                      </header>
+                      <p style={{color: '#18305e'}}>{post.excerpt}</p>
                     </article>
                   </div>
-                </div>
+                </Link>
               );
             }
           })}
