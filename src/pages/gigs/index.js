@@ -13,11 +13,11 @@ import GigRoll from '../../components/GigRoll';
 
 export default class gigIndexPage extends React.Component {
   render() {
-    const pics = [uno, dos, tres, quatro, isnk, fux];
+    const pics = [uno, dos, tres, quatro, isnk, fux,heh];
     console.log(pics);
     return (
       <Layout>
-        <Carousel style={{Height: '800px'}}>
+        <Carousel indicators={true} controls={true} style={{Height: '600px'}}>
           {pics.map(i => {
             console.log(i);
             return (
@@ -26,7 +26,8 @@ export default class gigIndexPage extends React.Component {
               </Carousel.Item>
             );
           })}
-          <div className="full-width-image-container">
+        </Carousel>
+          <div className="full-width-image-container-gig">
             <div
               className="text-center"
               style={{textAlign: 'center'}}
@@ -46,7 +47,6 @@ export default class gigIndexPage extends React.Component {
               <p className="usb">Our Main Events! And all our previous ones…</p>
             </div>
           </div>
-        </Carousel>
         <section className="section">
           <div className="container">
             <div className="content">
