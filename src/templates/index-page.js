@@ -2,19 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
-import logo from '../img/Big Duck_Transparent.png';
 import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
-import BlogRoll from '../components/BlogRoll';
 import BlogRollF from '../components/BlogRollF';
 
-export const IndexPageTemplate = ({
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-}) => (
+export const IndexPageTemplate = ({title, subheading}) => (
   <div style={{backgroundColor: '#18305e'}}>
     <section style={{paddingTop: '3%'}}>
       <div className="full-width-image-container " style={{height: '20%'}}>
@@ -98,34 +90,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: {templateKey: {eq: "index-page"}}) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        heading
         subheading
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
       }
     }
   }

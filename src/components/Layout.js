@@ -46,7 +46,7 @@ const TemplateWrapper = ({children}) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
+          href={`${withPrefix('/')}img/big-duck_transparent.png`}
         />
       </Helmet>
       <Navbar />
