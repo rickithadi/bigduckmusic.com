@@ -13,16 +13,16 @@ import GigRoll from '../../components/GigRoll';
 
 export default class gigIndexPage extends React.Component {
   render() {
-    const pics = [uno, dos, tres, quatro, isnk, fux, heh];
+    const pics = [uno, dos, tres, quatro, isnk, fux];
     console.log(pics);
     return (
       <Layout>
-        <Carousel>
+        <Carousel style={{Height: '800px'}}>
           {pics.map(i => {
             console.log(i);
             return (
               <Carousel.Item>
-                <img src={i} />
+                <img src={i} className="full-width-image" />
               </Carousel.Item>
             );
           })}
