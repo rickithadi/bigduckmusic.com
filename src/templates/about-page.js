@@ -12,9 +12,16 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <div className="section">
+            <div className="section" style={{padding: '0'}}>
               <h1 className="head">{title}</h1>
+              <div
+                style={{
+                  backgroundColor: '#a3b6de',
+                  borderRadius: '10px',
+                  padding: '15px',
+                }}>
                 <PageContent className="content" content={content} />
+              </div>
             </div>
           </div>
         </div>

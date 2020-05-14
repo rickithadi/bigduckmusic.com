@@ -39,22 +39,23 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <section style={{backgroundColor: 'pink', borderRadius: '10px'}}>
-                <div className="hero-body">
-                  <div className="container" style={{color: 'black'}}>
+              <p className="top">Contact</p>
+
+              <section
+                style={{backgroundColor: '#a3b6de', borderRadius: '10px'}}>
+                <div className="hero-body" style={{padding:'15px'}}>
+                  <div className="container" style={{color: '#18305e'}}>
                     For any music submissions or collaboration queries, or just
-                    to say hi, please fill out the contact tab below. Big Duck
-                    is a passion project - much like many of the projects in our
-                    scene, and we’d love to continue to bring you great
-                    experiences as long as we can. If you’d like to donate money
-                    to help keep us afloat, email naybeatsfestival@gmail.com!
+                    to say hi, please fill out the contact tab below.
+                    <br />
+                    Big Duck is a passion project - much like many of the
+                    projects in our scene, and we’d love to continue to bring
+                    you great experiences as long as we can. If you’d like to
+                    donate money to help keep us afloat, email
+                    naybeatsfestival@gmail.com!
                   </div>
                 </div>
               </section>
-              <h1 className="top" style={{color: 'orange'}}>
-                Contact
-              </h1>
-
               <form
                 name="contact"
                 method="post"
@@ -73,8 +74,7 @@ export default class Index extends React.Component {
                 <div className="field">
                   <label
                     className="label"
-                    htmlFor={'name'}
-                    style={{color: 'pink'}}>
+                    htmlFor={'name'}>
                     Your name
                   </label>
                   <div className="control">
@@ -92,7 +92,7 @@ export default class Index extends React.Component {
                   <label
                     className="label"
                     htmlFor={'email'}
-                    style={{color: 'pink'}}>
+                    >
                     Email
                   </label>
                   <div className="control">
@@ -110,7 +110,7 @@ export default class Index extends React.Component {
                   <label
                     className="label"
                     htmlFor={'message'}
-                    style={{color: 'pink'}}>
+>
                     Message
                   </label>
                   <div className="control">
@@ -127,7 +127,7 @@ export default class Index extends React.Component {
                   <button
                     className="button is-link"
                     type="submit"
-                    style={{backgroundColor: 'pink', color: 'black'}}>
+                    style={{backgroundColor: '#bc9cce', color: 'black'}}>
                     Send
                   </button>
                 </div>

@@ -98,7 +98,7 @@ const Footer = class extends React.Component {
         <div
           className="content has-text-centered"
           style={{
-            color: '#10559A',
+            color: '#18305e',
           }}>
           <p> Big Duck Pte Ltd &copy; 2020 - All Rights Reserved</p>
         </div>
