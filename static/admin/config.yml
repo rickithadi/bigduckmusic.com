@@ -75,6 +75,12 @@ collections:
           widget: 'list',
           fields: [{label: 'image', name: 'image', widget: 'image'}],
         }
+      - {
+          label: 'Socials',
+          name: 'socials',
+          widget: 'list',
+          fields: [{label: 'url', name: 'url', widget: 'string'}],
+        }
 
   - name: 'picks'
     label: 'picks'

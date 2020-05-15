@@ -7,7 +7,7 @@ import BlogRoll from '../../components/BlogRoll';
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
-      <Layout >
+      <Layout>
         <section style={{paddingTop: '3%'}}>
           <div className="full-width-image-container " style={{height: '20%'}}>
             <div

@@ -14,12 +14,13 @@ export const BlogPostTemplate = ({
   contentComponent,
   review,
   spotify,
+  socials,
   tags,
   title,
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(PostContent);
+  console.log(socials);
 
   return (
     <section className="section">
@@ -43,8 +44,7 @@ export const BlogPostTemplate = ({
                     <ul className="taglist">
                       {tags.map(tag => (
                         <li
-                          key={tag + `tag`}
-                          style={{backgroundColor: 'white'}}>
+                          key={tag + `tag`}>
                           <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                         </li>
                       ))}
@@ -63,10 +63,16 @@ export const BlogPostTemplate = ({
                   </div>
                 )}
 
-                <div style={{height: '50%'}}>
-                  <SocialIcon url="http://linkedin.com/in/jaketrent" />
-                  <SocialIcon url="http://linkedin.com/in/jaketrent" />
-                  <SocialIcon url="http://linkedin.com/in/jaketrent" />
+                <div
+                  style={{height: '50%'}}
+                  className="head"
+                  style={{padding: '15px', backgroundColor: '#a3b6de'}}>
+                  {socials &&
+                    socials.map(i => {
+                      return (
+                        <SocialIcon url={i.url} style={{padding: '15px'}} />
+                      );
+                    })}
                 </div>
               </div>
             </div>
@@ -83,6 +89,7 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  socials: PropTypes.array,
   spotify: PropTypes.string,
   review: PropTypes.bool,
 };
@@ -96,6 +103,7 @@ const BlogPost = ({data}) => {
         content={post.html}
         review={post.frontmatter.isReview}
         spotify={post.frontmatter.spotify}
+        socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -134,6 +142,9 @@ export const pageQuery = graphql`
         title
         description
         tags
+        socials {
+          url
+        }
       }
     }
   }
