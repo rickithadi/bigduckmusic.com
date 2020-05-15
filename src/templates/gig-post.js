@@ -7,12 +7,16 @@ import Layout from '../components/Layout';
 import Content, {HTMLContent} from '../components/Content';
 import Carousel from 'react-bootstrap/Carousel';
 
+import {SocialIcon} from 'react-social-icons';
+import SpotifyPlayer from 'react-spotify-player';
 export const GigPostTemplate = ({
   content,
   CarouselPics,
   contentComponent,
   description,
+  spotify,
   tags,
+  socials,
   title,
   helmet,
 }) => {
@@ -46,14 +50,31 @@ export const GigPostTemplate = ({
             <div className="columns">
               <div
                 className="column is-10"
-                style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}>
-                <PostContent content={content} />
+                style={{backgroundColor: '#a3b6de'}}>
+                <div style={{height: '100vh'}}>
+                  <PostContent
+                    className="content"
+                    content={content}
+                    style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
+                  />
+                </div>
+                <div className="column">
+                  <div
+                    style={{height: '50%'}}
+                    className="head"
+                    style={{padding: '15px', backgroundColor: '#a3b6de'}}>
+                    {socials &&
+                      socials.map(i => {
+                        return (
+                          <SocialIcon url={i.url} style={{padding: '15px'}} />
+                        );
+                      })}
+                  </div>
+                </div>
               </div>
-              <div className="column">socials</div>
             </div>
             {tags && tags.length ? (
-              <div style={{marginTop: `4rem`}}>
-                <h4>Tags</h4>
+              <div>
                 <ul className="taglist">
                   {tags.map(tag => (
                     <li key={tag + `tag`}>
@@ -65,6 +86,17 @@ export const GigPostTemplate = ({
             ) : null}
           </div>
         </div>
+        <div className="column" style={{padding: '0px 0px 0px 5px'}}>
+          {spotify && (
+            <div style={{height: '50%'}}>
+              <SpotifyPlayer
+                //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+                uri={spotify}
+                size={{height: '100%', width: '100%'}}
+              />
+            </div>
+          )}
+        </div>
       </div>
     </section>
   );
@@ -75,6 +107,9 @@ GigPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   CarouselPics: PropTypes.object,
   description: PropTypes.string,
+
+  spotify: PropTypes.string,
+  socials: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
 };
@@ -86,9 +121,11 @@ const GigPost = ({data}) => {
     <Layout>
       <GigPostTemplate
         content={post.html}
+        socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         CarouselPics={post.frontmatter.Carousel}
+        spotify={post.frontmatter.spotify}
         helmet={
           <Helmet titleTemplate="%s | gig">
             <title>{`${post.frontmatter.title}`}</title>
@@ -121,8 +158,13 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        spotify
         description
         tags
+        socials {
+          url
+        }
+
         Carousel {
           image {
             childImageSharp {
