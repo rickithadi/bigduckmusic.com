@@ -17,6 +17,7 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+  console.log(content);
 
   return (
     <section className="section">
@@ -27,7 +28,6 @@ export const GigPostTemplate = ({
             <h1 className="top" style={{color: '#f77805'}}>
               {title}
             </h1>
-            <p>{description}</p>
             <div className="columns">
               <div className="column is-2">poster</div>
               <div className="column is-8">
