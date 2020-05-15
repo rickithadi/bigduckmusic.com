@@ -28,7 +28,6 @@ collections:
           widget: 'hidden',
           default: 'blog-post',
         }
-
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Description', name: 'description', widget: 'text'}
@@ -47,17 +46,9 @@ collections:
           label: 'Socials',
           name: 'socials',
           widget: 'list',
-          fields:
-            [
-              {label: 'url', name: 'url', widget: 'string'},
-              {
-                label: 'type',
-                name: 'type',
-                widget: 'select',
-                options: ['fb', 'insta', 'twitter'],
-              },
-            ],
+          fields: [{label: 'url', name: 'url', widget: 'string'}],
         }
+
   - name: 'gigs'
     label: 'Gigs'
     folder: 'src/pages/gigs'
