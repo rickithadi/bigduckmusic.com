@@ -43,6 +43,21 @@ collections:
       - {label: 'Featured Image', name: 'featuredimage', widget: image}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
+      - {
+          label: 'Socials',
+          name: 'socials',
+          widget: 'list',
+          fields:
+            [
+              {label: 'url', name: 'url', widget: 'string'},
+              {
+                label: 'type',
+                name: 'type',
+                widget: 'select',
+                options: ['fb', 'insta', 'twitter'],
+              },
+            ],
+        }
   - name: 'gigs'
     label: 'Gigs'
     folder: 'src/pages/gigs'
