@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Big Duck Pte Ltd',
     description:
-      'We create experiences.',
+      'We create experiences.asddddddddddddddddddddddddddddddddddddddddddddddddd',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -74,4 +74,4 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};

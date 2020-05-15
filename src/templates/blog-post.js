@@ -20,7 +20,7 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(socials);
+  console.log(content);
 
   return (
     <section className="section">
