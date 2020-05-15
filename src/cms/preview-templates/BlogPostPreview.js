@@ -8,10 +8,10 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
     <BlogPostTemplate
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
-      //spotify={post.frontmatter.spotify}
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
       spotify={entry.getIn(['data', 'spotify'])}
+      socials={entry.getIn(['data', 'socials'])}
     />
   )
 }
