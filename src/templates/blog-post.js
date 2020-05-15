@@ -20,20 +20,18 @@ export const BlogPostTemplate = ({
   console.log(PostContent);
 
   return (
-    <section
-      className="section"
-      style={{
-        backgroundColor: '#10559A',
-      }}>
+    <section className="section">
       {helmet || ''}
-      <div className="container content">
+      <div className="container ">
         <div className="columns">
           <div className="column is-10 is-offset-1 noisy">
             <h1 className="top" style={{color: '#f77805'}}>
               {title}
             </h1>
             <div className="columns">
-              <div className="column is-8" style={{backgroundColor: '#a3b6de',minHeight:'100vh'}}>
+              <div
+                className="column is-8"
+                style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}>
                 <PostContent content={content} />
                 {tags && tags.length ? (
                   <div>

@@ -21,23 +21,36 @@ export const GigPostTemplate = ({
   return (
     <section className="section">
       {helmet || ''}
-      <div className="container content">
+      <div className="container ">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            <h1 className="top" style={{color: '#f77805'}}>
               {title}
             </h1>
             <p>{description}</p>
-            {CarouselPics && (
-              <Carousel>
-                {CarouselPics.map(i => (
-                  <Carousel.Item>
-                    <img src={i.image.childImageSharp.fluid.src} />
-                  </Carousel.Item>
-                ))}
-              </Carousel>
-            )}
-            <PostContent content={content} />
+            <div className="columns">
+              <div className="column is-2">poster</div>
+              <div className="column is-8">
+                {CarouselPics && (
+                  <Carousel>
+                    {CarouselPics.map(i => (
+                      <Carousel.Item>
+                        <img src={i.image.childImageSharp.fluid.src} />
+                      </Carousel.Item>
+                    ))}
+                  </Carousel>
+                )}
+              </div>
+            </div>
+
+            <div className="columns">
+              <div
+                className="column is-10"
+                style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}>
+                <PostContent content={content} />
+              </div>
+              <div className="column">socials</div>
+            </div>
             {tags && tags.length ? (
               <div style={{marginTop: `4rem`}}>
                 <h4>Tags</h4>
