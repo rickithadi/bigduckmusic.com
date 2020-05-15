@@ -26,13 +26,11 @@ class BlogRoll extends React.Component {
                     post.frontmatter.featuredpost ? 'is-featured ' : ''
                   }`}>
                   <div className="columns">
-                    <div className="column">
+                    <div className="column is-8">
                       <p style={{textAlign: 'left'}}>
-                        <Link className="is-size-4 sub" to={post.fields.slug}>
                           <h1 style={{padding: '0px'}} className="top">
                             {post.frontmatter.title}
                           </h1>
-                        </Link>
                         <span className="subtitle is-size-9 is-block">
                           {post.frontmatter.date}
                         </span>
@@ -50,7 +48,7 @@ class BlogRoll extends React.Component {
                     </div>
                   </div>
                   <header>
-                    <div className="container content centered">
+                    <div className="container centered">
                       <div className="columns centered">
                         {post.frontmatter.featuredimage ? (
                           <div

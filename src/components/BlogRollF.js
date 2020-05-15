@@ -32,33 +32,29 @@ class BlogRollF extends React.Component {
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
                       <div className="columns">
-                        <div className="column">
+                        <div className="column is-8">
                           <p style={{textAlign: 'left'}}>
-                            <Link
-                              className="is-size-4 sub"
-                              to={post.fields.slug}>
-                              <h1 style={{padding: '0px'}} className="top">
-                                {post.frontmatter.title}
-                              </h1>
-                            </Link>
+                            <h1 style={{padding: '0px'}} className="top">
+                              {post.frontmatter.title}
+                            </h1>
                             <span className="subtitle is-size-9 is-block">
                               {post.frontmatter.date}
                             </span>
                           </p>
                         </div>
-                          <div className="column is-pulled-right"
-
-                          style={{textAlign:'right'}}>
-                            {post.frontmatter.isReview ? (
-                              <span class="tag is-success">Review</span>
-                            ) : null}
-                            {post.frontmatter.featuredpost ? (
-                              <span class="tag is-warning">Featured</span>
-                            ) : null}
+                        <div
+                          className="column is-pulled-right"
+                          style={{textAlign: 'right'}}>
+                          {post.frontmatter.isReview ? (
+                            <span class="tag is-success">Review</span>
+                          ) : null}
+                          {post.frontmatter.featuredpost ? (
+                            <span class="tag is-warning">Featured</span>
+                          ) : null}
                         </div>
                       </div>
                       <header>
-                        <div className="container content centered">
+                        <div className="container centered">
                           <div className="columns centered">
                             {post.frontmatter.featuredimage ? (
                               <div
