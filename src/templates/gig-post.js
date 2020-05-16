@@ -70,7 +70,7 @@ export const GigPostTemplate = ({
                   marginBottom: '15px',
                   //border: '1px solid  #FF7500',
                 }}>
-                {poster.image && (
+                {poster && poster.image && (
                   <figure className="image is-3by5">
                     <img src={poster.image.childImageSharp.fluid.src} />
                   </figure>
