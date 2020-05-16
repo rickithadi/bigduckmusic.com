@@ -61,13 +61,11 @@ export const BlogPostTemplate = ({
           </div>
           <div className="column" style={{padding: '0px 0px 0px 5px'}}>
             {spotify && (
-              <div style={{height: '50%'}}>
                 <SpotifyPlayer
                   //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
                   uri={spotify}
-                  size={{height: '100%', width: '100%'}}
+                  size={{height: '10%', width: '100%'}}
                 />
-              </div>
             )}
 
             <div
