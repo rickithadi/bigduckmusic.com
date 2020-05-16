@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import {kebabCase} from 'lodash';
 import Helmet from 'react-helmet';
 import {graphql, Link} from 'gatsby';
@@ -14,6 +15,7 @@ export const GigPostTemplate = ({
   CarouselPics,
   contentComponent,
   description,
+  poster,
   spotify,
   tags,
   socials,
@@ -21,70 +23,80 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(content);
+  console.log(poster);
 
   return (
     <section className="section">
       {helmet || ''}
       <div className="container ">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="top" style={{color: '#f77805'}}>
-              {title}
-            </h1>
-            <div className="columns">
-              <div className="column is-2">poster</div>
-              <div className="column is-8">
-                {CarouselPics && (
-                  <Carousel>
-                    {CarouselPics.map(i => (
-                      <Carousel.Item>
-                        <img src={i.image.childImageSharp.fluid.src} />
-                      </Carousel.Item>
-                    ))}
-                  </Carousel>
-                )}
+        <div className="column is-10 is-offset-1">
+          <h1 className="top" style={{color: '#f77805'}}>
+            {title}
+          </h1>
+        </div>
+        <div className="columns ">
+          <div
+            className="column is-3 is-offset-1"
+            style={{
+              textAlign: 'center',
+              backgroundColor: '#bc9cce',
+              borderRadius: '10px',
+              padding: '15px',
+              border: '1px solid  #FF7500',
+            }}>
+            <figure className="image is-3by5">
+              <img src={poster.childImageSharp.fluid.src} />
+            </figure>
+          </div>
+          <div className="column is-7">
+            {CarouselPics && (
+              <Carousel className="carou">
+                {CarouselPics.map(i => (
+                  <Carousel.Item>
+                    <img
+                      src={i.image.childImageSharp.fluid.src}
+                      className="carou"
+                    />
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            )}
+          </div>
+        </div>
+        <div className="column is-10 is-offset-1">
+          <div className="columns">
+            <div className="column">
+              <div
+                className="head"
+                style={{padding: '15px', backgroundColor: '#a3b6de'}}>
+                {socials &&
+                  socials.map(i => {
+                    return <SocialIcon url={i.url} style={{padding: '15px'}} />;
+                  })}
               </div>
             </div>
 
-            <div className="columns">
-              <div
-                className="column is-10"
-                style={{backgroundColor: '#a3b6de'}}>
-                <div style={{height: '100vh'}}>
-                  <PostContent
-                    className="content"
-                    content={content}
-                    style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
-                  />
-                </div>
-                <div className="column">
-                  <div
-                    style={{height: '50%'}}
-                    className="head"
-                    style={{padding: '15px', backgroundColor: '#a3b6de'}}>
-                    {socials &&
-                      socials.map(i => {
-                        return (
-                          <SocialIcon url={i.url} style={{padding: '15px'}} />
-                        );
-                      })}
-                  </div>
-                </div>
+            <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
+              <div style={{height: '100vh'}}>
+                <PostContent
+                  className="content"
+                  content={content}
+                  style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
+                />
               </div>
+              {tags && tags.length ? (
+                <div>
+                  <ul className="taglist">
+                    {tags.map(tag => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
             </div>
-            {tags && tags.length ? (
-              <div>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
+          </div>{' '}
         </div>
         <div className="column" style={{padding: '0px 0px 0px 5px'}}>
           {spotify && (
@@ -107,7 +119,7 @@ GigPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   CarouselPics: PropTypes.object,
   description: PropTypes.string,
-
+  poster: PropTypes.object,
   spotify: PropTypes.string,
   socials: PropTypes.array,
   title: PropTypes.string,
@@ -125,9 +137,10 @@ const GigPost = ({data}) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         CarouselPics={post.frontmatter.Carousel}
+        poster={post.frontmatter.featuredimage}
         spotify={post.frontmatter.spotify}
         helmet={
-          <Helmet titleTemplate="%s | gig">
+          <Helmet titleTemplate="%s | Big Duck Gigs">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
@@ -161,6 +174,14 @@ export const pageQuery = graphql`
         spotify
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 200, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+
         socials {
           url
         }
@@ -168,7 +189,7 @@ export const pageQuery = graphql`
         Carousel {
           image {
             childImageSharp {
-              fluid(maxWidth: 120, quality: 100) {
+              fluid(maxWidth: 200, quality: 100) {
                 ...GatsbyImageSharpFluid
               }
             }
