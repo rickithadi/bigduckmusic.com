@@ -11,9 +11,9 @@ const GigPostPreview = ({entry, widgetFor}) => {
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
       spotify={entry.getIn(['data', 'spotify'])}
-      socials={entry.getIn(['data', 'socials'])}
-      poster={entry.getIn(['data', 'poster'])}
       CarouselPics={entry.getIn(['data', 'carousel'])}
+      poster={entry.getIn(['data', 'poster'])}
+      socials={entry.getIn(['data', 'socials'])}
     />
   );
 };

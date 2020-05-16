@@ -72,7 +72,7 @@ collections:
       - {label: 'Tags', name: 'tags', widget: 'list'}
       - {
           label: 'Carousel',
-          name: 'Carousel',
+          name: 'carousel',
           widget: 'list',
           fields: [{label: 'image', name: 'image', widget: 'image'}],
         }

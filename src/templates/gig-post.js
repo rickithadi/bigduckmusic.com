@@ -70,9 +70,11 @@ export const GigPostTemplate = ({
                   marginBottom: '15px',
                   //border: '1px solid  #FF7500',
                 }}>
-                <figure className="image is-3by5">
-                  <img src={poster.childImageSharp.fluid.src} />
-                </figure>
+                {poster && (
+                  <figure className="image is-3by5">
+                    <img src={poster} />
+                  </figure>
+                )}
               </div>
               <div className="column" style={{padding: '0px 0px 0px 0px'}}>
                 {spotify && (
@@ -148,8 +150,7 @@ const GigPost = ({data}) => {
         socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        CarouselPics={post.frontmatter.Carousel}
-        //poster={post.frontmatter.featuredimage}
+        CarouselPics={post.frontmatter.carousel}
         poster={post.frontmatter.poster}
         spotify={post.frontmatter.spotify}
         helmet={
@@ -194,12 +195,10 @@ export const pageQuery = graphql`
             }
           }
         }
-
         socials {
           url
         }
-
-        Carousel {
+        carousel {
           image {
             childImageSharp {
               fluid(maxWidth: 200, quality: 100) {
