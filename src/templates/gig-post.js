@@ -72,7 +72,7 @@ export const GigPostTemplate = ({
                 }}>
                 {poster && (
                   <figure className="image is-3by5">
-                    <img src={poster} />
+                    <img src={poster.image.childImageSharp.fluid.src} />
                   </figure>
                 )}
               </div>
