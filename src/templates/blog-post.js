@@ -14,7 +14,7 @@ export const BlogPostTemplate = ({
   contentComponent,
   review,
   spotify,
-socials,
+  socials,
   tags,
   title,
   helmet,
@@ -31,11 +31,13 @@ socials,
               {title}
             </h1>
             <div className="columns">
-              <div className="column is-8 " style={{backgroundColor: '#a3b6de'}}>
+              <div
+                className="column is-8 "
+                style={{backgroundColor: '#a3b6de'}}>
                 <div style={{height: '100vh'}}>
                   <PostContent
                     content={content}
-                    className='content'
+                    className="content"
                     style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
                   />
                 </div>
@@ -43,8 +45,7 @@ socials,
                   <div>
                     <ul className="taglist">
                       {tags.map(tag => (
-                        <li
-                          key={tag + `tag`}>
+                        <li key={tag + `tag`}>
                           <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                         </li>
                       ))}

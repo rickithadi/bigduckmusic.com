@@ -34,38 +34,44 @@ export const GigPostTemplate = ({
             {title}
           </h1>
         </div>
-        <div className="columns ">
-          <div
-            className="column is-3 is-offset-1"
-            style={{
-              textAlign: 'center',
-              backgroundColor: '#bc9cce',
-              borderRadius: '10px',
-              padding: '15px',
-              border: '1px solid  #FF7500',
-            }}>
-            <figure className="image is-3by5">
-              <img src={poster.childImageSharp.fluid.src} />
-            </figure>
-          </div>
-          <div className="column is-7">
-            {CarouselPics && (
-              <Carousel className="carou">
-                {CarouselPics.map(i => (
-                  <Carousel.Item>
-                    <img
-                      src={i.image.childImageSharp.fluid.src}
-                      className="carou"
-                    />
-                  </Carousel.Item>
-                ))}
-              </Carousel>
-            )}
+        <div className="columns">
+          <div className="column ">
+              {CarouselPics && (
+                <Carousel className="carou">
+                  {CarouselPics.map(i => (
+                    <Carousel.Item>
+                      <img
+                        src={i.image.childImageSharp.fluid.src}
+                        className="full-width-image"
+                      />
+                    </Carousel.Item>
+                  ))}
+                </Carousel>
+              )}
           </div>
         </div>
-        <div className="column is-10 is-offset-1">
+
+        <div className="column is-10">
           <div className="columns">
-            <div className="column">
+            <div
+              className="column is-3 "
+              style={{
+                padding: '15px',
+                paddingTop: '0',
+              }}>
+              <div
+                style={{
+                  textAlign: 'center',
+                  backgroundColor: '#bc9cce',
+                  borderRadius: '10px',
+                  padding: '15px',
+                  paddingTop: '15px',
+                  border: '1px solid  #FF7500',
+                }}>
+                <figure className="image is-3by5">
+                  <img src={poster.childImageSharp.fluid.src} />
+                </figure>
+              </div>
               <div
                 className="head"
                 style={{padding: '15px', backgroundColor: '#a3b6de'}}>
