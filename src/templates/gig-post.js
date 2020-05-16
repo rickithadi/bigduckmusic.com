@@ -36,7 +36,7 @@ export const GigPostTemplate = ({
         </div>
         <div className="columns">
           <div className="column ">
-            {CarouselPics && (
+            {CarouselPics && CarouselPics.length > 0 && (
               <Carousel className="carou">
                 {CarouselPics.map(i => (
                   <Carousel.Item>
