@@ -30,55 +30,72 @@ export const GigPostTemplate = ({
       {helmet || ''}
       <div className="container ">
         <div className="column is-10 is-offset-1">
-          <h1 className="top" style={{color: '#f77805'}}>
+          <h1 className="head" style={{color: '#f77805'}}>
             {title}
           </h1>
         </div>
         <div className="columns">
           <div className="column ">
-              {CarouselPics && (
-                <Carousel className="carou">
-                  {CarouselPics.map(i => (
-                    <Carousel.Item>
-                      <img
-                        src={i.image.childImageSharp.fluid.src}
-                        className="full-width-image"
-                      />
-                    </Carousel.Item>
-                  ))}
-                </Carousel>
-              )}
+            {CarouselPics && (
+              <Carousel className="carou">
+                {CarouselPics.map(i => (
+                  <Carousel.Item>
+                    <img
+                      src={i.image.childImageSharp.fluid.src}
+                      className="full-width-image"
+                    />
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            )}
           </div>
         </div>
 
         <div className="column is-10">
           <div className="columns">
             <div
-              className="column is-3 "
+              className="column is-4 "
               style={{
                 padding: '15px',
-                paddingTop: '0',
+                paddingTop: '0px',
               }}>
               <div
                 style={{
                   textAlign: 'center',
-                  backgroundColor: '#bc9cce',
+                  backgroundColor: '#a3b6de',
                   borderRadius: '10px',
                   padding: '15px',
                   paddingTop: '15px',
-                  border: '1px solid  #FF7500',
+                  paddingBottom: '15px',
+                  marginBottom: '15px',
+                  //border: '1px solid  #FF7500',
                 }}>
                 <figure className="image is-3by5">
                   <img src={poster.childImageSharp.fluid.src} />
                 </figure>
               </div>
-              <div
-                className="head"
-                style={{padding: '15px', backgroundColor: '#a3b6de'}}>
-                {socials &&
-                  socials.map(i => {
-                    return <SocialIcon url={i.url} style={{padding: '15px'}} />;
-                  })}
+              <div className="column" style={{padding: '0px 0px 0px 0px'}}>
+                {spotify && (
+                  <div style={{height: '45vh'}}>
+                    <SpotifyPlayer
+                      //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+                      uri={spotify}
+                      size={{height: '100%', width: '100%'}}
+                    />
+                  </div>
+                )}
+
+                <div
+                  style={{height: '5vh'}}
+                  className="head"
+                  style={{padding: '15px', backgroundColor: '#a3b6de'}}>
+                  {socials &&
+                    socials.map(i => {
+                      return (
+                        <SocialIcon url={i.url} style={{padding: '15px'}} />
+                      );
+                    })}
+                </div>
               </div>
             </div>
 
@@ -103,17 +120,6 @@ export const GigPostTemplate = ({
               ) : null}
             </div>
           </div>{' '}
-        </div>
-        <div className="column" style={{padding: '0px 0px 0px 5px'}}>
-          {spotify && (
-            <div style={{height: '50%'}}>
-              <SpotifyPlayer
-                //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
-                uri={spotify}
-                size={{height: '100%', width: '100%'}}
-              />
-            </div>
-          )}
         </div>
       </div>
     </section>
@@ -143,7 +149,8 @@ const GigPost = ({data}) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         CarouselPics={post.frontmatter.Carousel}
-        poster={post.frontmatter.featuredimage}
+        //poster={post.frontmatter.featuredimage}
+        poster={post.frontmatter.poster}
         spotify={post.frontmatter.spotify}
         helmet={
           <Helmet titleTemplate="%s | Big Duck Gigs">
@@ -180,7 +187,7 @@ export const pageQuery = graphql`
         spotify
         description
         tags
-        featuredimage {
+        poster {
           childImageSharp {
             fluid(maxWidth: 200, quality: 100) {
               ...GatsbyImageSharpFluid
