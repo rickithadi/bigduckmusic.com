@@ -41,8 +41,11 @@ export const GigPostTemplate = ({
 
         <div className="columns">
           <div className="column ">
-            {carousel && carousel.length > 0 && (
+            {carousel && (
               <Carousel className="carou">
+                <Carousel.Item>
+                  <img src={poster} />
+                </Carousel.Item>
                 {carousel.map(i => (
                   <Carousel.Item>
                     {i.image && (
@@ -197,7 +200,7 @@ export const pageQuery = graphql`
         description
         poster {
           childImageSharp {
-            fluid(maxWidth: 200, quality: 100) {
+            fluid( quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
@@ -208,7 +211,7 @@ export const pageQuery = graphql`
         carousel {
           image {
             childImageSharp {
-              fluid(maxWidth: 200, quality: 100) {
+              fluid( quality: 100) {
                 ...GatsbyImageSharpFluid
               }
             }
