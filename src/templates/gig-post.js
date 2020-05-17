@@ -45,7 +45,12 @@ export const GigPostTemplate = ({
               <Carousel className="carou">
                 {carousel.map(i => (
                   <Carousel.Item>
-                    {i.image && <img src={i.image.childImageSharp.fluid.src} className="full-width-image"/>}
+                    {i.image && (
+                      <img
+                        src={i.image.childImageSharp.fluid.src}
+                        className="full-width-image"
+                      />
+                    )}
                   </Carousel.Item>
                 ))}
               </Carousel>
@@ -188,8 +193,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         spotify
-        description
         tags
+        description
         poster {
           childImageSharp {
             fluid(maxWidth: 200, quality: 100) {
