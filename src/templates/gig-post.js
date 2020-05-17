@@ -25,7 +25,7 @@ export const GigPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="section" style={{backgroundColor: '#18305e'}}>
       {helmet || ''}
       <div className="container ">
         <div className="column is-10 is-offset-1">
@@ -33,19 +33,10 @@ export const GigPostTemplate = ({
             {title}
           </h1>
         </div>
-        <PreviewCompatibleImage
-          imageInfo={{
-            image: {poster},
-          }}
-        />
-
         <div className="columns">
           <div className="column ">
             {carousel && (
               <Carousel className="carou">
-                <Carousel.Item>
-                  <img src={poster} />
-                </Carousel.Item>
                 {carousel.map(i => (
                   <Carousel.Item>
                     {i.image && (
@@ -200,7 +191,7 @@ export const pageQuery = graphql`
         description
         poster {
           childImageSharp {
-            fluid( quality: 100) {
+            fluid(quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
@@ -211,7 +202,7 @@ export const pageQuery = graphql`
         carousel {
           image {
             childImageSharp {
-              fluid( quality: 100) {
+              fluid(quality: 100) {
                 ...GatsbyImageSharpFluid
               }
             }
