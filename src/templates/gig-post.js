@@ -34,7 +34,7 @@ export const GigPostTemplate = ({
             style={{
               color: '#f77805',
 
-              backgroundColor: '#a3b6de',
+              padding: '15px',
             }}>
             {title}
           </h1>
@@ -108,24 +108,27 @@ export const GigPostTemplate = ({
             </div>
 
             <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
-              <div style={{height: '100%'}}>
+              <div className="container" style={{height: '100%'}}>
+
+            <div style={{minHeight: '100vh'}}>
                 <PostContent
                   className="content"
                   content={content}
-                  style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
+           
                 />
+                    </div>
+                {tags && tags.length ? (
+                  <div>
+                    <ul className="taglist">
+                      {tags.map(tag => (
+                        <li key={tag + `tag`}>
+                          <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : null}
               </div>
-              {tags && tags.length ? (
-                <div>
-                  <ul className="taglist">
-                    {tags.map(tag => (
-                      <li key={tag + `tag`}>
-                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ) : null}
             </div>
           </div>{' '}
         </div>
