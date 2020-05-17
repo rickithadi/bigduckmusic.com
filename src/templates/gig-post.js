@@ -44,7 +44,9 @@ export const GigPostTemplate = ({
             {carousel && carousel.length > 0 && (
               <Carousel className="carou">
                 {carousel.map(i => (
-                  <Carousel.Item></Carousel.Item>
+                  <Carousel.Item>
+                    {i.image && <img src={i.image.childImageSharp.fluid.src} className="full-width-image"/>}
+                  </Carousel.Item>
                 ))}
               </Carousel>
             )}
