@@ -12,7 +12,7 @@ import {SocialIcon} from 'react-social-icons';
 import SpotifyPlayer from 'react-spotify-player';
 export const GigPostTemplate = ({
   content,
-  CarouselPics,
+  carousel,
   contentComponent,
   description,
   poster,
@@ -23,7 +23,6 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(poster);
 
   return (
     <section className="section">
@@ -34,17 +33,18 @@ export const GigPostTemplate = ({
             {title}
           </h1>
         </div>
+        <PreviewCompatibleImage
+          imageInfo={{
+            image: {poster},
+          }}
+        />
+
         <div className="columns">
           <div className="column ">
-            {CarouselPics && CarouselPics.length > 0 && (
+            {carousel && carousel.length > 0 && (
               <Carousel className="carou">
-                {CarouselPics.map(i => (
-                  <Carousel.Item>
-                    <img
-                      src={i.image.childImageSharp.fluid.src}
-                      className="full-width-image"
-                    />
-                  </Carousel.Item>
+                {carousel.map(i => (
+                  <Carousel.Item></Carousel.Item>
                 ))}
               </Carousel>
             )}
@@ -59,26 +59,26 @@ export const GigPostTemplate = ({
                 padding: '15px',
                 paddingTop: '0px',
               }}>
-              <div
-                style={{
-                  textAlign: 'center',
-                  backgroundColor: '#a3b6de',
-                  borderRadius: '10px',
-                  padding: '15px',
-                  paddingTop: '15px',
-                  paddingBottom: '15px',
-                  marginBottom: '15px',
-                  //border: '1px solid  #FF7500',
-                }}>
-                {poster && poster.image && (
+              {poster && (
+                <div
+                  style={{
+                    textAlign: 'center',
+                    backgroundColor: '#a3b6de',
+                    borderRadius: '10px',
+                    padding: '15px',
+                    paddingTop: '15px',
+                    paddingBottom: '15px',
+                    marginBottom: '15px',
+                    //border: '1px solid  #FF7500',
+                  }}>
                   <figure className="image is-3by5">
-                    <img src={poster.image.childImageSharp.fluid.src} />
+                    <img src={poster} />
                   </figure>
-                )}
-              </div>
+                </div>
+              )}
               <div className="column" style={{padding: '0px 0px 0px 0px'}}>
                 {spotify && (
-                  <div style={{height: '45vh'}}>
+                  <div>
                     <SpotifyPlayer
                       //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
                       uri={spotify}
@@ -87,17 +87,18 @@ export const GigPostTemplate = ({
                   </div>
                 )}
 
-                <div
-                  style={{height: '5vh'}}
-                  className="head"
-                  style={{padding: '15px', backgroundColor: '#a3b6de'}}>
-                  {socials &&
-                    socials.map(i => {
+                {socials && (
+                  <div
+                    style={{height: '5vh'}}
+                    className="head"
+                    style={{padding: '15px', backgroundColor: '#a3b6de'}}>
+                    {socials.map(i => {
                       return (
                         <SocialIcon url={i.url} style={{padding: '15px'}} />
                       );
                     })}
-                </div>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -131,9 +132,9 @@ export const GigPostTemplate = ({
 GigPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  CarouselPics: PropTypes.object,
+  carousel: PropTypes.array,
   description: PropTypes.string,
-  poster: PropTypes.object,
+  poster: PropTypes.string,
   spotify: PropTypes.string,
   socials: PropTypes.array,
   title: PropTypes.string,
@@ -142,7 +143,8 @@ GigPostTemplate.propTypes = {
 
 const GigPost = ({data}) => {
   const {markdownRemark: post} = data;
-  console.log(post);
+  console.log(data);
+  console.log('post', post);
   return (
     <Layout>
       <GigPostTemplate
@@ -150,8 +152,8 @@ const GigPost = ({data}) => {
         socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        CarouselPics={post.frontmatter.carousel}
-        poster={post.frontmatter.poster}
+        carousel={post.frontmatter.carousel}
+        poster={post.frontmatter.poster.childImageSharp.fluid.src}
         spotify={post.frontmatter.spotify}
         helmet={
           <Helmet titleTemplate="%s | Big Duck Gigs">
