@@ -29,12 +29,18 @@ export const GigPostTemplate = ({
       {helmet || ''}
       <div className="container ">
         <div className="column is-10 is-offset-1">
-          <h1 className="head" style={{color: '#f77805'}}>
+          <h1
+            className="head"
+            style={{
+              color: '#f77805',
+
+              backgroundColor: '#a3b6de',
+            }}>
             {title}
           </h1>
         </div>
         <div className="columns">
-          <div className="column ">
+          <div className="column " style={{height: '600px'}}>
             {carousel && (
               <Carousel className="carou">
                 {carousel.map(i => (
