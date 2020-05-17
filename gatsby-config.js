@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Big Duck Pte Ltd',
     description:
-      'We create experiences.asddddddddddddddddddddddddddddddddddddddddddddddddd',
+      'We create experiences.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

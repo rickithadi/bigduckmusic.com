@@ -1,5 +1,5 @@
 ---
-Carousel:
+carousel:
   - image: /img/big-duck_transparent.png
   - image: /img/chemex.jpg
 templateKey: gig-post
