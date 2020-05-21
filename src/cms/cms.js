@@ -35,16 +35,12 @@ CMS.registerEditorComponent({
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return 'youtube smlj' + obj.id + obj.label;
+    return '<h1 style="color:red">' + obj.id + '</h1>';
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-    return (
-      '<div color="red"><h1 color="red !important"> fuck you</h1> <img src="http://img.youtube.com/vi/' +
-      obj.id +
-      '/maxresdefault.jpg" alt="Youtube Video"/></div>'
-    );
+    return '<h1 style="color:red">' + obj.id + '</h1>';
   },
 });
 CMS.registerEditorComponent({
@@ -63,11 +59,11 @@ CMS.registerEditorComponent({
   // Function to extract data elements from the regexp match
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return Five10(obj.label, obj.link, obj.year);
+    Five10(obj.label, obj.link, obj.year);
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-    return Five10(obj.label, obj.link, obj.year);
+    Five10(obj.label, obj.link, obj.year);
   },
 });
