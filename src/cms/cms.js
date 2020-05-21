@@ -35,7 +35,7 @@ CMS.registerEditorComponent({
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return '<h1 style="color:red">' + obj.id + '</h1>';
+    return '<h1 style="color:red;text-align:center">' + obj.id + '</h1>';
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)

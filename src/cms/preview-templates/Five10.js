@@ -3,9 +3,7 @@ import PropTypes from 'prop-types';
 
 const Five10 = (label, link, year) => {
   console.log(label);
-  return (
-      <h1 style={{color:"pink"}}> fuck you {label}</h1>
-  );
+  return '<h1 style="color:red">' + {label} + '</h1>';
 };
 
 Five10.propTypes = {
