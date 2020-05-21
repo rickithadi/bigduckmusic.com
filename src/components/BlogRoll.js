@@ -28,9 +28,9 @@ class BlogRoll extends React.Component {
                   <div className="columns">
                     <div className="column is-8">
                       <p style={{textAlign: 'left'}}>
-                          <h1 style={{padding: '0px'}} className="top">
+                          <p style={{padding: '0px'}} className="top">
                             {post.frontmatter.title}
-                          </h1>
+                          </p>
                         <span className="subtitle is-size-9 is-block">
                           {post.frontmatter.date}
                         </span>
