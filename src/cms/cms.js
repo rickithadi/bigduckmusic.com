@@ -22,10 +22,10 @@ CMS.registerEditorComponent({
   // Internal id of the component
   id: 'youtube',
   // Visible label
-  label: 'Youtube',
+  label: 'Five Ten',
   // Fields the user need to fill out when adding an instance of the component
   fields: [
-    {name: 'id', label: 'Youtube Video ID', widget: 'string'},
+    {name: 'id', label: 'Age', widget: 'string'},
     {name: 'pic', label: 'pic', widget: 'image'},
   ],
   // Pattern to identify a block as being an instance of this component
@@ -39,6 +39,36 @@ CMS.registerEditorComponent({
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
+    let num = parseInt(obj.id);
+    let uno = num - 1;
+    let dos = num - 2;
+    let tres = num + 1;
+    let quat = num + 2;
+    console.log(obj.pic);
+
+    return (
+      '<h1 style="color:#18305e;text-align:center">' +
+      dos +
+      ' ' +
+      uno +
+      ' <span style="color:#f77805;text-align:center"> ' +
+      ' ' +
+      obj.id +
+      ' ' +
+      '</span>' +
+      ' ' +
+      tres +
+      ' ' +
+      quat +
+      '</h1><img src=' +
+      '"' +
+      obj.pic +
+      '">'
+    );
+  },
+  // Preview output for this component. Can either be a string or a React component
+  // (component gives better render performance)
+  toPreview: function(obj) {
     let num = parseInt(obj.id);
     let uno = num - 1;
     let dos = num - 2;
@@ -59,54 +89,5 @@ CMS.registerEditorComponent({
       quat +
       '</h1>'
     );
-  },
-  // Preview output for this component. Can either be a string or a React component
-  // (component gives better render performance)
-  toPreview: function(obj) {
-   let num = parseInt(obj.id);
-    let uno = num - 1;
-    let dos = num - 2;
-    let tres = num + 1;
-    let quat = num + 2;
-    console.log(quat);
-
-    return (
-      '<h1 style="color:grey;text-align:center">' +
-      dos +
-      ' ' +
-      uno +
-      ' <span style="color:orange;text-align:center"> ' +
-      obj.id +
-      '</span>' +
-      tres +
-      ' ' +
-      quat +
-      '</h1>'
-    );
-
-  },
-});
-CMS.registerEditorComponent({
-  // Internal id of the component
-  id: 'fiveten',
-  // Visible label
-  label: 'five ten things',
-  // Fields the user need to fill out when adding an instance of the component
-  fields: [
-    {name: 'id', label: 'album link', widget: 'string'},
-    {name: 'label', label: 'label', widget: 'string'},
-    {name: 'link', label: 'album image', widget: 'image'},
-    {name: 'year', label: 'year', widget: 'string'},
-  ],
-  // Pattern to identify a block as being an instance of this component
-  // Function to extract data elements from the regexp match
-  // Function to create a text block from an instance of this component
-  toBlock: function(obj) {
-    Five10(obj.label, obj.link, obj.year);
-  },
-  // Preview output for this component. Can either be a string or a React component
-  // (component gives better render performance)
-  toPreview: function(obj) {
-    Five10(obj.label, obj.link, obj.year);
   },
 });
