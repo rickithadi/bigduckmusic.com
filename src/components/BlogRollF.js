@@ -33,21 +33,7 @@ class BlogRollF extends React.Component {
                       }`}>
                       <div className="columns">
                         <div className="column is-14">
-                          <div className="column is-12">
-                            <p style={{textAlign: 'left'}}>
-                              <p style={{padding: '0px'}} className="top">
-                                {post.frontmatter.title}
-                              </p>
-                              <span className="subtitle is-size-9 is-block">
-                                <p style={{paddingLeft: '10px'}}>
-                                  {post.frontmatter.date}
-                                </p>
-                              </span>
-                            </p>
-                          </div>
-                        </div>
-
-                        <div className="column is">
+           <div className="column is-1">
                           <p style={{textAlign: 'right'}}>
                             {post.frontmatter.isReview ? (
                               <span
@@ -61,7 +47,22 @@ class BlogRollF extends React.Component {
                             ) : null}
                           </p>
                         </div>
-                      </div>
+              
+                          <div className="column ">
+                            <p style={{textAlign: 'left'}}>
+                              <p style={{padding: '0px'}} className="top">
+                                {post.frontmatter.title}
+                              </p>
+                              <span className="subtitle is-size-9 is-block">
+                                <p style={{paddingLeft: '10px'}}>
+                                  {post.frontmatter.date}
+                                </p>
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+
+                     </div>
                       <header>
                         <div className="container centered">
                           <div className="columns centered">
