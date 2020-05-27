@@ -112,7 +112,7 @@ export default () => (
                 isReview
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 120, maxHeight: 120,quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
