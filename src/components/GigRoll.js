@@ -51,7 +51,7 @@ class GigRoll extends React.Component {
                       <div className="columns centered">
                         {post.frontmatter.featuredimage ? (
                           <div
-                            className="column is-6"
+                            className="column is-12"
                             style={{
                               justifyContent: 'center',
                               textAlign: 'center !important',
@@ -110,7 +110,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 200, maxHeight: 120,quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

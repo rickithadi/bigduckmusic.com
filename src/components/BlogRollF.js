@@ -32,25 +32,34 @@ class BlogRollF extends React.Component {
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
                       <div className="columns">
-                        <div className="column is-8">
-                          <p style={{textAlign: 'left'}}>
-                            <p style={{padding: '0px'}} className="top">
-                              {post.frontmatter.title}
+                        <div className="column is-14">
+                          <div className="column is-12">
+                            <p style={{textAlign: 'left'}}>
+                              <p style={{padding: '0px'}} className="top">
+                                {post.frontmatter.title}
+                              </p>
+                              <span className="subtitle is-size-9 is-block">
+                                <p style={{paddingLeft: '10px'}}>
+                                  {post.frontmatter.date}
+                                </p>
+                              </span>
                             </p>
-                            <span className="subtitle is-size-9 is-block">
-                              {post.frontmatter.date}
-                            </span>
-                          </p>
+                          </div>
                         </div>
-                        <div
-                          className="column is-pulled-right"
-                          style={{textAlign: 'right'}}>
-                          {post.frontmatter.isReview ? (
-                            <span class="tag is-success">Review</span>
-                          ) : null}
-                          {post.frontmatter.featuredpost ? (
-                            <span class="tag is-warning">Featured</span>
-                          ) : null}
+
+                        <div className="column is">
+                          <p style={{textAlign: 'right'}}>
+                            {post.frontmatter.isReview ? (
+                              <span
+                                class="tag is-success"
+                                style={{margin: '10px !important'}}>
+                                >Review
+                              </span>
+                            ) : null}
+                            {post.frontmatter.featuredpost ? (
+                              <span class="tag is-warning">Featured</span>
+                            ) : null}
+                          </p>
                         </div>
                       </div>
                       <header>
@@ -58,20 +67,18 @@ class BlogRollF extends React.Component {
                           <div className="columns centered">
                             {post.frontmatter.featuredimage ? (
                               <div
-                                className="column is-6"
+                                className="column is-14"
                                 style={{
                                   justifyContent: 'center',
                                   textAlign: 'center !important',
                                   alignItems: 'center',
                                 }}>
-                                <div className="featured-thumbnail">
-                                  <PreviewCompatibleImage
-                                    imageInfo={{
-                                      image: post.frontmatter.featuredimage,
-                                      alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                                    }}
-                                  />
-                                </div>
+                                <PreviewCompatibleImage
+                                  imageInfo={{
+                                    image: post.frontmatter.featuredimage,
+                                    alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                                  }}
+                                />
                               </div>
                             ) : null}
                           </div>
@@ -120,7 +127,7 @@ export default () => (
                 isReview
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, maxHeight: 120,quality: 100) {
+                    fluid(maxWidth: 200, maxHeight: 100, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

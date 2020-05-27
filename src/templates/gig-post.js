@@ -79,7 +79,7 @@ export const GigPostTemplate = ({
                     //border: '1px solid  #FF7500',
                   }}>
                   <figure className="image is-3by5">
-                    <img src={poster} />
+                    <img src={poster} style={{width: '100%', height: '100%'}} />
                   </figure>
                 </div>
               )}
@@ -109,14 +109,9 @@ export const GigPostTemplate = ({
 
             <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
               <div className="container" style={{height: '100%'}}>
-
-            <div style={{minHeight: '100vh'}}>
-                <PostContent
-                  className="content"
-                  content={content}
-           
-                />
-                    </div>
+                <div style={{minHeight: '100vh'}}>
+                  <PostContent className="content" content={content} />
+                </div>
                 {tags && tags.length ? (
                   <div>
                     <ul className="taglist">
