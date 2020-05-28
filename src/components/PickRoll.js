@@ -42,7 +42,7 @@ class PickRoll extends React.Component {
                   return (
                     <div className="column is-4-mobile" key={i.link}>
                       <a
-                        href={`${i.link}`}
+                        href={i.link}
                         target="_blank"
                         rel="noopener noreferrer">
                         <article
