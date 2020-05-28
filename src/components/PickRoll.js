@@ -41,7 +41,10 @@ class PickRoll extends React.Component {
                 post.frontmatter.featuredimages.map(i => {
                   return (
                     <div className="column is-4-mobile" key={i.link}>
-                      <a href={`https://${i.link}`} target="_blank">
+                      <a
+                        href={`${i.link}`}
+                        target="_blank"
+                        rel="noopener noreferrer">
                         <article
                           key={i.link}
                           style={{
