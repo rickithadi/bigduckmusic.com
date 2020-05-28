@@ -44,7 +44,7 @@ class BlogRoll extends React.Component {
                           <span
                             class="tag is-success"
                             style={{margin: '10px !important'}}>
-                            >Review
+                            Review
                           </span>
                         ) : null}
                         {post.frontmatter.featuredpost ? (

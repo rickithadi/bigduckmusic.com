@@ -83,13 +83,12 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
                 rel="noopener noreferrer">
                 <span className="icon">
                   <a
                     title="facebook"
                     href="https://www.facebook.com/pg/bigduckpteltd/"
+                rel="noopener noreferrer"
                     target="_blank">
                     <img
                       src={facebook}
@@ -102,6 +101,7 @@ const Navbar = class extends React.Component {
                   <a
                     title="instagram"
                     href="https://instagram.com/bigduckpteltd"
+                rel="noopener noreferrer"
                     target="_blank">
                     <img
                       src={instagram}
