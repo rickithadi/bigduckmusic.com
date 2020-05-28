@@ -5,24 +5,33 @@ import dos from '../../../static/img/carouPics/IMG_1324.jpg';
 import tres from '../../../static/img/carouPics/IMG_0522.jpg';
 import quatro from '../../../static/img/carouPics/IMG_1474.jpg';
 import isnk from '../../../static/img/carouPics/IMG_3455.jpg';
-import fux from '../../../static/img/carouPics/IMG.jpg';
 import heh from '../../../static/img/carouPics/img.jpg';
+import two from '../../../static/img/carouPics/Image4.jpg';
+import tre from '../../../static/img/carouPics/Image3.jpg';
+import pipe from '../../../static/img/carouPics/Image2.jpg';
+import sik from '../../../static/img/carouPics/Image1.jpg';
+import one from '../../../static/img/carouPics/Image5.jpg';
+import t from '../../../static/img/carouPics/Image6.jpg';
+import d from '../../../static/img/carouPics/Image7.jpg';
+
 import Carousel from 'react-bootstrap/Carousel';
 import Layout from '../../components/Layout';
 import GigRoll from '../../components/GigRoll';
 
 export default class gigIndexPage extends React.Component {
   render() {
-    const pics = [uno, dos, tres, quatro, isnk, fux, heh];
+    const pics = [uno, dos, tres, quatro, isnk, heh];
+    const picso = [one, t, d, two, tre,  pipe, sik];
     console.log(pics);
     return (
       <Layout>
-        <Carousel indicators={true} controls={true} style={{Height: '600px'}}>
-          {pics.map(i => {
+        <Carousel indicators={false} controls={false} style={{Height: '600px'}}>
+          {picso.map(i => {
             console.log(i);
             return (
+              //<Carousel.Item  className="full-width-image">
               <Carousel.Item>
-                <img src={i} className="full-width-image" />
+                <img src={i} />
               </Carousel.Item>
             );
           })}
