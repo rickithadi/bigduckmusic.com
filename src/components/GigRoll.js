@@ -57,14 +57,13 @@ class GigRoll extends React.Component {
                               textAlign: 'center !important',
                               alignItems: 'center',
                             }}>
-                            <div className="featured-thumbnail">
-                              <PreviewCompatibleImage
-                                imageInfo={{
-                                  image: post.frontmatter.featuredimage,
-                                  alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                                }}
-                              />
-                            </div>
+                            <PreviewCompatibleImage
+                              style={{width: '100%'}}
+                              imageInfo={{
+                                image: post.frontmatter.featuredimage,
+                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                              }}
+                            />
                           </div>
                         ) : null}
                       </div>
@@ -110,7 +109,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 200, maxHeight: 120,quality: 100) {
+                    fluid(maxWidth: 200, maxHeight: 120, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
