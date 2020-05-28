@@ -31,10 +31,21 @@ class BlogRollF extends React.Component {
                       className={`blog-list-item tile is-child ${
                         post.frontmatter.featuredpost ? 'is-featured ' : ''
                       }`}>
-                      <div className="columns">
-                        <div className="column is-14">
-           <div className="column is-1">
-                          <p style={{textAlign: 'right'}}>
+                      <div className="columns is-mobile">
+                        <div className="column is-5">
+                          <p style={{textAlign: 'left'}}>
+                            <p style={{padding: '0px'}} className="top">
+                              {post.frontmatter.title}
+                            </p>
+                            <span className="subtitle is-size-9 is-block">
+                              <p style={{paddingLeft: '10px'}}>
+                                {post.frontmatter.date}
+                              </p>
+                            </span>
+                          </p>
+                        </div>
+                        <div className="column ">
+                          <p style={{textAlign: 'right', top: '0'}}>
                             {post.frontmatter.isReview ? (
                               <span
                                 class="tag is-success"
@@ -47,22 +58,7 @@ class BlogRollF extends React.Component {
                             ) : null}
                           </p>
                         </div>
-              
-                          <div className="column ">
-                            <p style={{textAlign: 'left'}}>
-                              <p style={{padding: '0px'}} className="top">
-                                {post.frontmatter.title}
-                              </p>
-                              <span className="subtitle is-size-9 is-block">
-                                <p style={{paddingLeft: '10px'}}>
-                                  {post.frontmatter.date}
-                                </p>
-                              </span>
-                            </p>
-                          </div>
-                        </div>
-
-                     </div>
+                      </div>
                       <header>
                         <div className="container centered">
                           <div className="columns centered">
