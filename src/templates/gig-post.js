@@ -78,9 +78,7 @@ export const GigPostTemplate = ({
                     marginBottom: '15px',
                     //border: '1px solid  #FF7500',
                   }}>
-                  <figure className="image is-3by5">
                     <img src={poster} style={{width: '100%', height: '100%'}} />
-                  </figure>
                 </div>
               )}
               <div className="column" style={{padding: '0px 0px 0px 0px'}}>
