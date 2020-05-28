@@ -36,20 +36,30 @@ CMS.registerEditorComponent({
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
     return (
-      '<img src="https://img.youtube.com/vi/' +
+      '[![ALT TEXT HERE](https://img.youtube.com/vi/' +
       obj.id +
-      '/maxresdefault.jpg" alt="Youtube Video"/>'
+      '/0.jpg)](https://www.youtube.com/watch?v=' +
+      obj.id +
+      ')'
     );
   },
 
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-    return (
-      '<img src="https://img.youtube.com/vi/' +
+  return (
+      '[![ALT TEXT HERE](https://img.youtube.com/vi/' +
       obj.id +
-      '/maxresdefault.jpg" alt="Youtube Video"/>'
+      '/0.jpg)](https://www.youtube.com/watch?v=' +
+      obj.id +
+      ')'
     );
+  
+/*    return (*/
+      //'<img src="https://img.youtube.com/vi/' +
+      //obj.id +
+      //'/maxresdefault.jpg" alt="Youtube Video"/>'
+    /*);*/
   },
 });
 CMS.registerEditorComponent({
