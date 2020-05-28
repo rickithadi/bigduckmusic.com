@@ -42,14 +42,14 @@ export const GigPostTemplate = ({
         <div className="columns">
           <div className="column " style={{height: '600px'}}>
             {carousel && (
-              <Carousel className="carou">
+              <Carousel>
                 {carousel.map(i => (
-                  <Carousel.Item>
+                  <Carousel.Item >
                     {i.image && (
-                      <img
-                        src={i.image.childImageSharp.fluid.src}
-                        className="full-width-image"
-                      />
+                        <img
+                          src={i.image.childImageSharp.fluid.src}
+                          className="full-width-image"
+                        />
                     )}
                   </Carousel.Item>
                 ))}
@@ -78,7 +78,7 @@ export const GigPostTemplate = ({
                     marginBottom: '15px',
                     //border: '1px solid  #FF7500',
                   }}>
-                    <img src={poster} style={{width: '100%', height: '100%'}} />
+                  <img src={poster} style={{width: '100%', height: '100%'}} />
                 </div>
               )}
               <div className="column" style={{padding: '0px 0px 0px 0px'}}>

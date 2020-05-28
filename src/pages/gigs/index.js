@@ -21,17 +21,18 @@ import GigRoll from '../../components/GigRoll';
 export default class gigIndexPage extends React.Component {
   render() {
     const pics = [uno, dos, tres, quatro, isnk, heh];
-    const picso = [one, t, d, two, tre,  pipe, sik];
+    const picso = [one, t, d, two, tre, pipe, sik];
     console.log(pics);
     return (
       <Layout>
-        <Carousel indicators={false} controls={false} style={{Height: '600px'}}>
+        <Carousel indicators={false} controls={true} style={{Height: '600px'}}>
           {picso.map(i => {
             console.log(i);
             return (
-              //<Carousel.Item  className="full-width-image">
               <Carousel.Item>
-                <img src={i} />
+                <div>
+                <img src={i} className="carou" />
+                  </div>
               </Carousel.Item>
             );
           })}
