@@ -40,17 +40,18 @@ export const GigPostTemplate = ({
           </h1>
         </div>
         <div className="columns">
-          <div className="column " style={{height: '600px'}}>
+          <div className="column ">
             {carousel && (
-              <Carousel>
+              <Carousel indicators={false} controls={false}>
+                >
                 {carousel.map(i => (
-                  <Carousel.Item >
-                    {i.image && (
-                        <img
-                          src={i.image.childImageSharp.fluid.src}
-                          className="full-width-image"
-                        />
-                    )}
+                  <Carousel.Item>
+                    <figure className="is-2by1">
+                      <img
+                        style={{height: '50vh', width: '100%'}}
+                        src={i.image.childImageSharp.fluid.src}
+                      />
+                    </figure>
                   </Carousel.Item>
                 ))}
               </Carousel>
