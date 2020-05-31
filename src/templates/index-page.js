@@ -24,7 +24,6 @@ export const IndexPageTemplate = ({title, subheading}) => (
             className="sub"
             style={{
               textAlign: 'center !important',
-
               alignItems: 'center',
               justifyContent: 'center',
             }}>
@@ -38,14 +37,11 @@ export const IndexPageTemplate = ({title, subheading}) => (
       style={{backgroundColor: '#18305e'}}>
       <div
         className="hero-body"
-        style={{padding: '0px', paddingBottom: '20px'}}>
+        style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
           <h1
-            className="top"
-            style={{
-              color: '#f77805 !important',
-            }}>
-            Latest Features
+            className="topek">
+           Latest Features
           </h1>
 
           <BlogRollF />

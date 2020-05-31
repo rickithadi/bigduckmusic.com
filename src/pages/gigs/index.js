@@ -25,18 +25,20 @@ export default class gigIndexPage extends React.Component {
     console.log(pics);
     return (
       <Layout>
-        <Carousel indicators={false} controls={true} style={{Height: '600px'}}>
-          {picso.map(i => {
-            console.log(i);
-            return (
-              <Carousel.Item>
-                <div>
-                <img src={i} className="carou" />
-                  </div>
-              </Carousel.Item>
-            );
-          })}
-        </Carousel>
+            <Carousel
+              indicators={false}
+              controls={false}>
+              {picso.map(i => {
+                console.log(i);
+                return (
+                  <Carousel.Item>
+                    <figure className="is-2by1">
+                      <img src={i} style={{height:'50vh',width:'100%'}}/>
+                    </figure>
+                  </Carousel.Item>
+                );
+              })}
+            </Carousel>
         <div className="full-width-image-container-gig">
           <div
             className="text-center"

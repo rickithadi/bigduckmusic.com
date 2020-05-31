@@ -29,7 +29,7 @@ class PickRoll extends React.Component {
         style={{padding: '15px', minHeight: '100%'}}>
         <div className="column is-12 ">
           <h1
-            className="sub"
+            className="topek"
             style={{paddingBottom: '25px', fontSize: 'X-large'}}>
             Top Picks This Week, &nbsp;
             <span>{post.frontmatter.date}</span>
