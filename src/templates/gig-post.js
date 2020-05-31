@@ -42,13 +42,14 @@ export const GigPostTemplate = ({
         <div className="columns">
           <div className="column ">
             {carousel && (
-              <Carousel indicators={false} controls={false}>
+              <Carousel indicators={false} controls={true}>
                 >
                 {carousel.map(i => (
                   <Carousel.Item>
-                    <figure className="is-2by1">
+
+                    <figure className="is-2by1 cen">
                       <img
-                        style={{height: '50vh', width: '100%'}}
+                        style={{height: '50vh'}}
                         src={i.image.childImageSharp.fluid.src}
                       />
                     </figure>
