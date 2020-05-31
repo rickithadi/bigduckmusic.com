@@ -13,7 +13,9 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section" style={{padding: '0'}}>
-              <h1 className="head">{title}</h1>
+              <p className="headingswer" style={{padding: '10px'}}>
+                {title}
+              </p>
               <div
                 style={{
                   backgroundColor: '#a3b6de',
