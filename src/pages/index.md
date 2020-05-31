@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Big Duck Pte ltd
 heading: feel
-subheading: Feel the Big Dick Energy
+subheading: Feel the Bug Dick Energy
 mainpitch:
   title: What we do
   description: Big duck is pretty lit
