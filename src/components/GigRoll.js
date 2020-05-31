@@ -27,8 +27,8 @@ class GigRoll extends React.Component {
                   className={`blog-list-item tile is-child ${
                     post.frontmatter.featuredpost ? 'is-featured ' : ''
                   }`}>
-                  <div className="columns">
-                    <div className="column is-8">
+                      <div className="columns is-mobile">
+                    <div className="column is-5">
                       <p style={{textAlign: 'left'}}>
                         <p style={{padding: '0px'}} className="top">
                           {post.frontmatter.title}
@@ -39,36 +39,29 @@ class GigRoll extends React.Component {
                       </p>
                     </div>
                     <div
-                      className="column is-pulled-right"
+                      className="column "
                       style={{textAlign: 'right'}}>
                       {post.frontmatter.featuredpost ? (
                         <span class="tag is-warning">Featured</span>
                       ) : null}
                     </div>
                   </div>
-                  <header>
-                    <div className="container centered">
-                      <div className="columns centered">
-                        {post.frontmatter.featuredimage ? (
-                          <div
-                            className="column is-12"
-                            style={{
-                              justifyContent: 'center',
-                              textAlign: 'center !important',
-                              alignItems: 'center',
-                            }}>
-                            <PreviewCompatibleImage
-                              style={{width: '100%'}}
-                              imageInfo={{
-                                image: post.frontmatter.featuredimage,
-                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                              }}
-                            />
-                          </div>
-                        ) : null}
-                      </div>
+                  {post.frontmatter.featuredimage ? (
+                    <div
+                      className="column is-14"
+                      style={{
+                        justifyContent: 'center',
+                        textAlign: 'center !important',
+                        alignItems: 'center',
+                      }}>
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                        }}
+                      />
                     </div>
-                  </header>
+                  ) : null}
                   <p style={{color: '#18305e'}}>{post.excerpt}</p>
                 </article>
               </div>

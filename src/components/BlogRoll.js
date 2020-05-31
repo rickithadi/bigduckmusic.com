@@ -54,28 +54,22 @@ class BlogRoll extends React.Component {
                     </div>
                   </div>
 
-                  <header>
-                    <div className="container centered">
-                      <div className="columns centered">
-                        {post.frontmatter.featuredimage ? (
-                          <div
-                            className="column is-14"
-                            style={{
-                              justifyContent: 'center',
-                              textAlign: 'center !important',
-                              alignItems: 'center',
-                            }}>
-                            <PreviewCompatibleImage
-                              imageInfo={{
-                                image: post.frontmatter.featuredimage,
-                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                              }}
-                            />
-                          </div>
-                        ) : null}
-                      </div>
+                  {post.frontmatter.featuredimage ? (
+                    <div
+                      className="column is-14"
+                      style={{
+                        justifyContent: 'center',
+                        textAlign: 'center !important',
+                        alignItems: 'center',
+                      }}>
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                        }}
+                      />
                     </div>
-                  </header>
+                  ) : null}
                   <p style={{color: '#18305e'}}>{post.excerpt}</p>
                 </article>
               </div>
