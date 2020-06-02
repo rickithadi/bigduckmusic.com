@@ -38,7 +38,7 @@ class BlogRollF extends React.Component {
                               {post.frontmatter.title}
                             </p>
                             <span className="subtitle is-size-9 is-block">
-                                {post.frontmatter.date}
+                              {post.frontmatter.date}
                             </span>
                           </p>
                         </div>
@@ -57,7 +57,7 @@ class BlogRollF extends React.Component {
                           </p>
                         </div>
                       </div>
-                      {post.frontmatter.featuredimage ? (
+                      {post.frontmatter.featuredimageo ? (
                         <div
                           className="column is-14"
                           style={{
@@ -67,15 +67,16 @@ class BlogRollF extends React.Component {
                           }}>
                           <PreviewCompatibleImage
                             imageInfo={{
-                              image: post.frontmatter.featuredimage,
+                              image: post.frontmatter.featuredimageo,
                               alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                             }}
                           />
                         </div>
                       ) : null}
 
-                  <p style={{color: '#18305e', fontFamily: 'Nunito'}}>
-                            {post.excerpt}</p>
+                      <p style={{color: '#18305e', fontFamily: 'Nunito'}}>
+                        {post.excerpt}
+                      </p>
                     </article>
                   </div>
                 </Link>
@@ -116,13 +117,7 @@ export default () => (
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 isReview
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 200, maxHeight: 100, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
+                featuredimageo
               }
             }
           }

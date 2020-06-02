@@ -53,7 +53,7 @@ class GigRoll extends React.Component {
                   </div>
                   {post.frontmatter.featuredimageo ? (
                     <div
-                      className="column is-14"
+                      className="column is-14 cen"
                       style={{
                         justifyContent: 'center',
                         textAlign: 'center !important',
