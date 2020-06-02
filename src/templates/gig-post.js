@@ -12,7 +12,6 @@ import {SocialIcon} from 'react-social-icons';
 import SpotifyPlayer from 'react-spotify-player';
 export const GigPostTemplate = ({
   content,
-  test,
   carousel,
   contentComponent,
   description,
@@ -24,7 +23,7 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(test);
+  console.log(carousel);
 
   return (
     <section className="section" style={{backgroundColor: '#18305e'}}>
@@ -48,10 +47,7 @@ export const GigPostTemplate = ({
                 {carousel.map(i => (
                   <Carousel.Item>
                     <figure className="is-2by1 cen">
-                      <img
-                        style={{height: '50vh'}}
-                        src={i}
-                      />
+                      <img style={{height: '50vh'}} src={i} />
                     </figure>
                   </Carousel.Item>
                 ))}
@@ -157,7 +153,7 @@ const GigPost = ({data}) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         carousel={post.frontmatter.test}
-        //poster={post.frontmatter.poster.childImageSharp.fluid.src}
+        poster={post.frontmatter.poster}
         spotify={post.frontmatter.spotify}
         helmet={
           <Helmet titleTemplate="%s | Big Duck Gigs">
@@ -194,26 +190,11 @@ export const pageQuery = graphql`
         spotify
         tags
         description
-        poster {
-          childImageSharp {
-            fluid(quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         socials {
           url
         }
-        carousel {
-          image {
-            childImageSharp {
-              fluid(quality: 100) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
         test
+      poster
       }
     }
   }

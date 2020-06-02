@@ -8,8 +8,10 @@ spotify: lit
 date: 2020-06-02T06:28:02.805Z
 description: asdsa
 featuredpost: true
-featuredimage: https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
-poster: https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
+poster 
+  - https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
+featuredimage 
+  - https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
 tags:
   - lma
   - lit
@@ -18,4 +20,5 @@ carousel:
 socials:
   - url: https://instagram.com
 ---
+
 sdfsdf

@@ -9,6 +9,7 @@ class GigRoll extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
+    console.log(data);
 
     return (
       <div className="columns is-multiline">
@@ -50,7 +51,7 @@ class GigRoll extends React.Component {
                       </p>
                     </div>
                   </div>
-                  {post.frontmatter.featuredimage ? (
+                  {post.frontmatter.featuredimageo ? (
                     <div
                       className="column is-14"
                       style={{
@@ -60,7 +61,7 @@ class GigRoll extends React.Component {
                       }}>
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.featuredimage,
+                          image: post.frontmatter.featuredimageo,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
@@ -107,13 +108,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 200, maxHeight: 120, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
+                featuredimageo
               }
             }
           }
