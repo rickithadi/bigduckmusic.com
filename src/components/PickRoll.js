@@ -51,12 +51,10 @@ class PickRoll extends React.Component {
                             textAlign: 'center',
                             backgroundColor: '#bc9cce',
                             borderRadius: '10px',
-                            padding: '15px',
+                            padding: '5px',
                             border: '1px solid  #FF7500',
                           }}>
-                          <figure className="image ">
                             <img src={i.image.childImageSharp.fluid.src} />
-                          </figure>
                         </article>
                       </a>
                     </div>
