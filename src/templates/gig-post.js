@@ -41,22 +41,22 @@ export const GigPostTemplate = ({
         </div>
         <div className="columns">
           <div className="column ">
-            {carousel && (
-              <Carousel indicators={false} controls={true}>
-                >
-                {carousel.map(i => (
-                  <Carousel.Item>
-
-                    <figure className="is-2by1 cen">
-                      <img
-                        style={{height: '50vh'}}
-                        src={i.image.childImageSharp.fluid.src}
-                      />
-                    </figure>
-                  </Carousel.Item>
-                ))}
-              </Carousel>
-            )}
+            {carousel &&
+              Carousel.length >
+                1(
+                  <Carousel indicators={false} controls={true}>
+                    {carousel.map(i => (
+                      <Carousel.Item>
+                        <figure className="is-2by1 cen">
+                          <img
+                            style={{height: '50vh'}}
+                            src={i.image.childImageSharp.fluid.src}
+                          />
+                        </figure>
+                      </Carousel.Item>
+                    ))}
+                  </Carousel>,
+                )}
           </div>
         </div>
 
@@ -109,7 +109,7 @@ export const GigPostTemplate = ({
 
             <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
               <div className="container" style={{height: '100%'}}>
-                <div style={{minHeight: '100vh',fontFamily:'Nunito'}}>
+                <div style={{minHeight: '100vh', fontFamily: 'Nunito'}}>
                   <PostContent className="content" content={content} />
                 </div>
                 {tags && tags.length ? (
