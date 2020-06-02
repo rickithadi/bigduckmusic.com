@@ -42,20 +42,28 @@ class PickRoll extends React.Component {
                   return (
                     <div className="column is-4-mobile" key={i.link}>
                       <a
+                        className="cen"
                         href={i.link}
                         target="_blank"
                         rel="noopener noreferrer">
-                        <article
+                        <figure
                           key={i.link}
+                          className="is-square"
                           style={{
                             textAlign: 'center',
                             backgroundColor: '#bc9cce',
                             borderRadius: '10px',
                             padding: '5px',
                             border: '1px solid  #FF7500',
+
+                            height: '100px',
+                            width: '100px',
                           }}>
-                          <img src={i.image} />
-                        </article>
+                          <img
+                            src={i.image}
+                            style={{height: '100%', width: '100%'}}
+                          />
+                        </figure>
                       </a>
                     </div>
                   );
