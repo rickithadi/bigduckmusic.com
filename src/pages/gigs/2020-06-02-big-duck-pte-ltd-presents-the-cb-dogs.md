@@ -16,7 +16,7 @@ test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591109502/CB%20dogs/img_6067_48851278178_o-min_xy1jes.jpg
 poster: https://res.cloudinary.com/ddomozydd/image/upload/v1591109642/CB%20dogs/5OCTNEWNEW_sgnokv.png
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1591109370/CB%20dogs/cbdawg_pkajo1.jpg
-title: "Big Duck Pte Ltd presents: The CB Dogs"
+title: The CB Dogs
 spotify: https://open.spotify.com/playlist/2SSXw1eYlEMUgPzhP6ayBw?si=Y6juyMn-SvaZaB07_d7sfA
 date: 2019-10-05T11:00:40.143Z
 description: "Big Duck Pte Ltd presents: The CB Dogs!"
