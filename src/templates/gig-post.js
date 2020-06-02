@@ -23,6 +23,7 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+  console.log(carousel);
 
   return (
     <section className="section" style={{backgroundColor: '#18305e'}}>
@@ -41,22 +42,20 @@ export const GigPostTemplate = ({
         </div>
         <div className="columns">
           <div className="column ">
-            {carousel &&
-              Carousel.length >
-                1(
-                  <Carousel indicators={false} controls={true}>
-                    {carousel.map(i => (
-                      <Carousel.Item>
-                        <figure className="is-2by1 cen">
-                          <img
-                            style={{height: '50vh'}}
-                            src={i.image.childImageSharp.fluid.src}
-                          />
-                        </figure>
-                      </Carousel.Item>
-                    ))}
-                  </Carousel>,
-                )}
+            {carousel && carousel.length > 0 && (
+              <Carousel indicators={false} controls={true}>
+                {carousel.map(i => (
+                  <Carousel.Item>
+                    <figure className="is-2by1 cen">
+                      <img
+                        style={{height: '50vh'}}
+                        src={i.image.childImageSharp.fluid.src}
+                      />
+                    </figure>
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            )}
           </div>
         </div>
 
