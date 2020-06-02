@@ -36,11 +36,14 @@ class PickRoll extends React.Component {
           </h1>
 
           <div key={post.id}>
-            <div className="columns is-multiline is-mobile">
+            <div className="columns is-multiline is-mobile is-2 cen">
               {post.frontmatter.featuredimageso &&
                 post.frontmatter.featuredimageso.map(i => {
                   return (
-                    <div className="column is-4-mobile" key={i.link}>
+                    <div
+                      className="column is-4-mobile "
+                      key={i.link}
+                      style={{flexGrow: '0', padding: '10px'}}>
                       <a
                         className="cen"
                         href={i.link}
