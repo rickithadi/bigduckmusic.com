@@ -6,7 +6,7 @@ description: testicles
 isReview: true
 spotify: testicles
 featuredpost: false
-featuredimage: https://res.cloudinary.com/drxewzlaa/image/upload/v1591081252/frisky_tatvld.jpg
+featuredimageo: https://res.cloudinary.com/drxewzlaa/image/upload/v1591081252/frisky_tatvld.jpg
 tags:
   - testicles
 ---

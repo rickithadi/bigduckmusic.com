@@ -7,6 +7,7 @@ class BlogRoll extends React.Component {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
 
+    console.log(posts);
     return (
       <div className="columns is-multiline">
         {posts &&
@@ -54,9 +55,9 @@ class BlogRoll extends React.Component {
                     </div>
                   </div>
 
-                  {post.frontmatter.featuredimage ? (
+                  {post.frontmatter.featuredimageo ? (
                     <div
-                      className="column is-14"
+                      className="column is-14 cen"
                       style={{
                         justifyContent: 'center',
                         textAlign: 'center !important',
@@ -64,7 +65,7 @@ class BlogRoll extends React.Component {
                       }}>
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.featuredimage,
+                          image: post.frontmatter.featuredimageo,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
@@ -111,13 +112,7 @@ export default () => (
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 isReview
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 200, maxHeight: 100, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
+                featuredimageo
               }
             }
           }
