@@ -34,7 +34,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
     </section>
     <section
       className="hero is-info is-large"
-      style={{backgroundColor: '#18305e'}}>
+      style={{backgroundColor: '#18305e',minHeight:'50vh'}}>
       <div
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
