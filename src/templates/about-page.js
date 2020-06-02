@@ -19,6 +19,7 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
               <div
                 style={{
                   backgroundColor: '#a3b6de',
+                  fontFamily: 'Nunito',
                   borderRadius: '10px',
                   padding: '15px',
                 }}>

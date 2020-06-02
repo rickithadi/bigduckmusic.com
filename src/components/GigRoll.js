@@ -66,7 +66,10 @@ class GigRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p style={{color: '#18305e'}}>{post.excerpt}</p>
+
+                  <p style={{color: '#18305e', fontFamily: 'Nunito'}}>
+                    {post.excerpt}
+                  </p>
                 </article>
               </div>
             </Link>
