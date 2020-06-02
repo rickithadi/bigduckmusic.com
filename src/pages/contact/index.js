@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <p className="top">Contact</p>
+              <p className="head">Contact</p>
 
               <section
                 style={{backgroundColor: '#a3b6de', borderRadius: '10px'}}>

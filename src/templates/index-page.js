@@ -14,9 +14,9 @@ export const IndexPageTemplate = ({title, subheading}) => (
           className="text-center"
           style={{textAlign: 'center'}}
           style={{
-            backgroundColor: '#a3b6de',
+            //backgroundColor: '#a3b6de',
             padding: '20px',
-            boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
+            //boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
             borderRadius: '10px',
           }}>
           <h1 className="head">{title}</h1>
