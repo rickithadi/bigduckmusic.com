@@ -37,7 +37,7 @@ tags:
   - YHBsleepsalot
   - Helluva Khai
   - The CB Dogs
-  - Bad Dod
+  - BAD DOD
   - Knightingale
 socials:
   - url: https://www.facebook.com/bigduckpteltd/
