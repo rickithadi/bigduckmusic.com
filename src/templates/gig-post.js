@@ -194,7 +194,7 @@ export const pageQuery = graphql`
           url
         }
         test
-      poster
+        poster
       }
     }
   }
