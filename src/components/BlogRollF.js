@@ -38,9 +38,7 @@ class BlogRollF extends React.Component {
                               {post.frontmatter.title}
                             </p>
                             <span className="subtitle is-size-9 is-block">
-                              <p style={{paddingLeft: '10px'}}>
                                 {post.frontmatter.date}
-                              </p>
                             </span>
                           </p>
                         </div>

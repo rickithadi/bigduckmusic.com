@@ -27,8 +27,8 @@ class GigRoll extends React.Component {
                   className={`blog-list-item tile is-child ${
                     post.frontmatter.featuredpost ? 'is-featured ' : ''
                   }`}>
-                      <div className="columns is-mobile">
-                    <div className="column is-5">
+                  <div className="columns is-mobile">
+                    <div className="column ">
                       <p style={{textAlign: 'left'}}>
                         <p style={{padding: '0px'}} className="top">
                           {post.frontmatter.title}
@@ -38,12 +38,16 @@ class GigRoll extends React.Component {
                         </span>
                       </p>
                     </div>
-                    <div
-                      className="column "
-                      style={{textAlign: 'right'}}>
-                      {post.frontmatter.featuredpost ? (
-                        <span class="tag is-warning">Featured</span>
-                      ) : null}
+                    <div className="column-is-1 " style={{textAlign: 'right'}}>
+                      <p style={{textAlign: 'right', top: '0'}}>
+                        {post.frontmatter.featuredpost ? (
+                          <span
+                            class="tag is-success"
+                            style={{margin: '10px !important'}}>
+                            Featured
+                          </span>
+                        ) : null}
+                      </p>
                     </div>
                   </div>
                   {post.frontmatter.featuredimage ? (
