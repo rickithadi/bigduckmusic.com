@@ -51,7 +51,7 @@ Supported by some of Singapore’s most electrifying acts including musical maes
 
 \-
 
-Lineup:
+##### Lineup:
 
 *Hidemen*
 
