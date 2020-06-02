@@ -33,8 +33,9 @@ socials:
 ---
 ### 5th October 2019
 
-THE CB DOGS LIVE PRESENTED BY BIG DUCK PTE LTD 5th October at Parklane Shopping Mall
-#03-09 Tonehouse Studios $15 at the Door
+THE CB DOGS LIVE PRESENTED BY BIG DUCK PTE LTD 5th October 
+
+Parklane Shopping Mall #03-09 Tonehouse Studios $15 at the Door
 
 \-
 
@@ -43,7 +44,6 @@ THE CB DOGS LIVE PRESENTED BY BIG DUCK PTE LTD 5th October at Parklane Shopping 
 \-
 
 ##### Lineup:
-
 
 *Helluva Khai*
 
