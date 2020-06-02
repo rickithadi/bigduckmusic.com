@@ -109,7 +109,7 @@ export const GigPostTemplate = ({
 
             <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
               <div className="container" style={{height: '100%'}}>
-                <div style={{minHeight: '100vh'}}>
+                <div style={{minHeight: '100vh',fontFamily:'Nunito'}}>
                   <PostContent className="content" content={content} />
                 </div>
                 {tags && tags.length ? (

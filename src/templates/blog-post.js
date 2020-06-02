@@ -36,7 +36,8 @@ export const BlogPostTemplate = ({
         </div>
         <div className="columns">
           <div className="column is-8 " style={{backgroundColor: '#a3b6de'}}>
-            <div style={{height: '100%'}}>
+            <div style={{height: '100%',
+               fontFamily:'Nunito'}}>
               <PostContent
                 content={content}
                 className="content"
