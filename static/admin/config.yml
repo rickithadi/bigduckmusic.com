@@ -10,8 +10,8 @@ backend:
 media_library:
   name: cloudinary
   config:
-    cloud_name: drxewzlaa
-    api_key: 965129456138243
+    cloud_name: ddomozydd
+    api_key: 185835969258919
 media_folder: static/img
 site_url: https://bigduckmusic.com
 display_url: https://bigduckmusic.com
