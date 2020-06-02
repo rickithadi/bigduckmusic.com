@@ -1,0 +1,3 @@
+    cloud_name: ddomozydd
+    api_key: 185835969258919
+

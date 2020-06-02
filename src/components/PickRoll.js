@@ -37,8 +37,8 @@ class PickRoll extends React.Component {
 
           <div key={post.id}>
             <div className="columns is-multiline is-mobile">
-              {post.frontmatter.featuredimages &&
-                post.frontmatter.featuredimages.map(i => {
+              {post.frontmatter.featuredimageso &&
+                post.frontmatter.featuredimageso.map(i => {
                   return (
                     <div className="column is-4-mobile" key={i.link}>
                       <a
@@ -54,7 +54,7 @@ class PickRoll extends React.Component {
                             padding: '5px',
                             border: '1px solid  #FF7500',
                           }}>
-                            <img src={i.image.childImageSharp.fluid.src} />
+                          <img src={i.image} />
                         </article>
                       </a>
                     </div>
@@ -93,15 +93,9 @@ export default () => (
               frontmatter {
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredimages {
+                featuredimageso {
                   link
-                  image {
-                    childImageSharp {
-                      fluid(maxWidth: 240, quality: 100) {
-                        ...GatsbyImageSharpFluid
-                      }
-                    }
-                  }
+                  image
                 }
               }
             }
