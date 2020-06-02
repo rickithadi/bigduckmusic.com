@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Big Duck Pte ltd
 heading: feel
-subheading: Feel the Bug Dick Energy
+subheading: Feel the Big Duck Energy
 mainpitch:
   title: What we do
   description: Big duck is pretty lit
@@ -10,7 +10,6 @@ intro:
   blurbs: []
   heading: What we offer
   description: smthng...
-description: We do a lot of stuff
 main:
   heading: Great events with no compromises
   description: >
@@ -28,4 +27,5 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 image: /img/iz.jpg
+description: We do a lot of stuff
 ---
