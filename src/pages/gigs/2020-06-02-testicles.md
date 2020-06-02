@@ -13,7 +13,6 @@ poster
 featuredimage 
   - https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
 tags:
-  - lma
   - lit
 carousel:
   - image: https://res.cloudinary.com/drxewzlaa/image/upload/v1591079315/amazon-cloudfront_vvhv71.png
