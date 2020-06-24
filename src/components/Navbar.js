@@ -66,20 +66,18 @@ const Navbar = class extends React.Component {
             style={{backgroundColor: 'black'}}
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
-            <div
-              className="navbar-start has-text-centered"
-              style={{height: '100%'}}>
+            <div className="navbar-start " style={{height: '100%'}}>
               <Link className="navbar-item" to="/about">
-                About
+                <p style={{color: 'white'}}>About</p>
               </Link>
               <Link className="navbar-item" to="/features">
-                Features & Reviews
+                <p style={{color: 'white'}}>Features & Reviews</p>
               </Link>
               <Link className="navbar-item" to="/gigs">
-                Gigs
+                <p style={{color: 'white'}}>Gigs</p>
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                <p style={{color: 'white'}}>Contact</p>
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
