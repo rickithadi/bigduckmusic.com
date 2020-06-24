@@ -7,42 +7,33 @@ import PickRoll from '../components/PickRoll';
 import BlogRollF from '../components/BlogRollF';
 
 export const IndexPageTemplate = ({title, subheading}) => (
-  <div style={{backgroundColor: '#18305e'}}>
-    <section style={{paddingTop: '3%'}}>
-      <div className="full-width-image-container " style={{height: '20%'}}>
-        <div
-          className="text-center"
-          style={{textAlign: 'center'}}
-          style={{
-            //backgroundColor: '#a3b6de',
-            padding: '20px',
-            //boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
-            borderRadius: '10px',
-          }}>
-          <h1 className="head">{title}</h1>
+  <div>
+    <section style={{backgroundColor: 'black', height: '100vh'}}>
+
+      <div class="columns is-vcentered " >
+        <div class="column is-half">
           <p
-            className="sub"
+            className="homeHeader"
             style={{
-              textAlign: 'center !important',
-              alignItems: 'center',
-              justifyContent: 'center',
+              textAlign: 'left !important',
+              paddingTop: '10vh',
+              paddingLeft: '5vw',
+              alignItems: 'left',
             }}>
             {subheading}
           </p>
         </div>
+          <div class="column is-half"></div>
       </div>
     </section>
     <section
       className="hero is-info is-large"
-      style={{backgroundColor: '#18305e',minHeight:'50vh'}}>
+      style={{backgroundColor: '#18305e', minHeight: '50vh'}}>
       <div
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
-          <h1
-            className="topek">
-           Latest Features
-          </h1>
+          <h1 className="topek">Latest Features</h1>
 
           <BlogRollF />
         </div>

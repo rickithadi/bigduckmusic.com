@@ -4,11 +4,13 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url("/bike/style.css");
 
 @media screen and (max-device-width: 480px)
   body
     -webkit-text-size-adjust: none;
-  
+
 
 
 // Config vars
@@ -24,7 +26,7 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #18305e
 $black: pink
-.navbar .navbar-menu  
+.navbar .navbar-menu
   box-shadow:none !important
   //background-image: $bg-img !important
 
@@ -46,7 +48,9 @@ $black: pink
   text-decoration:underline !important
   text-transform: uppercase
   text-align:center !important
-  font-family: 'Modak', cursive
+  //font-family: 'Modak', cursive
+  font-family: 'Permanent Marker', cursive;
+  //font-family: 'Bicyclette' ;
   color:#ffc66b
   //font-family: 'Chicle', cursive
   //color: #bc9cce !important
@@ -62,11 +66,19 @@ $black: pink
   font-family: 'Modak', cursive;
   //font-family: 'Chicle', cursive
   color: #18305e
-  
+
+.homeHeader
+  font-family: 'Permanent Marker',cursive;
+  font-size: XXX-large
+  font-style: normal;
+  font-size: 142px;
+  line-height: 207px;
+  color: #FFFFFF;
+
+
 
 .top
-  //font-family: 'Chicle', cursive
-  font-family: 'Modak', cursive;
+  font-family: 'Bicyclette' ;
   font-size: XX-large
   text-align:left
   //color: #f77805 !important
@@ -104,7 +116,7 @@ $black: pink
   text-align:center !important
   justify-content: center
   align-items: center
- 
+
 .taglist
   list-style: none
   margin-bottom: 0
@@ -118,7 +130,7 @@ $black: pink
     padding: 0 2rem 1rem 0
     margin-top: 0 !important
 
- 
+
 // Helper Classes
 .full-width-image-container-gig
   width: 100%
@@ -202,7 +214,7 @@ item:hover
 
 .navbar-item .hover
   color: #f77805
-  
+
 
 //Menu overrides
 $menu-item-color: $black
