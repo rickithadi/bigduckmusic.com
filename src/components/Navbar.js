@@ -43,27 +43,34 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <h1 style={{color: 'white', fontWeight: 'bold'}}>
-                Big Duck Music
-              </h1>
               <img
                 src={logo}
                 alt="big duck"
-                style={{height: '95px', width: '50px', color: 'orange'}}
+                style={{
+                  height: '95px',
+                  width: '50px',
+                  backgroundColor: 'white',
+                }}
               />
             </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
-              onClick={() => this.toggleHamburger()}>
+              onClick={() => this.toggleHamburger()}
+              style={{color: 'white'}}>
               <span />
               <span />
               <span />
             </div>
           </div>
           <div
-            style={{backgroundColor: 'black'}}
+            style={{
+              backgroundColor: 'black',
+              minHeight: '100vh',
+              position: 'fixed',
+              minWidth: '100vw',
+            }}
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start " style={{height: '100%'}}>
