@@ -10,8 +10,8 @@ export const IndexPageTemplate = ({title, subheading}) => (
   <div>
     <section style={{backgroundColor: 'black', height: '100vh'}}>
 
-      <div class="columns is-vcentered " >
-        <div class="column is-half">
+      <div class="columns is-vcentered is-mobile" >
+        <div class="column ">
           <p
             className="homeHeader"
             style={{
@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
             {subheading}
           </p>
         </div>
-          <div class="column is-half"></div>
+          <div class="column ">hehe</div>
       </div>
     </section>
     <section

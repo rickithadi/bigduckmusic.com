@@ -28,10 +28,12 @@ $body-color: #18305e
 $black: pink
 .navbar .navbar-menu
   box-shadow:none !important
+  font-family: 'Bicyclette' ;
   //background-image: $bg-img !important
 
 .navbar
   box-shadow:none !important
+  font-family: 'Bicyclette' ;
   //background-image: $bg-img !important
 
 
@@ -71,8 +73,8 @@ $black: pink
   font-family: 'Permanent Marker',cursive;
   font-size: XXX-large
   font-style: normal;
-  font-size: 142px;
-  line-height: 207px;
+  //font-size: 142px;
+  line-height: 123%;
   color: #FFFFFF;
 
 
@@ -197,12 +199,12 @@ $black: pink
   margin-top: 0 !important
 
 .navbar-item .icon
-  color: $black
-// Override for use of svg's from https://simpleicons.org/
+  font-family: 'Bicyclette' ;
+  color: white// Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
   height: 1.5rem
-  fill: currentColor
+  fill: white
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
@@ -210,9 +212,6 @@ footer.footer
   background-color: transparent
 
 item:hover
-  color: #f77805
-
-.navbar-item .hover
   color: #f77805
 
 
@@ -240,7 +239,7 @@ $menu-label-color: #f77805
   list-style: none !important
   text-align: left
 .social
-  backgroundColor:transparent
+  background-color:transparent
   padding: 2em
 
 .social a
@@ -272,6 +271,8 @@ $menu-label-color: #f77805
   align-items: center
   margin: 0 1.5em 0 0;
 
+.is-active
+  background-color:pink
 
 @import "~bulma"
 

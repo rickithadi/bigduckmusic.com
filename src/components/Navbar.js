@@ -36,14 +36,14 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="navbar"
         role="navigation"
-        style={{backgroundColor: '#bc9cce'}}
+        style={{backgroundColor: 'black'}}
         aria-label="main-navigation">
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <h1 style={{color: 'black', fontWeight: 'bold'}}>
+              <h1 style={{color: 'white', fontWeight: 'bold'}}>
                 Big Duck Music
               </h1>
               <img
@@ -63,10 +63,12 @@ const Navbar = class extends React.Component {
             </div>
           </div>
           <div
-            style={{backgroundColor: '#bc9cce'}}
+            style={{backgroundColor: 'black'}}
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
-            <div className="navbar-start has-text-centered">
+            <div
+              className="navbar-start has-text-centered"
+              style={{height: '100%'}}>
               <Link className="navbar-item" to="/about">
                 About
               </Link>
@@ -81,14 +83,12 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                rel="noopener noreferrer">
+              <a className="navbar-item" rel="noopener noreferrer">
                 <span className="icon">
                   <a
                     title="facebook"
                     href="https://www.facebook.com/pg/bigduckpteltd/"
-                rel="noopener noreferrer"
+                    rel="noopener noreferrer"
                     target="_blank">
                     <img
                       src={facebook}
@@ -101,7 +101,7 @@ const Navbar = class extends React.Component {
                   <a
                     title="instagram"
                     href="https://instagram.com/bigduckpteltd"
-                rel="noopener noreferrer"
+                    rel="noopener noreferrer"
                     target="_blank">
                     <img
                       src={instagram}
