@@ -8,7 +8,7 @@ import BlogRollF from '../components/BlogRollF';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
-    <section style={{backgroundColor: 'black', height: '100vh'}}>
+    <section className="home" style={{backgroundColor: 'black', height: '100vh'}}>
 
       <div class="columns is-vcentered is-mobile" >
         <div class="column ">
@@ -16,7 +16,8 @@ export const IndexPageTemplate = ({title, subheading}) => (
             className="homeHeader"
             style={{
               textAlign: 'left !important',
-              paddingTop: '10vh',
+              paddingTop: '50%',
+              paddingBottom: '50%',
               paddingLeft: '5vw',
               alignItems: 'left',
             }}>
