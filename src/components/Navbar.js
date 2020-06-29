@@ -65,12 +65,6 @@ const Navbar = class extends React.Component {
             </div>
           </div>
           <div
-            style={{
-              backgroundColor: 'black',
-              minHeight: '100vh',
-              position: 'fixed',
-              minWidth: '100vw',
-            }}
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start " style={{height: '100%'}}>
