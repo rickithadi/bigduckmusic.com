@@ -9,25 +9,20 @@ import duck from '../img/sex/Group.png';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
-    <section
-          className="home"
-      style={{backgroundColor: 'black', height: '100vh'}}>
+    <section style={{backgroundColor: 'black', height: '100vh'}}className="home">
       <div class="columns is-vcentered is-mobile">
-        <div class="column ">
+        <div class="column is-6 is-offset-1">
           <p
             className="homeHeader"
             style={{
               textAlign: 'left !important',
-              paddingTop: '50%',
+              paddingTop: '15%',
               paddingBottom: '50%',
               paddingLeft: '5vw',
               alignItems: 'left',
             }}>
             {subheading}
           </p>
-        </div>
-          <div class="column ">
-          hehe
         </div>
       </div>
     </section>

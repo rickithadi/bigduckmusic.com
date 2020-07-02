@@ -40,9 +40,10 @@ $black: pink
  background-image: url('../img/blackDuck.jpg');
  background-color:black
  //background-image: url('../img/sex/Group.png')
- background-position: 85%; /* Center the image */
+ background-position: center center; /* Center the image */
  background-repeat: no-repeat; /* Center the image */
- background-size: contain; /* Center the image */
+ background-attachment: fixed;
+ background-size: cover; /* Center the image */
 .box
   border-color:#f77805
   //background-image: $head-img !important>
@@ -77,10 +78,10 @@ $black: pink
 
 .homeHeader
   font-family: 'Permanent Marker',cursive;
-  font-size: XXX-large
+  font-size: 400%
   font-style: normal;
   //font-size: 142px;
-  line-height: 123%;
+  line-height: 207px;
   color: #FFFFFF;
 
 
@@ -288,7 +289,6 @@ $menu-label-color: #f77805
 
 
 @import "~bulma"
-
 
 // responsiveness
 +tablet-only
