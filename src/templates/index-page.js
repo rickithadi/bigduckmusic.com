@@ -11,14 +11,12 @@ export const IndexPageTemplate = ({title, subheading}) => (
   <div>
     <section style={{backgroundColor: 'black', height: '100vh'}}className="home">
       <div class="columns is-vcentered is-mobile">
-        <div class="column is-6 is-offset-1">
+        <div class="column is-6 is-offset-1 is-vcentered"style={{height:'100%'}}>
           <p
             className="homeHeader"
             style={{
               textAlign: 'left !important',
-              paddingTop: '15%',
               paddingBottom: '50%',
-              paddingLeft: '5vw',
               alignItems: 'left',
             }}>
             {subheading}
