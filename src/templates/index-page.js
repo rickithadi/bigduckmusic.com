@@ -5,12 +5,14 @@ import {Link, graphql} from 'gatsby';
 import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRollF from '../components/BlogRollF';
+import duck from '../img/sex/Group.png';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
-    <section className="home" style={{backgroundColor: 'black', height: '100vh'}}>
-
-      <div class="columns is-vcentered is-mobile" >
+    <section
+          className="home"
+      style={{backgroundColor: 'black', height: '100vh'}}>
+      <div class="columns is-vcentered is-mobile">
         <div class="column ">
           <p
             className="homeHeader"
@@ -24,7 +26,9 @@ export const IndexPageTemplate = ({title, subheading}) => (
             {subheading}
           </p>
         </div>
-          <div class="column ">hehe</div>
+          <div class="column ">
+          hehe
+        </div>
       </div>
     </section>
     <section

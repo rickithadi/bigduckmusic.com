@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import logo from '../img/Big-Duck_Transparent.svg';
+import duck from '../img/sex/Group.png';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
 
