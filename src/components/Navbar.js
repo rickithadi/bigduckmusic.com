@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import logo from '../img/Big-Duck_Transparent.svg';
-import duck from '../img/sex/Group.png';
+import duck from '../img/sex/dick.svg';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
 
@@ -36,42 +36,42 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar"
+     <nav
+        className={`navbar ${this.state.navBarActiveClass}`}
+style={{padding:'0'}}
         role="navigation"
         style={{backgroundColor: 'black'}}
         aria-label="main-navigation">
-        <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img
-                src={logo}
+                src={duck}
                 alt="big duck"
                 style={{
                   height: '95px',
                   width: '50px',
-                  backgroundColor: 'white',
                 }}
               />
             </Link>
             {/* Hamburger menu */}
-            <div
+            <a
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              style={{marginLeft:'60vw !important'}}
+              class="navbar-burger"
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
               style={{color: 'white'}}>
               <span />
               <span />
               <span />
-            </div>
+            </a>
           </div>
           <div
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div
-
-            className={`navbar-start ${this.state.navBarActiveClass}`}
-               style={{height: '100%'}}>
+              className={`navbar-start ${this.state.navBarActiveClass}`}
+              style={{height: '100%'}}>
               <Link className="navbar-item" to="/about">
                 <p style={{color: 'white'}}>About</p>
               </Link>
@@ -116,7 +116,6 @@ const Navbar = class extends React.Component {
               </a>
             </div>
           </div>
-        </div>
       </nav>
     );
   }
