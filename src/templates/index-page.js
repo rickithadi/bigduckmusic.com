@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
     </section>
 
     <section style={{backgroundColor: 'black'}}>
-      <img src={picks} style={{width: '100vw'}} />
+      <img src={picks} style style={{width: '100vw'}} />
       <PickRoll />
     </section>
   </div>

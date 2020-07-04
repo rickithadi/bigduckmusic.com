@@ -27,51 +27,20 @@ class PickRoll extends React.Component {
       <div
         className="container centered"
         style={{padding: '5px', minHeight: '100%'}}>
-        <div className="column is-12 ">
-          <h1
-            className="cen"
-            style={{paddingBottom: '25px', fontSize: 'X-large'}}>
-            Top Picks This Week, &nbsp;
-            <span>{post.frontmatter.date}</span>
-          </h1>
-
-          <div key={post.id}>
-            <div className="columns is-multiline is-mobile is-2 cen">
-              {post.frontmatter.featuredimageso &&
-                post.frontmatter.featuredimageso.map(i => {
-                  return (
-                    <div
-                      className="column is-4-mobile "
-                      key={i.link}
-                      style={{flexGrow: '0', padding: '10px'}}>
-                      <a
-                        className="cen"
-                        href={i.link}
-                        target="_blank"
-                        rel="noopener noreferrer">
-                        <figure
-                          key={i.link}
-                          className="is-square"
-                          style={{
-                            textAlign: 'center',
-                            backgroundColor: '#bc9cce',
-                            borderRadius: '10px',
-                            padding: '5px',
-                            border: '1px solid  #FF7500',
-
-                            height: '100px',
-                            width: '100px',
-                          }}>
-                          <img
-                            src={i.image}
-                            style={{height: '100%', width: '100%'}}
-                          />
-                        </figure>
-                      </a>
-                    </div>
-                  );
-                })}
-            </div>
+        <div key={post.id}>
+          <div className="columns is-multiline is-4 cen">
+            {post.frontmatter.featuredimageso &&
+              post.frontmatter.featuredimageso.map(i => {
+                return (
+                  <div className="column is-4 " key={i.link}>
+                    <img
+                      src={i.image}
+                      className="insta"
+                      style={{height: '100%', width: '100%'}}
+                    />
+                  </div>
+                );
+              })}
           </div>
         </div>
       </div>
