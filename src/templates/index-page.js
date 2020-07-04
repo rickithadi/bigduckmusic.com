@@ -1,4 +1,5 @@
 import React from 'react';
+import cunt from '../img/sex/wordStar.png';
 import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
@@ -9,34 +10,39 @@ import duck from '../img/sex/Group.png';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
-    <section
-      style={{backgroundColor: 'black',minHeight:'100vh'}}
-      className="home">
-      <div class="columns is-vcentered is-mobile">
-        <div
-          class="column is-6 is-offset-1 is-vcentered"
-          style={{height: '100%'}}>
-          <p
-            className="homeHeader"
-            style={{
-              textAlign: 'left !important',
-              alignItems: 'left',
-            }}>
-            {subheading}
-          </p>
+      <section
+        style={{backgroundColor: 'black', minHeight: '100vh'}}
+        className="home">
+        <div class="columns is-vcentered is-mobile">
+          <div
+            class="column is-6 is-offset-1 is-vcentered"
+            style={{minHeight: '100%'}}>
+            <p
+              className="homeHeader"
+              style={{
+                textAlign: 'left !important',
+                alignItems: 'left',
+              }}>
+              {subheading}
+            </p>
+          </div>
         </div>
-      </div>
-
-    </section>
+      </section>
 
     <section
       className="topek hero is-large"
-      style={{ minHeight: '100vh',paddingTop:'10vh'}}>
+      style={{minHeight: '100vh', paddingTop: '10vh'}}>
+      <div class="columns is-vcentered is-mobile" style={{marginTop: '-250px'}}>
+        <div class="column  is-vcentered">
+          <img src={cunt} alt="big duck" />
+        </div>
+      </div>
+
       <div
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
-          <h1 >Latest Features</h1>
+          <h1>Latest Features</h1>
 
           <BlogRollF />
         </div>
