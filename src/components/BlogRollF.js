@@ -18,7 +18,10 @@ class BlogRollF extends React.Component {
             if (!post.frontmatter.isReview) {
               console.log(post);
               return (
-                <div className="is-parent column is-3 " key={post.id}>
+                <div
+                  className="is-parent column is-3 "
+                  key={post.id}
+                  style={{height: '100%'}}>
                   <div class="card">
                     <div class="card-image">
                       <figure class="image is-4by3">
@@ -35,18 +38,15 @@ class BlogRollF extends React.Component {
                       <div class="container">
                         <article className="blog-list-item tile is-child">
                           <div className="columns is-mobile">
-                            <p
-                              style={{paddingTop: '15px', color: 'inherit'}}
-                              className="top">
-                              {post.frontmatter.title}
-                            </p>
+                            <p className="top">{post.frontmatter.title}</p>
                           </div>
                         </article>
+                        <div className="columns is-mobile">
+                          <p className="bike">"{post.excerpt}"</p>
+                        </div>
                       </div>
                     </Link>
-                    <p className="bike">"{post.excerpt}"</p>
-                    <hr className="line" />
-                    <span className="biker">{post.frontmatter.date}</span>
+                    <p className="biker">{post.frontmatter.date}</p>
                   </div>
                 </div>
               );
