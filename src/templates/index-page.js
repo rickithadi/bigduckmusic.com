@@ -10,7 +10,7 @@ import duck from '../img/sex/Group.png';
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
     <section
-      style={{backgroundColor: 'black', height: '120vh'}}
+      style={{backgroundColor: 'black',minHeight:'100vh'}}
       className="home">
       <div class="columns is-vcentered is-mobile">
         <div
@@ -26,10 +26,12 @@ export const IndexPageTemplate = ({title, subheading}) => (
           </p>
         </div>
       </div>
+
     </section>
+
     <section
       className="topek hero is-large"
-      style={{ minHeight: '50vh'}}>
+      style={{ minHeight: '100vh',paddingTop:'10vh'}}>
       <div
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
