@@ -18,63 +18,37 @@ class BlogRollF extends React.Component {
             if (!post.frontmatter.isReview) {
               console.log(post);
               return (
-                <Link
-                  className="is-parent column is-3 card "
-                  key={post.id}
-                  to={post.fields.slug}>
-                  <article
-                    //className={`blog-list-item tile is-child noisy is-warning ${
-                    className={`blog-list-item tile is-child ${
-                      post.frontmatter.featuredpost ? 'is-featured ' : ''
-                    }`}>
-                    <div className="columns is-mobile">
-                      <div className="column is-5">
-                        <p style={{textAlign: 'left'}}>
-                          <p style={{padding: '0px'}} className="top">
-                            {post.frontmatter.title}
-                          </p>
-                       </p>
-                      </div>
-                      <div className="column ">
-                        <p style={{textAlign: 'right', top: '0'}}>
-                          {post.frontmatter.isReview ? (
-                            <span
-                              class="tag is-success"
-                              style={{margin: '10px !important'}}>
-                              >Review
-                            </span>
-                          ) : null}
-                          {post.frontmatter.featuredpost ? (
-                            <span class="tag is-warning">Featured</span>
-                          ) : null}
-                        </p>
-                      </div>
-                    </div>
-                    {post.frontmatter.featuredimageo ? (
-                      <div
-                        className="column is-14"
-                        style={{
-                          justifyContent: 'center',
-                          textAlign: 'center !important',
-                          alignItems: 'center',
-                        }}>
-                        <PreviewCompatibleImage
-                          imageInfo={{
-                            image: post.frontmatter.featuredimageo,
-                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          }}
+                <div className="is-parent column is-3 " key={post.id}>
+                  <div class="card">
+                    <div class="card-image">
+                      <figure class="image is-4by3">
+                        <img
+                          //src="https://bulma.io/images/placeholders/1280x960.png"
+                          src={post.frontmatter.featuredimageo}
+                          alt="Placeholder image"
                         />
+                      </figure>
+                    </div>
+                    <Link
+                      to={post.fields.slug}
+                      style={{paddingTop: '15px', color: 'inherit'}}>
+                      <div class="container">
+                        <article className="blog-list-item tile is-child">
+                          <div className="columns is-mobile">
+                            <p
+                              style={{paddingTop: '15px', color: 'inherit'}}
+                              className="top">
+                              {post.frontmatter.title}
+                            </p>
+                          </div>
+                        </article>
                       </div>
-                    ) : null}
-
-                    <p className="bike">
-                      {post.excerpt}
-                    </p>
-                  </article>
-                  <span className="subtitle is-size-9 is-block">
-                    {post.frontmatter.date}
-                  </span>
-                </Link>
+                    </Link>
+                    <p className="bike">"{post.excerpt}"</p>
+                    <hr className="line" />
+                    <span className="biker">{post.frontmatter.date}</span>
+                  </div>
+                </div>
               );
             }
           })}
