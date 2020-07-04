@@ -35,15 +35,17 @@ class BlogRollF extends React.Component {
                     <Link
                       to={post.fields.slug}
                       style={{paddingTop: '15px', color: 'inherit'}}>
-                      <div class="container">
-                        <article className="blog-list-item tile is-child">
+                      <div class="container" style={{height: '100%'}}>
+                        <article
+                          className="blog-list-item tile is-child"
+                          style={{height: '180px'}}>
                           <div className="columns is-mobile">
                             <p className="top">{post.frontmatter.title}</p>
                           </div>
+                          <div className="columns is-mobile">
+                            <p className="bike">"{post.excerpt}"</p>
+                          </div>
                         </article>
-                        <div className="columns is-mobile">
-                          <p className="bike">"{post.excerpt}"</p>
-                        </div>
                       </div>
                     </Link>
                     <p className="biker">{post.frontmatter.date}</p>
@@ -75,7 +77,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 200)
+              excerpt(pruneLength: 80)
               id
               fields {
                 slug
