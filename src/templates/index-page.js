@@ -9,7 +9,7 @@ import BlogRollF from '../components/BlogRollF';
 import picks from '../img/sex/picks.svg';
 
 export const IndexPageTemplate = ({title, subheading}) => (
-  <div>
+  <div style={{height: '100%'}}>
     <section
       style={{backgroundColor: 'black', paddingBottom: '20vh'}}
       className="home">
@@ -48,8 +48,28 @@ export const IndexPageTemplate = ({title, subheading}) => (
     </section>
 
     <section style={{backgroundColor: 'black'}}>
-      <img src={picks} style style={{width: '100vw'}} />
+      <img src={picks} style={{width: '100vw'}} />
       <PickRoll />
+      <div className="contribute" style={{minHeight: '20vh'}}>
+        <div class="columns is-vcentered is-mobile">
+          <div
+            class="column is-2 is-offset-1 is-vcentered"
+            style={{minHeight: '100%', paddingBottom: '10vh'}}>
+            <p>what</p>
+          </div>
+   <div
+            class="column is-4 is-offset-1 is-vcentered"
+            style={{minHeight: '100%', paddingBottom: '10vh'}}>
+            <p>help out my guy</p>
+          </div>
+
+        <div
+          class="column is-2 is-vcentered"
+          style={{minHeight: '100%', paddingBottom: '10vh'}}>
+          <Link class="button">hi</Link>
+        </div>
+      </div>
+        </div>
     </section>
   </div>
 );
