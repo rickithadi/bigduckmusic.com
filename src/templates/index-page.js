@@ -42,7 +42,6 @@ export const IndexPageTemplate = ({title, subheading}) => (
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
-          <h1>Latest Features</h1>
 
           <BlogRollF />
         </div>
