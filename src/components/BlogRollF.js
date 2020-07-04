@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
+import bg from '../img/sex/FnRBG.png';
+
 class BlogRollF extends React.Component {
   render() {
     const {data} = this.props;

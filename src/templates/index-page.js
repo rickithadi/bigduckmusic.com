@@ -28,13 +28,13 @@ export const IndexPageTemplate = ({title, subheading}) => (
       </div>
     </section>
     <section
-      className="hero is-info is-large"
-      style={{backgroundColor: '#18305e', minHeight: '50vh'}}>
+      className="topek hero is-large"
+      style={{ minHeight: '50vh'}}>
       <div
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
-          <h1 className="topek">Latest Features</h1>
+          <h1 >Latest Features</h1>
 
           <BlogRollF />
         </div>
