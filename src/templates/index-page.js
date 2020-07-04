@@ -6,28 +6,28 @@ import {Link, graphql} from 'gatsby';
 import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRollF from '../components/BlogRollF';
-import duck from '../img/sex/Group.png';
+import picks from '../img/sex/picks.svg';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div>
-      <section
-        style={{backgroundColor: 'black', paddingBottom:'20vh' }}
-        className="home">
-        <div class="columns is-vcentered is-mobile">
-          <div
-            class="column is-6 is-offset-1 is-vcentered"
-            style={{minHeight: '100%',paddingBottom:'10vh'}}>
-            <p
-              className="homeHeader"
-              style={{
-                textAlign: 'left !important',
-                alignItems: 'left',
-              }}>
-              {subheading}
-            </p>
-          </div>
+    <section
+      style={{backgroundColor: 'black', paddingBottom: '20vh'}}
+      className="home">
+      <div class="columns is-vcentered is-mobile">
+        <div
+          class="column is-6 is-offset-1 is-vcentered"
+          style={{minHeight: '100%', paddingBottom: '10vh'}}>
+          <p
+            className="homeHeader"
+            style={{
+              textAlign: 'left !important',
+              alignItems: 'left',
+            }}>
+            {subheading}
+          </p>
         </div>
-      </section>
+      </div>
+    </section>
 
     <section
       className="topek hero is-large"
@@ -42,13 +42,15 @@ export const IndexPageTemplate = ({title, subheading}) => (
         className="hero-body"
         style={{padding: '10px', paddingBottom: '20px'}}>
         <div className="container">
-
           <BlogRollF />
         </div>
       </div>
     </section>
 
-    <PickRoll />
+    <section style={{backgroundColor: 'black'}}>
+      <img src={picks} style={{width: '100vw'}} />
+      <PickRoll />
+    </section>
   </div>
 );
 
