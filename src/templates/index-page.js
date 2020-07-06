@@ -50,21 +50,24 @@ export const IndexPageTemplate = ({title, subheading}) => (
     <section style={{backgroundColor: 'black'}}>
       <img src={picks} style={{width: '100vw'}} />
       <PickRoll />
-      <div className="contribute">
+      <div className="contribute" >
         <div class="columns is-vcentered ">
           <div
             class="column  is-offset-1 is-vcentered"
-            style={{minHeight: '100%', paddingBottom: '10vh'}}>
+            style={{minHeight: '100%'}}>
             <div class="columns ">
-              <div class="column  is-pulled-right is-hidden-desktop">
+              <div
+                class="column  is-pulled-right is-hidden-desktop"
+                style={{paddingRight: '10vw'}}>
                 <span className="dot "></span>
                 <span className="doti"></span>
               </div>
               <div class="column is-mobile is-vcentered is-offset-1">
                 <h3 className="head">want to contribute?</h3>
                 <div class="columns ">
-                  <div class="column is-pulled-right is-hidden-touch">
-                    hi
+                  <div
+                    class="column is-pulled-right is-hidden-touch"
+                    style={{paddingLeft: '46px', paddingTop: '26px'}}>
                     <span className="dot "></span>
                     <span className="doti"></span>
                   </div>
@@ -73,15 +76,37 @@ export const IndexPageTemplate = ({title, subheading}) => (
             </div>
           </div>
           <div
-            class="column is-4 is-three-quarters-mobile is-offset-1 is-vcentered"
-            style={{minHeight: '100%', paddingBottom: '10vh'}}>
-            <p>help out my guy</p>
+            class="column is-4 is-offset-1 is-vcentered"
+            style={{
+              minHeight: '100%',
+              paddingLeft: '29px',
+            }}>
+            <p className="bike">
+              Like what you see? Want to be featured or collaborate with us?
+              Drop us a message and get a chance to work with the team!
+            </p>
           </div>
 
           <div
-            class="column is-2 is-vcentered"
-            style={{minHeight: '100%', paddingBottom: '10vh'}}>
-            <Link class="button">hi</Link>
+            style={{
+              minHeight: '100%',
+              paddingLeft: '29px',
+              paddingBottom: '29px',
+            }}
+            class="column has-text-centered is-vcentered">
+            <Link
+              to="/contact"
+              class="button "
+              style={{
+                backgroundColor: 'black',
+                paddingRight: '29px',
+                borderRadius: '10px',
+                padding: '20px',
+                borderColor: 'black',
+                color: 'white',
+              }}>
+              CONTACT US
+            </Link>
           </div>
         </div>
       </div>
