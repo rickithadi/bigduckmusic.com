@@ -29,7 +29,7 @@ const Footer = class extends React.Component {
               Big Duck Pte Ltd &copy; 2020 - All Rights Reserved
             </h2>
 
-            <img src={duck} style={{paddingTop: '6vh'}} alt="big duck" />
+            <img src={duck} style={{paddingTop: '6vh',width:'100vw'}} alt="big duck" />
           </div>
         )}
         {!this.state.isMobile && (
