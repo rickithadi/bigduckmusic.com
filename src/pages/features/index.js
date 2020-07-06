@@ -8,39 +8,30 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <section style={{paddingTop: '3%'}}>
-          <div className="full-width-image-container " style={{height: '20%'}}>
+        <div className="fnr">
+          <section style={{paddingTop: '1%'}}>
             <div
-              className="text-center"
-              style={{textAlign: 'center'}}
-              style={{
-                //backgroundColor: '#a3b6de',
-                padding: '20px',
-                //boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
-                borderRadius: '10px',
-              }}>
-              <h1 className="head">Big Duck Features</h1>
-              <p
-                className="sub"
+              className="full-width-image-container "
+              style={{height: '20%'}}>
+              <div
                 style={{
-                  textAlign: 'center !important',
-
-                  alignItems: 'center',
-                  justifyContent: 'center',
+                  padding: '10px',
                 }}>
-                Features, Reviews and Everything else Music!
-              </p>
+                <h1 className="fHeader" style={{color: 'black'}}>
+                  Features + Reviews
+                </h1>
+             </div>
             </div>
-          </div>
-        </section>
+          </section>
 
-        <section className="section">
-          <div className="container">
-            <div>
-              <BlogRoll />
+          <section className="section">
+            <div className="container">
+              <div>
+                <BlogRoll />
+              </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
       </Layout>
     );
   }

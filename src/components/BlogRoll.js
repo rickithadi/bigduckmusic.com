@@ -7,76 +7,45 @@ class BlogRoll extends React.Component {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
 
-console.log(posts);
+    console.log(posts);
     return (
       <div className="columns is-multiline">
         {posts &&
           //posts.slice(0, 6).map(({node: post}) => (
           posts.map(({node: post}) => (
-            <Link className="is-parent column is-6 show" to={post.fields.slug}>
-              <div
-                style={{
-                  padding: '15px',
-                  backgroundColor: ' #a3b6de',
-                  borderRadius: '10px',
-                }}
-                key={post.id}>
-                <article
-                  //className={`blog-list-item tile is-child noisy is-warning ${
-                  className={`blog-list-item tile is-child ${
-                    post.frontmatter.featuredpost ? 'is-featured ' : ''
-                  }`}>
-                  <div className="columns is-mobile">
-                    <div className="column is-5">
-                      <p style={{textAlign: 'left'}}>
-                        <p style={{padding: '0px'}} className="top">
-                          {post.frontmatter.title}
-                        </p>
-                        <span className="subtitle is-size-9 is-block">
-                          <p style={{paddingLeft: '10px'}}>
-                            {post.frontmatter.date}
-                          </p>
-                        </span>
-                      </p>
-                    </div>
-                    <div className="column ">
-                      <p style={{textAlign: 'right', top: '0'}}>
-                        {post.frontmatter.isReview ? (
-                          <span
-                            class="tag is-success"
-                            style={{margin: '10px !important'}}>
-                            Review
-                          </span>
-                        ) : null}
-                        {post.frontmatter.featuredpost ? (
-                          <span class="tag is-warning">Featured</span>
-                        ) : null}
-                      </p>
-                    </div>
+            <div
+              className="is-parent column is-3 "
+              key={post.id}
+              style={{height: '100%'}}>
+              <div class="card">
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img
+                      //src="https://bulma.io/images/placeholders/1280x960.png"
+                      src={post.frontmatter.featuredimageo}
+                      alt="Placeholder image"
+                    />
+                  </figure>
+                </div>
+                <Link
+                  to={post.fields.slug}
+                  style={{paddingTop: '15px', color: 'inherit'}}>
+                  <div class="container" style={{height: '100%'}}>
+                    <article
+                      className="blog-list-item tile is-child"
+                      style={{height: '180px'}}>
+                      <div className="columns is-mobile">
+                        <p className="top">{post.frontmatter.title}</p>
+                      </div>
+                      <div className="columns is-mobile">
+                        <p className="bike">"{post.excerpt}"</p>
+                      </div>
+                    </article>
                   </div>
-
-                  {post.frontmatter.featuredimageo ? (
-                    <div
-                      className="column is-14 cen"
-                      style={{
-                        justifyContent: 'center',
-                        textAlign: 'center !important',
-                        alignItems: 'center',
-                      }}>
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimageo,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p style={{color: '#18305e', fontFamily: 'Nunito'}}>
-                    {post.excerpt}
-                  </p>
-                </article>
+                </Link>
+                <p className="biker">{post.frontmatter.date}</p>
               </div>
-            </Link>
+            </div>
           ))}
       </div>
     );
@@ -101,7 +70,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 80)
               id
               fields {
                 slug
