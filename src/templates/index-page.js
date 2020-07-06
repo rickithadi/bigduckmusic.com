@@ -11,7 +11,11 @@ import picks from '../img/sex/picks.svg';
 export const IndexPageTemplate = ({title, subheading}) => (
   <div style={{height: '100%'}}>
     <section
-      style={{backgroundColor: 'black', paddingBottom: '20vh'}}
+      style={{
+        backgroundColor: 'black',
+        paddingTop: '20vh',
+        paddingBottom: '20vh',
+      }}
       className="home">
       <div class="columns is-vcentered is-mobile">
         <div
@@ -48,9 +52,18 @@ export const IndexPageTemplate = ({title, subheading}) => (
     </section>
 
     <section style={{backgroundColor: 'black'}}>
-      <img src={picks} style={{width: '100vw'}} />
+      <img
+        src={picks}
+        style={{width: '100%', maxWidth: 'none'}}
+        class="is-hidden-touch"
+      />
+      <img
+        src={picks}
+        style={{height: '100%', maxWidth: 'none'}}
+        class="is-hidden-desktop"
+      />
       <PickRoll />
-      <div className="contribute" >
+      <div className="contribute">
         <div class="columns is-vcentered ">
           <div
             class="column  is-offset-1 is-vcentered"

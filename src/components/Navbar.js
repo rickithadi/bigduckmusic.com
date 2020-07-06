@@ -36,86 +36,89 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-     <nav
+      <nav
         className={`navbar ${this.state.navBarActiveClass}`}
-style={{padding:'0'}}
+        style={{padding: '0'}}
         role="navigation"
         style={{backgroundColor: 'black'}}
         aria-label="main-navigation">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img
-                src={duck}
-                alt="big duck"
-                style={{
-                  height: '95px',
-                  width: '50px',
-                }}
-              />
+        <div className="navbar-brand">
+          <Link to="/" className="navbar-item" title="Logo">
+            <img
+              src={duck}
+              alt="big duck"
+              style={{
+                height: '95px',
+                width: '50px',
+              }}
+            />
+          </Link>
+          {/* Hamburger menu */}
+          <a
+            className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+            style={{marginLeft: '60vw !important'}}
+            class="navbar-burger"
+            data-target="navMenu"
+            onClick={() => this.toggleHamburger()}
+            style={{color: 'white'}}>
+            <span />
+            <span />
+            <span />
+          </a>
+        </div>
+        <div
+          id="navMenu"
+          className={`navbar-menu ${this.state.navBarActiveClass}`}>
+          <div
+            className={`navbar-start ${this.state.navBarActiveClass}`}
+            style={{height: '100%'}}>
+            <Link
+              className="navbar-item"
+              style={{color: 'inherit'}}
+              to="/about">
+              <p style={{color: 'white'}}>About</p>
             </Link>
-            {/* Hamburger menu */}
-            <a
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              style={{marginLeft:'60vw !important'}}
-              class="navbar-burger"
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-              style={{color: 'white'}}>
-              <span />
-              <span />
-              <span />
+            <Link className="navbar-item" to="/features">
+              <p style={{color: 'white'}}>Features & Reviews</p>
+            </Link>
+            <Link className="navbar-item" to="/gigs">
+              <p style={{color: 'white'}}>Gigs</p>
+            </Link>
+            <Link className="navbar-item" to="/contact">
+              <p style={{color: 'white'}}>Contact</p>
+            </Link>
+          </div>
+          <div className="navbar-end has-text-centered">
+            <a className="navbar-item" rel="noopener noreferrer">
+              <span className="icon">
+                <a
+                  title="facebook"
+                  href="https://www.facebook.com/pg/bigduckpteltd/"
+                  rel="noopener noreferrer"
+                  target="_blank">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{width: '1em', height: '1em'}}
+                  />
+                </a>
+              </span>
+              <span className="icon">
+                <a
+                  title="instagram"
+                  href="https://instagram.com/bigduckpteltd"
+                  rel="noopener noreferrer"
+                  target="_blank">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{width: '1em', height: '1em'}}
+                  />
+                </a>
+              </span>
             </a>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}>
-            <div
-              className={`navbar-start ${this.state.navBarActiveClass}`}
-              style={{height: '100%'}}>
-              <Link className="navbar-item" to="/about">
-                <p style={{color: 'white'}}>About</p>
-              </Link>
-              <Link className="navbar-item" to="/features">
-                <p style={{color: 'white'}}>Features & Reviews</p>
-              </Link>
-              <Link className="navbar-item" to="/gigs">
-                <p style={{color: 'white'}}>Gigs</p>
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                <p style={{color: 'white'}}>Contact</p>
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a className="navbar-item" rel="noopener noreferrer">
-                <span className="icon">
-                  <a
-                    title="facebook"
-                    href="https://www.facebook.com/pg/bigduckpteltd/"
-                    rel="noopener noreferrer"
-                    target="_blank">
-                    <img
-                      src={facebook}
-                      alt="Facebook"
-                      style={{width: '1em', height: '1em'}}
-                    />
-                  </a>
-                </span>
-                <span className="icon">
-                  <a
-                    title="instagram"
-                    href="https://instagram.com/bigduckpteltd"
-                    rel="noopener noreferrer"
-                    target="_blank">
-                    <img
-                      src={instagram}
-                      alt="Instagram"
-                      style={{width: '1em', height: '1em'}}
-                    />
-                  </a>
-                </span>
-              </a>
-            </div>
-          </div>
+        </div>
       </nav>
     );
   }
