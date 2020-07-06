@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
     <section style={{backgroundColor: 'black'}}>
       <img src={picks} style={{width: '100vw'}} />
       <PickRoll />
-      <div className="contribute" style={{minHeight: '20vh'}}>
+      <div className="contribute" >
         <div class="columns is-vcentered is-mobile">
           <div
             class="column is-2 is-offset-1 is-vcentered"
