@@ -17,6 +17,7 @@ export const GigPostTemplate = ({
   description,
   poster,
   spotify,
+  deets,
   date,
   tags,
   socials,
@@ -36,7 +37,13 @@ export const GigPostTemplate = ({
             padding: '15px',
           }}
           className="column is-10 is-offset-1">
-          <h1 className="head">{title}</h1>
+          <h1
+            className="head"
+            style={{
+              color: 'white',
+            }}>
+            {title}
+          </h1>
           <p className="biker"> Published on {date}</p>
         </div>
       </div>
@@ -104,12 +111,12 @@ export const GigPostTemplate = ({
               </div>
             ) : null}
           </div>
-          <div className="column " style={{padding: '0px 0px 0px 0px'}}>
+          <div className="column ">
             {spotify && (
-              <div style={{height: '60vh'}} className='smlj'>
+              <div style={{height: '60vh'}} className="smlj right">
                 <SpotifyPlayer
                   uri={spotify}
-                  size={{height: '90%', width: '100%'}}
+                  size={{height: '90%', width: '80%', right: '0'}}
                 />
               </div>
             )}
@@ -130,6 +137,7 @@ GigPostTemplate.propTypes = {
   socials: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  deets: PropTypes.object,
 };
 
 const GigPost = ({data}) => {
@@ -141,6 +149,7 @@ const GigPost = ({data}) => {
       <GigPostTemplate
         content={post.html}
         test={post.test}
+        deets={post.frontmatter.deets}
         socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -180,6 +189,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        deets
         spotify
         tags
         description
