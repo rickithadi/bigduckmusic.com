@@ -19,11 +19,15 @@ class GigRoll extends React.Component {
               className="is-parent column is-6 "
               key={post.id}
               style={{height: '100%'}}>
-              <div class="card">
+              <div class="card" style={{border: '0'}}>
+                {!post.frontmatter.test &&
+                (
+                  <div class="avail cen">
+                    <p style={{padding: '2px'}}>UPCOMING</p>
+                  </div>
+                )}
                 <div class="card-image">
-                    <img
-                      src={post.frontmatter.featuredimageo}
-                    />
+                  <img src={post.frontmatter.featuredimageo} />
                 </div>
                 <Link
                   to={post.fields.slug}
@@ -78,6 +82,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
+                test
                 featuredimageo
               }
             }
