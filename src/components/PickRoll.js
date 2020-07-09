@@ -26,18 +26,23 @@ class PickRoll extends React.Component {
     return (
       <div
         className="container centered"
-        style={{padding: '5px', minHeight: '100%'}}>
+        style={{paddingTop: '10vh', paddingBottom: '10vh', minHeight: '100%'}}>
         <div key={post.id}>
           <div className="columns is-multiline is-4 cen">
             {post.frontmatter.featuredimageso &&
               post.frontmatter.featuredimageso.map(i => {
                 return (
-                  <div className="column is-4 " key={i.link}>
-                    <img
-                      src={i.image}
-                      className="insta"
-                      style={{height: '100%', width: '100%'}}
-                    />
+                  <div
+                    className="column is-4 "
+                    key={i.link}
+                    style={{padding: '10px'}}>
+                    <a href={i.link} target="_blank" rel="noopener noreferrer">
+                      <img
+                        src={i.image}
+                        className="insta"
+                        style={{height: '100%', width: '100%'}}
+                      />
+                    </a>
                   </div>
                 );
               })}

@@ -62,7 +62,9 @@ export const IndexPageTemplate = ({title, subheading}) => (
         style={{height: '100%', maxWidth: 'none'}}
         class="is-hidden-desktop"
       />
-      <PickRoll />
+      <div style={{height: '100%'}}>
+        <PickRoll />
+      </div>
       <div className="contribute">
         <div class="columns is-vcentered ">
           <div
