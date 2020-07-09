@@ -32,12 +32,11 @@ class BlogRoll extends React.Component {
                   style={{paddingTop: '15px', color: 'inherit'}}>
                   <div class="container" style={{height: '100%'}}>
                     <article
-                      className="blog-list-item tile is-child"
-                      style={{height: '180px'}}>
+                      className="blog-list-item tile is-child">
                       <div className="columns is-mobile">
                         <p className="top">{post.frontmatter.title}</p>
                       </div>
-                      <div className="columns is-mobile">
+                      <div className="columns is-mobile clip">
                         <p className="bike">"{post.excerpt}"</p>
                       </div>
                     </article>

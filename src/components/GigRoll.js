@@ -15,65 +15,37 @@ class GigRoll extends React.Component {
       <div className="columns is-multiline" style={{marginTop: '-8vh'}}>
         {posts &&
           posts.map(({node: post}) => (
-            <Link className="is-parent column is-6" to={post.fields.slug}>
-              <div
-                style={{
-                  padding: '15px',
-                  backgroundColor: ' #a3b6de',
-                  borderRadius: '10px',
-                }}
-                key={post.id}>
-                <article
-                  //className={`blog-list-item tile is-child noisy is-warning ${
-                  className={`blog-list-item tile is-child ${
-                    post.frontmatter.featuredpost ? 'is-featured ' : ''
-                  }`}>
-                  <div className="columns is-mobile">
-                    <div className="column ">
-                      <p style={{textAlign: 'left'}}>
-                        <p style={{padding: '0px'}} className="top">
-                          {post.frontmatter.title}
-                        </p>
-                        <span className="subtitle is-size-9 is-block">
-                          {post.frontmatter.date}
-                        </span>
-                      </p>
-                    </div>
-                    <div className="column-is-1 " style={{textAlign: 'right'}}>
-                      <p style={{textAlign: 'right', top: '0'}}>
-                        {post.frontmatter.featuredpost ? (
-                          <span
-                            class="tag is-success"
-                            style={{margin: '10px !important'}}>
-                            Featured
-                          </span>
-                        ) : null}
-                      </p>
-                    </div>
+            <div
+              className="is-parent column is-6 "
+              key={post.id}
+              style={{height: '100%'}}>
+              <div class="card">
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img
+                      src={post.frontmatter.featuredimageo}
+                    />
+                  </figure>
+                </div>
+                <Link
+                  to={post.fields.slug}
+                  style={{paddingTop: '15px', color: 'inherit'}}>
+                  <div class="container" style={{height: '100%'}}>
+                    <article
+                      className="blog-list-item tile is-child"
+                      style={{height: '180px'}}>
+                      <div className="columns is-mobile">
+                        <p className="top">{post.frontmatter.title}</p>
+                      </div>
+                      <div className="columns is-mobile">
+                        <p className="bike">"{post.excerpt}"</p>
+                      </div>
+                    </article>
                   </div>
-                  {post.frontmatter.featuredimageo ? (
-                    <div
-                      className="column is-14 cen"
-                      style={{
-                        justifyContent: 'center',
-                        textAlign: 'center !important',
-                        alignItems: 'center',
-                      }}>
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimageo,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-
-                  <p style={{color: '#18305e', fontFamily: 'Nunito'}}>
-                    {post.excerpt}
-                  </p>
-                </article>
+                </Link>
+                <p className="biker">{post.frontmatter.date}</p>
               </div>
-            </Link>
+            </div>
           ))}
       </div>
     );
@@ -98,7 +70,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 100)
               id
               fields {
                 slug
