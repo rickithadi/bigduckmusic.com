@@ -63,72 +63,57 @@ export const GigPostTemplate = ({
       <section
         className="section"
         style={{backgroundColor: 'white', padding: '0px'}}>
-        <div className="column is-10">
-          <div className="columns">
+        <div className="columns">
+          <div
+            className="column is-4 "
+            style={{
+              padding: '15px',
+              paddingTop: '0px',
+            }}>
             <div
-              className="column is-4 "
+              className="circ"
               style={{
+                textAlign: 'center',
                 padding: '15px',
-                paddingTop: '0px',
+                height: '20vh',
+                paddingTop: '15px',
+                paddingBottom: '15px',
+                marginBottom: '15px',
+                //border: '1px solid  #FF7500',
               }}>
-              {poster && (
-                <div
-                  style={{
-                    textAlign: 'center',
-                    backgroundColor: '#a3b6de',
-                    borderRadius: '10px',
-                    padding: '15px',
-                    paddingTop: '15px',
-                    paddingBottom: '15px',
-                    marginBottom: '15px',
-                    //border: '1px solid  #FF7500',
-                  }}>
-                  <img src={poster} style={{width: '100%', height: '100%'}} />
-                </div>
-              )}
-              <div className="column" style={{padding: '0px 0px 0px 0px'}}>
-                {spotify && (
-                  <div style={{height: '50vh'}}>
-                    <SpotifyPlayer
-                      uri={spotify}
-                      size={{height: '100%', width: '100%'}}
-                    />
-                  </div>
-                )}
-                {socials && (
-                  <div
-                    style={{height: '5vh'}}
-                    className="head"
-                    style={{padding: '15px', backgroundColor: '#a3b6de'}}>
-                    {socials.map(i => {
-                      return (
-                        <SocialIcon url={i.url} style={{padding: '15px'}} />
-                      );
-                    })}
-                  </div>
-                )}
-              </div>
+              <p> stuffA</p>
+              <p> stuffA</p>
+              <p> stuffA</p>
+              <p> stuffA</p>
+              <p> stuffA</p>
             </div>
-
-            <div className="column is-10" style={{backgroundColor: '#a3b6de'}}>
-              <div className="container" style={{height: '100%'}}>
-                <div style={{minHeight: '100vh', fontFamily: 'Nunito'}}>
-                  <PostContent className="content" content={content} />
-                </div>
-                {tags && tags.length ? (
-                  <div>
-                    <ul className="taglist">
-                      {tags.map(tag => (
-                        <li key={tag + `tag`}>
-                          <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                ) : null}
-              </div>
+          </div>
+          <div className="column ">
+            <div style={{minHeight: '100vh', fontFamily: 'Nunito'}}>
+              <PostContent className="content" content={content} />
             </div>
-          </div>{' '}
+            {tags && tags.length ? (
+              <div>
+                <ul className="taglist">
+                  {tags.map(tag => (
+                    <li key={tag + `tag`}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
+          </div>
+          <div className="column " style={{padding: '0px 0px 0px 0px'}}>
+            {spotify && (
+              <div style={{height: '60vh'}} className='smlj'>
+                <SpotifyPlayer
+                  uri={spotify}
+                  size={{height: '90%', width: '100%'}}
+                />
+              </div>
+            )}
+          </div>
         </div>
       </section>
     </div>
