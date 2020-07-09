@@ -1,5 +1,12 @@
 ---
 templateKey: gig-post
+deets:
+  date: 2020-02-14T11:00:24.826Z
+  lineup:
+    -'bob'
+    -'bob'
+  price: 19
+  location: 'some place'
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591117595/HOUG/IMG_3481-min_hvggcv.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591117595/HOUG/IMG_3397-min_gdcy1r.jpg
@@ -26,7 +33,7 @@ featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1591117585/HO
 title: '"Boy" Single Launch'
 spotify: https://open.spotify.com/playlist/4BV5HIVsvb7EKO9AEMciHb?si=NqtjMzcPQGmeC5jmShhBrA
 date: 2020-02-14T11:00:24.826Z
-description: "Big Duck Pte Ltd presents: Houg's \"Boy\" Single Launch!"
+description: 'Big Duck Pte Ltd presents: Houg''s "Boy" Single Launch!'
 featuredpost: false
 tags:
   - Houg
@@ -38,13 +45,14 @@ socials:
   - url: https://www.facebook.com/bigduckpteltd/
   - url: https://www.instagram.com/bigduckpteltd/
 ---
+
 ### 14th February 2020
 
 The enigmatic[ ](https://www.instagram.com/hougofficial/)Houg will be kicked off 2020 for us with the launch of his single "Boy" this on Valentines’ Day! Alongside his signature blend of experimentation and pop sensibilities, we’re also very proud to present a special lineup full of innovative sounds across the spectrum - from psych rock veterans[](https://www.instagram.com/wearespacedays/) Spacedays to vaporwave connoisseur[](https://www.instagram.com/don.a.a.ron/) don.a.aron, it started the new year with a night of wonderful sonic surprises.
 
 \-
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1591117585/HOUG/hougborder_fp7yqe.jpg "Houg banner")
+![](https://res.cloudinary.com/ddomozydd/image/upload/v1591117585/HOUG/hougborder_fp7yqe.jpg 'Houg banner')
 
 \-
 

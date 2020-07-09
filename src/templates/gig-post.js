@@ -75,24 +75,38 @@ export const GigPostTemplate = ({
             className="column is-4 "
             style={{
               padding: '15px',
-              paddingTop: '0px',
+              paddingTop: '29px',
             }}>
             <div
-              className="circ"
+              className="circ bi"
               style={{
-                textAlign: 'center',
+                textAlign: 'left',
                 padding: '15px',
+                lineHeight: '1',
                 height: '20vh',
                 paddingTop: '15px',
                 paddingBottom: '15px',
                 marginBottom: '15px',
                 //border: '1px solid  #FF7500',
               }}>
-              <p> stuffA</p>
-              <p> stuffA</p>
-              <p> stuffA</p>
-              <p> stuffA</p>
-              <p> stuffA</p>
+              <p>
+                {' '}
+                Happening on
+                <h4 className="deets"> {deets.date}</h4>
+              </p>
+              <p>
+                {' '}
+                Hosted at
+                <h4 className="deets"> {deets.location}</h4>
+              </p>
+              <p>
+                {' '}
+                Line Up
+             </p>
+              <p>
+                PRE-SALE/DOORS
+                <h4 className="deets"> {deets.price}</h4>
+              </p>
             </div>
           </div>
           <div className="column ">
@@ -189,7 +203,12 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        deets
+        deets {
+          price
+          date(formatString: "MMMM DD, YYYY")
+          lineup
+          location
+        }
         spotify
         tags
         description
