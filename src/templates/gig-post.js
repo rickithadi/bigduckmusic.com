@@ -17,6 +17,7 @@ export const GigPostTemplate = ({
   description,
   poster,
   spotify,
+  date,
   tags,
   socials,
   title,
@@ -26,36 +27,42 @@ export const GigPostTemplate = ({
   console.log(carousel);
 
   return (
-    <section className="section" style={{backgroundColor: '#18305e'}}>
+    <div>
+      <div style={{backgroundColor: 'black'}}>
+        <div
+          style={{
+            color: 'white',
+            backgroundColor: 'black',
+            padding: '15px',
+          }}
+          className="column is-10 is-offset-1">
+          <h1 className="head">{title}</h1>
+          <p className="biker"> Published on {date}</p>
+        </div>
+      </div>
       {helmet || ''}
-      <div className="container ">
-        <div className="column is-10 is-offset-1">
-          <h1
-            className="head"
-            style={{
-              color: '#f77805',
-
-              padding: '15px',
-            }}>
-            {title}
-          </h1>
+      <div className="columns">
+        <div className="column ">
+          {!carousel && carousel.length > 0 ? (
+            <Carousel indicators={false} controls={true}>
+              {carousel.map(i => (
+                <Carousel.Item>
+                  <figure className="is-2by1 cen">
+                    <img style={{height: '50vh', width: '100vw'}} src={i} />
+                  </figure>
+                </Carousel.Item>
+              ))}
+            </Carousel>
+          ) : (
+            <div style={{width: '100vw', height: '100%'}}>
+              <img src={poster} />
+            </div>
+          )}
         </div>
-        <div className="columns">
-          <div className="column ">
-            {carousel && carousel.length > 0 && (
-              <Carousel indicators={false} controls={true}>
-                {carousel.map(i => (
-                  <Carousel.Item>
-                    <figure className="is-2by1 cen">
-                      <img style={{height: '50vh'}} src={i} />
-                    </figure>
-                  </Carousel.Item>
-                ))}
-              </Carousel>
-            )}
-          </div>
-        </div>
-
+      </div>
+      <section
+        className="section"
+        style={{backgroundColor: 'white', padding: '0px'}}>
         <div className="column is-10">
           <div className="columns">
             <div
@@ -123,8 +130,8 @@ export const GigPostTemplate = ({
             </div>
           </div>{' '}
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   );
 };
 
@@ -152,6 +159,7 @@ const GigPost = ({data}) => {
         socials={post.frontmatter.socials}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        date={post.frontmatter.date}
         carousel={post.frontmatter.test}
         poster={post.frontmatter.poster}
         spotify={post.frontmatter.spotify}
