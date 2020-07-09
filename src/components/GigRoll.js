@@ -12,10 +12,10 @@ class GigRoll extends React.Component {
     console.log(data);
 
     return (
-      <div className="columns is-multiline">
+      <div className="columns is-multiline" style={{marginTop: '-8vh'}}>
         {posts &&
           posts.map(({node: post}) => (
-            <Link className="is-parent column is-4" to={post.fields.slug}>
+            <Link className="is-parent column is-6" to={post.fields.slug}>
               <div
                 style={{
                   padding: '15px',

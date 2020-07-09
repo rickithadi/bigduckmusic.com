@@ -10,18 +10,14 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <div className="fnr">
           <section style={{paddingTop: '1%'}}>
-            <div
-              className="full-width-image-container "
-              style={{height: '20%'}}>
-              <div
+             <div
                 style={{
-                  padding: '10px',
+                  padding: '10vh',
                 }}>
                 <h1 className="fHeader" style={{color: 'black'}}>
                   Features + Reviews
                 </h1>
              </div>
-            </div>
           </section>
 
           <section className="section">

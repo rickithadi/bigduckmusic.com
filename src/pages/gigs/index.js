@@ -18,43 +18,23 @@ export default class gigIndexPage extends React.Component {
   render() {
     const picso = [tre, pipe, sik];
     return (
-      <Layout>
-        <section className="section">
-          <div
-            className="text-center cen"
-            style={{textAlign: 'center'}}
+      <Layout style={{backgroundColor: 'black'}}>
+        <div
+          className="gigbg"
+          style={{
+            height: '25vh',
+          }}>
+          <h1
+            className="fHeader cen"
             style={{
-              backgroundColor: '#a3b6de',
-              paddingBottom: '10px',
-              boxShadow: '0.5rem 0 0 #a3b6de, -0.5rem 0 0 #a3b6de',
-              borderRadius: '10px',
+              color: 'white',
+
+              paddingTop: '5vh',
             }}>
-            <h1
-              className="head"
-              style={{
-                padding: '1rem',
-                color: '#18305e',
-              }}>
-              Big Duck Gigs
-            </h1>
-            <p className="usb">Our Main Events! And all our previous ones…</p>
-          </div>
-        </section>
-        {!this.state.isMobile && (
-          <Carousel indicators={false} controls={false}>
-            {picso.map(i => {
-              console.log(i);
-              return (
-                <Carousel.Item>
-                  <figure className="is-2by1 cen">
-                    <img src={i} style={{height: '50vh'}} />
-                  </figure>
-                </Carousel.Item>
-              );
-            })}
-          </Carousel>
-        )}
-        <section className="section">
+            Big Duck music gigs
+          </h1>
+        </div>
+        <section className="section" style={{backgroundColor: 'black'}}>
           <div className="container">
             <div className="content">
               <GigRoll />
