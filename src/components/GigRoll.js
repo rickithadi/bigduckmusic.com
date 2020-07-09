@@ -21,11 +21,9 @@ class GigRoll extends React.Component {
               style={{height: '100%'}}>
               <div class="card">
                 <div class="card-image">
-                  <figure class="image is-4by3">
                     <img
                       src={post.frontmatter.featuredimageo}
                     />
-                  </figure>
                 </div>
                 <Link
                   to={post.fields.slug}

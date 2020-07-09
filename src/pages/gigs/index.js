@@ -22,14 +22,13 @@ export default class gigIndexPage extends React.Component {
         <div
           className="gigbg"
           style={{
-            height: '25vh',
+            minHeight: '25vh',
+            height: '100%',
           }}>
           <h1
             className="fHeader cen"
             style={{
               color: 'white',
-
-              paddingTop: '5vh',
             }}>
             Big Duck music gigs
           </h1>

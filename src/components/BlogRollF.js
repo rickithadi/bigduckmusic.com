@@ -16,7 +16,7 @@ class BlogRollF extends React.Component {
           to="/features"
           class="button "
           style={{backgroundColor: 'black', color: 'white'}}>
-          Read More
+          Read More button{' '}
         </Link>
       </div>
     );
@@ -48,8 +48,7 @@ class BlogRollF extends React.Component {
                         style={{paddingTop: '15px', color: 'inherit'}}>
                         <div class="container" style={{height: '100%'}}>
                           <article
-                            className="blog-list-item tile is-child"
-                            style={{height: '180px'}}>
+                            className="blog-list-item tile is-child">
                             <div className="columns is-mobile">
                               <p className="top">{post.frontmatter.title}</p>
                             </div>

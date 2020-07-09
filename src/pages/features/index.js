@@ -9,7 +9,6 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div className="fnr">
-          <section style={{paddingTop: '1%'}}>
              <div
                 style={{
                   padding: '10vh',
@@ -18,7 +17,6 @@ export default class BlogIndexPage extends React.Component {
                   Features + Reviews
                 </h1>
              </div>
-          </section>
 
           <section className="section">
             <div className="container">
