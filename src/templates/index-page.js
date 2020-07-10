@@ -13,7 +13,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
     <section
       style={{
         backgroundColor: 'black',
-        paddingTop: '20vh',
+        paddingTop: '10vh',
         paddingBottom: '20vh',
       }}
       className="home">
@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
       />
       <img
         src={picks}
-        style={{height: '100%', maxWidth: 'none'}}
+        style={{height: '100%', maxWidth: 'none',overflowX:'hidden'}}
         class="is-hidden-desktop"
       />
       <div style={{height: '100%'}}>

@@ -50,7 +50,7 @@ export const GigPostTemplate = ({
       {helmet || ''}
       <div className="columns">
         <div className="column ">
-          {!carousel && carousel.length > 0 ? (
+          {carousel && carousel.length > 0 ? (
             <Carousel indicators={false} controls={true}>
               {carousel.map(i => (
                 <Carousel.Item>

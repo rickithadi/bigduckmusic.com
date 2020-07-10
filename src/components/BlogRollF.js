@@ -16,7 +16,7 @@ class BlogRollF extends React.Component {
           to="/features"
           class="button "
           style={{backgroundColor: 'black', color: 'white'}}>
-          Read More button{' '}
+          Read More {' '}
         </Link>
       </div>
     );
