@@ -3,8 +3,8 @@ templateKey: gig-post
 deets:
   date: 2020-02-14T11:00:24.826Z
   lineup:
-    -'bob'
-    -'bob'
+    -bob
+    -bob
   price: 19
   location: 'some place'
 test:

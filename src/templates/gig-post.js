@@ -97,7 +97,8 @@ export const GigPostTemplate = ({
                 <h4 className="deets"> {deets.location}</h4>
                 <p className="bi"> Line Up</p>
                 <h4 className="deets"> {deets.lineup}</h4>
-                <p className="bi">PRE-SALE/DOORS</p>
+
+               <p className="bi">PRE-SALE/DOORS</p>
                 <h4 className="deets"> {deets.price}</h4>
               </div>
             )}
@@ -106,7 +107,7 @@ export const GigPostTemplate = ({
             className="column biker"
             style={{
               minHeight: '100%',
-              padding: '20px !important'
+              padding: '20px !important',
             }}>
             <div
               style={{
@@ -205,6 +206,7 @@ const GigPost = ({data}) => {
           </Helmet>
         }
         tags={post.frontmatter.tags}
+        line={post.frontmatter.deets.lineup}
         title={post.frontmatter.title}
       />
     </Layout>
