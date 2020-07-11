@@ -23,6 +23,10 @@ class BlogRollSmall extends React.Component {
               style={{height: '100%'}}>
               <div class="card">
                 <div class="card-image">
+                  {post.frontmatter.category && (
+                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
+                  )}
+
                     <img
                       src={post.frontmatter.featuredimageo}
                       alt="Placeholder image"

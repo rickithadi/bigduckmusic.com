@@ -19,6 +19,9 @@ class BlogRoll extends React.Component {
               style={{height: '100%'}}>
               <div class="card">
                 <div class="card-image">
+                  {post.frontmatter.category && (
+                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
+                  )}
                   <figure class="image is-4by3">
                     <img
                       //src="https://bulma.io/images/placeholders/1280x960.png"
@@ -31,8 +34,7 @@ class BlogRoll extends React.Component {
                   to={post.fields.slug}
                   style={{paddingTop: '15px', color: 'inherit'}}>
                   <div class="container" style={{height: '100%'}}>
-                    <article
-                      className="blog-list-item tile is-child">
+                    <article className="blog-list-item tile is-child">
                       <div className="columns is-mobile">
                         <p className="top">{post.frontmatter.title}</p>
                       </div>
@@ -79,7 +81,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
-                isReview
+                category
                 featuredimageo
               }
             }

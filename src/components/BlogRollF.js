@@ -35,6 +35,10 @@ class BlogRollF extends React.Component {
                     style={{height: '100%'}}>
                     <div class="card">
                       <div class="card-image">
+                  {post.frontmatter.category && (
+                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
+                  )}
+
                         <figure class="image is-4by3">
                           <img
                             //src="https://bulma.io/images/placeholders/1280x960.png"
