@@ -8,7 +8,7 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
+    <section className="section aboot">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -18,17 +18,16 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
               </p>
               <div
                 style={{
-                  backgroundColor: '#a3b6de',
-                  fontFamily: 'Nunito',
-                  borderRadius: '10px',
+                  backgroundColor: 'grey',
                   padding: '15px',
                 }}>
-                <PageContent className="content" content={content} />
+                <PageContent className="content biker" content={content} />
               </div>
             </div>
           </div>
         </div>
       </div>
+      <div style={{background: 'transparent',height:'30vh'}}>vova</div>
     </section>
   );
 };

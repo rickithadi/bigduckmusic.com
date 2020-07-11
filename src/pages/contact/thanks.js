@@ -6,10 +6,10 @@ export default () => (
     <section className="section">
       <div className="container centered">
         <div className="content">
-          <h1 className="head" style={{color: 'orange', paddingTop: '20%'}}>
+          <h1 className="head" style={{ paddingTop: '20%'}}>
             Thank you!
           </h1>
-          <p className='sub'>We will getting back to you in the coming days</p>
+          <p className='bike'>We will getting back to you in the coming days</p>
         </div>
       </div>
     </section>
