@@ -20,7 +20,9 @@ class BlogRoll extends React.Component {
               <div class="card">
                 <div class="card-image">
                   {post.frontmatter.category && (
-                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
+                    <span className="taggy is-pulled-right">
+                      {post.frontmatter.category}
+                    </span>
                   )}
                   <figure class="image is-4by3">
                     <img
