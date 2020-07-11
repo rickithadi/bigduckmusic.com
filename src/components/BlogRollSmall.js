@@ -2,46 +2,42 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Carousel from 'react-bootstrap/Carousel';
-
-class GigRollSmall extends React.Component {
+class BlogRollSmall extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
-    console.log(data);
 
+    console.log(posts);
     return (
-      <div className="columns">
+      <div className="columns ">
         <div className="column is-4">
-          <h1 className="head">other gigs</h1>
+          <h1 className="head">more like this</h1>
         </div>
+
         {posts &&
+          //posts.slice(0, 6).map(({node: post}) => (
           posts.slice(0, 3).map(({node: post}) => (
             <div
-              className="is-parent column  "
+              className="is-parent column"
               key={post.id}
               style={{height: '100%'}}>
-              <div class="card" style={{border: '0'}}>
-                {!post.frontmatter.test && (
-                  <div class="avail cen">
-                    <p style={{padding: '2px'}}>UPCOMING</p>
-                  </div>
-                )}
+              <div class="card">
                 <div class="card-image">
-                  <img src={post.frontmatter.featuredimageo} />
+                    <img
+                      src={post.frontmatter.featuredimageo}
+                      alt="Placeholder image"
+              style={{width: '100%'}}
+                    />
                 </div>
                 <Link
                   to={post.fields.slug}
                   style={{paddingTop: '15px', color: 'inherit'}}>
                   <div class="container" style={{height: '100%'}}>
-                    <article
-                      className="blog-list-item tile is-child"
-                      style={{height: '180px'}}>
+                    <article className="blog-list-item tile is-child">
                       <div className="columns is-mobile">
                         <p className="top">{post.frontmatter.title}</p>
                       </div>
-                      <div className="columns is-mobile">
+                      <div className="columns is-mobile clip">
                         <p className="bike">"{post.excerpt}"</p>
                       </div>
                     </article>
@@ -56,7 +52,7 @@ class GigRollSmall extends React.Component {
   }
 }
 
-GigRollSmall.propTypes = {
+BlogRollSmall.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -67,14 +63,14 @@ GigRollSmall.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query GigRollSmallQuery {
+      query BlogRollSmallQuery {
         allMarkdownRemark(
           sort: {order: DESC, fields: [frontmatter___date]}
-          filter: {frontmatter: {templateKey: {eq: "gig-post"}}}
+          filter: {frontmatter: {templateKey: {eq: "blog-post"}}}
         ) {
           edges {
             node {
-              excerpt(pruneLength: 100)
+              excerpt(pruneLength: 80)
               id
               fields {
                 slug
@@ -84,7 +80,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
-                test
+                isReview
                 featuredimageo
               }
             }
@@ -92,6 +88,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <GigRollSmall data={data} count={count} />}
+    render={(data, count) => <BlogRollSmall data={data} count={count} />}
   />
 );

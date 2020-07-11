@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {SocialIcon} from 'react-social-icons';
 
+import GigRoll from '../components/BlogRollSmall';
 import {kebabCase} from 'lodash';
 import Helmet from 'react-helmet';
 import {graphql, Link} from 'gatsby';
@@ -40,7 +41,7 @@ export const BlogPostTemplate = ({
       </h1>
       {helmet || ''}
       <div className="columns is-centered " style={{backgroundColor: 'white'}}>
-       <div
+        <div
           className="column is-6  biker "
           style={{
             minHeight: '100%',
@@ -78,6 +79,14 @@ export const BlogPostTemplate = ({
           ) : null}
         </div>
       </div>
+      <hr />
+      <section className="section" style={{backgroundColor: 'white'}}>
+        <div className="container">
+          <div className="content">
+            <GigRoll />
+          </div>
+        </div>
+      </section>
     </div>
   );
 };
