@@ -79,7 +79,7 @@ export const GigPostTemplate = ({
             }}>
             {deets && (
               <div
-                className="circ bi"
+                className="circ "
                 style={{
                   textAlign: 'left',
                   padding: '15px',
@@ -90,21 +90,14 @@ export const GigPostTemplate = ({
                   marginBottom: '15px',
                   //border: '1px solid  #FF7500',
                 }}>
-                <p>
-                  {' '}
-                  Happening on
-                  <h4 className="deets"> {deets.date}</h4>
-                </p>
-                <p>
-                  {' '}
-                  Hosted at
-                  <h4 className="deets"> {deets.location}</h4>
-                </p>
-                <p> Line Up</p>
-                <p>
-                  PRE-SALE/DOORS
-                  <h4 className="deets"> {deets.price}</h4>
-                </p>
+                <span className="bi">Happening on</span>
+                <h4 className="deets"> {deets.date}</h4>
+                <p className="bi"> Hosted at</p>
+                <h4 className="deets"> {deets.location}</h4>
+                <p className="bi"> Line Up</p>
+                <h4 className="deets"> {deets.lineup}</h4>
+                <p className="bi">PRE-SALE/DOORS</p>
+                <h4 className="deets"> {deets.price}</h4>
               </div>
             )}
           </div>

@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
       />
       <img
         src={picks}
-        style={{height: '100%', maxWidth: 'none',overflowX:'hidden'}}
+        style={{height: '100%', maxWidth: '100%', overflowX: 'hidden'}}
         class="is-hidden-desktop"
       />
       <div style={{height: '100%'}}>
