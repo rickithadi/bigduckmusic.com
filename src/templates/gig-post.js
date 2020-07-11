@@ -1,4 +1,5 @@
 import React from 'react';
+import GigRoll from '../components/GigRollSmall';
 import PropTypes from 'prop-types';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import {kebabCase} from 'lodash';
@@ -75,7 +76,7 @@ export const GigPostTemplate = ({
             className="column is-4 "
             style={{
               padding: '15px',
-              paddingTop: '29px',
+              paddingBottom: '10vh',
             }}>
             {deets && (
               <div
@@ -101,8 +102,18 @@ export const GigPostTemplate = ({
               </div>
             )}
           </div>
-          <div className="column ">
-            <div style={{minHeight: '100vh', fontFamily: 'Nunito'}}>
+          <div
+            className="column biker"
+            style={{
+              minHeight: '100%',
+              padding: '20px !important'
+            }}>
+            <div
+              style={{
+                minHeight: '100vh',
+                padding: '20px',
+                paddingTop: '10vh',
+              }}>
               <PostContent className="content" content={content} />
             </div>
             {tags && tags.length ? (
@@ -117,15 +128,36 @@ export const GigPostTemplate = ({
               </div>
             ) : null}
           </div>
-          <div className="column ">
+          <div className="column " class="is-hidden-desktop">
             {spotify && (
-              <div style={{height: '60vh'}} className="smlj right">
+              <div
+                style={{height: '60vh', padding: '10px'}}
+                className="smlj right">
+                <SpotifyPlayer
+                  uri={spotify}
+                  size={{height: '100%', width: '100%'}}
+                />
+              </div>
+            )}
+          </div>
+          <div className="column " class="is-hidden-touch">
+            {spotify && (
+              <div
+                className="smlj right"
+                style={{height: '60vh', padding: '10px'}}>
                 <SpotifyPlayer
                   uri={spotify}
                   size={{height: '90%', width: '80%', right: '0'}}
                 />
               </div>
             )}
+          </div>
+        </div>
+      </section>
+      <section className="section" style={{backgroundColor: 'white'}}>
+        <div className="container">
+          <div className="content">
+            <GigRoll />
           </div>
         </div>
       </section>
