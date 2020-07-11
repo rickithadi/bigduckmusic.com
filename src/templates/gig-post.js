@@ -206,7 +206,6 @@ const GigPost = ({data}) => {
           </Helmet>
         }
         tags={post.frontmatter.tags}
-        line={post.frontmatter.deets.lineup}
         title={post.frontmatter.title}
       />
     </Layout>
