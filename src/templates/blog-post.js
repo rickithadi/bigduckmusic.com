@@ -24,62 +24,58 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <div style={{backgroundColor: 'black'}}>
-      <div
-        style={{
-          color: 'white',
-          backgroundColor: 'black',
-          padding: '15px',
-        }}
-        className="column is-10 is-offset-1">
-        <div style={{width: '100vw', height: '100%'}}>
-          <img src={featuredimageo} />
-        </div>
-
-        <h1
-          className="head"
-          style={{
-            color: 'white',
-          }}>
-          {title}
-        </h1>
-        <p className="biker"> Published on {date}</p>
+    <div>
+      <div style={{width: '100vw', height: '100%'}}>
+        <img src={featuredimageo} />
       </div>
+      <h1
+        className="head"
+        style={{
+          top: '120px',
+          left: '50px',
+          position: 'absolute',
+          color: 'white',
+        }}>
+        {title}
+      </h1>
       {helmet || ''}
-
-      <div className="columns">
-        <div className="column is-8 " style={{backgroundColor: '#a3b6de'}}>
-          <div style={{height: '100%', fontFamily: 'Nunito'}}>
-            <PostContent
-              content={content}
-              className="content"
-              style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
-            />
-            {tags && tags.length ? (
-              <div>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link
-                        to={`/tags/${kebabCase(tag)}/`}
-                        style={{textDecoration: 'underline #18305e'}}>
-                        {tag}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+      <div className="columns is-centered " style={{backgroundColor: 'white'}}>
+       <div
+          className="column is-6  biker "
+          style={{
+            minHeight: '100%',
+            padding: '20px !important',
+          }}>
+          <div
+            style={{
+              minHeight: '100vh',
+              padding: '20px',
+              paddingTop: '10vh',
+            }}>
+            <PostContent className="content" content={content} />
+            {spotify && (
+              <SpotifyPlayer
+                //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+                uri={spotify}
+                size={{height: '10%', width: '100%'}}
+              />
+            )}
           </div>
-        </div>
-        <div className="column" style={{padding: '5px 5px 5px 5px'}}>
-          {spotify && (
-            <SpotifyPlayer
-              //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
-              uri={spotify}
-              size={{height: '10%', width: '100%'}}
-            />
-          )}
+          {tags && tags.length ? (
+            <div>
+              <ul className="taglist">
+                {tags.map(tag => (
+                  <li key={tag + `tag`}>
+                    <Link
+                      to={`/tags/${kebabCase(tag)}/`}
+                      style={{textDecoration: 'underline #18305e'}}>
+                      {tag}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
         </div>
       </div>
     </div>

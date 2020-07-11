@@ -103,13 +103,6 @@ collections:
             ],
         }
 
-      - {
-          label: 'Socials',
-          name: 'socials',
-          widget: 'list',
-          fields: [{label: 'url', name: 'url', widget: 'string'}],
-        }
-
   - name: 'picks'
     label: 'picks'
     folder: 'src/pages/picks'

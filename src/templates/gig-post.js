@@ -145,7 +145,12 @@ export const GigPostTemplate = ({
             {spotify && (
               <div
                 className="smlj right"
-                style={{height: '60vh', padding: '10px'}}>
+                style={{
+                  height: '100vh',
+
+                  padding: '20px',
+                  paddingTop: '10vh',
+                }}>
                 <SpotifyPlayer
                   uri={spotify}
                   size={{height: '90%', width: '80%', right: '0'}}
@@ -155,6 +160,7 @@ export const GigPostTemplate = ({
           </div>
         </div>
       </section>
+      <hr />
       <section className="section" style={{backgroundColor: 'white'}}>
         <div className="container">
           <div className="content">

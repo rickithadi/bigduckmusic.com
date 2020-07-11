@@ -12,12 +12,14 @@ class GigRollSmall extends React.Component {
     console.log(data);
 
     return (
-      <div className="columns is-multiline">
+      <div className="columns">
+      <div className="column is-4">
         <h1 className="head">other gigs</h1>
+          </div>
         {posts &&
-          posts.slice(0, 4).map(({node: post}) => (
+          posts.slice(0, 3).map(({node: post}) => (
             <div
-              className="is-parent column is-6 "
+              className="is-parent column  "
               key={post.id}
               style={{height: '100%'}}>
               <div class="card" style={{border: '0'}}>
