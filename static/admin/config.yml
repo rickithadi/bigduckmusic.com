@@ -100,7 +100,7 @@ collections:
               {label: 'location', name: 'location', widget: 'string'},
               {label: 'price', name: 'price', widget: 'string'},
               {label: 'Line Up', name: 'lineup', widget: 'list'},
-            ]
+            ],
         }
 
       - {

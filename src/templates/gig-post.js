@@ -96,9 +96,9 @@ export const GigPostTemplate = ({
                 <p className="bi"> Hosted at</p>
                 <h4 className="deets"> {deets.location}</h4>
                 <p className="bi"> Line Up</p>
-                <h4 className="deets"> {deets.lineup}</h4>
+                <h4 className="deets "> {deets.lineup}</h4>
 
-               <p className="bi">PRE-SALE/DOORS</p>
+                <p className="bi">PRE-SALE/DOORS</p>
                 <h4 className="deets"> {deets.price}</h4>
               </div>
             )}
@@ -229,10 +229,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         deets {
+          location
           price
           date(formatString: "MMMM DD, YYYY")
           lineup
-          location
         }
         spotify
         tags

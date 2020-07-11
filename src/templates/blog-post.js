@@ -14,7 +14,9 @@ export const BlogPostTemplate = ({
   contentComponent,
   review,
   spotify,
+  date,
   socials,
+  featuredimageo,
   tags,
   title,
   helmet,
@@ -22,66 +24,65 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section
-      className="section"
-      style={{
-        backgroundColor: '#18305e',
-      }}>
-      {helmet || ''}
-      <div className="container ">
-        <div className="column is-10 is-offset-1 noisy">
-          <h1 className="head" style={{color: '#f77805'}}>
-            {title}
-          </h1>
+    <div style={{backgroundColor: 'black'}}>
+      <div
+        style={{
+          color: 'white',
+          backgroundColor: 'black',
+          padding: '15px',
+        }}
+        className="column is-10 is-offset-1">
+        <div style={{width: '100vw', height: '100%'}}>
+          <img src={featuredimageo} />
         </div>
-        <div className="columns">
-          <div className="column is-8 " style={{backgroundColor: '#a3b6de'}}>
-            <div style={{height: '100%',
-               fontFamily:'Nunito'}}>
-              <PostContent
-                content={content}
-                className="content"
-                style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
-              />
-              {tags && tags.length ? (
-                <div>
-                  <ul className="taglist">
-                    {tags.map(tag => (
-                      <li key={tag + `tag`}>
-                        <Link
-                          to={`/tags/${kebabCase(tag)}/`}
-                          style={{textDecoration: 'underline #18305e'}}>
-                          {tag}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ) : null}
-            </div>
-          </div>
-          <div className="column" style={{padding: '5px 5px 5px 5px'}}>
-            {spotify && (
-              <SpotifyPlayer
-                //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
-                uri={spotify}
-                size={{height: '10%', width: '100%'}}
-              />
-            )}
 
-            <div
-              style={{height: '50%'}}
-              className="head"
-              style={{padding: '15px', backgroundColor: '#a3b6de'}}>
-              {socials &&
-                socials.map(i => {
-                  return <SocialIcon url={i.url} style={{padding: '15px'}} />;
-                })}
-            </div>
+        <h1
+          className="head"
+          style={{
+            color: 'white',
+          }}>
+          {title}
+        </h1>
+        <p className="biker"> Published on {date}</p>
+      </div>
+      {helmet || ''}
+
+      <div className="columns">
+        <div className="column is-8 " style={{backgroundColor: '#a3b6de'}}>
+          <div style={{height: '100%', fontFamily: 'Nunito'}}>
+            <PostContent
+              content={content}
+              className="content"
+              style={{backgroundColor: '#a3b6de', minHeight: '100vh'}}
+            />
+            {tags && tags.length ? (
+              <div>
+                <ul className="taglist">
+                  {tags.map(tag => (
+                    <li key={tag + `tag`}>
+                      <Link
+                        to={`/tags/${kebabCase(tag)}/`}
+                        style={{textDecoration: 'underline #18305e'}}>
+                        {tag}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
           </div>
+        </div>
+        <div className="column" style={{padding: '5px 5px 5px 5px'}}>
+          {spotify && (
+            <SpotifyPlayer
+              //uri="https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh?si=Om2NVoLUS326G4Yud1cA5g"
+              uri={spotify}
+              size={{height: '10%', width: '100%'}}
+            />
+          )}
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 
@@ -107,6 +108,7 @@ const BlogPost = ({data}) => {
         review={post.frontmatter.isReview}
         spotify={post.frontmatter.spotify}
         socials={post.frontmatter.socials}
+        featuredimageo={post.frontmatter.featuredimageo}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -144,6 +146,7 @@ export const pageQuery = graphql`
         spotify
         title
         description
+        featuredimageo
         tags
         socials {
           url
