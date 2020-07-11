@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
       />
       <img
         src={picks}
-        style={{height: '100%', maxWidth: '100%', overflowX: 'hidden'}}
+        style={{height: '100%', maxWidth: 'none', overflowX: 'hidden'}}
         class="is-hidden-desktop"
       />
       <div style={{height: '100%'}}>
@@ -78,7 +78,9 @@ export const IndexPageTemplate = ({title, subheading}) => (
                 <span className="doti"></span>
               </div>
               <div class="column is-mobile is-vcentered is-offset-1">
-                <h3 className="head">want to contribute?</h3>
+                <h3 className="head" style={{padding: '10px'}}>
+                  want to contribute?
+                </h3>
                 <div class="columns ">
                   <div
                     class="column is-pulled-right is-hidden-touch"

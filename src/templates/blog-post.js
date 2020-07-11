@@ -26,19 +26,21 @@ export const BlogPostTemplate = ({
 
   return (
     <div>
-      <div style={{width: '100vw', height: '100%'}}>
-        <img src={featuredimageo} />
+      <div>
+        <div style={{width: '100vw', height: '50vh'}}>
+          <img src={featuredimageo} style={{width: '100%', height: '100%'}} />
+        </div>
+        <h1
+          className="head"
+          style={{
+            top: '120px',
+            left: '50px',
+            position: 'absolute',
+            color: 'white',
+          }}>
+          {title}
+        </h1>
       </div>
-      <h1
-        className="head"
-        style={{
-          top: '120px',
-          left: '50px',
-          position: 'absolute',
-          color: 'white',
-        }}>
-        {title}
-      </h1>
       {helmet || ''}
       <div className="columns is-centered " style={{backgroundColor: 'white'}}>
         <div

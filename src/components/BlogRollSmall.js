@@ -24,14 +24,16 @@ class BlogRollSmall extends React.Component {
               <div class="card">
                 <div class="card-image">
                   {post.frontmatter.category && (
-                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
+                    <span className="taggy is-pulled-right">
+                      {post.frontmatter.category}
+                    </span>
                   )}
 
-                    <img
-                      src={post.frontmatter.featuredimageo}
-                      alt="Placeholder image"
-              style={{width: '100%'}}
-                    />
+                  <img
+                    src={post.frontmatter.featuredimageo}
+                    alt="Placeholder image"
+                    style={{width: '100%'}}
+                  />
                 </div>
                 <Link
                   to={post.fields.slug}
