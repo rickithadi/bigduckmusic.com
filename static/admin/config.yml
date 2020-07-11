@@ -34,14 +34,15 @@ collections:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Description', name: 'description', widget: 'text'}
-      - {label: 'Review', name: 'isReview', widget: 'boolean', default: false}
-      - {label: 'Spotify link', name: 'spotify', widget: 'string'}
       - {
-          label: 'Featured Post',
-          name: 'featuredpost',
-          widget: 'boolean',
-          default: false,
+          label: 'Category',
+          name: 'category',
+          widget: 'select',
+          allow_add: false,
+          options: ['feature', 'take', 'review'],
+          default: ['feature'],
         }
+      - {label: 'Spotify link', name: 'spotify', widget: 'string'}
       - {
           label: 'Featured Image',
           name: 'featuredimageo',
@@ -50,13 +51,6 @@ collections:
         }
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
-
-      - {
-          label: 'Socials',
-          name: 'socials',
-          widget: 'list',
-          fields: [{label: 'url', name: 'url', widget: 'string'}],
-        }
 
   - name: 'gigs'
     label: 'Gigs'
@@ -104,18 +98,13 @@ collections:
       - {label: 'Tags', name: 'tags', widget: 'list'}
       - {
           label: 'Deets',
-          name: 'Deets',
+          name: 'neets',
           widget: 'object',
           fields:
             [
               {label: 'date', name: 'date', widget: 'date'},
               {label: 'location', name: 'location', widget: 'string'},
-              {
-                label: 'Line Up',
-                name: 'lineup',
-                widget: 'list',
-                fields: [{label: 'name', name: 'name', widget: 'string'}],
-              },
+              {label: 'Line Up', name: 'lineup', widget: 'list'},
               {label: 'price', name: 'price', widget: 'string'},
             ],
         }

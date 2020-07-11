@@ -10,12 +10,13 @@ featuredpost: false
 tags:
   - yes
   - daddy
-Deets:
-  date: 2020-07-21T05:51:25.285Z
-  location: myhouse
+deets:
+  date: 2020-02-14T11:00:24.826Z
   lineup:
-    - name: bob
-    - name: bill
-  price: 29\290
+    -'bob'
+    -'bob'
+  price: 19
+  location: 'some place'
+
 ---
 yes daddy
