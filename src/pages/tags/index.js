@@ -14,16 +14,16 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section
-      className="section"      style={{
-        backgroundColor: '#18305e',
+      className="section"
+      style={{
+        backgroundColor: 'white',
       }}>
- 
       <Helmet title={`Tags | ${title}`} />
-      <div className="container content">
+      <div className="container content biker">
         <div className="columns">
           <div
             className="column is-10 is-offset-1"
-            style={{marginBottom: '6rem',backgroundColor:'#a3b6de'}}>
+            style={{marginBottom: '6rem'}}>
             <h1 className="title is-size-2 is-bold-light">Tags</h1>
             <ul className="taglist">
               {group.map(tag => (

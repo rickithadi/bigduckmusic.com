@@ -16,7 +16,7 @@ deets:
     bob
     bob
   price: 19
-  location: 'some place'
+  location: ome place
 
 ---
 yes daddy
