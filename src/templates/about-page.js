@@ -1,4 +1,5 @@
 import React from 'react';
+import Index from '../pages/contact/index';
 import PropTypes from 'prop-types';
 import tape1 from '../img/sex/tape1.png';
 import heppy from '../img/sex/happ.png';
@@ -44,7 +45,11 @@ export const AboutPageTemplate = ({
           </div>
 
           <div class="column is-centered cen">
-            <img src={hap} className="cen" style={{marginTop: '-10vh',paddingBottom:'10vh'}} />
+            <img
+              src={hap}
+              className="cen"
+              style={{marginTop: '-10vh', paddingBottom: '10vh'}}
+            />
           </div>
         </div>
         <div class="columns is-vcentered ">
@@ -228,7 +233,9 @@ export const AboutPageTemplate = ({
           </div>
         </div>
       </section>
-      <section style={{backgroundColor: 'white'}}>contact form</section>
+      <section style={{backgroundColor: 'white'}}>
+        <Index />
+      </section>
     </div>
   );
 };

@@ -10,7 +10,7 @@ import BlogRollF from '../components/BlogRollF';
 import picks from '../img/sex/picks.svg';
 
 export const IndexPageTemplate = ({title, subheading}) => (
-  <div style={{height: '100%'}}>
+  <div style={{minHeight: '100%'}}>
     <section
       style={{
         backgroundColor: 'black',
