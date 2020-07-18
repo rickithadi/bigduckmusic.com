@@ -3,7 +3,7 @@ import Layout from '../../components/Layout';
 
 export default () => (
   <Layout>
-    <section className="section">
+    <section className="section" style={{height:'100vh'}}>
       <div className="container centered">
         <div className="content">
           <h1 className="head" style={{ paddingTop: '20%'}}>

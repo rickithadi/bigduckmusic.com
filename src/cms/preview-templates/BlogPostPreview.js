@@ -11,7 +11,7 @@ const BlogPostPreview = ({entry, widgetFor}) => {
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
       spotify={entry.getIn(['data', 'spotify'])}
-      date={entry.getIn(['data', 'date'])}
+      //date={entry.getIn(['data', 'date'])}
       category={entry.getIn(['data', 'category'])}
       featuredimageo={entry.getIn(['data', 'featuredimageo'])}
       socials={entry.getIn(['data', 'socials'])}
