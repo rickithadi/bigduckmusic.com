@@ -24,7 +24,6 @@ class GigRoll extends React.Component {
               <div class="card" style={{border: '0'}}>
                 <div class="card-image">
                   <div
-                    class="image is-4by3"
                     style={{margin: 'none !important'}}>
                     {!post.frontmatter.test && (
                       <div class="avail cen">
@@ -34,7 +33,6 @@ class GigRoll extends React.Component {
 
                     <img
                       src={post.frontmatter.featuredimageo}
-                      style={{width: '100%'}}
                     />
                   </div>
                 </div>

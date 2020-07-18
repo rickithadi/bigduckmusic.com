@@ -19,7 +19,7 @@ export default class BlogIndexPage extends React.Component {
           </div>
 
           <section className="section">
-            <div className="container" style={{minHeight:'60vh'}}>
+            <div className="container" style={{minHeight: '60vh'}}>
               <BlogRoll />
             </div>
           </section>
