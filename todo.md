@@ -1,7 +1,7 @@
 -[x]home bg image
--[]filter button
+-[x]filter button
 -[x]arrow down mobile home
--[] url remove date
+-[x]url remove date
 -[] about page
 -[] contact page
 -[x] gig colour page

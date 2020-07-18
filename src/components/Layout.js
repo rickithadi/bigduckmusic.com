@@ -52,9 +52,10 @@ const TemplateWrapper = ({children}) => {
       <Navbar />
       <div
         style={{
-          minHeight: '100vh',
+          minHeight: '100%',
           overflowX: 'hidden',
         }}>
+
         {children}
       </div>
       <Footer />

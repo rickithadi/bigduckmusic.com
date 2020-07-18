@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <div className="fnr">
+        <div className="fnr" style={{minHeight:'100%'}}>
              <div
                 style={{
                   padding: '10vh',
