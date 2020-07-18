@@ -20,14 +20,19 @@ class GigRoll extends React.Component {
               key={post.id}
               style={{height: '100%'}}>
               <div class="card" style={{border: '0'}}>
-                {!post.frontmatter.test &&
-                (
-                  <div class="avail cen">
-                    <p style={{padding: '2px'}}>UPCOMING</p>
-                  </div>
-                )}
                 <div class="card-image">
-                  <img src={post.frontmatter.featuredimageo} />
+                  <div class="image is-4by3" style={{margin:'none !important'}}>
+                    {!post.frontmatter.test && (
+                      <div class="avail cen">
+                        <p style={{padding: '2px'}}>UPCOMING</p>
+                      </div>
+                    )}
+
+                    <img
+                      src={post.frontmatter.featuredimageo}
+                      style={{width: '100%'}}
+                    />
+                  </div>
                 </div>
                 <Link
                   to={post.fields.slug}
