@@ -175,14 +175,18 @@ export const AboutPageTemplate = ({
                   margin: '0 !important',
                   padding: '0px !important',
                   objectFit: 'cover',
+                  width: '100% !important',
                 }}>
-                <img src={heppy} />
+                <img
+                  src={heppy}
+                  style={{maxWidth: 'none', width: '100%'}}
+                />
               </div>
             </div>
           </div>
         </div>
         <div
-          class="column is-5 is-offset-1 is-vcentered bike             "
+          class="column is-5 is-offset-1 is-vcentered bike "
           style={{
             minHeight: '100%',
             paddingBottom: '10vh',
