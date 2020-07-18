@@ -35,7 +35,7 @@ export default class Index extends React.Component {
 
   render() {
     return (
-      <div class="columns " style={{minHeight: '100%'}}>
+      <div class="columns " style={{minHeight: '100%',paddingBottom:'10vh'}}>
         <div class="column is-3 is-offset-1">
           <h3 className="topkek cen" style={{padding: '10px'}}>
             TALK TO US

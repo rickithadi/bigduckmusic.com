@@ -68,7 +68,7 @@ class BlogRollF extends React.Component {
                   }
                 })
               : posts.slice(0, 4).map(({node: post}) => {
-                  if (!post.frontmatter.isReview) {
+                  if (post.frontmatter.category === 'feature') {
                     console.log(post);
                     return (
                       <div

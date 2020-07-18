@@ -71,7 +71,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
         <div className="container">
           <BlogRollF />
         </div>
-        <div style={{textAlign: 'center'}}>
+        <div style={{textAlign: 'center', paddingTop: '5vh'}}>
           <Link
             to="/features"
             class="button "

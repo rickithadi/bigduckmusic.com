@@ -2,8 +2,8 @@ import React from 'react';
 import {Link} from 'gatsby';
 import logo from '../img/Big-Duck_Transparent.svg';
 import duck from '../img/sex/dick.svg';
-import facebook from '../img/social/facebook.svg';
-import instagram from '../img/social/instagram.svg';
+import facebook from '../img/social/fb.svg';
+import instagram from '../img/social/ins.svg';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -84,10 +84,7 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item" to="/gigs">
               <p style={{color: 'white'}}>Gigs</p>
             </Link>
-            <Link className="navbar-item" to="/contact">
-              <p style={{color: 'white'}}>Contact</p>
-            </Link>
-          </div>
+         </div>
           <div className="navbar-end has-text-centered">
             <a className="navbar-item" rel="noopener noreferrer">
               <span className="icon">
