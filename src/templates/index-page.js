@@ -1,5 +1,6 @@
 import React from 'react';
 import cunt from '../img/sex/wordStar.png';
+import arrow from '../img/sex/arrow.png';
 import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
@@ -34,17 +35,42 @@ export const IndexPageTemplate = ({title, subheading}) => (
     </section>
 
     <section
-      className="topek hero is-large"
-      style={{minHeight: '100vh', paddingTop: '10vh'}}>
-      <div class="columns is-vcentered is-mobile" style={{marginTop: '-250px'}}>
-        <div class="column  is-vcentered">
-          <img src={cunt} alt="big duck" />
+      className="topek hero is-large  "
+      style={{minHeight: '100vh', paddingTop: '5vh'}}>
+      <div
+        class="columns is-vcentered is-mobile is-hidden-desktop  "
+        style={{marginTop: '-250px'}}>
+        <div class="column  is-vcentered ">
+          <img
+            class="is-vcentered cen"
+            src={arrow}
+            style={{paddingLeft: '50%'}}
+          />
+        </div>
+        <div
+          class="columns is-vcentered is-mobile"
+          style={{marginTop: '-25px'}}>
+          <div class="column  is-vcentered">
+            <img src={cunt} alt="big duck" style={{paddingLeft: '10%'}} />
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="columns is-vcentered is-hidden-touch  "
+        style={{marginTop: '20px'}}>
+        <div
+          class="columns is-vcentered is-mobile"
+          style={{marginTop: '-250px'}}>
+          <div class="column  is-vcentered">
+            <img src={cunt} alt="big duck" />
+          </div>
         </div>
       </div>
 
       <div
         className="hero-body"
-        style={{padding: '10px', paddingBottom: '20px'}}>
+        style={{padding: '10px', paddingBottom: '20px', marginTop: '-30px'}}>
         <div className="container">
           <BlogRollF />
         </div>
