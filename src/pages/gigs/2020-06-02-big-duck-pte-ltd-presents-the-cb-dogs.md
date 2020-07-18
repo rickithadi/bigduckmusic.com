@@ -1,5 +1,11 @@
 ---
 templateKey: gig-post
+deets:
+  dateGig: 2020-07-12T05:50:16.504Z
+  location: Detention Barracks
+  price: 909
+  lineup: 2IC
+
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591109501/CB%20dogs/img_6033_48851822502_o-min_idgh6g.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591109502/CB%20dogs/img_6094_48851820377_o-min_nmr787.jpg
@@ -32,7 +38,7 @@ socials:
 ---
 ### 5th October 2019
 
-THE CB DOGS LIVE PRESENTED BY BIG DUCK PTE LTD 
+THE CB DOGS LIVE PRESENTED BY BIG DUCK PTE LTD
 
 5th October 2019
 

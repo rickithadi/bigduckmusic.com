@@ -78,7 +78,7 @@ export const GigPostTemplate = ({
               padding: '15px',
               paddingBottom: '10vh',
             }}>
-            {deets && (
+            {deets &&  (
               <div
                 className="circ "
                 style={{
@@ -92,7 +92,7 @@ export const GigPostTemplate = ({
                   //border: '1px solid  #FF7500',
                 }}>
                 <span className="bi">Happening on</span>
-                <h4 className="deets"> {deets.date}</h4>
+                <h4 className="deets"> {deets.dateGig}</h4>
                 <p className="bi"> Hosted at</p>
                 <h4 className="deets"> {deets.location}</h4>
                 <p className="bi"> Line Up</p>
@@ -235,10 +235,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         deets {
-          location
-          price
-          date(formatString: "MMMM DD, YYYY")
-          lineup
+          dateGig(formatString: "MMMM DD, YYYY")
         }
         spotify
         tags

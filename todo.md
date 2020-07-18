@@ -4,3 +4,4 @@
 -[] url remove date
 -[] about page
 -[] contact page
+-[] gig colour page

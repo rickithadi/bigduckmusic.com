@@ -1,5 +1,12 @@
 ---
 templateKey: gig-post
+deets:
+  dateGig: 2020-07-12T05:50:16.504Z
+  location: Detention Barracks
+  price: 909
+  lineup: 2IC
+
+
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591108207/SHINY/IMG_0901-min_rwpyif.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591108206/SHINY/IMG_0804-min_augsv6.jpg
