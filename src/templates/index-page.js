@@ -40,9 +40,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
       <div
         class="columns is-vcentered is-mobile is-hidden-desktop  "
         style={{marginTop: '-250px'}}>
-        <div
-          class="columns is-vcentered is-mobile"
-          style={{marginTop: '5px'}}>
+        <div class="columns is-vcentered is-mobile" style={{marginTop: '5px'}}>
           <div class="column  is-vcentered">
             <img
               class="is-vcentered cen"

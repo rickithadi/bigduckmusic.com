@@ -6,68 +6,122 @@ import PreviewCompatibleImage from './PreviewCompatibleImage';
 import bg from '../img/sex/FnRBG.png';
 
 class BlogRollF extends React.Component {
+  state = {isMobile: false};
+componentDidMount = () => {
+      let hold = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+      this.setState({isMobile: hold});
+      console.log('monb', this.state.isMobile);
+
+    };
+
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
+     const more = (
+        <div style={{textAlign: 'center'}}>
+          <Link
+            to="/features"
+            class="button "
+            style={{backgroundColor: 'black', color: 'white'}}>
+            Read More{' '}
+          </Link>
+        </div>
+      );
 
-    const more = (
-      <div style={{textAlign: 'center'}}>
-        <Link
-          to="/features"
-          class="button "
-          style={{backgroundColor: 'black', color: 'white'}}>
-          Read More {' '}
-        </Link>
-      </div>
-    );
     return (
       <div>
         <div className="columns is-multiline">
           {posts &&
-            //posts.map(({node: post}) => {
-            posts.slice(0, 8).map(({node: post}) => {
-              if (!post.frontmatter.isReview) {
-                console.log(post);
-                return (
-                  <div
-                    className="is-parent column is-3 "
-                    key={post.id}
-                    style={{height: '100%'}}>
-                    <div class="card">
-                      <div class="card-image">
-                  {post.frontmatter.category && (
-                    <span className="taggy is-pulled-right">{post.frontmatter.category}</span>
-                  )}
+          //posts.map(({node: post}) => {
+          !this.state.isMobile
+            ? posts.slice(0, 8).map(({node: post}) => {
+                if (!post.frontmatter.isReview) {
+                  console.log(post);
+                  return (
+                    <div
+                      className="is-parent column is-3 "
+                      key={post.id}
+                      style={{height: '100%'}}>
+                      <div class="card">
+                        <div class="card-image">
+                          {post.frontmatter.category && (
+                            <span className="taggy is-pulled-right">
+                              {post.frontmatter.category}
+                            </span>
+                          )}
 
-                        <figure class="image is-4by3">
-                          <img
-                            //src="https://bulma.io/images/placeholders/1280x960.png"
-                            src={post.frontmatter.featuredimageo}
-                            alt="Placeholder image"
-                          />
-                        </figure>
-                      </div>
-                      <Link
-                        to={post.fields.slug}
-                        style={{paddingTop: '15px', color: 'inherit'}}>
-                        <div class="container" style={{height: '100%'}}>
-                          <article
-                            className="blog-list-item tile is-child">
-                            <div className="columns is-mobile">
-                              <p className="top">{post.frontmatter.title}</p>
-                            </div>
-                            <div className="columns is-mobile">
-                              <p className="bike">"{post.excerpt}"</p>
-                            </div>
-                          </article>
+                          <figure class="image is-4by3">
+                            <img
+                              //src="https://bulma.io/images/placeholders/1280x960.png"
+                              src={post.frontmatter.featuredimageo}
+                              alt="Placeholder image"
+                            />
+                          </figure>
                         </div>
-                      </Link>
-                      <p className="biker">{post.frontmatter.date}</p>
+                        <Link
+                          to={post.fields.slug}
+                          style={{paddingTop: '15px', color: 'inherit'}}>
+                          <div class="container" style={{height: '100%'}}>
+                            <article className="blog-list-item tile is-child">
+                              <div className="columns is-mobile">
+                                <p className="top">{post.frontmatter.title}</p>
+                              </div>
+                              <div className="columns is-mobile">
+                                <p className="bike">"{post.excerpt}"</p>
+                              </div>
+                            </article>
+                          </div>
+                        </Link>
+                        <p className="biker">{post.frontmatter.date}</p>
+                      </div>
                     </div>
-                  </div>
-                );
-              }
-            })}
+                  );
+                }
+              })
+            : posts.slice(0, 4).map(({node: post}) => {
+                if (!post.frontmatter.isReview) {
+                  console.log(post);
+                  return (
+                    <div
+                      className="is-parent column is-3 "
+                      key={post.id}
+                      style={{height: '100%'}}>
+                      <div class="card">
+                        <div class="card-image">
+                          {post.frontmatter.category && (
+                            <span className="taggy is-pulled-right">
+                              {post.frontmatter.category}
+                            </span>
+                          )}
+
+                          <figure class="image is-4by3">
+                            <img
+                              //src="https://bulma.io/images/placeholders/1280x960.png"
+                              src={post.frontmatter.featuredimageo}
+                              alt="Placeholder image"
+                            />
+                          </figure>
+                        </div>
+                        <Link
+                          to={post.fields.slug}
+                          style={{paddingTop: '15px', color: 'inherit'}}>
+                          <div class="container" style={{height: '100%'}}>
+                            <article className="blog-list-item tile is-child">
+                              <div className="columns is-mobile">
+                                <p className="top">{post.frontmatter.title}</p>
+                              </div>
+                              <div className="columns is-mobile">
+                                <p className="bike">"{post.excerpt}"</p>
+                              </div>
+                            </article>
+                          </div>
+                        </Link>
+                        <p className="biker">{post.frontmatter.date}</p>
+                      </div>
+                    </div>
+                  );
+                }
+              })}
         </div>
         {more}
       </div>
