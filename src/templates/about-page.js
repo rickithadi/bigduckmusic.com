@@ -8,11 +8,9 @@ import tape2 from '../img/sex/tape2.png';
 import tape3 from '../img/sex/tape3.png';
 import {graphql} from 'gatsby';
 import Layout from '../components/Layout';
-import Content, {HTMLContent} from '../components/Content';
 
 export const AboutPageTemplate = ({
   title,
-  content,
   header1,
   header2,
   header3,
@@ -23,9 +21,7 @@ export const AboutPageTemplate = ({
   body2_3,
   body3,
   body3_2,
-  contentComponent,
 }) => {
-  const PageContent = contentComponent || Content;
   console.log('bro', body1_2);
 
   return (
@@ -177,10 +173,7 @@ export const AboutPageTemplate = ({
                   objectFit: 'cover',
                   width: '100% !important',
                 }}>
-                <img
-                  src={heppy}
-                  style={{maxWidth: 'none', width: '100%'}}
-                />
+                <img src={heppy} style={{maxWidth: 'none', width: '100%'}} />
               </div>
             </div>
           </div>
@@ -246,8 +239,6 @@ export const AboutPageTemplate = ({
 
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
 };
 
 const AboutPage = ({data}) => {
@@ -256,7 +247,6 @@ const AboutPage = ({data}) => {
   return (
     <Layout>
       <AboutPageTemplate
-        contentComponent={HTMLContent}
         title={post.frontmatter.title}
         header1={post.frontmatter.header1}
         header2={post.frontmatter.header2}
@@ -268,7 +258,6 @@ const AboutPage = ({data}) => {
         body2_2={post.frontmatter.body2_2}
         body2_3={post.frontmatter.body2_3}
         body3_2={post.frontmatter.body3_2}
-        content={post.html}
       />
     </Layout>
   );

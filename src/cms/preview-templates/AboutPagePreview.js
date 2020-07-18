@@ -15,7 +15,6 @@ const AboutPagePreview = ({entry, widgetFor}) => (
     body2_3={entry.getIn(['data', 'body2_3'])}
     body3={entry.getIn(['data', 'body3'])}
     body3_2={entry.getIn(['data', 'body3_2'])}
-    content={widgetFor('body')}
   />
 );
 
