@@ -14,7 +14,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
     <section
       style={{
         backgroundColor: 'black',
-        paddingTop: '10vh',
+        paddingTop: '2vh',
         paddingBottom: '20vh',
       }}
       className="home">
@@ -40,17 +40,16 @@ export const IndexPageTemplate = ({title, subheading}) => (
       <div
         class="columns is-vcentered is-mobile is-hidden-desktop  "
         style={{marginTop: '-250px'}}>
-        <div class="column  is-vcentered ">
-          <img
-            class="is-vcentered cen"
-            src={arrow}
-            style={{paddingLeft: '50%'}}
-          />
-        </div>
         <div
           class="columns is-vcentered is-mobile"
-          style={{marginTop: '-25px'}}>
+          style={{marginTop: '5px'}}>
           <div class="column  is-vcentered">
+            <img
+              class="is-vcentered cen"
+              src={arrow}
+              style={{paddingLeft: '50%'}}
+            />
+
             <img src={cunt} alt="big duck" style={{paddingLeft: '10%'}} />
           </div>
         </div>
