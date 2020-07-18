@@ -26,7 +26,7 @@ export const GigPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(carousel);
+  console.log(deets);
 
   return (
     <div>
@@ -78,7 +78,8 @@ export const GigPostTemplate = ({
               padding: '15px',
               paddingBottom: '10vh',
             }}>
-            {deets &&  (
+            {deets && console.log(deets)}
+            {deets && (
               <div
                 className="circ "
                 style={{
@@ -96,10 +97,10 @@ export const GigPostTemplate = ({
                 <p className="bi"> Hosted at</p>
                 <h4 className="deets"> {deets.location}</h4>
                 <p className="bi"> Line Up</p>
-                <h4 className="deets "> {deets.lineup}</h4>
+                {deets.lineupu && <h4 className="deets "> {deets.lineupu}</h4>}
 
                 <p className="bi">PRE-SALE/DOORS</p>
-                <h4 className="deets"> {deets.price}</h4>
+                {deets.pricesu && <h4 className="deets"> {deets.pricesu}</h4>}
               </div>
             )}
           </div>
@@ -236,6 +237,9 @@ export const pageQuery = graphql`
         title
         deets {
           dateGig(formatString: "MMMM DD, YYYY")
+          pricesu
+          location
+          lineupu
         }
         spotify
         tags

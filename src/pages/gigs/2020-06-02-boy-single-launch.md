@@ -2,11 +2,12 @@
 templateKey: gig-post
 deets:
   dateGig: 2020-02-14T11:00:24.826Z
-  lineup:
-    -bob
-    -bob
-  price: 19
   location: 'some place'
+  pricesu: 19
+  lineupu:
+    -bob
+    -bob
+
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591117595/HOUG/IMG_3481-min_hvggcv.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591117595/HOUG/IMG_3397-min_gdcy1r.jpg

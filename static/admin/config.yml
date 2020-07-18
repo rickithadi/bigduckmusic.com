@@ -98,8 +98,8 @@ collections:
             [
               {label: 'date', name: 'date', widget: 'date'},
               {label: 'location', name: 'location', widget: 'string'},
-              {label: 'price', name: 'price', widget: 'string'},
-              {label: 'Line Up', name: 'lineup', widget: 'list'},
+              {label: 'price', name: 'pricesu', widget: 'string'},
+              {label: 'Line Up', name: 'lineupu', widget: 'list'},
             ],
         }
 
