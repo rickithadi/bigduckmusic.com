@@ -71,6 +71,14 @@ export const IndexPageTemplate = ({title, subheading}) => (
         <div className="container">
           <BlogRollF />
         </div>
+        <div style={{textAlign: 'center'}}>
+          <Link
+            to="/features"
+            class="button "
+            style={{backgroundColor: 'black', color: 'white'}}>
+            Read More{' '}
+          </Link>
+        </div>
       </div>
     </section>
 

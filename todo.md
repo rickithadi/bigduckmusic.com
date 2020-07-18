@@ -2,3 +2,5 @@
 -[]filter button
 -[x]arrow down mobile home
 -[] url remove date
+-[] about page
+-[] contact page

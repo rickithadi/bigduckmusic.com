@@ -16,24 +16,13 @@ class BlogRollF extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
-    const more = (
-      <div style={{textAlign: 'center'}}>
-        <Link
-          to="/features"
-          class="button "
-          style={{backgroundColor: 'black', color: 'white'}}>
-          Read More{' '}
-        </Link>
-      </div>
-    );
-
     return (
       <div>
         {posts && (
           <div className="columns is-multiline">
             {!this.state.isMobile
               ? posts.slice(0, 8).map(({node: post}) => {
-                  if (!post.frontmatter.isReview) {
+                  if (post.frontmatter.category === 'feature') {
                     console.log(post);
                     return (
                       <div
@@ -124,7 +113,6 @@ class BlogRollF extends React.Component {
                     );
                   }
                 })}
-            {more}
           </div>
         )}
       </div>
@@ -157,6 +145,7 @@ export default () => (
               }
               frontmatter {
                 title
+                category
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
