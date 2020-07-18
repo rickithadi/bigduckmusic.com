@@ -215,7 +215,7 @@ export const AboutPageTemplate = ({
           <div
             class="column is-3 is-offset-7 is-pulled-right bike"
             style={{
-              marginTop: '-37vh',
+              marginTop: '-27vh',
               minHeight: '100%',
               position: 'relative',
               paddingBottom: '10vh',

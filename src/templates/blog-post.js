@@ -15,6 +15,7 @@ export const BlogPostTemplate = ({
   contentComponent,
   review,
   spotify,
+  category,
   date,
   socials,
   featuredimageo,
@@ -23,23 +24,41 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+  console.log(date);
 
   return (
     <div>
-      <div>
-        <div style={{width: '100vw', height: '50vh'}}>
+      <div style={{backgroundColor: 'black', minHeight: '100%'}}>
+        <div style={{width: '100vw', height: '52vh'}} className="cen">
           <img src={featuredimageo} style={{width: '100%', height: '100%'}} />
         </div>
-        <h1
-          className="head"
+        <div
+          class="container"
           style={{
-            top: '120px',
+            top: '150px',
             left: '50px',
             position: 'absolute',
             color: 'white',
           }}>
-          {title}
-        </h1>
+          <h1
+            className="head"
+            style={{
+              color: 'white',
+            }}>
+            {title}
+          </h1>
+          <p className="biker"> Published on {date}</p>
+        </div>
+        <div
+          class="container"
+          style={{
+            top: '50vh',
+            left: '50px',
+            position: 'absolute',
+            color: 'white',
+          }}>
+          {category && <span className="swaggy ">{category}</span>}
+        </div>
       </div>
       {helmet || ''}
       <div className="columns is-centered " style={{backgroundColor: 'white'}}>
@@ -115,6 +134,8 @@ const BlogPost = ({data}) => {
         review={post.frontmatter.isReview}
         spotify={post.frontmatter.spotify}
         socials={post.frontmatter.socials}
+        category={post.frontmatter.category}
+        date={post.frontmatter.date}
         featuredimageo={post.frontmatter.featuredimageo}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -151,6 +172,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         isReview
         spotify
+        category
         title
         description
         featuredimageo

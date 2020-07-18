@@ -23,17 +23,14 @@ class GigRoll extends React.Component {
               style={{height: '100%'}}>
               <div class="card" style={{border: '0'}}>
                 <div class="card-image">
-                  <div
-                    style={{margin: 'none !important'}}>
+                  <div className='cen' style={{margin: 'none !important'}}>
                     {!post.frontmatter.test && (
                       <div class="avail cen">
                         <p style={{padding: '2px'}}>UPCOMING</p>
                       </div>
                     )}
 
-                    <img
-                      src={post.frontmatter.featuredimageo}
-                    />
+                    <img src={post.frontmatter.featuredimageo} />
                   </div>
                 </div>
                 <Link
