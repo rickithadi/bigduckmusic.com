@@ -49,7 +49,7 @@ export const GigPostTemplate = ({
         </div>
       </div>
       {helmet || ''}
-      <div className="columns" style={{backgroundColor:'black',paddingBottom:'0px !important'}}>
+      <div className="columns" style={{backgroundColor: 'black'}}>
         <div className="column ">
           {carousel && carousel.length > 0 ? (
             <Carousel indicators={false} controls={true}>
@@ -62,7 +62,7 @@ export const GigPostTemplate = ({
               ))}
             </Carousel>
           ) : (
-            <div style={{width: '100vw', height: '100%'}}  className='cen' >
+            <div style={{width: '100vw', height: '100%'}} className="cen">
               <img src={poster} />
             </div>
           )}
@@ -226,25 +226,24 @@ GigPost.propTypes = {
 export default GigPost;
 
 export const pageQuery = graphql`
-  query GigPostByID($id: String!) {
+  query GigPostByIDFuck($id: String!) {
     markdownRemark(id: {eq: $id}) {
       id
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        deets {
-          dateGig(formatString: "MMMM DD, YYYY")
-          location
-        }
         spotify
         tags
         description
-        socials {
-          url
-        }
         test
         poster
+        deets {
+          dateGig(formatString: "MMMM DD, YYYY")
+          location
+          pricesu
+          lineupu
+        }
       }
     }
   }

@@ -96,7 +96,7 @@ collections:
           widget: 'object',
           fields:
             [
-              {label: 'date', name: 'date', widget: 'date'},
+              {label: 'date', name: 'dateGig', widget: 'date'},
               {label: 'location', name: 'location', widget: 'string'},
               {label: 'price', name: 'pricesu', widget: 'string'},
               {label: 'Line Up', name: 'lineupu', widget: 'list'},

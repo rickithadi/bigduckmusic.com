@@ -13,7 +13,6 @@ deets:
   dateGig: 2020-07-18T03:05:14.370Z
   location: tekong
   pricesu: 2 years of your youth
-  lineupu:
-    - no
+  lineupu: no
 ---
 wtf is this stuff

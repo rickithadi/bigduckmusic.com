@@ -3,9 +3,8 @@ templateKey: gig-post
 deets:
   dateGig: 2020-07-12T05:50:16.504Z
   location: Detention Barracks
-  pricesu: 909
+  pricesu: 909 *&^*&
   lineupu: 2IC
-
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591115896/MHC/IMG_1436-min_k6kyzq.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1591115893/MHC/IMG_1589-min_opzkrp.jpg
