@@ -155,4 +155,9 @@ collections:
               default: 'about-page',
             }
           - {label: 'Title', name: 'title', widget: 'string'}
-          - {label: 'Body', name: 'body', widget: 'markdown'}
+          - {label: 'Header 1', name: 'header1', widget: 'string'}
+          - {label: 'Header 2', name: 'header2', widget: 'string'}
+          - {label: 'Header 3', name: 'header3', widget: 'string'}
+          - {label: 'Body 1', name: 'body1', widget: 'string'}
+          - {label: 'Body 2', name: 'body2', widget: 'string'}
+          - {label: 'Body 3', name: 'body3', widget: 'string'}
