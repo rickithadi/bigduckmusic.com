@@ -53,7 +53,6 @@ const TemplateWrapper = ({children}) => {
       <div
         style={{
           minHeight: '100%',
-          overflowX: 'hidden',
         }}>
 
         {children}

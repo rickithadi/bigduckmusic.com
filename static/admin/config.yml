@@ -159,5 +159,9 @@ collections:
           - {label: 'Header 2', name: 'header2', widget: 'string'}
           - {label: 'Header 3', name: 'header3', widget: 'string'}
           - {label: 'Body 1', name: 'body1', widget: 'string'}
+          - {label: 'Body 1', name: 'body1_2', widget: 'string'}
+          - {label: 'Body 2', name: 'body2_3', widget: 'string'}
+          - {label: 'Body 2', name: 'body2_2', widget: 'string'}
           - {label: 'Body 2', name: 'body2', widget: 'string'}
           - {label: 'Body 3', name: 'body3', widget: 'string'}
+          - {label: 'Body 3', name: 'body3_2', widget: 'string'}

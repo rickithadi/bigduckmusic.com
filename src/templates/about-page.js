@@ -15,24 +15,30 @@ export const AboutPageTemplate = ({
   header2,
   header3,
   body1,
+  body1_2,
   body2,
+  body2_2,
+  body2_3,
   body3,
+  body3_2,
   contentComponent,
 }) => {
   const PageContent = contentComponent || Content;
-  console.log('bro', header1);
+  console.log('bro', body1_2);
 
   return (
     <div
-      style={{minHeight: '100vh'}}
       style={{
+        minHeight: '100vh',
         backgroundColor: 'black',
       }}>
-      <section className="aboot" style={{minHeight: '100%'}}>
+      <section className="aboot " style={{height: '100%',paddingBottom:'50px'}}>
         <h1 className="homeHeader" style={{padding: '20px'}}>
           {title}
         </h1>
-        <div class="columns is-vcentered " style={{paddingTop: '15vh'}}>
+        <div
+          class="columns  is-hidden-touch is-vcentered "
+          style={{paddingTop: '5vh'}}>
           <div
             class="column is-6 is-offset-5 is-vcentered chatty
             "
@@ -42,67 +48,84 @@ export const AboutPageTemplate = ({
               color: 'black',
               height: '100%',
             }}>
-                    <div class="card">
-            <img
-              src={tape1}
-              className="tape cen"
-              style={{paddingTop: '15vh'}}
-            />
-            <div class="container">
-              <h1 className="bigboi">{header1}</h1>
+            <div class="card">
+              <img
+                src={tape1}
+                className="tape cen"
+                style={{paddingTop: '15vh'}}
+              />
+              <div class="container">
+                <h1 className="bigboi">{header1}</h1>
 
-              <p>{body1}</p>
-            </div>
-            <div
-              class="card-image"
-              style={{
-                margin: '0 !important',
-                padding: '0px !important',
-                objectFit: 'cover',
-              }}>
-              <img src={heppy} />
+                <p style={{paddingBottom: '15px'}}>{body1}</p>
+                <p style={{paddingBottom: '15px'}}>{body1_2}</p>
+              </div>
+              <div
+                class="card-image"
+                style={{
+                  margin: '0 !important',
+                  padding: '0px !important',
+                  objectFit: 'cover',
+                }}>
+                <img src={heppy} />
+              </div>
             </div>
           </div>
         </div>
-        </div>
-        <div class="columns is-vcentered " style={{paddingTop: '45vh'}}>
-          <div
-            class="column is-6  is-vcentered chatty
+        <div
+          class="column is-5 is-offset-1 is-vcentered bike is-hidden-touch
             "
+          style={{
+            minHeight: '100%',
+            paddingBottom: '10vh',
+            padding: '20px',
+            marginTop: '-20vh',
+            position: 'relative',
+            color: 'black',
+            height: '100%',
+          }}>
+          <div
             style={{
-              minHeight: '100%',
-              paddingBottom: '10vh',
-              color: 'black',
-              height: '100%',
-              backgroundColor: 'green',
-            }}>
+              backgroundColor: '#ADFE29',
+            }}
+            class="card">
             <img src={tape2} className="tape cen" />
-            <div class="container">
+            <div
+              class="container"
+              style={{
+                backgroundColor: '#ADFE29',
+              }}>
               <h1 className="bigboi">{header2}</h1>
 
-              <p>{body2}</p>
+              <p style={{paddingBottom:'15px'}}>{body2}</p>
+              <p style={{paddingBottom:'15px'}} >{body2_2}</p>
+              <p style={{paddingBottom:'15px'}} >{body2_3}</p>
             </div>
           </div>
         </div>
-        <div class="columns is-vcentered " style={{paddingTop: '5vh'}}>
+        <div class="columns is-hidden-touch ">
           <div
-            class="column is-4 is-offset-7 is-pulled-right chatty"
+            class="column is-3 is-offset-7 is-pulled-right bike"
             style={{
+              marginTop: '-37vh',
               minHeight: '100%',
+              position: 'relative',
               paddingBottom: '10vh',
+              paddingRight: '10px',
               color: 'black',
               height: '100%',
-              backgroundColor: 'yellow',
+              backgroundColor: '#FBFF30',
             }}>
             <img src={tape3} className="tapeSmol cen" />
             <div class="container">
               <h1 className="bigboi">{header3}</h1>
-
-              <p>{body3}</p>
+              <p  style={{paddingBottom:'15px'}}>{body3}</p>
+              <p  style={{paddingBottom:'15px'}}>{body3_2}</p>
             </div>
           </div>
         </div>
       </section>
+      <section style={{backgroundColor: 'white'}}>hello</section>
     </div>
   );
 };
@@ -127,6 +150,10 @@ const AboutPage = ({data}) => {
         body1={post.frontmatter.body1}
         body2={post.frontmatter.body2}
         body3={post.frontmatter.body3}
+        body1_2={post.frontmatter.body1_2}
+        body2_2={post.frontmatter.body2_2}
+        body2_3={post.frontmatter.body2_3}
+        body3_2={post.frontmatter.body3_2}
         content={post.html}
       />
     </Layout>
@@ -149,8 +176,12 @@ export const aboutPageQuery = graphql`
         header2
         header3
         body1
+        body1_2
         body2
+        body2_2
+        body2_3
         body3
+        body3_2
       }
     }
   }
