@@ -35,7 +35,8 @@ export default class gigIndexPage extends React.Component {
         </div>
         <section className="section" style={{backgroundColor: 'black'}}>
           <div className="container">
-            <div className="content">
+            <div className="content"
+            >
               <GigRoll />
             </div>
           </div>

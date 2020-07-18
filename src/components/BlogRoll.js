@@ -23,23 +23,23 @@ class BlogRoll extends React.Component {
         value={this.state.filter}
         onChange={this.handleChange}>
         <option class="button" value="all">
-          All
+          ALL
         </option>
         <option class="button" value="feature">
-          Features
+          FEATURES
         </option>
         <option class="button" value="take">
-          Takes
+          TAKES
         </option>
 
         <option class="button" value="review">
-          Reviews
+          REVIEWS
         </option>
       </select>
     );
 
     return (
-      <div>
+      <div style={{minHeight: '100vh !important',height:'100%'}}>
         <div className="hold">{dd}</div>
         <div className="columns is-multiline">
           {posts &&

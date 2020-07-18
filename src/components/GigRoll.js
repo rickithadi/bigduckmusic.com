@@ -12,7 +12,9 @@ class GigRoll extends React.Component {
     console.log(data);
 
     return (
-      <div className="columns is-multiline" style={{marginTop: '-8vh'}}>
+      <div
+        className="columns is-multiline"
+        style={{marginTop: '-8vh', minHeight: '100vh !important'}}>
         {posts &&
           posts.map(({node: post}) => (
             <div
@@ -21,7 +23,9 @@ class GigRoll extends React.Component {
               style={{height: '100%'}}>
               <div class="card" style={{border: '0'}}>
                 <div class="card-image">
-                  <div class="image is-4by3" style={{margin:'none !important'}}>
+                  <div
+                    class="image is-4by3"
+                    style={{margin: 'none !important'}}>
                     {!post.frontmatter.test && (
                       <div class="avail cen">
                         <p style={{padding: '2px'}}>UPCOMING</p>
