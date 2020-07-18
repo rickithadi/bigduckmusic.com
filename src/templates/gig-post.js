@@ -78,7 +78,6 @@ export const GigPostTemplate = ({
               padding: '15px',
               paddingBottom: '10vh',
             }}>
-            {deets && console.log(deets)}
             {deets && (
               <div
                 className="circ "
@@ -86,7 +85,6 @@ export const GigPostTemplate = ({
                   textAlign: 'left',
                   padding: '15px',
                   lineHeight: '1',
-                  height: '20vh',
                   paddingTop: '15px',
                   paddingBottom: '15px',
                   marginBottom: '15px',
