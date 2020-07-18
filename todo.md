@@ -1,0 +1,4 @@
+-[x]home bg image
+-[]filter button
+-[]arrow down mobile home
+-[] url remove date
