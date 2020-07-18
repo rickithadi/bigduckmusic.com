@@ -143,7 +143,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
             }}
             class="column has-text-centered is-vcentered">
             <Link
-              to="/contact"
+              to="/about"
               class="button "
               style={{
                 backgroundColor: 'black',
