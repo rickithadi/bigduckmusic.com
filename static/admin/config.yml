@@ -99,7 +99,7 @@ collections:
               {label: 'date', name: 'dateGig', widget: 'date'},
               {label: 'location', name: 'location', widget: 'string'},
               {label: 'price', name: 'pricesu', widget: 'string'},
-              {label: 'Line Up', name: 'lineupu', widget: 'list'},
+              {label: 'Line Up', name: 'lineupu', widget: 'string'},
             ],
         }
 
