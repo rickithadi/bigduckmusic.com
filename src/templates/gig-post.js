@@ -49,7 +49,7 @@ export const GigPostTemplate = ({
         </div>
       </div>
       {helmet || ''}
-      <div className="columns">
+      <div className="columns" style={{backgroundColor:'black',paddingBottom:'0px !important'}}>
         <div className="column ">
           {carousel && carousel.length > 0 ? (
             <Carousel indicators={false} controls={true}>
@@ -62,7 +62,7 @@ export const GigPostTemplate = ({
               ))}
             </Carousel>
           ) : (
-            <div style={{width: '100vw', height: '100%'}}>
+            <div style={{width: '100vw', height: '100%'}}  className='cen' >
               <img src={poster} />
             </div>
           )}
@@ -235,9 +235,7 @@ export const pageQuery = graphql`
         title
         deets {
           dateGig(formatString: "MMMM DD, YYYY")
-          pricesu
           location
-          lineupu
         }
         spotify
         tags
