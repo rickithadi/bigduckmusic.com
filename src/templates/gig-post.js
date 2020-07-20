@@ -128,8 +128,8 @@ export const GigPostTemplate = ({
               </div>
             ) : null}
           </div>
-          <div className="column " class="is-hidden-desktop">
-            {spotify && (
+          {spotify && (
+            <div className="column " class="is-hidden-desktop">
               <div
                 style={{height: '60vh', padding: '10px'}}
                 className="smlj right">
@@ -138,15 +138,14 @@ export const GigPostTemplate = ({
                   size={{height: '100%', width: '100%'}}
                 />
               </div>
-            )}
-          </div>
-          <div className="column " class="is-hidden-touch">
-            {spotify && (
+            </div>
+          )}
+          {spotify && (
+            <div className="column " class="is-hidden-touch">
               <div
                 className="smlj right"
                 style={{
                   height: '100vh',
-
                   padding: '20px',
                   paddingTop: '10vh',
                 }}>
@@ -155,8 +154,8 @@ export const GigPostTemplate = ({
                   size={{height: '90%', width: '80%', right: '0'}}
                 />
               </div>
-            )}
-          </div>
+            </div>
+          )}
         </div>
       </section>
       <hr />
