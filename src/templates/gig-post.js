@@ -50,21 +50,22 @@ export const GigPostTemplate = ({
       </div>
       {helmet || ''}
       <div className="columns" style={{backgroundColor: 'black'}}>
-        <div className="column ">
+        <div style={{width: '100vw', height: '100%'}} className=" container ">
           {carousel && carousel.length > 0 ? (
             <Carousel indicators={false} controls={true}>
               {carousel.map(i => (
                 <Carousel.Item>
-                  <figure className="is-2by1 cen">
-                    <img style={{height: '50vh', width: '100vw'}} src={i} />
+                  <figure className="cen">
+                    <img src={i} />
                   </figure>
                 </Carousel.Item>
               ))}
             </Carousel>
           ) : (
-            <div style={{width: '100vw', height: '100%'}} className="cen">
-              <img src={poster} />
-            </div>
+
+              <figure className="cen">
+                <img src={poster} />
+              </figure>
           )}
         </div>
       </div>
