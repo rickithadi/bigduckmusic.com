@@ -14,7 +14,7 @@ poster: https://res.cloudinary.com/ddomozydd/image/upload/v1591108559/SHINY/Shin
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1591108559/SHINY/Shinyting_sly7cd.jpg
 title: SHINY Festival 2019
 spotify: https://open.spotify.com/playlist/0bS7Pm4bT46nG8XJkmfXzQ?si=tWIRBLDzT6qskd1fcudvdQ
-date: 2020-07-20T15:58:01.090Z
+date: 2019-09-06T11:00:01.090Z
 deets:
   dateGig: 2019-09-06T15:58:01.112Z
   location: Day 1 - Tonehouse Studios, Day 2 - Lithe House
