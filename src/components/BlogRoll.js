@@ -57,7 +57,7 @@ class BlogRoll extends React.Component {
                     <div class="card">
                       <div class="card-image">
                         {post.frontmatter.category && (
-                          <span className="taggy is-pulled-right">
+                          <span className="taggy bike is-pulled-right">
                             {post.frontmatter.category}
                           </span>
                         )}

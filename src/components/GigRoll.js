@@ -21,15 +21,16 @@ class GigRoll extends React.Component {
               className="is-parent column is-6 "
               key={post.id}
               style={{height: '100%'}}>
-              <div class="card" style={{border: '0'}}>
-                <div class="card-image">
-                  <div className='cen' style={{margin: 'none !important'}}>
-                    {!post.frontmatter.test && (
-                      <div class="avail cen">
-                        <p style={{padding: '2px'}}>UPCOMING</p>
-                      </div>
-                    )}
+              <div class="avail cen">
+                {!post.frontmatter.test && (
+                  <p style={{padding: '2px'}}>UPCOMING</p>
+                )}
+                {post.frontmatter.test && <p style={{padding: '2px'}}>PAST</p>}
+              </div>
 
+              <div class="card" style={{border: '0'}}>
+                <div class="card-image" style={{height: '38vh'}}>
+                  <div className="cen" style={{margin: 'none !important'}}>
                     <img src={post.frontmatter.featuredimageo} />
                   </div>
                 </div>

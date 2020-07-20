@@ -62,10 +62,9 @@ export const GigPostTemplate = ({
               ))}
             </Carousel>
           ) : (
-
-              <figure className="cen">
-                <img src={poster} />
-              </figure>
+            <figure className="cen">
+              <img src={poster} />
+            </figure>
           )}
         </div>
       </div>
@@ -74,24 +73,23 @@ export const GigPostTemplate = ({
         style={{backgroundColor: 'white', padding: '0px'}}>
         <div className="columns">
           <div
-            className="column is-4 "
+            className="column is-2 "
             style={{
-              padding: '15px',
+              paddingTop: '8vh',
               paddingBottom: '10vh',
             }}>
             {deets && (
               <div
-                className="circ "
+                className=" circ"
                 style={{
                   textAlign: 'left',
-                  padding: '15px',
+                  padding: '25px',
                   lineHeight: '1',
-                  paddingTop: '15px',
                   paddingBottom: '15px',
                   marginBottom: '15px',
                   //border: '1px solid  #FF7500',
                 }}>
-                <span className="bi">Happening on</span>
+                <p className="bi">Happening on</p>
                 <h4 className="deets"> {deets.dateGig}</h4>
                 <p className="bi"> Hosted at</p>
                 <h4 className="deets"> {deets.location}</h4>

@@ -25,6 +25,7 @@ $head-img: url('../img/headerNoise.png');
 .bigboi
   line-height: 1
   padding-bottom: 20px
+
 .chatty
  font-family: 'Aktiv Grotesk';
 
@@ -86,6 +87,7 @@ $black: pink
 
 .biker
   font-family: Bicyclette;
+  color: #000000;
   padding-top: 15px
   padding-left: 5px
   padding-bottom: 15px
@@ -94,9 +96,10 @@ $black: pink
 .bi
   font-family: Bicyclette;
   padding-top: 15px
+  padding-bottom: 0px
   font-style: normal;
   font-weight: normal;
-  font-size: small;
+  font-size: 12px;
 .gay
   font-family: Bicyclette;
   padding-top: 15px
@@ -139,6 +142,15 @@ $black: pink
  background-repeat: no-repeat; /* Center the image */
  //background-attachment: fixed;
  background-size: cover; /* Center the image */
+
+
+
+svg
+  display: block;
+  width: 100vh
+  height: 90px;
+  transform: rotate(180deg);
+  background: yellow;
 
 
 .box
@@ -191,18 +203,27 @@ $black: pink
 .avail
   color: #FBFF30
   z-index: 99;
-  position: sticky;
+  position: relative;
   top: 0;
   background-color: #191919
 
 .circ
   background: white;
-  background-position: top !important;
-  height: 100%
-  background: -moz-radial-gradient(closest-corner, rgba(226,58,233,1) 2%, rgba(226,58,233,0.5844538498993348) 19%, rgba(247,246,247,1) 48%, rgba(255,255,255,1) 53%);
-  background: -webkit-radial-gradient(closest-corner, rgba(226,58,233,1) 2%, rgba(226,58,233,0.5844538498993348) 19%, rgba(247,246,247,1) 48%, rgba(255,255,255,1) 53%);
-  background: radial-gradient(closest-corner, rgba(226,58,233,1) 2%, rgba(226,58,233,0.5844538498993348) 19%, rgba(247,246,247,1) 48%, rgba(255,255,255,1) 53%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e23ae9",endColorstr="#faf4f9",GradientType=1);
+  background-size: contain
+  padding-top: 0px;
+  background-position: left !important
+  text-transform: uppercase;
+  background-image: url('../img/zot.png');
+  background-repeat: no-repeat;
+
+.idiot
+  justify-content: left
+  align-items: left
+  font-size: calc(1em + 1vmin);
+  text-transform: uppercase
+  text-align:left !important
+  font-family: 'Permanent Marker', cursive;
+  color: black
 .head
   justify-content: left
   align-items: left
@@ -310,7 +331,9 @@ $black: pink
 .deets
   font-family: Bicyclette;
   padding-bottom: 15px
-  padding-top: 5px
+  padding-top: 0px
+  font-size: 20px
+  color: #000000;
   font-weight: bolder;
 
 

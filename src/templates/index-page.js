@@ -8,6 +8,7 @@ import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRollF from '../components/BlogRollF';
 import picks from '../img/sex/picks.svg';
+import tra from '../img/sex/tra.svg';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div style={{minHeight: '100%'}}>
@@ -95,6 +96,10 @@ export const IndexPageTemplate = ({title, subheading}) => (
       />
       <div style={{height: '100%'}}>
         <PickRoll />
+      </div>
+      <div style={{height: '100%',background:'#000000'}}>
+      <img style={{width: '100vw'}}class="is-vcentered cen" src={tra} />
+
       </div>
       <div className="contribute">
         <div class="columns is-vcentered ">
