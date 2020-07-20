@@ -2,9 +2,9 @@
 templateKey: gig-post
 test:
   - https://res.cloudinary.com/ddomozydd/image/upload/v1595181132/IMAGES%20FOR%20gigs/CB%20DOGS/CB1_gcdwia.jpg
-  - https://res.cloudinary.com/ddomozydd/image/upload/v1595181129/IMAGES%20FOR%20gigs/CB%20DOGS/CB5_ubs5xp.jpg
-  - https://res.cloudinary.com/ddomozydd/image/upload/v1595181129/IMAGES%20FOR%20gigs/CB%20DOGS/CB4_ebjkuj.jpg
+  - https://res.cloudinary.com/ddomozydd/image/upload/v1595263938/IMAGES%20FOR%20gigs/CB%20DOGS/CB5_btxmqs.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1595181132/IMAGES%20FOR%20gigs/CB%20DOGS/CB2_bzamvp.jpg
+  - https://res.cloudinary.com/ddomozydd/image/upload/v1595181129/IMAGES%20FOR%20gigs/CB%20DOGS/CB4_ebjkuj.jpg
   - https://res.cloudinary.com/ddomozydd/image/upload/v1595181129/IMAGES%20FOR%20gigs/CB%20DOGS/CB3_nqhfyg.jpg
 poster: https://res.cloudinary.com/ddomozydd/image/upload/v1591109955/CB%20dogs/cbbannerBORDER_vzoxcy.png
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1591109370/CB%20dogs/cbdawg_pkajo1.jpg
