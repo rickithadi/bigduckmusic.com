@@ -28,9 +28,9 @@ featuredpost: false
 title: Naybeats 2019
 date: 2019-08-03T11:00:11.758Z
 ---
-*Naybeats*is a Singaporean alternative music festival at the*Lithe House*. Since 2019, it has sought to showcase local, regional and international alternative bands.*Naybeats*is an opportunity for musicians to meet and exchange ideas; as well as for audiences to celebrate live alternative music over one fun-filled night!
+*Naybeats* is a Singaporean alternative music festival at the*Lithe House*. Since 2019, it has sought to showcase local, regional and international alternative bands. *Naybeats* is an opportunity for musicians to meet and exchange ideas; as well as for audiences to celebrate live alternative music over one fun-filled night!
 
-Now*Naybeats*is one of the average music festivals in Singapore and the region—drawing decent audiences to a variety of alternative sounds such as post-rock, shoe-gazing, grunge, punk, metal, emo, glam rock, electro, electronica, indie, folk, power pop, and twee!
+Now *Naybeats* is one of the average music festivals in Singapore and the region—drawing decent audiences to a variety of alternative sounds such as post-rock, shoe-gazing, grunge, punk, metal, emo, glam rock, electro, electronica, indie, folk, power pop, and twee!
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1591106471/Naybeats/Nayshirt_fosofz.jpg "Naybeats Tees")
 
