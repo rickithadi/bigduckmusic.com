@@ -50,7 +50,9 @@ export const GigPostTemplate = ({
       </div>
       {helmet || ''}
       <div className="columns" style={{backgroundColor: 'black'}}>
-        <div style={{width: '100vw', height: '100%'}} className=" container ">
+        <div
+          style={{width: '100vw', height: '100%', paddingBottom: '15px'}}
+          className=" container ">
           {carousel && carousel.length > 0 ? (
             <Carousel indicators={false} controls={true}>
               {carousel.map(i => (
@@ -62,7 +64,7 @@ export const GigPostTemplate = ({
               ))}
             </Carousel>
           ) : (
-            <figure className="cen">
+            <figure className="cen" style={{paddingBottom: '15px'}}>
               <img src={poster} />
             </figure>
           )}
@@ -102,7 +104,7 @@ export const GigPostTemplate = ({
             )}
           </div>
           <div
-            className="column biker"
+            className="column is-8 biker"
             style={{
               minHeight: '100%',
               padding: '20px !important',
@@ -140,19 +142,17 @@ export const GigPostTemplate = ({
             </div>
           )}
           {spotify && (
-            <div className="column " class="is-hidden-touch">
-              <div
-                className="smlj right"
-                style={{
-                  height: '100vh',
-                  padding: '20px',
-                  paddingTop: '10vh',
-                }}>
-                <SpotifyPlayer
-                  uri={spotify}
-                  size={{height: '90%', width: '80%', right: '0'}}
-                />
-              </div>
+            <div
+              className="column smlj right is-hidden-touch"
+              style={{
+                height: '100vh',
+                padding: '20px',
+                paddingTop: '10vh',
+              }}>
+              <SpotifyPlayer
+                uri={spotify}
+                size={{height: '95%'}}
+              />
             </div>
           )}
         </div>

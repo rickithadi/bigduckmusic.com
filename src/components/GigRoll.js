@@ -27,9 +27,8 @@ class GigRoll extends React.Component {
                 )}
                 {post.frontmatter.test && <p style={{padding: '2px'}}>PAST</p>}
               </div>
-
               <div class="card" style={{border: '0'}}>
-                <div class="card-image" style={{height: '38vh'}}>
+                <div class="card-image" >
                   <div className="cen" style={{margin: 'none !important'}}>
                     <img src={post.frontmatter.featuredimageo} />
                   </div>

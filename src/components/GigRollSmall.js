@@ -22,15 +22,15 @@ class GigRollSmall extends React.Component {
               className="is-parent column  "
               key={post.id}
               style={{height: '100%'}}>
+              <div class="avail cen">
+                {!post.frontmatter.test && (
+                  <p style={{padding: '2px'}}>UPCOMING</p>
+                )}
+                {post.frontmatter.test && <p style={{padding: '2px'}}>PAST</p>}
+              </div>
               <div class="card" style={{border: '0'}}>
                 <div class="card-image">
                   <div style={{margin: 'none !important'}}>
-                    {!post.frontmatter.test && (
-                      <div class="avail cen">
-                        <p style={{padding: '2px'}}>UPCOMING</p>
-                      </div>
-                    )}
-
                     <img src={post.frontmatter.featuredimageo} />
                   </div>
                 </div>
