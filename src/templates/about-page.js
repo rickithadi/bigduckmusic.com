@@ -61,12 +61,16 @@ export const AboutPageTemplate = ({
             <div
               class="card
               ">
-              <img src={tape1} style={{marginTop: '-100px'}} className="cen" />
+              <img src={tape1} style={{marginTop: '-100px',maxWidth:'100%'}} className="cen" />
               <div class="container">
                 <h1 className="idiot">{header1}</h1>
 
-                <p className="bike"style={{paddingBottom: '15px'}}>{body1}</p>
-                <p className="bike"style={{paddingBottom: '15px'}}>{body1_2}</p>
+                <p className="bike" style={{paddingBottom: '15px'}}>
+                  {body1}
+                </p>
+                <p className="bike" style={{paddingBottom: '15px'}}>
+                  {body1_2}
+                </p>
               </div>
               <div
                 class="card-image"
@@ -104,9 +108,15 @@ export const AboutPageTemplate = ({
                 }}>
                 <h1 className="idiot">{header2}</h1>
 
-                <p style={{paddingBottom: '15px'}}className="bike">{body2}</p>
-                <p style={{paddingBottom: '15px'}}className="bike">{body2_2}</p>
-                <p style={{paddingBottom: '15px'}}className="bike">{body2_3}</p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body2}
+                </p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body2_2}
+                </p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body2_3}
+                </p>
               </div>
             </div>
           </div>
@@ -126,23 +136,31 @@ export const AboutPageTemplate = ({
             <img src={tape3} className="tapeSmol cen" />
             <div class="container">
               <h1 className="idiot">{header3}</h1>
-              <p style={{paddingBottom: '15px'}}className="bike">{body3}</p>
-              <p style={{paddingBottom: '15px'}}className="bike">{body3_2}</p>
+              <p style={{paddingBottom: '15px'}} className="bike">
+                {body3}
+              </p>
+              <p style={{paddingBottom: '15px'}} className="bike">
+                {body3_2}
+              </p>
             </div>
           </div>
         </div>
       </section>
 
       <section
-        className="aboot is-hidden-touch
+        className="is-hidden-touch
 "
         style={{height: '100%', paddingBottom: '50px'}}>
         <h1 className="homeHeader" style={{padding: '20px'}}>
           {title}
         </h1>
-        <div class="columns is-vcentered " style={{paddingTop: '5vh'}}>
+        <div class="columns is-vcentered " style={{marginTop: '5vh'}}>
+          <div class="column is-5 is-centered">
+            <img src={hap} style={{width: '100vw', marginTop: '-35vh'}} />
+          </div>
+
           <div
-            class="column is-6 is-offset-5 is-vcentered
+            class="column is-6 is-vcentered
             "
             style={{
               minHeight: '100%',
@@ -162,8 +180,12 @@ export const AboutPageTemplate = ({
               <div class="container bike">
                 <h1 className="idiot bigboi">{header1}</h1>
 
-                <p style={{paddingBottom: '15px'}}className="bike">{body1}</p>
-                <p style={{paddingBottom: '15px'}}className="bike">{body1_2}</p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body1}
+                </p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body1_2}
+                </p>
               </div>
               <div
                 class="card-image"
@@ -202,9 +224,15 @@ export const AboutPageTemplate = ({
               }}>
               <h1 className="bigboi idiot">{header2}</h1>
 
-              <p style={{paddingBottom: '15px'}}className="bike">{body2}</p>
-              <p style={{paddingBottom: '15px'}}className="bike">{body2_2}</p>
-              <p style={{paddingBottom: '15px'}}className="bike">{body2_3}</p>
+              <p style={{paddingBottom: '15px'}} className="bike">
+                {body2}
+              </p>
+              <p style={{paddingBottom: '15px'}} className="bike">
+                {body2_2}
+              </p>
+              <p style={{paddingBottom: '15px'}} className="bike">
+                {body2_3}
+              </p>
             </div>
           </div>
         </div>
@@ -224,8 +252,12 @@ export const AboutPageTemplate = ({
             <img src={tape3} className="tapeSmol cen" />
             <div class="container bike">
               <h1 className="bigboi idiot">{header3}</h1>
-              <p className="bike" style={{paddingBottom: '15px'}}>{body3}</p>
-              <p className="bike"style={{paddingBottom: '15px'}}>{body3_2}</p>
+              <p className="bike" style={{paddingBottom: '15px'}}>
+                {body3}
+              </p>
+              <p className="bike" style={{paddingBottom: '15px'}}>
+                {body3_2}
+              </p>
             </div>
           </div>
         </div>

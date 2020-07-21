@@ -29,11 +29,11 @@ class BlogRollSmall extends React.Component {
                     </span>
                   )}
 
-                  <img
-                    src={post.frontmatter.featuredimageo}
-                    alt="Placeholder image"
-                    style={{width: '100%'}}
-                  />
+                    <img
+                      src={post.frontmatter.featuredimageo}
+                      alt="Placeholder image"
+                      style={{width: '100%'}}
+                    />
                 </div>
                 <Link
                   to={post.fields.slug}

@@ -35,9 +35,15 @@ export default class gigIndexPage extends React.Component {
         </div>
         <section className="section" style={{backgroundColor: 'black'}}>
           <div className="container">
-              <GigRoll />
-            </div>
+            <GigRoll />
+          </div>
         </section>
+        <div
+          className="gigbg"
+          style={{
+            minHeight: '25vh',
+            height: '100%',
+          }}></div>
       </Layout>
     );
   }

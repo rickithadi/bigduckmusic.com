@@ -130,15 +130,15 @@ export const GigPostTemplate = ({
             ) : null}
           </div>
           {spotify && (
-            <div className="column " class="is-hidden-desktop">
-              <div
-                style={{height: '60vh', padding: '10px'}}
-                className="smlj right">
-                <SpotifyPlayer
-                  uri={spotify}
-                  size={{height: '100%', width: '100%'}}
-                />
-              </div>
+            <div
+              className="column smlj right is-hidden-desktop"
+              style={{
+                height: '100vh',
+              }}>
+              <SpotifyPlayer
+                uri={spotify}
+                size={{height: '95%', width: '100%'}}
+              />
             </div>
           )}
           {spotify && (
@@ -149,10 +149,7 @@ export const GigPostTemplate = ({
                 padding: '20px',
                 paddingTop: '10vh',
               }}>
-              <SpotifyPlayer
-                uri={spotify}
-                size={{height: '95%'}}
-              />
+              <SpotifyPlayer uri={spotify} size={{height: '95%'}} />
             </div>
           )}
         </div>
