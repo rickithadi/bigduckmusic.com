@@ -89,17 +89,16 @@ export const IndexPageTemplate = ({title, subheading}) => (
         style={{width: '100%', maxWidth: 'none'}}
         class="is-hidden-touch"
       />
-      <img
-        src={picks}
-        style={{height: '100%', width: '100vw', overflowX: 'hidden'}}
+      <div
         class="is-hidden-desktop"
-      />
+        style={{width: '100vw', overflow: 'hidden'}}>
+        <img src={picks} style={{height: '100%',   maxWidth: 'none'}} />
+      </div>
       <div style={{height: '100%'}}>
         <PickRoll />
       </div>
-      <div style={{height: '100%',background:'#000000'}}>
-      <img style={{width: '100vw'}}class="is-vcentered cen" src={tra} />
-
+      <div style={{height: '100%', background: '#000000'}}>
+        <img style={{width: '100vw'}} class="is-vcentered cen" src={tra} />
       </div>
       <div className="contribute">
         <div class="columns is-vcentered ">
