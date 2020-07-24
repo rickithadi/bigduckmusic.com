@@ -18,8 +18,7 @@ date: 2019-09-06T11:00:01.090Z
 deets:
   dateGig: 2019-09-06T15:58:01.112Z
   location: Day 1 - Tonehouse Studios, Day 2 - Lithe House
-  pricesu: "Pre-sale: $12 (1 Day Pass), $20 (2 Day Pass) Door: $15 (1 Day Pass),
-    $25 (2 Day Pass)"
+  pricesu: "Pre-sale: $12 (1 Day) $20 (2 Day) Door: $15 (1 Day), $25 (2 Day)"
   lineupu: Oddblood, The Intimate Friends, Sun Eater, Rusyaidi Rashid
     YHBsleepsalot, Helluva Khai, The CB Dogs, BAD DOD, Knightingale
 socials:
