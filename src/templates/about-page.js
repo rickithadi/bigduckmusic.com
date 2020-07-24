@@ -29,6 +29,7 @@ export const AboutPageTemplate = ({
       style={{
         minHeight: '100vh',
         backgroundColor: 'black',
+        color: 'black',
       }}>
       <section
         className="is-hidden-desktop"
@@ -40,11 +41,11 @@ export const AboutPageTemplate = ({
             </h1>
           </div>
 
-          <div class="column is-centered cen">
+          <div class="column is-centered cen ">
             <img
               src={hap}
               className="cen"
-              style={{marginTop: '-10vh', paddingBottom: '10vh'}}
+              style={{marginTop: '-10vh', paddingBottom: '10vh',width:'200px'}}
             />
           </div>
         </div>
@@ -69,10 +70,22 @@ export const AboutPageTemplate = ({
               <div class="container">
                 <h1 className="idiot">{header1}</h1>
 
-                <p className="bike" style={{paddingBottom: '15px'}}>
+                <p
+                  className="bike"
+                  style={{
+                    paddingBottom: '15px',
+
+                    color: 'black',
+                  }}>
                   {body1}
                 </p>
-                <p className="bike" style={{paddingBottom: '15px'}}>
+                <p
+                  className="bike"
+                  style={{
+                    paddingBottom: '15px',
+
+                    color: 'black',
+                  }}>
                   {body1_2}
                 </p>
               </div>
@@ -114,13 +127,28 @@ export const AboutPageTemplate = ({
                 <h1 className="idiot">{header2}</h1>
                 <h1 className="idiot">{header2}</h1>
 
-                <p style={{paddingBottom: '15px'}} className="bike">
+                <p
+                  style={{
+                    paddingBottom: '15px',
+                    color: 'black',
+                  }}
+                  className="bike">
                   {body2}
                 </p>
-                <p style={{paddingBottom: '15px'}} className="bike">
+                <p
+                  style={{
+                    paddingBottom: '15px',
+                    color: 'black',
+                  }}
+                  className="bike">
                   {body2_2}
                 </p>
-                <p style={{paddingBottom: '15px'}} className="bike">
+                <p
+                  style={{
+                    paddingBottom: '15px',
+                    color: 'black',
+                  }}
+                  className="bike">
                   {body2_3}
                 </p>
               </div>
@@ -229,15 +257,9 @@ export const AboutPageTemplate = ({
                 backgroundColor: '#ADFE29',
                 marginTop: '-50px',
               }}>
-              <h1 className="big">
-                 {header2}
-              </h1>
-              <h1 className="big">
-                 {header2}
-              </h1>
-              <h1 className="big">
-                 {header2}
-              </h1>
+              <h1 className="big">{header2}</h1>
+              <h1 className="big">{header2}</h1>
+              <h1 className="big">{header2}</h1>
 
               <p style={{paddingBottom: '15px'}} className="bike">
                 {body2}

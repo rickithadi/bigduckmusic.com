@@ -28,12 +28,12 @@ class PickRoll extends React.Component {
         className="container centered"
         style={{paddingTop: '10vh', paddingBottom: '10vh', minHeight: '100%'}}>
         <div key={post.id}>
-          <div className="columns is-multiline is-4 cen">
+          <div className="columns is-multiline  ">
             {post.frontmatter.featuredimageso &&
               post.frontmatter.featuredimageso.map(i => {
                 return (
                   <div
-                    className="column is-4 "
+                    className="is-parent column is-4 "
                     key={i.link}
                     style={{padding: '10px'}}>
                     <a href={i.link} target="_blank" rel="noopener noreferrer">

@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className={`navbar ${this.state.navBarActiveClass}`}
+        className={`navbar bike ${this.state.navBarActiveClass}`}
         style={{padding: '10px'}}
         role="navigation"
         style={{backgroundColor: 'black'}}
@@ -55,7 +55,7 @@ const Navbar = class extends React.Component {
           </Link>
           {/* Hamburger menu */}
           <a
-            className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+            className={`navbar-burger bike burger ${this.state.navBarActiveClass}`}
             style={{marginLeft: '60vw !important'}}
             class="navbar-burger"
             data-target="navMenu"
@@ -84,7 +84,7 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item" to="/gigs">
               <p style={{color: 'white'}}>Gigs</p>
             </Link>
-         </div>
+          </div>
           <div className="navbar-end has-text-centered">
             <a className="navbar-item" rel="noopener noreferrer">
               <span className="icon">

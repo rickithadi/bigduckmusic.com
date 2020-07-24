@@ -35,7 +35,7 @@ export default class Index extends React.Component {
 
   render() {
     return (
-      <div class="columns " style={{minHeight: '100%',paddingBottom:'10vh'}}>
+      <div class="columns " style={{minHeight: '100%', paddingBottom: '10vh'}}>
         <div class="column is-3 is-offset-1">
           <h3 className="topkek cen" style={{padding: '10px'}}>
             TALK TO US
@@ -51,7 +51,7 @@ export default class Index extends React.Component {
             naybeatsfestival@gmail.com!
           </p>
 
-          <div class="column is-8" >
+          <div class="column is-8">
             <form
               name="contact"
               method="post"
@@ -122,9 +122,14 @@ export default class Index extends React.Component {
               </div>
               <div className="field">
                 <button
-                  className="button is-link"
+                  className="button is-link cen"
                   type="submit"
-                  style={{backgroundColor: 'black', color: 'white',padding:'20px', borderRadius:'5px'}}>
+                  style={{
+                    backgroundColor: 'black',
+                    color: 'white',
+                    padding: '10px',
+                    borderRadius: '5px',
+                  }}>
                   SUBMIT
                 </button>
               </div>

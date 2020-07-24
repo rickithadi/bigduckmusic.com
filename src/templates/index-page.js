@@ -132,6 +132,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
             style={{
               minHeight: '100%',
               paddingLeft: '29px',
+                color: 'black',
             }}>
             <p className="bike">
               Like what you see? Want to be featured or collaborate with us?
