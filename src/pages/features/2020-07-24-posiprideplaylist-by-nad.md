@@ -37,7 +37,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
 
    ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585343/Ivy_aeiwtb.jpg "Ivy Sole")
 
-   ### “Black, queer, radical. Nothing short of Magical.”(Lovely Fiction, overgrown)
+   #### *“Black, queer, radical. Nothing short of Magical.”(Lovely Fiction, overgrown)*
 
    Central to Ivy Sole’s music is her poetic lyricism and raw spoken-word inflections that reflect on her spirituality and identity. She doesn’t shy away in using her platform and voice to speak unapologetically about social justice - spitting heavy and emotional truths over sultry tunes that resonates and raises awareness.\
    \
@@ -62,8 +62,6 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    They’re sounds that could paint a dreamy picture, complete with vignette edges that would fit right into a scene in an indie romance film - until the record scratches and frame freezes and he takes a swerve into a different direction mid-song (see *Starfruit NYC* for e.g.) His experimental tunes are unique to his artistry and his songs don’t always go quite the way you expect them to. But for me, that’s the charm.
 
    ***Songs I love: Lucky, Starfruit LA, Dualshock.***
-
-
 4. # **Shura**
 
    ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585829/Shura_d1wh7n.jpg "Shura")
@@ -84,8 +82,6 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    Cue my following new-found obsession of her alt-hiphop, emo-rap grunge music where I had my favourite “sad girl bop”, *Ugly*, on repeat for days on end. Though her music comes offas woeful and moody, what’s central to her music is pure honesty. Breaking down her music, it feels like the use of instruments and beats in her songs serve to echo this vulnerability - ultimately creating a hazy and quietly understated score to misplaced identities and fostering community.
 
    ***Songs I love: Ugly, Stone Cold, mr nobody***
-
-
 
 These artists are only the tip of the very huge and very much underground iceberg of queer acts. I’m also on my own journey to discover so much more, in support of our queer community. Perhaps these can be our stepping stones to appreciating and embracing music that transgresses heternormativity and dispels queerphobia.
 
