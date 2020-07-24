@@ -5,7 +5,7 @@ date: 2020-07-24T09:51:14.180Z
 description: PosiPridePlaylist by nad.
 category: take
 spotify: NA
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595584324/photo_2020-07-24_16-17-26_vlunml.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595586359/photo_2020-07-24_16-17-26_gsgdyw.jpg
 tags:
   - Pride
   - nad
@@ -15,7 +15,7 @@ tags:
   - Shura
   - Deb Never
 ---
-PosiPridePlaylistby nad.
+**PosiPridePlaylistby nad.**
 
 A (somewhat) posi playlist of queer artists to check out in celebration of pride!
 
@@ -56,8 +56,6 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    If I absolutely *had* to define the genre of music she makes, I’d classify hers as “genre-defying”. Nothing else can reflect this more clearly than her own discography. Refreshingly fun and dancey, Rina switches up her R&B/bubblegum pop tracks - like *Cherry* and *Cyber Stockholm Syndrome* - for an angry and unapologetic reinvention of nu-metal - lamenting and redirecting casual racism - in *STFU!* (with a bubblegum pop chorus?? And it works??!!!)
 
    Songs I love: Cherry, STFU!, Cyber Stockholm Syndrome.
-
-
 3. **Choker**
 
    ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585676/0010650634_0_v2mjvk.jpg "Choker")
