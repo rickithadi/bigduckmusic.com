@@ -1,6 +1,6 @@
 ---
 templateKey: picks-page
-date: 2020-07-24T14:56:41.780Z
+date: 2020-07-24T15:53:39.346Z
 title: Launch Picks
 featuredimageso:
   - image: https://res.cloudinary.com/ddomozydd/image/upload/b_rgb:000000,e_gradient_fade:20,y_-0.5/v1595602866/songmachine-1580231443-608x608_fauhpx.jpg
