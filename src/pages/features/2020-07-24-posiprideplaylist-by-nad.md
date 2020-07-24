@@ -5,7 +5,7 @@ date: 2020-07-24T09:51:14.180Z
 description: PosiPridePlaylist by nad.
 category: take
 spotify: NA
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595586743/NEW_zlvmu8.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595588044/heh_jt3yjp.jpg
 tags:
   - Pride
   - nad
