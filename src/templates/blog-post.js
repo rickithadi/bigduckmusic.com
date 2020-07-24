@@ -131,7 +131,6 @@ const BlogPost = ({data}) => {
     <Layout>
       <BlogPostTemplate
         content={post.html}
-        review={post.frontmatter.isReview}
         spotify={post.frontmatter.spotify}
         socials={post.frontmatter.socials}
         category={post.frontmatter.category}
@@ -170,7 +169,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
-        isReview
         spotify
         category
         title
