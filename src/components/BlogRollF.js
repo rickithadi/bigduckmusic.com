@@ -19,7 +19,7 @@ class BlogRollF extends React.Component {
     return (
       <div>
         {posts && (
-          <div className="columns is-multiline">
+          <div className="columns is-multiline ">
             {!this.state.isMobile
               ? posts.slice(0, 8).map(({node: post}) => {
                   if (post.frontmatter.category === 'feature') {

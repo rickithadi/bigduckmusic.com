@@ -22,7 +22,7 @@ class BlogRoll extends React.Component {
         class="custom-select cen"
         value={this.state.filter}
         onChange={this.handleChange}>
-        <option class="button" value="all">
+        <option class="button " value="all">
           ALL
         </option>
         <option class="button" value="feature">

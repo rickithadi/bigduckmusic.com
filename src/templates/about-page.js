@@ -61,7 +61,11 @@ export const AboutPageTemplate = ({
             <div
               class="card
               ">
-              <img src={tape1} style={{marginTop: '-100px',maxWidth:'100%'}} className="cen" />
+              <img
+                src={tape1}
+                style={{marginTop: '-100px', maxWidth: '100%'}}
+                className="cen"
+              />
               <div class="container">
                 <h1 className="idiot">{header1}</h1>
 
@@ -106,6 +110,8 @@ export const AboutPageTemplate = ({
                 style={{
                   backgroundColor: '#ADFE29',
                 }}>
+                <h1 className="idiot">{header2}</h1>
+                <h1 className="idiot">{header2}</h1>
                 <h1 className="idiot">{header2}</h1>
 
                 <p style={{paddingBottom: '15px'}} className="bike">
@@ -221,8 +227,17 @@ export const AboutPageTemplate = ({
               class="container bike"
               style={{
                 backgroundColor: '#ADFE29',
+                marginTop: '-50px',
               }}>
-              <h1 className="bigboi idiot">{header2}</h1>
+              <h1 className="big">
+                 {header2}
+              </h1>
+              <h1 className="big">
+                 {header2}
+              </h1>
+              <h1 className="big">
+                 {header2}
+              </h1>
 
               <p style={{paddingBottom: '15px'}} className="bike">
                 {body2}

@@ -8,7 +8,7 @@ import Layout from '../components/Layout';
 import PickRoll from '../components/PickRoll';
 import BlogRollF from '../components/BlogRollF';
 import picks from '../img/sex/picks.svg';
-import tra from '../img/sex/tra.svg';
+import tra from '../img/sex/trans.png';
 
 export const IndexPageTemplate = ({title, subheading}) => (
   <div style={{minHeight: '100%'}}>

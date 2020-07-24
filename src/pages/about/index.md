@@ -4,8 +4,7 @@ title: About Big Duck
 header1: BIG DUCK IS A PASSIONATE COLLECTIVE OF MUSIC ENTHUSIASTS AND GIG
   PROMOTERS, PROUD TO CELEBRATE ALL THINGS GOOD ABOUT MUSIC AND THEIR LIVE
   EXPERIENCE
-header2: A CELEBRATION OF OUR PASSION FOR MUSIC A CELEBRATION OF OUR PASSION FOR
-  MUSIC A CELEBRATION OF OUR PASSION FOR MUSIC
+header2: A CELEBRATION OF OUR PASSION FOR MUSIC
 header3: OUR AIM
 body1: Beginning our journey in mid-2019 with Naybeats, we have since followed
   with a series of fully-packed gigs, featuring carefully curated lineups with
