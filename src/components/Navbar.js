@@ -84,36 +84,38 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item" to="/gigs">
               <p style={{color: 'white'}}>Gigs</p>
             </Link>
-          </div>
-          <div className="navbar-end has-text-centered">
-            <a className="navbar-item" rel="noopener noreferrer">
-              <span className="icon">
-                <a
-                  title="facebook"
-                  href="https://www.facebook.com/pg/bigduckpteltd/"
-                  rel="noopener noreferrer"
-                  target="_blank">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{width: '1em', height: '1em'}}
-                  />
-                </a>
-              </span>
-              <span className="icon">
-                <a
-                  title="instagram"
-                  href="https://instagram.com/bigduckpteltd"
-                  rel="noopener noreferrer"
-                  target="_blank">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{width: '1em', height: '1em'}}
-                  />
-                </a>
-              </span>
-            </a>
+            <div
+              className="navbar-end has-text-centered"
+              style={{backgroundColor: 'black'}}>
+              <a className="navbar-item" rel="noopener noreferrer">
+                <span className="icon">
+                  <a
+                    title="facebook"
+                    href="https://www.facebook.com/pg/bigduckpteltd/"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    <img
+                      src={facebook}
+                      alt="Facebook"
+                      style={{width: '1em', height: '1em'}}
+                    />
+                  </a>
+                </span>
+                <span className="icon" >
+                  <a
+                    title="instagram"
+                    href="https://instagram.com/bigduckpteltd"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    <img
+                      src={instagram}
+                      alt="Instagram"
+                      style={{width: '1em', height: '1em'}}
+                    />
+                  </a>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </nav>
