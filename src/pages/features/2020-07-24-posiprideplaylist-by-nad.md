@@ -1,12 +1,13 @@
 ---
 templateKey: blog-post
 title: "NAD: A PosiPridePlaylist "
+author: nad.
 date: 2020-07-24T16:59:22.268Z
 description: PosiPridePlaylist by nad.
 category: take
-author: john doe
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595601595/Nad_qyeytk.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1595601595/Nad_qyeytk.jpg
+spotify: NA
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595678578/photo_2020-07-24_16-17-26_efagt5.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1595678599/nadcard_ewtley.jpg
 tags:
   - Pride
   - nad
