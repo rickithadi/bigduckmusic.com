@@ -18,7 +18,7 @@ class BlogRollSmall extends React.Component {
           //posts.slice(0, 6).map(({node: post}) => (
           posts.slice(0, 3).map(({node: post}) => (
             <div
-              className="is-parent column"
+              className="is-parent column is-3"
               key={post.id}
               style={{height: '100%'}}>
               <div class="card">

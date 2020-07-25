@@ -15,6 +15,7 @@ export const BlogPostTemplate = ({
   contentComponent,
   review,
   spotify,
+  author,
   category,
   date,
   socials,
@@ -28,36 +29,35 @@ export const BlogPostTemplate = ({
 
   return (
     <div>
-      <div style={{backgroundColor: 'black', minHeight: '100%'}}>
-        <div style={{width: '100vw', height: '52vh'}} className="cen">
-          <img src={featuredimageo} style={{width: '100%', height: '100%'}} />
-        </div>
+      <div
+        style={{
+          width: '100vw',
+          height: '52vh',
+          backgroundImage: `url(${featuredimageo})`,
+          backgroundRepeat: 'no-repeat',
+          backgroundSize: 'auto',
+        }}>
         <div
-          class="container"
           style={{
-            top: '150px',
-            left: '50px',
-            position: 'absolute',
-            color: 'white',
+            padding: '20px',
           }}>
           <h1
-            className="head"
+            className="sex"
             style={{
               color: 'white',
+            paddingTop: '10vh',
             }}>
             {title}
           </h1>
-          <p className="biker"> Published on {date}</p>
-        </div>
-        <div
-          class="container"
-          style={{
-            top: '50vh',
-            left: '50px',
-            position: 'absolute',
-            color: 'white',
-          }}>
-          {category && <span className="swaggy ">{category}</span>}
+          <div
+            style={{
+              bottom: '45vh',
+              position: 'absolute',
+            }}>
+            {category && <span className="swaggy ">{category}</span>}
+            <p className="auth"> Published on {date}</p>
+            <p className="auth"> Written by {author}</p>
+          </div>
         </div>
       </div>
       {helmet || ''}
@@ -117,6 +117,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  author: PropTypes.string,
   helmet: PropTypes.object,
   socials: PropTypes.array,
   spotify: PropTypes.string,
@@ -134,6 +135,7 @@ const BlogPost = ({data}) => {
         spotify={post.frontmatter.spotify}
         socials={post.frontmatter.socials}
         category={post.frontmatter.category}
+        author={post.frontmatter.author}
         date={post.frontmatter.date}
         featuredimageo={post.frontmatter.featuredimageo}
         contentComponent={HTMLContent}
@@ -172,6 +174,7 @@ export const pageQuery = graphql`
         spotify
         category
         title
+        author
         description
         featuredimageo
         tags

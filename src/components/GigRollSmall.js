@@ -19,7 +19,7 @@ class GigRollSmall extends React.Component {
         {posts &&
           posts.slice(0, 3).map(({node: post}) => (
             <div
-              className="is-parent column  "
+              className="is-parent column is-3  "
               key={post.id}
               style={{height: '100%'}}>
               <div class="avail cen">

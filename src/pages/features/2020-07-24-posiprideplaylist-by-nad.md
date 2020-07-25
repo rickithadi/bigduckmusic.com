@@ -4,7 +4,7 @@ title: "NAD: A PosiPridePlaylist "
 date: 2020-07-24T16:59:22.268Z
 description: PosiPridePlaylist by nad.
 category: take
-spotify: NA
+author: john doe
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595601595/Nad_qyeytk.jpg
 tags:
   - Pride
