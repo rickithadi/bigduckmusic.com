@@ -30,130 +30,261 @@ export const GigPostTemplate = ({
 
   return (
     <div>
-      <div style={{backgroundColor: 'black'}}>
-        <div
-          style={{
-            color: 'white',
-            backgroundColor: 'black',
-            padding: '15px',
-          }}
-          className="column is-10 is-offset-1">
-          <h1
-            className="head"
+      <div className="is-hidden-touch">
+        <div style={{backgroundColor: 'black'}}>
+          <div
             style={{
               color: 'white',
-            }}>
-            {title}
-          </h1>
-          <p className="biker"> Published on {date}</p>
+              backgroundColor: 'black',
+              padding: '15px',
+            }}
+            className="column is-10 is-offset-1">
+            <h1
+              className="head"
+              style={{
+                color: 'white',
+              }}>
+              {title}
+            </h1>
+            <p className="biker"> Published on {date}</p>
+          </div>
         </div>
-      </div>
-      {helmet || ''}
-      <div className="columns" style={{backgroundColor: 'black'}}>
-        <div
-          style={{width: '100vw', height: '100%', paddingBottom: '15px'}}
-          className=" container ">
-          {carousel && carousel.length > 0 ? (
-            <Carousel indicators={false} controls={true}>
-              {carousel.map(i => (
-                <Carousel.Item>
-                  <figure className="cen">
-                    <img src={i} />
-                  </figure>
-                </Carousel.Item>
-              ))}
-            </Carousel>
-          ) : (
-            <figure className="cen" style={{paddingBottom: '15px'}}>
-              <img src={poster} />
-            </figure>
-          )}
-        </div>
-      </div>
-      <section
-        className="section"
-        style={{backgroundColor: 'white', padding: '0px'}}>
-        <div className="columns">
+        {helmet || ''}
+        <div className="columns" style={{backgroundColor: 'black'}}>
           <div
-            className="column is-2 "
-            style={{
-              paddingTop: '8vh',
-              paddingBottom: '10vh',
-            }}>
-            {deets && (
-              <div
-                className=" circ"
-                style={{
-                  textAlign: 'left',
-                  padding: '25px',
-                  lineHeight: '1',
-                  paddingBottom: '15px',
-                  marginBottom: '15px',
-                  //border: '1px solid  #FF7500',
-                }}>
-                <p className="bi">Happening on</p>
-                <h4 className="deets"> {deets.dateGig}</h4>
-                <p className="bi"> Hosted at</p>
-                <h4 className="deets"> {deets.location}</h4>
-                <p className="bi"> Line Up</p>
-                {deets.lineupu && <h4 className="deets "> {deets.lineupu}</h4>}
+            style={{width: '100vw', height: '100%', paddingBottom: '15px'}}
+            className=" container ">
+            {carousel && carousel.length > 0 ? (
+              <Carousel indicators={false} controls={true}>
+                {carousel.map(i => (
+                  <Carousel.Item>
+                    <figure className="cen">
+                      <img src={i} />
+                    </figure>
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            ) : (
+              <figure className="cen" style={{paddingBottom: '15px'}}>
+                <img src={poster} />
+              </figure>
+            )}
+          </div>
+        </div>
+        <section
+          className="section"
+          style={{backgroundColor: 'white', padding: '0px'}}>
+          <div className="columns">
+            <div
+              className="column is-2 "
+              style={{
+                paddingTop: '8vh',
+                paddingBottom: '10vh',
+              }}>
+              {deets && (
+                <div
+                  className=" circ"
+                  style={{
+                    textAlign: 'left',
+                    padding: '25px',
+                    lineHeight: '1',
+                    paddingBottom: '15px',
+                    marginBottom: '15px',
+                    //border: '1px solid  #FF7500',
+                  }}>
+                  <p className="bi">Happening on</p>
+                  <h4 className="deets"> {deets.dateGig}</h4>
+                  <p className="bi"> Hosted at</p>
+                  <h4 className="deets"> {deets.location}</h4>
+                  <p className="bi"> Line Up</p>
+                  {deets.lineupu && (
+                    <h4 className="deets "> {deets.lineupu}</h4>
+                  )}
 
-                <p className="bi">PRE-SALE/DOORS</p>
-                {deets.pricesu && <h4 className="deets"> {deets.pricesu}</h4>}
+                  <p className="bi">PRE-SALE/DOORS</p>
+                  {deets.pricesu && <h4 className="deets"> {deets.pricesu}</h4>}
+                </div>
+              )}
+            </div>
+            <div
+              className="column is-8 biker"
+              style={{
+                minHeight: '100%',
+                padding: '20px !important',
+              }}>
+              <div
+                style={{
+                  minHeight: '100vh',
+                  padding: '20px',
+                  paddingTop: '10vh',
+                }}>
+                <PostContent className="content" content={content} />
+              </div>
+              {tags && tags.length ? (
+                <div>
+                  <ul className="taglist">
+                    {tags.map(tag => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+            </div>
+            {spotify && (
+              <div
+                className="column smlj right is-hidden-desktop"
+                style={{
+                  height: '100vh',
+                }}>
+                <SpotifyPlayer
+                  uri={spotify}
+                  size={{height: '95%', width: '100%'}}
+                />
+              </div>
+            )}
+            {spotify && (
+              <div
+                className="column smlj right is-hidden-touch"
+                style={{
+                  height: '100vh',
+                  padding: '20px',
+                  paddingTop: '10vh',
+                }}>
+                <SpotifyPlayer uri={spotify} size={{height: '95%'}} />
               </div>
             )}
           </div>
+        </section>
+      </div>
+      <div className="is-hidden-desktop">
+        <div style={{backgroundColor: 'black'}}>
           <div
-            className="column is-8 biker"
             style={{
-              minHeight: '100%',
-              padding: '20px !important',
-            }}>
-            <div
+              color: 'white',
+              backgroundColor: 'black',
+              padding: '15px',
+            }}
+            className="column is-10 is-offset-1">
+            <h1
+              className="head"
               style={{
-                minHeight: '100vh',
-                padding: '20px',
-                paddingTop: '10vh',
+                color: 'white',
               }}>
-              <PostContent className="content" content={content} />
-            </div>
-            {tags && tags.length ? (
-              <div>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+              {title}
+            </h1>
+            <p className="biker"> Published on {date}</p>
           </div>
-          {spotify && (
-            <div
-              className="column smlj right is-hidden-desktop"
-              style={{
-                height: '100vh',
-              }}>
-              <SpotifyPlayer
-                uri={spotify}
-                size={{height: '95%', width: '100%'}}
-              />
-            </div>
-          )}
-          {spotify && (
-            <div
-              className="column smlj right is-hidden-touch"
-              style={{
-                height: '100vh',
-                padding: '20px',
-                paddingTop: '10vh',
-              }}>
-              <SpotifyPlayer uri={spotify} size={{height: '95%'}} />
-            </div>
-          )}
         </div>
-      </section>
+        {helmet || ''}
+        <div className="columns" style={{backgroundColor: 'black'}}>
+          <div
+            style={{width: '100vw', height: '100%', paddingBottom: '15px'}}
+            className=" container ">
+            {carousel && carousel.length > 0 ? (
+              <Carousel indicators={false} controls={true}>
+                {carousel.map(i => (
+                  <Carousel.Item>
+                    <figure className="cen">
+                      <img src={i} />
+                    </figure>
+                  </Carousel.Item>
+                ))}
+              </Carousel>
+            ) : (
+              <figure className="cen" style={{paddingBottom: '15px'}}>
+                <img src={poster} />
+              </figure>
+            )}
+          </div>
+        </div>
+        <section
+          className="section"
+          style={{backgroundColor: 'white', padding: '0px'}}>
+          <div className="columns">
+            <div
+              className="column is-2 "
+              style={{
+                paddingTop: '1vh',
+                paddingBottom: '1vh',
+              }}>
+              {deets && (
+                <div
+                  className=" circ"
+                  style={{
+                    textAlign: 'left',
+                    padding: '25px',
+                    lineHeight: '1',
+                    paddingBottom: '15px',
+                    marginBottom: '15px',
+                    //border: '1px solid  #FF7500',
+                  }}>
+                  <p className="bi">Happening on</p>
+                  <h4 className="deets"> {deets.dateGig}</h4>
+                  <p className="bi"> Hosted at</p>
+                  <h4 className="deets"> {deets.location}</h4>
+                  <p className="bi"> Line Up</p>
+                  {deets.lineupu && (
+                    <h4 className="deets "> {deets.lineupu}</h4>
+                  )}
+
+                  <p className="bi">PRE-SALE/DOORS</p>
+                  {deets.pricesu && <h4 className="deets"> {deets.pricesu}</h4>}
+                </div>
+              )}
+            </div>
+            <div
+              className="column is-8 biker"
+              style={{
+                minHeight: '100%',
+                padding: '20px !important',
+              }}>
+              <div
+                style={{
+                  minHeight: '100vh',
+                  padding: '20px',
+                }}>
+                <PostContent className="content" content={content} />
+              </div>
+              {tags && tags.length ? (
+                <div>
+                  <ul className="taglist">
+                    {tags.map(tag => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+            </div>
+            {spotify && (
+              <div
+                className="column smlj right is-hidden-desktop"
+                style={{
+                  height: '100vh',
+                }}>
+                <SpotifyPlayer
+                  uri={spotify}
+                  size={{height: '95%', width: '100%'}}
+                />
+              </div>
+            )}
+            {spotify && (
+              <div
+                className="column smlj right is-hidden-touch"
+                style={{
+                  height: '100vh',
+                  padding: '20px',
+                  paddingTop: '10vh',
+                }}>
+                <SpotifyPlayer uri={spotify} size={{height: '95%'}} />
+              </div>
+            )}
+          </div>
+        </section>
+      </div>
       <hr />
       <section className="section" style={{backgroundColor: 'white'}}>
         <div className="container">
