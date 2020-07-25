@@ -55,6 +55,13 @@ collections:
           widget: image,
           multiple: false,
         }
+      - {
+          label: 'Display Image',
+          name: 'dispImage',
+          widget: image,
+          multiple: false,
+        }
+
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
 

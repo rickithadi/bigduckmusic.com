@@ -6,6 +6,7 @@ description: PosiPridePlaylist by nad.
 category: take
 author: john doe
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595601595/Nad_qyeytk.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1595601595/Nad_qyeytk.jpg
 tags:
   - Pride
   - nad
