@@ -45,7 +45,7 @@ export const BlogPostTemplate = ({
             className="sex"
             style={{
               color: 'white',
-            paddingTop: '10vh',
+              paddingTop: '10vh',
             }}>
             {title}
           </h1>
@@ -55,8 +55,14 @@ export const BlogPostTemplate = ({
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
-            <p className="auth"> Published on {date}</p>
-            <p className="auth"> Written by {author}</p>
+            <p className="biker" style={{paddingTop: '35px', padding: '0px'}}>
+              {' '}
+              Written by {author}
+            </p>
+            <p className="biker" style={{padding: '0px'}}>
+              {' '}
+              Published on {date}
+            </p>
           </div>
         </div>
       </div>

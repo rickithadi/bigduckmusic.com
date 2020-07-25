@@ -110,6 +110,7 @@ export const GigPostTemplate = ({
               className="column is-8 biker"
               style={{
                 minHeight: '100%',
+                fontSize: '1.2em',
                 padding: '20px !important',
               }}>
               <div
