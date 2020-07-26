@@ -51,7 +51,7 @@ export const BlogPostTemplate = ({
           </h1>
           <div
             style={{
-              bottom: '50vh',
+              top: '40vh',
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
