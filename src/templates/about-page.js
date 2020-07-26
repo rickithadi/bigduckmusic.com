@@ -41,11 +41,11 @@ export const AboutPageTemplate = ({
             </h1>
           </div>
 
-          <div class="column is-centered cen ">
+          <div class="column is-centered ">
             <img
               src={hap}
               className="cen"
-              style={{marginTop: '-10vh', paddingBottom: '10vh',width:'200px'}}
+              style={{marginTop: '-5vh', paddingBottom: '10vh'}}
             />
           </div>
         </div>
@@ -64,7 +64,7 @@ export const AboutPageTemplate = ({
               ">
               <img
                 src={tape1}
-                style={{marginTop: '-100px', maxWidth: '100%'}}
+                style={{marginTop: '-100px', maxWidth: '90%'}}
                 className="cen"
               />
               <div class="container">
