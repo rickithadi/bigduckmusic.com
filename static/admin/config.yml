@@ -39,7 +39,7 @@ collections:
           label: 'Category',
           name: 'category',
           widget: 'select',
-          allow_add: false,
+          allow_add: true,
           options: ['feature', 'take', 'review'],
           default: ['feature'],
         }
@@ -47,7 +47,7 @@ collections:
           label: 'Spotify link',
           name: 'spotify',
           widget: 'string',
-          required:false,
+          required: false,
         }
       - {
           label: 'Featured Image',
