@@ -57,12 +57,21 @@ export const BlogPostTemplate = ({
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
-            <p className="biker" style={{marginTop: '10px', padding: '0px'}}>
-              {' '}
+            <p
+              className="bikercb"
+              style={{
+                marginTop: '10px',
+                padding: '0px',
+                color: 'white !important',
+              }}>
               Written by {author}
             </p>
-            <p className="biker" style={{padding: '0px'}}>
-              {' '}
+            <p
+              className="bikercb"
+              style={{
+                padding: '0px',
+                color: 'white !important',
+              }}>
               Published on {date}
             </p>
           </div>
@@ -95,11 +104,24 @@ export const BlogPostTemplate = ({
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
-            <p className="biker" style={{marginTop: '10px', padding: '0px'}}>
+            <p
+              className="bikercb"
+              style={{
+                marginTop: '10px',
+                padding: '0px',
+
+                color: 'white !important',
+              }}>
               {' '}
               Written by {author}
             </p>
-            <p className="biker" style={{padding: '0px'}}>
+            <p
+              className="bikercb"
+              style={{
+                padding: '0px',
+
+                color: 'white !important',
+              }}>
               {' '}
               Published on {date}
             </p>
@@ -110,7 +132,7 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="columns is-centered " style={{backgroundColor: 'white'}}>
         <div
-          className="column is-6  biker "
+          className="column is-6  biker"
           style={{
             minHeight: '100%',
             padding: '20px !important',

@@ -78,18 +78,16 @@ class BlogRollF extends React.Component {
                         <div class="card">
                           <div class="card-image">
                             {post.frontmatter.category && (
-                              <span className="taggy is-pulled-right">
+                    <span className="taggy bike is-pulled-right"style={{marginBottom:'-40px'}}>
                                 {post.frontmatter.category}
                               </span>
                             )}
 
-                            <figure class="image is-4by3">
                               <img
                                 //src="https://bulma.io/images/placeholders/1280x960.png"
-                                src={post.frontmatter.featuredimageo}
+                                src={post.frontmatter.dispImage}
                                 alt="Placeholder image"
                               />
-                            </figure>
                           </div>
                           <Link
                             to={post.fields.slug}
