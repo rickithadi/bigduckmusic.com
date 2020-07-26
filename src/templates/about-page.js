@@ -181,122 +181,129 @@ export const AboutPageTemplate = ({
         </div>
       </section>
 
-      <section
-        className="is-hidden-touch
-"
-        style={{height: '100%', paddingBottom: '50px'}}>
-        <h1 className="homeHeader" style={{padding: '20px'}}>
+      <div style={{background: 'black'}} className=" is-hidden-touch  ">
+        <h1 className="homeHeader  " style={{padding: '20px'}}>
           {title}
         </h1>
-        <div class="columns is-vcentered " style={{marginTop: '5vh'}}>
-          <div class="column is-5 is-centered">
-            <img src={hap} style={{width: '100vw', marginTop: '-35vh'}} />
-          </div>
+      </div>
+      <section
+        className="is-hidden-touch "
+        style={{
+          height: '100%',
+          paddingBottom: '50px',
+        }}>
+        <div class="cunty" style={{marginTop: '5vh'}}>
+          <div class="columns is-vcentered " style={{marginTop: '5vh'}}>
+            <div class="column is-5 is-centered"></div>
 
-          <div
-            class="column is-6 is-vcentered
-            "
-            style={{
-              minHeight: '100%',
-              paddingBottom: '10vh',
-              color: 'black',
-              height: '100%',
-            }}>
             <div
-              class="card
+              class="column is-6 is-vcentered
+            "
+              style={{
+                minHeight: '100%',
+                paddingBottom: '10vh',
+                color: 'black',
+                height: '100%',
+              }}>
+              <div
+                class="card
             is-hidden-touch
               ">
-              <img
-                src={tape1}
-                className="tape cen"
-                style={{paddingTop: '15vh'}}
-              />
-              <div class="container bike">
-                <h1 className="idiot bigboi">{header1}</h1>
+                <img
+                  src={tape1}
+                  className="tape cen"
+                  style={{paddingTop: '15vh'}}
+                />
+                <div class="container bike">
+                  <h1 className="idiot bigboi">{header1}</h1>
 
-                <p style={{paddingBottom: '15px'}} className="bike">
-                  {body1}
-                </p>
-                <p style={{paddingBottom: '15px'}} className="bike">
-                  {body1_2}
-                </p>
-              </div>
-              <div
-                class="card-image"
-                style={{
-                  margin: '0 !important',
-                  padding: '0px !important',
-                  objectFit: 'cover',
-                  width: '100% !important',
-                }}>
-                <img src={heppy} style={{maxWidth: 'none', width: '100%'}} />
+                  <p style={{paddingBottom: '15px'}} className="bike">
+                    {body1}
+                  </p>
+                  <p style={{paddingBottom: '15px'}} className="bike">
+                    {body1_2}
+                  </p>
+                </div>
+                <div
+                  class="card-image"
+                  style={{
+                    margin: '0 !important',
+                    padding: '0px !important',
+                    objectFit: 'cover',
+                    width: '100% !important',
+                  }}>
+                  <img src={heppy} style={{maxWidth: 'none', width: '100%'}} />
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div
-          class="column is-5 is-offset-1 is-vcentered bike "
-          style={{
-            minHeight: '100%',
-            paddingBottom: '10vh',
-            padding: '20px',
-            marginTop: '-20vh',
-            position: 'relative',
-            color: 'black',
-            height: '100%',
-          }}>
           <div
+            class="column is-5 is-offset-1 is-vcentered bike "
             style={{
-              backgroundColor: '#ADFE29',
-            }}
-            class="card">
-            <img src={tape2} className="tape cen" />
-            <div
-              class="container bike"
-              style={{
-                backgroundColor: '#ADFE29',
-                marginTop: '-50px',
-              }}>
-              <h1 className="big">{header2}</h1>
-              <h1 className="big">{header2}</h1>
-              <h1 className="big">{header2}</h1>
-
-              <p style={{paddingBottom: '15px'}} className="bike">
-                {body2}
-              </p>
-              <p style={{paddingBottom: '15px'}} className="bike">
-                {body2_2}
-              </p>
-              <p style={{paddingBottom: '15px'}} className="bike">
-                {body2_3}
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="columns is-hidden-touch ">
-          <div
-            class="column is-3 is-offset-7 is-pulled-right bike"
-            style={{
-              marginTop: '-27vh',
               minHeight: '100%',
-              position: 'relative',
               paddingBottom: '10vh',
-              paddingRight: '10px',
+              padding: '20px',
+              marginTop: '-20vh',
+              position: 'relative',
               color: 'black',
               height: '100%',
-              backgroundColor: '#FBFF30',
             }}>
-            <img src={tape3} className="tapeSmol cen" />
-            <div class="container bike">
-              <h1 className="bigboi idiot">{header3}</h1>
-              <p className="bike" style={{paddingBottom: '15px'}}>
-                {body3}
-              </p>
-              <p className="bike" style={{paddingBottom: '15px'}}>
-                {body3_2}
-              </p>
+            <div
+              style={{
+                backgroundColor: '#ADFE29',
+              }}
+              class="card">
+              <img src={tape2} className="tape cen" />
+              <div
+                class="container bike"
+                style={{
+                  backgroundColor: '#ADFE29',
+                  color: 'black',
+                  marginTop: '-50px',
+                }}>
+                <h1 className="big">{header2}</h1>
+                <h1 className="big">{header2}</h1>
+                <h1 className="big">{header2}</h1>
+
+                <p
+                  style={{paddingTop: '35px', paddingBottom: '15px'}}
+                  className="bike">
+                  {body2}
+                </p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body2_2}
+                </p>
+                <p style={{paddingBottom: '15px'}} className="bike">
+                  {body2_3}
+                </p>
+              </div>
             </div>
           </div>
+          <div class="columns is-hidden-touch ">
+            <div
+              class="column is-3 is-offset-7 is-pulled-right bike"
+              style={{
+                marginTop: '-27vh',
+                minHeight: '100%',
+                position: 'relative',
+                paddingBottom: '10vh',
+                paddingRight: '10px',
+                color: 'black',
+                height: '100%',
+                backgroundColor: '#FBFF30',
+              }}>
+              <img src={tape3} className="tapeSmol cen" />
+              <div class="container bike">
+                <h1 className="bigboi idiot">{header3}</h1>
+                <p className="bike" style={{paddingBottom: '15px'}}>
+                  {body3}
+                </p>
+                <p className="bike" style={{paddingBottom: '15px'}}>
+                  {body3_2}
+                </p>
+              </div>
+            </div>
+          </div>{' '}
         </div>
       </section>
       <section style={{backgroundColor: 'white'}}>
