@@ -20,6 +20,7 @@ export const BlogPostTemplate = ({
   date,
   socials,
   featuredimageo,
+  dispImage,
   tags,
   title,
   helmet,
@@ -30,6 +31,45 @@ export const BlogPostTemplate = ({
   return (
     <div>
       <div
+        class="is-hidden-desktop"
+        style={{
+          width: '100vw',
+          height: '52vh',
+          backgroundImage: `url(${dispImage})`,
+          backgroundRepeat: 'no-repeat',
+          backgroundSize: 'contain',
+        }}>
+        <div
+          style={{
+            padding: '20px',
+          }}>
+          <h1
+            className="sex"
+            style={{
+              color: 'white',
+              paddingTop: '10vh',
+            }}>
+            {title}
+          </h1>
+          <div
+            style={{
+              top: '40vh',
+              position: 'absolute',
+            }}>
+            {category && <span className="swaggy ">{category}</span>}
+            <p className="biker" style={{marginTop: '10px', padding: '0px'}}>
+              {' '}
+              Written by {author}
+            </p>
+            <p className="biker" style={{padding: '0px'}}>
+              {' '}
+              Published on {date}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="is-hidden-touch"
         style={{
           width: '100vw',
           height: '52vh',
@@ -66,6 +106,7 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
+
       {helmet || ''}
       <div className="columns is-centered " style={{backgroundColor: 'white'}}>
         <div
@@ -144,6 +185,7 @@ const BlogPost = ({data}) => {
         author={post.frontmatter.author}
         date={post.frontmatter.date}
         featuredimageo={post.frontmatter.featuredimageo}
+        dispImage={post.frontmatter.dispImage}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -184,6 +226,7 @@ export const pageQuery = graphql`
         description
         featuredimageo
         tags
+        dispImage
         socials {
           url
         }
