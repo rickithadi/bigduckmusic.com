@@ -70,8 +70,7 @@ const Navbar = class extends React.Component {
           id="navMenu"
           className={`navbar-menu ${this.state.navBarActiveClass}`}>
           <div
-            className={`navbar-start ${this.state.navBarActiveClass}`}
-            style={{height: '50%'}}>
+            className={`navbar-start ${this.state.navBarActiveClass}`}>
             <Link
               className="navbar-item"
               style={{color: 'inherit'}}
