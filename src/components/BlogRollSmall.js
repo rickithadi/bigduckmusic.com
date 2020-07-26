@@ -18,21 +18,21 @@ class BlogRollSmall extends React.Component {
           //posts.slice(0, 6).map(({node: post}) => (
           posts.slice(0, 3).map(({node: post}) => (
             <div
-              className="is-parent column is-3"
+              className="is-parent column is-3 "
               key={post.id}
               style={{height: '100%'}}>
               <div class="card">
                 <div class="card-image">
                   {post.frontmatter.category && (
-                    <span className="taggy is-pulled-right">
+                    <span className="taggy bike is-pulled-right"style={{marginBottom:'-40px'}}>
                       {post.frontmatter.category}
                     </span>
                   )}
 
                   <img
-                    src={post.frontmatter.featuredimageo}
+                    //src="https://bulma.io/images/placeholders/1280x960.png"
+                    src={post.frontmatter.dispImage}
                     alt="Placeholder image"
-                    style={{width: '100%'}}
                   />
                 </div>
                 <Link
@@ -87,6 +87,7 @@ export default () => (
                 date(formatString: "MMMM DD, YYYY")
                 category
                 featuredpost
+                dispImage
                 featuredimageo
               }
             }
