@@ -35,7 +35,7 @@ export const BlogPostTemplate = ({
           height: '52vh',
           backgroundImage: `url(${featuredimageo})`,
           backgroundRepeat: 'no-repeat',
-          backgroundSize: 'auto',
+          backgroundSize: 'cover',
         }}>
         <div
           style={{
@@ -51,11 +51,11 @@ export const BlogPostTemplate = ({
           </h1>
           <div
             style={{
-              bottom: '45vh',
+              bottom: '50vh',
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
-            <p className="biker" style={{paddingTop: '35px', padding: '0px'}}>
+            <p className="biker" style={{marginTop: '10px', padding: '0px'}}>
               {' '}
               Written by {author}
             </p>
