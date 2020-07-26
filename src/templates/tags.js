@@ -24,9 +24,9 @@ class TagRoute extends React.Component {
       <Layout style={{padding: '15px', backgroundColor: 'white'}}>
         <section
           className="section"
-          style={{padding: '15px', backgroundColor: 'white'}}>
+          style={{padding: '15px', backgroundColor: 'white', minHeight: '90vh'}}>
           <Helmet title={`${tag} | ${title}`} />
-          <div className="container content biker">
+          <div className="container content biker" style={{height: '100%'}}>
             <div className="columns">
               <div
                 className="column is-10 is-offset-1"

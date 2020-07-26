@@ -17,9 +17,10 @@ const TagsPage = ({
       className="section"
       style={{
         backgroundColor: 'white',
+        minHeight: '90vh',
       }}>
       <Helmet title={`Tags | ${title}`} />
-      <div className="container content biker">
+      <div className="container content biker" style={{height: '100%'}}>
         <div className="columns">
           <div
             className="column is-10 is-offset-1"
