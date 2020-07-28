@@ -47,13 +47,13 @@ export const BlogPostTemplate = ({
             className="sex"
             style={{
               color: 'white',
-              paddingTop: '10vh',
+              paddingTop: '5vh',
             }}>
             {title}
           </h1>
           <div
             style={{
-              top: '40vh',
+              top: '30vh',
               position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
