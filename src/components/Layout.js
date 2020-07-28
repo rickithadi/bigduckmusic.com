@@ -15,6 +15,10 @@ const TemplateWrapper = ({children}) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta
+          property="og:image"
+          content={`${withPrefix('/')}img/big-duck_transparent.png`}
+        />
 
         <link
           rel="apple-touch-icon"
@@ -54,7 +58,6 @@ const TemplateWrapper = ({children}) => {
         style={{
           minHeight: '100%',
         }}>
-
         {children}
       </div>
       <Footer />
