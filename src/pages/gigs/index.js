@@ -1,9 +1,5 @@
 import React from 'react';
 
-import tre from '../../../static/img/carouPics/image3.jpg';
-import pipe from '../../../static/img/carouPics/Image2.jpg';
-import sik from '../../../static/img/carouPics/Image1.jpg';
-
 import Carousel from 'react-bootstrap/Carousel';
 import Layout from '../../components/Layout';
 import GigRoll from '../../components/GigRoll';
@@ -16,7 +12,6 @@ export default class gigIndexPage extends React.Component {
     console.log('monb', this.state.isMobile);
   };
   render() {
-    const picso = [tre, pipe, sik];
     return (
       <Layout style={{backgroundColor: 'black'}}>
         <div
