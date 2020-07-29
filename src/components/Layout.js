@@ -17,30 +17,30 @@ const TemplateWrapper = ({children}) => {
         <meta name="description" content={description} />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/big-duck_transparent.png`}
+          content={`${withPrefix('/')}img/zoot.png`}
         />
 
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix('/')}img/big-duck_transparent.png`}
+          href={`${withPrefix('/')}img/zoot.png`}
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/big-duck_transparent.png`}
+          href={`${withPrefix('/')}img/zoot.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/big-duck_transparent.png`}
+          href={`${withPrefix('/')}img/zoot.png`}
           sizes="16x16"
         />
 
         <link
           rel="mask-icon"
-          href={`${withPrefix('/')}img/big-duck_transparent.png`}
+          href={`${withPrefix('/')}img/zoot.png`}
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
@@ -50,7 +50,7 @@ const TemplateWrapper = ({children}) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          href={`${withPrefix('/')}img/big-duck_transparent.png`}
+          href={`${withPrefix('/')}img/zoot.png`}
         />
       </Helmet>
       <Navbar />
