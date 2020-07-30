@@ -5,7 +5,7 @@ author: nad.
 date: 2020-07-24T16:59:22.268Z
 description: PosiPridePlaylist by nad.
 category: take
-spotify: NA
+spotify: https://open.spotify.com/playlist/11gDoUJtmrEExK64tuYqHH?si=w6SRyTjRR-iOP8jCKprtVg
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595738817/rightnadsize_tesqam.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1595678599/nadcard_ewtley.jpg
 tags:
