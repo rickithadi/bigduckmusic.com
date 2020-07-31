@@ -49,7 +49,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
               style={{paddingLeft: '50%'}}
             />
 
-            <img src={cunt} alt="big duck" style={{paddingLeft: '10%'}} />
+            <img src={cunt}  style={{paddingLeft: '10%'}} />
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
           class="columns is-vcentered is-mobile"
           style={{marginTop: '-250px'}}>
           <div class="column  is-vcentered">
-            <img src={cunt} alt="big duck" />
+            <img src={cunt}  />
           </div>
         </div>
       </div>

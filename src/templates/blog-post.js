@@ -48,6 +48,7 @@ export const BlogPostTemplate = ({
             style={{
               color: 'white',
               paddingTop: '5vh',
+              paddingBottom: '1vh',
             }}>
             {title}
           </h1>
