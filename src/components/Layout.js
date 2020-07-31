@@ -15,10 +15,12 @@ const TemplateWrapper = ({children}) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-        <meta
-          property="og:image"
-          content={`${withPrefix('/')}img/zoot.png`}
-        />
+        <meta name="theme-color" content="#fff" />
+
+        <meta property="og:type" content="business.business" />
+        <meta property="og:title" content={title} />
+        <meta property="og:url" content="/" />
+        <meta property="og:image" href={`${withPrefix('/')}img/zoot.png`} />
 
         <link
           rel="apple-touch-icon"
@@ -42,15 +44,6 @@ const TemplateWrapper = ({children}) => {
           rel="mask-icon"
           href={`${withPrefix('/')}img/zoot.png`}
           color="#ff4400"
-        />
-        <meta name="theme-color" content="#fff" />
-
-        <meta property="og:type" content="business.business" />
-        <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
-        <meta
-          property="og:image"
-          href={`${withPrefix('/')}img/zoot.png`}
         />
       </Helmet>
       <Navbar />
