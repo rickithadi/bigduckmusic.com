@@ -36,7 +36,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
         </div>
       </div>
     </section>
-    <img class="is-hidden" src={cunt} style={{paddingLeft: '50%'}} />
+    <img class="is-hidden" src={hap} style={{paddingLeft: '50%'}} />
 
     <section
       className="topek hero is-large  "
