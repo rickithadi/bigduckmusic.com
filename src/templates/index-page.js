@@ -1,6 +1,8 @@
 import React from 'react';
 import cunt from '../img/sex/wordStar.png';
 import arrow from '../img/sex/arrow.png';
+
+import hap from '../img/sex/zoot.png';
 import PropTypes from 'prop-types';
 import {Link, graphql} from 'gatsby';
 
@@ -34,6 +36,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
         </div>
       </div>
     </section>
+    <img class="is-hidden" src={cunt} style={{paddingLeft: '50%'}} />
 
     <section
       className="topek hero is-large  "
@@ -49,7 +52,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
               style={{paddingLeft: '50%'}}
             />
 
-            <img src={cunt}  style={{paddingLeft: '10%'}} />
+            <img src={cunt} style={{paddingLeft: '10%'}} />
           </div>
         </div>
       </div>
@@ -61,7 +64,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
           class="columns is-vcentered is-mobile"
           style={{marginTop: '-250px'}}>
           <div class="column  is-vcentered">
-            <img src={cunt}  />
+            <img src={cunt} />
           </div>
         </div>
       </div>
@@ -92,7 +95,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
       <div
         class="is-hidden-desktop"
         style={{width: '100vw', overflow: 'hidden'}}>
-        <img src={picks} style={{height: '100%',   maxWidth: 'none'}} />
+        <img src={picks} style={{height: '100%', maxWidth: 'none'}} />
       </div>
       <div style={{height: '100%'}}>
         <PickRoll />
@@ -132,7 +135,7 @@ export const IndexPageTemplate = ({title, subheading}) => (
             style={{
               minHeight: '100%',
               paddingLeft: '29px',
-                color: 'black',
+              color: 'black',
             }}>
             <p className="bike">
               Like what you see? Want to be featured or collaborate with us?
