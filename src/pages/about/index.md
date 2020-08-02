@@ -13,8 +13,7 @@ body1_2: Always seeking to bring an eclectic mix of both well-loved scene
   veterans and fresh up-and-comers with potential; we deliver high energy and
   exciting shows, where every event is an unforgettable experience for our
   audiences (and artists as well!).
-body2_3: We look forward to highlight all interesting music across all that
-  genres that lay between!
+body2_3: We look forward to highlighting interesting music across all the genres!
 body2_2: We’ll highlight the tunes and bands our team is passionate about, talk
   to artists about the music that inspires them and their journeys, give our
   opinions on the latest releases and entertain you with our columns and
