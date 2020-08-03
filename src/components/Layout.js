@@ -16,11 +16,11 @@ const TemplateWrapper = ({children}) => {
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta name="theme-color" content="#fff" />
-
+        <meta property="og:image" href={`${withPrefix('/')}img/zoot.png`} />
+        <meta property="og:image" content={`${withPrefix('/')}img/zoot.png`} />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta property="og:image" href={`${withPrefix('/')}img/zoot.png`} />
 
         <link
           rel="apple-touch-icon"
