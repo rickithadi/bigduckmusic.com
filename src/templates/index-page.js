@@ -13,7 +13,6 @@ import picks from '../img/sex/picks.svg';
 import tra from '../img/sex/trans.png';
 
 export const IndexPageTemplate = ({title, subheading}) => (
-  <Layout>
     <div style={{minHeight: '100%'}}>
       <section
         style={{
@@ -171,7 +170,6 @@ export const IndexPageTemplate = ({title, subheading}) => (
         </div>
       </section>
     </div>
-  </Layout>
 );
 
 IndexPageTemplate.propTypes = {

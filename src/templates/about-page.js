@@ -25,7 +25,6 @@ export const AboutPageTemplate = ({
   console.log('bro', body1_2);
 
   return (
-    <Layout>
       <div
         style={{
           minHeight: '100vh',
@@ -314,7 +313,6 @@ export const AboutPageTemplate = ({
           <Index />
         </section>
       </div>
-    </Layout>
   );
 };
 
