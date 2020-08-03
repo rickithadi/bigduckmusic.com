@@ -50,7 +50,6 @@ const TemplateWrapper = ({children}) => {
       <div
         style={{
           minHeight: '100%',
-          maxWidth: '100%',
         }}>
         {children}
       </div>
