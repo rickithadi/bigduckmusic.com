@@ -220,8 +220,15 @@ const BlogPost = ({data}) => {
               content={`${post.frontmatter.description}`}
             />
             <meta property="og:title" content={`${post.frontmatter.title}`} />
+            <meta
+              property="og:image"
+              href={`url(${post.frontmatter.featuredimageo})`}
+            />
+            <meta
+              property="og:image"
+              content={`url(${post.frontmatter.featuredimageo})`}
+            />
 
-            <meta property="og:image" href={`${post.frontmatter.featuredimageo}`} />
           </Helmet>
         }
         tags={post.frontmatter.tags}
