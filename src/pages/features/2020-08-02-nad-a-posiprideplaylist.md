@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "NAD: A PosiPridePlaylist "
 author: nad.
-date: 2020-08-02T16:00:08.486Z
+date: 2020-08-02T16:01:00.000Z
 description: PosiPridePlaylist by nad.
 category: take
 spotify: https://open.spotify.com/playlist/11gDoUJtmrEExK64tuYqHH?si=w6SRyTjRR-iOP8jCKprtVg
