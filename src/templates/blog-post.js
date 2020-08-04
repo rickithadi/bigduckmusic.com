@@ -56,7 +56,6 @@ export const BlogPostTemplate = ({
             style={{
               top: '30vh',
               paddingTop: '3vh',
-              position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
             <p
@@ -103,7 +102,6 @@ export const BlogPostTemplate = ({
           <div
             style={{
               top: '40vh',
-              position: 'absolute',
             }}>
             {category && <span className="swaggy ">{category}</span>}
             <p
