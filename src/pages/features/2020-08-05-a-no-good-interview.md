@@ -84,7 +84,9 @@ Are you guys still creatively active during this pandemic?
 
 **Smek**: Quentin x Dain Said (he's a local filmmaker). I would only recommend Bunohan though.
 
-[![ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/o-QTphk6_VU/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/o-QTphk6_VU)
+[![ALT TEXT HERE](https://img.youtube.com/vi/o-QTphk6_VU/0.jpg)](https://www.youtube.com/watch?v=o-QTphk6_VU)
+
+[](https://www.youtube.com/watch?v=https://youtu.be/o-QTphk6_VU)
 
 ##### Do you think the future of art will still be inspired by past movements? There seems to be a surge in retro homage in recent times.
 
@@ -92,7 +94,9 @@ Are you guys still creatively active during this pandemic?
 
 **Ali Johan**: Past movements are inescapable - you know the whole “you can't have the future without the past” type of thing. Homage is romantic. Art is easy to romanticise. It’s a good feeling. And also, because something happened in the past, it somehow becomes a template. A safety net. So it depends on your will to create - to make art with a safety net or to go into unknown territory. To me both ways are gratifying in its own way. As long as I’m happy.
 
-[![ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/z5rRZdiu1UE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/z5rRZdiu1UE)
+[![ALT TEXT HERE](https://img.youtube.com/vi/z5rRZdiu1UE/0.jpg)](https://www.youtube.com/watch?v=z5rRZdiu1UE)
+
+[](https://www.youtube.com/watch?v=https://youtu.be/z5rRZdiu1UE)
 
 ##### You guys have written songs in English, Malay and now Kelantanese. Which one felt the easiest?
 
@@ -116,7 +120,7 @@ Are you guys still creatively active during this pandemic?
 
 **Mat Yie**: Hahahhaha
 
-[![ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/hMEMqpM0JjM/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/hMEMqpM0JjM)
+[![ALT TEXT HERE](https://img.youtube.com/vi/hMEMqpM0JjM/0.jpg)](https://www.youtube.com/watch?v=hMEMqpM0JjM)
 
 ##### Shit, so I guess it's not too popular in Malaysia then.
 
