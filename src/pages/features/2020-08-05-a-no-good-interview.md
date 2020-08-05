@@ -14,6 +14,8 @@ tags:
   - Malaysia
   - Punk
 ---
+##### An Interview with Malaysian Punk rockers No Good.
+
 For a band called No Good, they’re far from being, well, no good. Truth is, you probably won’t understand what they’re singing about. Songs in their inaugural EP, [Demo Kawe](https://nogoodisdead.bandcamp.com/album/demo-kawe-ep), are all sung in Kelantanese dialect. A very bold decision indeed. 
 
 Featuring members from bands that predominantly focus on complex musical structures and odd time signatures such as [Killer Calculateur](https://killeurcalculateur.bandcamp.com/) and [Dirgahayu](https://drghy.bandcamp.com/), No Good instead opted for an alternative approach: simple feel good punk music. Their recent Spike Jonze inspired music video for their 3rd single ‘Che Using’ is a homage to 80s Malaysian movies and an encapsulation of everything the band is about. 
