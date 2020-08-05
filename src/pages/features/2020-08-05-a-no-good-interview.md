@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A No Good Interview
-author: Reza
+author: Reza Rifaldi
 date: 2020-08-05T18:50:28.612Z
 description: An Interview with Malaysian Punk rockers No Good.
 category: feature
