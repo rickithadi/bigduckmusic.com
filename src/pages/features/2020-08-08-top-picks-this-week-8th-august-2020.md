@@ -3,7 +3,9 @@ templateKey: blog-post
 title: "TOP PICKS THIS WEEK: 8th August 2020"
 author: JX Soo and Isaac Yackem
 date: 2020-08-08T09:24:07.363Z
-description: Our Top Picks this week featuring Owen Pallett, Nuvolascura, and Don.a.aron.
+description: Our top picks this week - featuring our favorite dapat music
+  connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the
+  majestic orchestral beauty of Owen Pallett!
 category: feature
 spotify: https://open.spotify.com/playlist/7yNuBnYabSt7Wc9qQky9jd?si=izdjyhltSlKhDy4_5OQ0DQ
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1596878822/brucebbanner_tngape.jpg
