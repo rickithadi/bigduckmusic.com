@@ -17,7 +17,7 @@ tags:
   - Don.a.aron
   - CHERIE SLAYN
 ---
-### Our Top Picks this week: 8th August 2020
+Our top picks this week - featuring our favorite dapat music connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the majestic orchestral beauty of Owen Pallett!
 
 # Owen Pallett
 
