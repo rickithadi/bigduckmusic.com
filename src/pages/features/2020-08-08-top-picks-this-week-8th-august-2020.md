@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "TOP PICKS THIS WEEK: 8th August 2020"
+title: "WEEKLY PICKS: 8th August 2020"
 author: JX Soo and Isaac Yackem
 date: 2020-08-08T09:24:07.363Z
 description: Our top picks this week - featuring our favorite dapat music
