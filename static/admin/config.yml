@@ -34,6 +34,14 @@ collections:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Author', name: 'author', widget: 'string'}
       - {
+          label: 'Little text colour',
+          name: 'col',
+          widget: 'select',
+          allow_add: false,
+          options: ['black', 'white' ],
+          default: ['black'],
+        }
+      - {
           label: 'Publish Date',
           name: 'date',
           widget: 'datetime',

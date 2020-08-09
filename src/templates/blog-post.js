@@ -13,12 +13,11 @@ import SpotifyPlayer from 'react-spotify-player';
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  review,
+  col,
   spotify,
   author,
   category,
   date,
-  socials,
   featuredimageo,
   dispImage,
   tags,
@@ -63,7 +62,7 @@ export const BlogPostTemplate = ({
               style={{
                 marginTop: '10px',
                 padding: '0px',
-                color: 'white !important',
+                color: `${col}`,
               }}>
               Written by {author}
             </p>
@@ -71,7 +70,7 @@ export const BlogPostTemplate = ({
               className="bikercb"
               style={{
                 padding: '0px',
-                color: 'white !important',
+                color: `${col}`,
               }}>
               Published on {date}
             </p>
@@ -110,8 +109,7 @@ export const BlogPostTemplate = ({
               style={{
                 marginTop: '10px',
                 padding: '0px',
-
-                color: 'white !important',
+                color: `${col}`,
               }}>
               {' '}
               Written by {author}
@@ -120,8 +118,7 @@ export const BlogPostTemplate = ({
               className="bikercb"
               style={{
                 padding: '0px',
-
-                color: 'white !important',
+                color: `${col}`,
               }}>
               {' '}
               Published on {date}
@@ -191,6 +188,7 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   socials: PropTypes.array,
   spotify: PropTypes.string,
+  col: PropTypes.string,
   review: PropTypes.bool,
 };
 
@@ -204,6 +202,7 @@ const BlogPost = ({data}) => {
         content={post.html}
         spotify={post.frontmatter.spotify}
         socials={post.frontmatter.socials}
+        col={post.frontmatter.col}
         category={post.frontmatter.category}
         author={post.frontmatter.author}
         date={post.frontmatter.date}
@@ -253,6 +252,7 @@ export const pageQuery = graphql`
         title
         author
         description
+        col
         featuredimageo
         tags
         dispImage

@@ -7,6 +7,7 @@ description: Our top picks this week - featuring our favorite dapat music
   connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the
   majestic orchestral beauty of Owen Pallett!
 category: feature
+col: white
 spotify: https://open.spotify.com/playlist/7yNuBnYabSt7Wc9qQky9jd?si=izdjyhltSlKhDy4_5OQ0DQ
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1596878822/brucebbanner_tngape.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1596878825/pickscard_k4j89p.jpg
