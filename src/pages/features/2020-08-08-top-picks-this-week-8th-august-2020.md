@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: 'WEEKLY PICKS: 8th August 2020'
+title: "WEEKLY PICKS: 8th August 2020"
 author: JX Soo and Isaac Yackem
+col: white
 date: 2020-08-08T09:24:07.363Z
 description: Our top picks this week - featuring our favorite dapat music
   connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the
   majestic orchestral beauty of Owen Pallett!
 category: feature
-col: white
 spotify: https://open.spotify.com/playlist/7yNuBnYabSt7Wc9qQky9jd?si=izdjyhltSlKhDy4_5OQ0DQ
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1596878822/brucebbanner_tngape.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1596878825/pickscard_k4j89p.jpg
@@ -18,15 +18,11 @@ tags:
   - Don.a.aron
   - CHERIE SLAYN
 ---
-
-
 Our top picks this week - featuring our favorite dapat music connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the majestic orchestral beauty of Owen Pallett!
 
-
-<iframe className='wrapped-iframe' width="100%" height="500vh"src="https://www.youtube.com/embed/lZ8zu1aRYA8" frameborder="0" allowfullscreen></iframe>
 # Owen Pallett
 
-#### **_“A Bloody Morning”_**
+#### ***“A Bloody Morning”***
 
 **Island**
 
@@ -43,13 +39,13 @@ Yet even within these grandiose orchestral arrangements, a sense of grounded cla
 
 ###### Listen to A "Bloody Morning" [here](https://owenpallett.bandcamp.com/track/a-bloody-morning).
 
-- **\- by JX Soo**
+* **\- by JX Soo**
 
 # Nuvolascura
 
-#### **_“Pixel Vision Anxiety”_**
+#### ***“Pixel Vision Anxiety”***
 
-**_As We Suffer From Memory and Imagination_**
+***As We Suffer From Memory and Imagination***
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick2_z5chj4.jpg 'As We Suffer From Memory and Imagination')
 
@@ -64,11 +60,11 @@ But the break is merely a deceptive calm before the storm. As the track’s neur
 
 ###### Listen to "Pixel Vision Anxiety" [here](https://nuvolascura.bandcamp.com/track/pixel-vison-anxiety).
 
-- **\- by JX Soo**
+* **\- by JX Soo**
 
 # DON.A.A.RON (feat. CHERIE SLAYN)
 
-#### **_"DISTANCE"_**
+#### ***"DISTANCE"***
 
 ###### Distance
 
@@ -82,4 +78,4 @@ A tasteful combination of a simple albeit groovy retro-futuristic rhythm section
 
 ###### You can check out a stripped down acoustic version of the song that they premiered on Facebook recently [here](https://www.facebook.com/iamdon.a.a.ron/videos/345150536514608/), as well as the single itself [here](https://open.spotify.com/track/2nI1s0lRGGonltLMqAZg3y?si=89P1IfaGToWt19mi3cIgyg).
 
-- **\- by Isaac Yackem**
+* **\- by Isaac Yackem**
