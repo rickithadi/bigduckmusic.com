@@ -34,30 +34,20 @@ CMS.registerEditorComponent({
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
     return (
-      '[![ALT TEXT HERE](https://img.youtube.com/vi/' +
+      '<iframe class="responsive-iframe" width="560" height="315" src=https://www.youtube.com/embed/' +
       obj.id +
-      '/0.jpg)](https://www.youtube.com/watch?v=' +
-      obj.id +
-      ')'
+      'frameborder="0" allowfullscreen></iframe>'
     );
   },
 
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-  return (
-      '[![ALT TEXT HERE](https://img.youtube.com/vi/' +
+    return (
+      '<iframe class="responsive-iframe" width="560" height="315" src=https://www.youtube.com/embed/' +
       obj.id +
-      '/0.jpg)](https://www.youtube.com/watch?v=' +
-      obj.id +
-      ')'
+      'frameborder="0" allowfullscreen></iframe>'
     );
-
-/*    return (*/
-      //'<img src="https://img.youtube.com/vi/' +
-      //obj.id +
-      //'/maxresdefault.jpg" alt="Youtube Video"/>'
-    /*);*/
   },
 });
 CMS.registerEditorComponent({
