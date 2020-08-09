@@ -221,7 +221,7 @@ const BlogPost = ({data}) => {
 
             <meta
               property="og:image"
-              content={`${post.frontmatter.featuredimageo}`}
+              content={`${post.frontmatter.dispImage}`}
             />
           </Helmet>
         }
