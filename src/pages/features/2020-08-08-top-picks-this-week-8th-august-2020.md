@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "WEEKLY PICKS: 8th August 2020"
+title: 'WEEKLY PICKS: 8th August 2020'
 author: JX Soo and Isaac Yackem
 date: 2020-08-08T09:24:07.363Z
 description: Our top picks this week - featuring our favorite dapat music
@@ -17,15 +17,15 @@ tags:
   - Don.a.aron
   - CHERIE SLAYN
 ---
-<iframe class="responsive-iframe" width="560" height="315" src=https://www.youtube.com/embed/lZ8zu1aRYA8frameborder="0" allowfullscreen></iframe>
+
 
 Our top picks this week - featuring our favorite dapat music connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the majestic orchestral beauty of Owen Pallett!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lZ8zu1aRYA8" frameborder="0" allowfullscreen></iframe>
 
+<iframe className='wrapped-iframe' width="100%" height="500vh"src="https://www.youtube.com/embed/lZ8zu1aRYA8" frameborder="0" allowfullscreen></iframe>
 # Owen Pallett
 
-#### ***“A Bloody Morning”***
+#### **_“A Bloody Morning”_**
 
 **Island**
 
@@ -42,13 +42,13 @@ Yet even within these grandiose orchestral arrangements, a sense of grounded cla
 
 ###### Listen to A "Bloody Morning" [here](https://owenpallett.bandcamp.com/track/a-bloody-morning).
 
-* **\- by JX Soo**
+- **\- by JX Soo**
 
 # Nuvolascura
 
-#### ***“Pixel Vision Anxiety”***
+#### **_“Pixel Vision Anxiety”_**
 
-***As We Suffer From Memory and Imagination***
+**_As We Suffer From Memory and Imagination_**
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick2_z5chj4.jpg 'As We Suffer From Memory and Imagination')
 
@@ -63,11 +63,11 @@ But the break is merely a deceptive calm before the storm. As the track’s neur
 
 ###### Listen to "Pixel Vision Anxiety" [here](https://nuvolascura.bandcamp.com/track/pixel-vison-anxiety).
 
-* **\- by JX Soo**
+- **\- by JX Soo**
 
 # DON.A.A.RON (feat. CHERIE SLAYN)
 
-#### ***"DISTANCE"***
+#### **_"DISTANCE"_**
 
 ###### Distance
 
@@ -81,4 +81,4 @@ A tasteful combination of a simple albeit groovy retro-futuristic rhythm section
 
 ###### You can check out a stripped down acoustic version of the song that they premiered on Facebook recently [here](https://www.facebook.com/iamdon.a.a.ron/videos/345150536514608/), as well as the single itself [here](https://open.spotify.com/track/2nI1s0lRGGonltLMqAZg3y?si=89P1IfaGToWt19mi3cIgyg).
 
-* **\- by Isaac Yackem**
+- **\- by Isaac Yackem**

@@ -34,9 +34,9 @@ CMS.registerEditorComponent({
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
     return (
-      '<iframe class="responsive-iframe" width="560" height="315" src=https://www.youtube.com/embed/' +
+      '<iframe class="wrapped-iframe" width="100%" height="500vh" src="https://www.youtube.com/embed/' +
       obj.id +
-      'frameborder="0" allowfullscreen></iframe>'
+      '"frameborder="0" allowfullscreen></iframe>'
     );
   },
 
@@ -44,9 +44,9 @@ CMS.registerEditorComponent({
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      '<iframe class="responsive-iframe" width="560" height="315" src=https://www.youtube.com/embed/' +
+      '<iframe class="wrapped-iframe" width="100%" height="500vh" src="https://www.youtube.com/embed/' +
       obj.id +
-      'frameborder="0" allowfullscreen></iframe>'
+      '"frameborder="0" allowfullscreen></iframe>'
     );
   },
 });
