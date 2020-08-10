@@ -7,8 +7,8 @@ date: 2020-08-10T17:02:12.482Z
 description: An interview with Kelantanese punk rockers No Good.
 category: feature
 spotify: https://open.spotify.com/album/7LJPtSxuXGSsUIeAlxRD2A?si=eaQxHIyHRAyk_377b4-_6Q
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1596650188/NOGOODCARD_fynx8d.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1596650090/nogoodbanner2_ojafij.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1596650090/nogoodbanner2_ojafij.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1596650188/NOGOODCARD_fynx8d.jpg
 tags:
   - Interview
   - No Good
