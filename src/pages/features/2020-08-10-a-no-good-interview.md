@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: A No Good Interview
 author: Reza Rifaldi
-col: black
+col: white
 date: 2020-08-10T17:02:12.482Z
 description: An interview with Kelantanese punk rockers No Good.
 category: feature
@@ -15,7 +15,7 @@ tags:
   - Malaysia
   - Kelantan
 ---
-##### An Interview with Malaysian Punk rockers No Good.
+### An Interview with Malaysian Punk rockers No Good.
 
 For a band called No Good, they’re far from being, well, no good. Truth is, you probably won’t understand what they’re singing about. Songs in their inaugural EP, [Demo Kawe](https://nogoodisdead.bandcamp.com/album/demo-kawe-ep), are all sung in Kelantanese dialect. A very bold decision indeed. 
 
@@ -31,13 +31,13 @@ Regardless of whether you understand what they're saying or not, there’s no do
 
 **Smek**: Lol thanks.
 
-Are you guys still creatively active during this pandemic?
+##### Are you guys still creatively active during this pandemic?
 
 **Mat Yie**: Everything stopped after MCO was implemented. So it’s been 2 months plus. Smek was itching to show new songs. I’ve been writing songs but mainly for my other band. But was not that productive though.
 
 **Smek**: We've just started band practice yesterday after our last show in KL which was in Feb. creatively i guess just in writing riffs for myself, but we're not the type of band that does "virtually jam" sessions this quarantine season if you get my drift.
 
-##### Ah yup yup I get the idea. Just wondering, how strict is the Movement Control Order there?
+##### Ah yup, I get the idea. Just wondering, how strict is the Movement Control Order there?
 
 **Ali Johan**: Currently, it has been relaxed a bit. Most people have started working. But it's been quite strict lah for the past two or three weeks.
 
