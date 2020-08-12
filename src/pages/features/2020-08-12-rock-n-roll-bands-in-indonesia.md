@@ -33,7 +33,7 @@ Here is a list of Indonesian bands that embody the spirit of rock ‘n’ roll.
 
 # Teenage Death Star
 
-<iframe src="https://open.spotify.com/embed/track/5QPa0rmNEhWGjOChRu5EYS" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5QPa0rmNEhWGjOChRu5EYS" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Teenage Death Star is a band that doesn’t care what you think. With the band’s irreverent mantra of “Skill is dead, Let’s Rock”, their debut album *Longway to Nowhere* set out to prove that technical prowess and skill were secondary in rock, to the power of infectious energy and tactful songwriting.
 
@@ -45,7 +45,7 @@ Their simplistic yet thunderous riffwork could be easily compared to those of in
 
 # The S.I.G.I.T
 
-<iframe src="https://open.spotify.com/embed/track/5jla8fgWktggzuMfz97DuU" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5jla8fgWktggzuMfz97DuU" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 The S.I.G.I.T is the quintessential Indonesian Rock ‘n’ Roll band. At a time where their local airwaves were dominated by pop rock acts, The S.I.G.I.T brought ballsy hard rock back to the forefront. They played a big part in putting Indonesian rock music on the map internationally with an exhilarating hard rock style influenced by the rock bands of the 70s such as [KISS](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC?si=zS-rdHCQR1eiuA6cvGDSYQ), and of the early 2000s such as [Wolfmother](https://open.spotify.com/track/6dNJ3lasVLPd0078T9yqlm?si=x1BVhRjWQdSv_Aq-FEKFCA).
 
@@ -59,7 +59,7 @@ A celebration of rebellion, freedom, and just living, *Visible Idea of Perfectio
 
 # The Porno
 
-<iframe src="https://open.spotify.com/embed/track/2YNWAVhlTqhgWyy5Ehejk7" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2YNWAVhlTqhgWyy5Ehejk7" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Shrouded in mystery and spectacle,The Porno’s debut album *[Subliminal](https://open.spotify.com/album/3UVGAmuKFSKNLoHmfsI4ek?si=hbsgj8HPTou0OgWW_W3sDw)* leaned heavily on its post-punk influences for an unexpected darker, moodier take on rock music. Pairing a nihilistic outlook with a strong animosity for the status quo, The Porno were determined to tear down the preconceived notions of what rock band in Indonesia should be and bring something fresh to the table.
 
@@ -73,7 +73,7 @@ The alluring, dissonant quality and cynical, haunting lyrics on“Subliminal”p
 
 # Indische Party
 
-<iframe src="https://open.spotify.com/embed/track/11gQbyO87uILMlTb13rneg" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/11gQbyO87uILMlTb13rneg" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 An exhilarating group with a zealous love for the British Invasion of the 60s, Indische Party fused a myriad of genres on their sophomore LP, *[Analog](https://open.spotify.com/album/51YhzTgPVK3UAwdyc8iRPO?si=T2azwZLJSWW7rcllrhjPfA)*.The album dipped its toes in doo-wop, surf rock, and old school garage rock wrapped up in a tight, pleasant package (Think The Pinholes, but more sonically varied).
 
@@ -87,7 +87,7 @@ Overall, it’s a just an all round great album to dance to, be it with yourself
 
 # Kelompok Penerbang Roket
 
-<iframe src="https://open.spotify.com/embed/track/3zMJiWwtg4LIXXSZ53uKAM" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3zMJiWwtg4LIXXSZ53uKAM" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Gritty, rebellious, and politically charged with a fury, Kelompok Penerbang Roket’s debut album *[Teriakan Bocah](https://open.spotify.com/album/0bxvRU97UFED7XlUbO7c7S?si=ZA7L8EUKRaW8nuHRdkO0Wg)* (meaning *Cries Of Children*) was a warcry for the children of Indonesia that had lost their homes and their lives to the many mass killings by the government and their soldiers over the past 60 years.
 
@@ -103,16 +103,16 @@ Fast-paced, intimate and intense, Kelompok Penerbang Roket's music was a rallyin
 
 **BITZMIKA**
 
-<iframe src="https://open.spotify.com/embed/track/1713AaRpM3oEhEhyGNOwpk" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1713AaRpM3oEhEhyGNOwpk" width=100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **Morfem**
 
-<iframe src="https://open.spotify.com/embed/track/7nzbuikT7eeDqoM42VrHBf" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7nzbuikT7eeDqoM42VrHBf" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **It’s Different Class**
 
-<iframe src="https://open.spotify.com/embed/track/1ZzFX3h89MpKRNPZUEugTY" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1ZzFX3h89MpKRNPZUEugTY" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **The Hydrant**
 
-<iframe src="https://open.spotify.com/embed/track/2lEKpMfqR9q0eqbOzI1F6C" width="620" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2lEKpMfqR9q0eqbOzI1F6C" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
