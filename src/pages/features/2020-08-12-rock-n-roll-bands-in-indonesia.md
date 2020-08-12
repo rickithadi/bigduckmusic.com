@@ -35,7 +35,7 @@ Here is a list of Indonesian bands that embody the spirit of rock ‘n’ roll.
 
 <iframe src="https://open.spotify.com/embed/track/5QPa0rmNEhWGjOChRu5EYS" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Teenage Death Star is a band that doesn’t care what you think. With the band’s irreverent mantra of “Skill is dead, Let’s Rock”, their debut album *Longway to Nowhere* set out to prove that technical prowess and skill were secondary in rock, to the power of infectious energy and tactful songwriting.
+Teenage Death Star is a band that doesn’t care what you think. With the band’s irreverent mantra of “Skill is dead, Let’s Rock”, their debut album *[Longway to Nowhere](https://open.spotify.com/album/49y6mQksPVUliQNHhULU8n?si=IkGzqCrRRGGrjNGvnxx4Lw)* set out to prove that technical prowess and skill were secondary in rock, to the power of infectious energy and tactful songwriting.
 
 Their simplistic yet thunderous riffwork could be easily compared to those of influential proto-punk outfit [The Stooges](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi?si=GvRCPHmoStGFA53yuclVeQ). Fuzzy, cutthroat guitars paired with a primal rhythm section merge to form *Longway to Nowhere*'s noisy, almost brutal aesthetic, powering headbangers from start to finish. Its lyrics drip with wit and flirt with the comically taboo, altogether crafting a provocative, badass debut statement that serves as a loving tribute to raw, unhinged rock energy.
 
