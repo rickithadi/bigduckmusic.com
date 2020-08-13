@@ -25,7 +25,7 @@ The image of tons of teenagers cramped together, bathed in sweat, and cussing ou
 
 ###### Fun fact, current president of Indonesia, Jokowi, is known to be a huge heavy metal fan.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597255148/598fb1da243a73ccd6b55c460b9aa19b_wygmox.jpg)
+![President Jokowi Metal Fan](https://res.cloudinary.com/ddomozydd/image/upload/v1597255148/598fb1da243a73ccd6b55c460b9aa19b_wygmox.jpg "President Jokowi Metal Fan")
 
 # Oh, Let there be rock!
 
@@ -39,7 +39,7 @@ Teenage Death Star is a band that doesn’t care what you think. With the band�
 
 Their simplistic yet thunderous riffwork could be easily compared to those of influential proto-punk outfit [The Stooges](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi?si=GvRCPHmoStGFA53yuclVeQ). Fuzzy, cutthroat guitars paired with a primal rhythm section merge to form *Longway to Nowhere*'s noisy, almost brutal aesthetic, powering headbangers from start to finish. Its lyrics drip with wit and flirt with the comically taboo, altogether crafting a provocative, badass debut statement that serves as a loving tribute to raw, unhinged rock energy.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597255468/teenagedeath_kpvz7m.jpg "Teenage Death Star")
+![Teenage Death Star - Indonesian Band](https://res.cloudinary.com/ddomozydd/image/upload/v1597295821/teenagedeathstar_xggdz3.jpg "Teenage Death Star")
 
 **Teenage Death Star, formed in 2001 in Bandung**
 
@@ -53,7 +53,7 @@ Their debut album, *[Visible Idea of Perfection](https://open.spotify.com/album/
 
 A celebration of rebellion, freedom, and just living, *Visible Idea of Perfection* was the much needed catharsis for the damned youth of Indonesia of the time.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597256114/thesigit_c19tw1.jpg "The SIGIT")
+![The SIGIT - Indonesian Band](https://res.cloudinary.com/ddomozydd/image/upload/v1597296012/theSIGIT_ieztpi.jpg "The SIGIT")
 
 **The S.I.G.I.T, formed in 2002 in Bandung**
 
@@ -67,7 +67,7 @@ Inspired by sounds of the 70s’ post-punk movement, *Subliminal* delivered an i
 
 The alluring, dissonant quality and cynical, haunting lyrics on“Subliminal”pushed the boundaries of what rock ‘n’ roll meant to Indonesia and served as a daring overture that embraced the darker side of what rock music could be.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597256896/theporno_wmzxsw.jpg "The Porno")
+![The Porno - Indonesian Band](https://res.cloudinary.com/ddomozydd/image/upload/v1597295903/theporno_wmzxsw_sncluu.jpg "The Porno")
 
 **The Porno, formed in 2004 in Pondok Gede**
 
@@ -81,7 +81,7 @@ Unlike the previous bands on this list, Indische Party isn’t a particularly ag
 
 Overall, it’s a just an all round great album to dance to, be it with yourself, with friends, or with a lover; *Analog* harkens back to simpler times.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597257101/Indi_r0vshq.jpg "Indische Party")
+![Indische Party - Indonesian Band](https://res.cloudinary.com/ddomozydd/image/upload/v1597296212/IndischeParty_krclka.jpg "Indische Party ")
 
 **Indische Party, formed in 2011 in Jakarta**
 
@@ -95,7 +95,7 @@ With fuzzy, distorted bass and guitar riffs that trace its roots back to the lik
 
 Fast-paced, intimate and intense, Kelompok Penerbang Roket's music was a rallying cry that called for the unity and liberation of every citizen that had lived under corrupted systems and injustice.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1597258050/roknroll_u5k9yk.jpg "Kelompok Penerbang Roket")
+![Kelompok Penerbang Roket - Indonesian Band](https://res.cloudinary.com/ddomozydd/image/upload/v1597296309/KPR_leaw8k.jpg "Kelompok Penerbang Roket")
 
 **Kelompok Penerbang Roket, formed in 2011 in Jakarta**
 
