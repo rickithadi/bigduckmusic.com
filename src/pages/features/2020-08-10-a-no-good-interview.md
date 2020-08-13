@@ -23,7 +23,7 @@ Featuring members from bands that predominantly focus on complex musical structu
 
 Regardless of whether you understand what they're saying or not, there’s no doubt that they’re one of the freshest rock acts out of Southeast Asia right now. It’s a breath of fresh air to see Kelantan making the news for reasons other than their strict Sharia law. On one fateful evening, I had a short chat with the band.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1596652097/nogood_hqzwmo.jpg "No Good ")
+![No Good the band](https://res.cloudinary.com/ddomozydd/image/upload/v1596652097/nogood_hqzwmo.jpg "No Good the band")
 
 *No Good.*
 
@@ -57,7 +57,7 @@ Regardless of whether you understand what they're saying or not, there’s no do
 
 **Ali Johan**: Wei that robodog is fucking crack man. But power lah Singapore. I would want a robodog to be my runner.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1596653132/robodog_e3une3.jpg "Robodog")
+![Robodog ](https://res.cloudinary.com/ddomozydd/image/upload/v1596653132/robodog_e3une3.jpg "Robodog")
 
 *A robodog in Bishan-Ang Mio Kio Park, Singapore.*
 
