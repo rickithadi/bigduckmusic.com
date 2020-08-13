@@ -5,7 +5,7 @@ author: Iqbal Rohan
 col: white
 date: 2020-08-12T17:50:43.516Z
 description: Check out some of Indonesia’s best Rock bands.
-category: take
+category: feature
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1597257847/bannernew_oqfzuc.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1597257459/Roket_hyt8zo.jpg
 tags:
