@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 5 Bands to get you into Indonesian Rock
+title: "An Indonesian Rock Starter Pack: 5 Bands Repping SEA's freshest scene"
 author: Iqbal Rohan
 col: white
 date: 2020-08-12T17:50:43.516Z
