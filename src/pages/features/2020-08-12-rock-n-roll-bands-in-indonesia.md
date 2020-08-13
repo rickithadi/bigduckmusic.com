@@ -75,7 +75,7 @@ The alluring, dissonant quality and cynical, haunting lyrics on“Subliminal”p
 
 <iframe src="https://open.spotify.com/embed/track/11gQbyO87uILMlTb13rneg" width=100% height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-An exhilarating group with a zealous love for the British Invasion of the 60s, Indische Party fused a myriad of genres on their sophomore LP, *[Analog](https://open.spotify.com/album/51YhzTgPVK3UAwdyc8iRPO?si=T2azwZLJSWW7rcllrhjPfA)*.The album dipped its toes in doo-wop, surf rock, and old school garage rock wrapped up in a tight, pleasant package (Think The Pinholes, but more sonically varied).
+An exhilarating group with a zealous love for the British Invasion of the 60s, Indische Party fused a myriad of genres on their sophomore LP, *[Analog](https://open.spotify.com/album/51YhzTgPVK3UAwdyc8iRPO?si=T2azwZLJSWW7rcllrhjPfA)*.The album dipped its toes in doo-wop, surf rock, and old school garage rock wrapped up in a tight, pleasant package (Think [The Pinholes](https://open.spotify.com/track/1Rpqk0ajcxxvlXjiC1PuAt?si=fwOc2xYPS4uo0Tws1qjVlQ), but more sonically varied).
 
 Unlike the previous bands on this list, Indische Party isn’t a particularly aggressive band, instead focused on laid back songwriting alongside a sophisticated dress sense. Frontman Japs Shadiq frequently channels Mick Jagger with his magnetic and eccentric stage presence.
 
