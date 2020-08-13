@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Rock 'n' Roll bands in Indonesia
+title: Merokok & Mengopi Dengan Rock 'n' Roll
 author: Iqbal Rohan
 col: white
 date: 2020-08-12T17:50:43.516Z
-description: Check out some of Indonesia’s most invigorating Rock ‘n’ Roll bands.
+description: Check out some of Indonesia’s best Rock bands.
 category: take
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1597257847/bannernew_oqfzuc.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1597257459/Roket_hyt8zo.jpg
@@ -17,7 +17,7 @@ tags:
   - Indische Party
   - Kelompok Penerbang Roket
 ---
-**Check out some of Indonesia’s most invigorating Rock ‘n’ Roll bands.**
+**Check out some of Indonesia’s best Rock bands.**
 
 Indonesia’s bustling rock scene is loud, electrifying and armed to the teeth with a deadly attitude. There’s an undeniable cool that radiates from it, and a sense of danger that comes from the scene’s anti-establishment sentiments, filled with a determination to take the piss out of its homeground’s dense conservative population.
 
