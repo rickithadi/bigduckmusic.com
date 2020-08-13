@@ -2,10 +2,10 @@
 templateKey: blog-post
 title: "NAD: A PosiPridePlaylist "
 author: nad.
+col: white
 date: 2020-08-02T16:01:00.000Z
 description: PosiPridePlaylist by nad.
 category: take
-col: white
 spotify: https://open.spotify.com/playlist/11gDoUJtmrEExK64tuYqHH?si=w6SRyTjRR-iOP8jCKprtVg
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595738817/rightnadsize_tesqam.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1595678599/nadcard_ewtley.jpg
@@ -40,7 +40,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
 
 1. # **Ivy Sole**
 
-   ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585343/Ivy_aeiwtb.jpg "Ivy Sole")
+   ![Ivy Sole - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585343/Ivy_aeiwtb.jpg "Ivy Sole")
 
    #### *“Black, queer, radical. Nothing short of Magical.”(Lovely Fiction, overgrown)*
 
@@ -51,7 +51,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    ***Songs I love: Dream Girl, Lovely Fiction, Les Fleurs.***
 2. # **Rina Sawayama**
 
-   ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585476/rina_bhhieh.jpg "Rina Sawayama")
+   ![Rina Sawayama - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585476/rina_bhhieh.jpg "Rina Sawayama")
 
    Rina blends R&B with our favourite 2000s teen-pop anthems - (the likes of 90s Destiny’s Child and 2000s Britney) - in a nostalgic throwback to Y2K that simultaneously confronts and laments issues with identity and conflict.
 
@@ -60,7 +60,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    ***Songs I love: Cherry, STFU!, Cyber Stockholm Syndrome.***
 3. # **Choker**
 
-   ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585676/0010650634_0_v2mjvk.jpg "Choker")
+   ![Choker - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585676/0010650634_0_v2mjvk.jpg "Choker")
 
    I found Choker when I fell down the rabbit hole of Spotify’s ‘Discover’ feature. Blending R&B with hiphop and psychedelic rock melodies, Choker’s sounds are ethereal, vulnerable and introspective musings that are reminiscent of both Frank Ocean and Kevin Abstract.
 
@@ -69,7 +69,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    ***Songs I love: Lucky, Starfruit LA, Dualshock.***
 4. # **Shura**
 
-   ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585829/Shura_d1wh7n.jpg "Shura")
+   ![Shura - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585829/Shura_d1wh7n.jpg "Shura")
 
    Shura’s music is what I wish I had growing up as a questioning teen in the 2000s - a fresh take and revival of the 80s pop persuasion, reminiscent of Kylie Minogue, Madonna and Janet Jackson - with honest and relatable lyrics reflecting WLW yearning. (Maybe I wouldn’t have had such a prolonged emo, teen-angst phase....)
 
@@ -80,7 +80,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
    \*\* White Light has a beautiful instrumental bridge that makes me feel cosmic!
 5. # **Deb Never**
 
-   ![](https://res.cloudinary.com/ddomozydd/image/upload/v1595585912/DebNever_vefart.jpg "Deb Never")
+   ![Deb Never - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585912/DebNever_vefart.jpg "Deb Never")
 
    Deb Never was a voice that stuck out to me during a binge-listening party of Brockhampton’s *Ginger* album. Apart from her obvious newness amidst the all-too-familiar dudebro collective - her soft and ethereal voice contrasted so strikingly against the group’s stronger, brassy vocals. (ngl I was disappointed that she wasn’t a new member of BH...)
 
