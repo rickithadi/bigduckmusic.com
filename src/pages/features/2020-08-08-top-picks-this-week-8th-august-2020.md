@@ -37,7 +37,7 @@ A Bloody Morning, in turn, is Island’s magnificent centrepiece. As the album e
 
 Yet even within these grandiose orchestral arrangements, a sense of grounded clarity resonates throughout the track. Pallett's delivery remains subdued even under Lewis’ duress, and it feels as if Lewis is aware of the absurdity of his existence. Even in moments where Lewis is overcome with overwhelming gloom, calling for Saint Christopher and his deities, a hopeful sense of triumph persists. “Surely some disaster will descend and equalize us/A crisis,” he remarks, in a particularly devastating line. Here, his observation doesn't just serve as a turning point within Pallett’s narrative universe. As Lewis survives amidst his suffering, his tale may also be a hint for our troubled zeitgeist. Under overwhelming forces, we are reduced to equals, regardless of achievements - even as a defeater of god. There is light within darkness, hope within despair - perhaps, the bloody mornings can only signal new beginnings.
 
-###### Listen to A "Bloody Morning" [here](https://owenpallett.bandcamp.com/track/a-bloody-morning).
+###### Listen to "A Bloody Morning" [here](https://owenpallett.bandcamp.com/track/a-bloody-morning).
 
 * **\- by JX Soo**
 
