@@ -25,7 +25,7 @@ tags:
 
 **Ultra Mono**
 
-![IDLES - Ultra Mono](https://res.cloudinary.com/ddomozydd/image/upload/v1597427841/modelvillage_pfudym.jpg "IDLES - Ultra Mono")
+![IDLES - Ultra Mono](https://res.cloudinary.com/ddomozydd/image/upload/v1597429452/modelvborder_gbtp5s.jpg "IDLES - Ultra Mono")
 
 \
 The fourth single preceding IDLES’ highly anticipated third album [Ultra Mono](https://idlesband.bandcamp.com/album/ultra-mono), Model Village is everything you want out of an IDLES track and then more. Back-forth twitchy guitars, a single driving bass note that hammers in and out, and hard-hitting drums that beat you over the head rounded off with frontman Joe Talbot’s signature wit and growls.
@@ -77,6 +77,6 @@ Infectious and memorable, one of the few songs that’s still celebrated in the 
 
 Despite the depressing message, it’s a celebration of doomed love being part and parcel of living and loving in your youth. Definitely a go-to new wave track for anyone looking to dance by themselves, or even with someone special.
 
-**Listen to "Matraman" [](https://open.spotify.com/track/2bJbOWTa5tT9s3AiWHYVLc?si=Q__PuBVRSreKiv5wfj8PLA)[here](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY?si=M_-wVvb9Smu_mg3kD6ntrQ).**
+**Listen to "Matraman"** [](https://open.spotify.com/track/2bJbOWTa5tT9s3AiWHYVLc?si=Q__PuBVRSreKiv5wfj8PLA)**[here](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY?si=M_-wVvb9Smu_mg3kD6ntrQ).**
 
 * **\- by Iqbal Rohan**
