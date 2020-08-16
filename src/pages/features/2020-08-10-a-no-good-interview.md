@@ -93,11 +93,9 @@ Regardless of whether you understand what they're saying or not, there’s no do
 
 ##### Do you think the future of art will still be inspired by past movements? There seems to be a surge in retro homage in recent times.
 
-**Smek**: It will always be inspired i guess because people like to play a lot on nostalgia, on both ends. But not really across the board. The Che Using MV referred heavily towards Beastie Boys' "Sabotage" MV, and at that time it was already paying homage to 70's cops TV series.
+**Smek**: It will always be inspired i guess because people like to play a lot on nostalgia, on both ends. But not really across the board. The Che Using MV referred heavily towards [Beastie Boys' "Sabotage" MV](https://youtu.be/z5rRZdiu1UE), and at that time it was already paying homage to 70's cops TV series.
 
 **Ali Johan**: Past movements are inescapable - you know the whole “you can't have the future without the past” type of thing. Homage is romantic. Art is easy to romanticise. It’s a good feeling. And also, because something happened in the past, it somehow becomes a template. A safety net. So it depends on your will to create - to make art with a safety net or to go into unknown territory. To me both ways are gratifying in its own way. As long as I’m happy.
-
-<div class="container cunt"><iframe class="wrapped-iframe" width="100%" height="500vh" src="https://www.youtube.com/embed/z5rRZdiu1UE""frameborder="0" allowfullscreen></iframe></div>
 
 ##### You guys have written songs in English, Malay and now Kelantanese. Which one felt the easiest?
 
