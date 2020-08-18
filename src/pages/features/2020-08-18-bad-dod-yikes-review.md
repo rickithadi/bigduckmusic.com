@@ -16,6 +16,8 @@ tags:
   - Garage Rock
   - Grunge
 ---
+### A review of garage rock trio BAD DOD's debut album *Yikes!*
+
 BAD DOD’s *Yikes* is unadulterated, pure rock goodness. The Singaporean trio’s debut album is a tight, hard-hitting love letter to its garage rock and grunge influences; chock-full of contagious energy, inspired songwriting and a healthy dose of self-awareness underneath it’s no-fucks-given exterior. Clocking in at 24 minutes, it’s an exhilarating listen that never overstays its welcome. And to top it off, it sounds like a band just having a whole lot of fun.
 
 BAD DOD is a 3-piece Singaporean garage rock band consisting of guitarist Prahlad Prabhas, bassist Terence Nathanael, and drummer Williem Siddik. What initially started as beer-fueled jamming sessions to let lose on the weekends has now evolved into easily one of Singapore’s most exciting rock acts.
