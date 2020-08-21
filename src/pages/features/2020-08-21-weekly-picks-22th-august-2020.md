@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "WEEKLY PICKS: 22th August 2020"
-author: Isaac Yackem and Reza Rifaldi
+author: "Isaac Yackem "
 col: white
 date: 2020-08-21T19:42:43.418Z
 description: Our top picks this week - featuring laid-back garage rock grooves
@@ -41,7 +41,7 @@ In a seeming exploration of companionship, frontman John Dwyer sings of meanderi
 
 * **\- by Isaac Yackem**
 
-# Deliciious 
+# Deliciious
 
 #### ***“Problems”***
 
@@ -78,8 +78,8 @@ Taking the reigns from vocalist Vanessa, who has done a tremendous job on the re
 
 The track ends with the word “Desire” sung repeatedly, with the final one rung out in a reverby echo as if to ask the listener what it is that they desire, and for me that would definitely be more fresh music coming from prospexx.
 
-**Listen to "Into The Night"**[](https://open.spotify.com/track/2bJbOWTa5tT9s3AiWHYVLc?si=Q__PuBVRSreKiv5wfj8PLA)**[](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY?si=M_-wVvb9Smu_mg3kD6ntrQ) here:**
+**Listen to "Into The Night"**[](https://open.spotify.com/track/2bJbOWTa5tT9s3AiWHYVLc?si=Q__PuBVRSreKiv5wfj8PLA)[](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY?si=M_-wVvb9Smu_mg3kD6ntrQ) **here:**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3961709904/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=519626058/transparent=true/" seamless><a href="http://prospexx.bandcamp.com/album/demo-2020">Demo 2020 by PROSPEXX</a></iframe>
 
-* **\- by Reza Rifaldi and Isaac Yackem**
+* **\- by Isaac Yackem**
