@@ -31,7 +31,7 @@ tags:
   - Cherry Syrup
 ---
 We were honoured to be have had the full band debut of Quite Quiet on the 14th of March! \
-From the likes of funky scene veteran Time De Cotta and bedroom pop newcomers Cherry Syrup, we had  a wonderful all rounded lineup to mark this memorable occasion!
+From the likes of funky scene veteran Time De Cotta and bedroom pop newcomers Cherry Syrup, we had a wonderful all rounded lineup to mark this memorable occasion!
 
 FEATURING SECRET ACT "MARSUPIALS"\
 Under the guise of secret act "MARSUPIALS", Mars B surprised the crowd with an impeccable set featuring her signature sound that fuses folk, soul and trip-hop.
