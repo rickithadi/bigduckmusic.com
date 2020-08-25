@@ -30,6 +30,6 @@ tags:
   - Zeekos Perakos
   - Don.a.aron
 ---
-The enigmatic[](https://www.instagram.com/hougofficial/) Houg kicked off 2020 for us with the launch of his single "Boy" on Valentines’ Day! Alongside his signature blend of experimentation and pop sensibilities, we’re also very proud to present a special lineup full of innovative sounds across the spectrum - from psych rock veterans[](https://www.instagram.com/wearespacedays/) Spacedays to vaporwave connoisseur[](https://www.instagram.com/don.a.a.ron/) don.a.aron, it started the new year with a night of wonderful sonic surprises.
+The enigmatic[](https://www.instagram.com/hougofficial/) Houg kicked off 2020 for us with the launch of his single "Boy" on Valentines’ Day! Alongside his signature blend of experimentation and pop sensibilities, we were very proud to present a special lineup full of innovative sounds across the spectrum - from psych rock veterans[](https://www.instagram.com/wearespacedays/) Spacedays to vaporwave connoisseur[](https://www.instagram.com/don.a.a.ron/) don.a.aron, starting the new year with a night of wonderful sonic surprises.
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1591117585/HOUG/hougborder_fp7yqe.jpg "Hougang")
