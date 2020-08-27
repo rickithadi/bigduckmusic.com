@@ -14,7 +14,7 @@ tags:
   - E-Girl
   - Satire
 ---
-## Have you been to a Forests' gig? Of course you have. 
+## Have you been to a Forests' gig? Of course you have.
 
 The people at the front are always so cool, with their Flog Gnaw flower sneakers and their oversized striped shirts.
 
@@ -42,7 +42,7 @@ She says that his combination of singing "Well you and I are quite aware you're 
 
 However, they're spending the Circuit Breaker away from each other. "It's been difficult without her," Joshua says, "I realise I'm falling, I slip when you're not around" he sings during the interview.
 
-I stay silent while he sings the entirety of [Dakota Ft. Celine Autumn](https://open.spotify.com/track/6sI0qySIFYYWvrz5TvKhEk?si=nhNadIHLTlSBBf8rU5IwJw) to her over Zoom. Ashley sing's Celine Autumn's parts - "Why can't we always stay the same". It's a 6 minute 48 second song.
+I stay silent while he sings the entirety of [Dakota Ft. Celine Autumn](https://open.spotify.com/track/6sI0qySIFYYWvrz5TvKhEk?si=nhNadIHLTlSBBf8rU5IwJw) to her over Zoom. Ashley sings Celine Autumn's parts - "Why can't we always stay the same". It's a 6 minute 48 second song.
 
 Sadly, not all Forests-conceived couples last. We talked to Jasmine, 18: "I fell in love, once or twice. I don't want to fall in love with anyone anymore," she sings. "You truly can't spell forever without over," she continues. Why does everyone I interview sing?
 
