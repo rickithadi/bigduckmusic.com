@@ -31,8 +31,6 @@ tags:
 
 ![St Vincent Feat. Yoshiki - New York](https://res.cloudinary.com/ddomozydd/image/upload/v1598674871/NewYorkYoshikiArt_bx5k2m.jpg "St Vincent Feat. Yoshiki - New York")
 
-
-
 In an unexpected collaboration between St Vincent (AKA Anne Clark) and Yoshiki of X Japan fame, the pair revisit standout track [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj?si=CGSvOAgVTBahSPu8LjIjOg) off her critically acclaimed 2017 art pop album [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e?si=1Md_PlHvTNuxjttcApiwIA) in a classical orchestral reimagining of the song.
 
 Yoshiki’s takes the idiosyncratic elements of the original song and rearranges it into an extremely befitting orchestral ballad, retaining the song’s most memorable motifs and its emotional core. In stark contrast to the simple keys, synth embellishments and driving bass drum of original, Yoshiki’s take feels more reserved and deliberate, yet a whole lot bigger, introducing pleasantly dynamic piano arrangements paired with swelling strings. Clark’s vocal performance and lyrics still impresses and resonates as well as it did those 3 years ago. An emotional tribute to the loss of David Bowie and Leonard Cohen in 2016, the song can also be interpreted as a beautiful, rousing heartbreak ballad in its own right (“I have lost a hero/ I have lost a friend/ But for you, darling/ I’d do it all again”).
@@ -80,7 +78,7 @@ Perhaps, it’s also foreshadowing. Already amongst Singapore indie rock’s lea
 
 ![Tim De Cotta - When I Met You](https://res.cloudinary.com/ddomozydd/image/upload/v1598675458/WhenIMetYouSingleArt_luqzoy.jpg "Tim De Cotta - When I Met You")
 
-Coming fresh off his first single, the funk-tinted cautionary tale of infidelity [Lying Eyes](https://open.spotify.com/track/22IAxxTQVJicDQdVV6IhFt?si=OYLCA5eUQyKYSZQvzAB-DA), When I Met You is Tim De Cotta’s second single in anticipation of his upcoming Heart Matter EP. Deceivingly simple and groovy to no end, De Cotta wears his heart on his sleeve in an ode to the love of his life, his wife Joanna.
+Coming fresh off his first single, the funk-tinted cautionary tale of infidelity [Lying Eyes](https://open.spotify.com/track/22IAxxTQVJicDQdVV6IhFt?si=OYLCA5eUQyKYSZQvzAB-DA), When I Met You is Tim De Cotta’s second single in anticipation of his upcoming Heart Matter EP. Deceivingly simple and groovy to no end, De Cotta wears his heart on his sleeve in an ode to the love of his life, his wife Joan.
 
 Starting with a contemplative guitar loop on the verse, De Cotta masterfully builds upon it before taking it to a groovy, ethereal chorus. In what almost seems like a hip-hop beatmaker’s approach, De Cotta takes advantage of the track’s minimalist structure to play with creative layers and textures as it goes along. De Cotta weaves in a touchingly earnest and endearing narrative about about love at first sight. (“When I met you/ I knew/ I just knew”)
 
