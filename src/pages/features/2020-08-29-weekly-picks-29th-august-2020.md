@@ -4,10 +4,10 @@ title: "WEEKLY PICKS: 29th August 2020"
 author: JX Soo and Isaac Yackem
 col: white
 date: 2020-08-29T04:13:41.801Z
-description: Our top picks this week - featuring a beautiful orchestral version
-  of a St Vincent ballad, minimalist guitar sketches from Subsonic Eye leader
-  Daniel Borces, and a groovy profession of love by resident soul maestro Tim De
-  Cotta.
+description: Our Top Picks this week - featuring a beautiful orchestral version
+  of a St Vincent ballad, a groovy profession of love by resident soul maestro
+  Tim De Cotta, and minimalist guitar sketches from Subsonic Eye leader Daniel
+  Borces.
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1598677399/toppicksbanner_ly2eja.jpg
@@ -21,7 +21,7 @@ tags:
   - Daniel Borces
   - Subsonic Eye
 ---
-**Our top picks this week - featuring a beautiful orchestral version of a St Vincent ballad, minimalist guitar sketches from Subsonic Eye leader Daniel Borces, and a groovy profession of love by resident soul maestro Tim De Cotta.**
+**Our Top Picks this week - featuring a beautiful orchestral version of a St Vincent ballad, a groovy profession of love by resident soul maestro Tim De Cotta, and minimalist guitar sketches from Subsonic Eye leader Daniel Borces.**
 
 # St Vincent (feat. Yoshiki)
 
@@ -42,8 +42,6 @@ With all her recent collaborations (such as production work on Sleater-Kinney’
 <iframe src="https://open.spotify.com/embed/track/5dvJCDqqOo1k2SoQuikuVq" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * **\- by Isaac Yackem**
-
-
 
 # Tim De Cotta (feat. Ghetti)
 
