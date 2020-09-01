@@ -19,7 +19,7 @@ tags:
 
 A project spearheaded by musician and producer Joshua Aaron Goh, per[sona brings a fresh brand of alternative rock to the Singaporean scene, reviving sounds pioneered by the likes of Nine Inch Nails and Radiohead.
 
-Released under Maker Records ([Bakers In Space](https://open.spotify.com/track/6wua19egcPMiAQQh9Rsidf?si=l549zbE9T0e8H7XnidCiZA)), their recent debut EP [These Algorithms Don’t Work Anymore](https://open.spotify.com/album/37Hm5JJhxyYoFMxspTSteV?si=J27PS0oPSAWqNdSW8gxwKg) is a pensive and layered exploration on the journey of overcoming self-defeat and accepting oneself. Utilising ambient layers alongside an electronically imbued rock edge, per[sona manages to set themselves apart from their peers and forge a sound that is truly their own. In the interview below, Joshua shares with us the experiences and influences culminated into what eventually became per[sona.
+Released under Maker Records ([Bakers In Space](https://open.spotify.com/track/6wua19egcPMiAQQh9Rsidf?si=l549zbE9T0e8H7XnidCiZA)), their recent debut EP [These Algorithms Don’t Work Anymore](https://open.spotify.com/album/37Hm5JJhxyYoFMxspTSteV?si=J27PS0oPSAWqNdSW8gxwKg) is a pensive and layered exploration on the journey of overcoming self-defeat and accepting oneself. Utilising ambient layers alongside an electronically imbued rock edge, per[sona manages to set themselves apart from their peers and forge an invigorating sound that is truly their own. In the interview below, Joshua shares with us the experiences and influences that culminated into what eventually became per[sona.
 
 ![per[sona - These Algorithms Don't Work Anymore](https://res.cloudinary.com/ddomozydd/image/upload/v1598932040/TheseAlgorithms_h17z8t.jpg "per[sona - These Algorithms Don't Work Anymore")
 
