@@ -41,7 +41,7 @@ per[sona came out of the idea of “How much of my true self I put out there?”
 
 There’s no real reason for it actually. I just thought it looked cool, but I guess there is a reason why it’s an open left bracket – it isn’t closed because I wanted per[sona to be something open-ended, without any confines or limits.
 
-![per[sona- Joshua Aaron Goh](https://res.cloudinary.com/ddomozydd/image/upload/v1598932678/JoshuaPersona1_hrbbwn.jpg "per[sona- Joshua Aaron Goh")
+![persona- Joshua Aaron Goh](https://res.cloudinary.com/ddomozydd/image/upload/v1598932678/JoshuaPersona1_hrbbwn.jpg "persona- Joshua Aaron Goh")
 
 ##### What does your songwriting process look like?
 
