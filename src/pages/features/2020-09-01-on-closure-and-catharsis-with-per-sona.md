@@ -35,7 +35,7 @@ That’s how I started per[sona, with the idea and intention of just writing and
 
 ##### Why “per[sona"?
 
-per[sona came out of the idea of “How much of my true self I put out there?”. Be it on social media or how I portray myself, I wanted to be as real as I could be, but I also wanted to create a persona at the same time, to create some separationbetween how I was and the work that I was making. The whole tension that came from that evolved and gave rise to the name.
+per[sona came out of the idea of “How much of my true self I put out there?”. Be it on social media or how I portray myself, I wanted to be as real as I could be, but I also wanted to create a persona at the same time, to create some separation between how I was and the work that I was making. The whole tension that came from that evolved and gave rise to the name.
 
 ##### And the square bracket?
 
@@ -85,7 +85,7 @@ I wanted the stitches to add an organic element to an otherwise flat artwork. As
 
 **The artwork from per[sona's first four singles.**
 
-##### Being the main creative force behind per[sona, what was the collaborative process like with your secessionists and producer Leonard Soosay?
+##### Being the main creative force behind per[sona, what was the collaborative process like with your sessionists and producer Leonard Soosay?
 
 I made all of the initial demos myself, but when you work on your own, there’s only so much you can do because you’re limited by your own abilities. When we went to the studio, we changed parts or chords on the go as we were recording. Shawn, my bassist, added some notes and changed a few chords along the way, which really helped to elevate some of the songs. Leonard really helped a lot with the vocals, fine-tuning some melodies with me, and he had quite a lot of input with some of the synth sounds too.
 
