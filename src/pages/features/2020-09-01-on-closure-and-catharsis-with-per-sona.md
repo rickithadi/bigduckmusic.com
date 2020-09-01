@@ -51,7 +51,7 @@ It always starts off with me finding sounds. Writing this EP, I’ve always had 
 
 ##### If you had to pick, which of the 5 tracks off this EP These Algorithms Don't Work Anymore are you the most proud of?
 
-That’s a tough question. I think Up/Away is one – it was a song that I took from a previous project and it meant so much to me that I couldn’t throw it away. It’s definitely the one I’m proudest of lyrically, especially since I’ve never considered myself a wordsmith or a particularly strong lyricist. But musically and sonically, I think Splinters is the song I’m the most proud of. It’s just musically more exciting, with polyrhythms and all the good stuff that I’m a sucker for.
+That’s a tough question. I think [Up/Away](https://open.spotify.com/track/5EDxncGiOFMakL0xWjZTQq?si=PoTPiJI5S4aJKL_aZuf0yw) is one – it was a song that I took from a previous project and it meant so much to me that I couldn’t throw it away. It’s definitely the one I’m proudest of lyrically, especially since I’ve never considered myself a wordsmith or a particularly strong lyricist. But musically and sonically, I think [Splinters](https://open.spotify.com/track/3NDvRZmk1feP6TXbeQ3MR1?si=VokVeQpeRaizUetD_6TsMA) is the song I’m the most proud of. It’s just musically more exciting, with polyrhythms and all the good stuff that I’m a sucker for.
 
 ##### Your songs mostly deal with complex yet earnest emotions in a very cathartic manner, and to me they always seem to end on a hopeful note. Why is that?
 
