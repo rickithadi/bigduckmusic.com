@@ -57,7 +57,7 @@ I guess all artists write out of pain. Sadly, pain is a great way to inspire you
 
 My take is that real life is full of shit, but it doesn’t always have to be like that. There are times where it’s gonna be like shit – no one can avoid those times, but it’s important to look out for the times where it’s not. That’s why I frame my songs that way.
 
-![per[sona performing](https://res.cloudinary.com/ddomozydd/image/upload/v1598934213/personaperforming_f93uew.jpg "per[sona performing")
+![persona performing](https://res.cloudinary.com/ddomozydd/image/upload/v1598934213/personaperforming_f93uew.jpg "persona performing")
 
 **per[sona playing at Houg's ["Boy" Single Launch](https://bigduckmusic.com/gigs/boy-single-launch/).** 
 
@@ -79,7 +79,7 @@ I wanted people to try and collaborate just from listening to my music and integ
 
 I wanted the stitches to add an organic element to an otherwise flat artwork. As you realise, the artwork also gets darker with each single, to show a journey and a contrast leading up to the EP.
 
-![Artwork of per[sona's singles](https://res.cloudinary.com/ddomozydd/image/upload/v1598932803/109512742_760179831384776_4425138756510097607_o_phbgnp.jpg "Artwork of per[sona's singles")
+![Artwork of persona's singles](https://res.cloudinary.com/ddomozydd/image/upload/v1598932803/109512742_760179831384776_4425138756510097607_o_phbgnp.jpg "Artwork of persona's singles")
 
 **The artwork from per[sona's first four singles.**
 
