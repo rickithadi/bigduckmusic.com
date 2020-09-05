@@ -30,9 +30,9 @@ tags:
 
 ![John Frusciante - Maya](https://res.cloudinary.com/ddomozydd/image/upload/v1599295664/FruscianteMaya600_pug86x.jpg "John Frusciante - Maya")
 
-Red Hot Chili Peppers’ John Frusciante has dropped the intense, hard-hitting electronic banger “Amethblowl” as the first single in anticipation of his upcoming solo album “Maya” which will be released this coming October.
+Red Hot Chili Peppers’ John Frusciante has dropped the intense, hard-hitting electronic banger Amethblowl as the first single in anticipation of his upcoming solo album “Maya” which will be released this coming October.
 
-“Amethblowl” progresses from distorted, modulated drums over ominous keys in the first 2 minutes before going into full-on Drum & Bass madness with rapid breakbeats, pulsating 808s, chopped up vocal samples, and step-sequenced synths masterfully arranged by Frusciante as the track accelerates to the finish line.
+Amethblowl progresses from distorted, modulated drums over ominous keys in the first 2 minutes before going into full-on Drum & Bass madness with rapid breakbeats, pulsating 808s, chopped up vocal samples, and step-sequenced synths masterfully arranged by Frusciante as the track accelerates to the finish line.
 
 Below is an excerpt from Frusciante’s bandcamp page that provides details on the album’s intent and influences.
 
@@ -56,7 +56,7 @@ You can read more about and pre-order the album [here](https://johnfrusciante.ba
 
 ![Kaye - Indian Italo](https://res.cloudinary.com/ddomozydd/image/upload/v1599295860/KayeIndian600_iksxod.jpg "Kaye - Indian Italo")
 
-Kaye from esteemed alternative electronic label [Darker Than Wax](https://www.darkerthanwax.com/) had just dropped Indian Italo, a short remix that takes Indian classics and reimagines them in an Italo Disco context. 
+Kaye from esteemed alternative electronic label [Darker Than Wax](https://www.darkerthanwax.com/) has just dropped Indian Italo, a short remix album that takes Indian classics and reimagines them in an Italo Disco context. 
 
 A remix of the [1987 Tamil classic of the same name](https://youtu.be/pB9WwDXxh0o), Yeh Unnai Thane is a joyride from start to finish. Infused with a undeniable groove whilst retaining a theatrical quality, Kaye takes the original Indian song and flips it into an Italo Disco extravaganza. Retaining the spirit and character of the original, elements such as the back-forth riffing segments the keys and guitars present from the original are tastefully enhanced with soaring classic synths and gnarly synth bass, making for what would definitely be a welcome addition for the dancefloor.
 
