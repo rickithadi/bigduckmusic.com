@@ -38,7 +38,7 @@ Below is an excerpt from Frusciante’s bandcamp page that provides details on t
 
 “The record is dedicated to his cat Maya who recently passed away, a fellow traveller in his otherwise solitary music making sessions. He says "Maya was with me as I made music for 15 years, so I wanted to name it after her. She loved music, and with such a personal title, it didn't seem right to call myself Trickfinger, somehow, so it's by John Frusciante."
 
-'Maya' is inspired by his favourite music: '91 to'96 UK breakbeat hardcore and jungle. It’s a varied and personal take with sophisticated, authentic production balanced against John’s acute sense of melody, an inspired blending of machines and samples infused with a joyful energy.”
+'Maya' is inspired by his favourite music: '91 to '96 UK breakbeat hardcore and jungle. It’s a varied and personal take with sophisticated, authentic production balanced against John’s acute sense of melody, an inspired blending of machines and samples infused with a joyful energy.”
 
 You can read more about and pre-order the album [here](https://johnfrusciante.bandcamp.com/album/maya).
 
