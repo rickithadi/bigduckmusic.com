@@ -30,7 +30,7 @@ tags:
 
 ![John Frusciante - Maya](https://res.cloudinary.com/ddomozydd/image/upload/v1599295664/FruscianteMaya600_pug86x.jpg "John Frusciante - Maya")
 
-Red Hot Chili Peppers’ John Frusciante has dropped the intense, hard-hitting electronic banger Amethblowl as the first single in anticipation of his upcoming solo album “Maya” which will be released this coming October.
+Red Hot Chili Peppers’ John Frusciante has dropped the intense, hard-hitting electronic banger Amethblowl as the first single in anticipation of his upcoming solo album Maya which will be released this coming October.
 
 Amethblowl progresses from distorted, modulated drums over ominous keys in the first 2 minutes before going into full-on Drum & Bass madness with rapid breakbeats, pulsating 808s, chopped up vocal samples, and step-sequenced synths masterfully arranged by Frusciante as the track accelerates to the finish line.
 
