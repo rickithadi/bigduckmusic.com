@@ -43,7 +43,7 @@ There’s no real reason for it actually. I just thought it looked cool, but I g
 
 ![persona- Joshua Aaron Goh](https://res.cloudinary.com/ddomozydd/image/upload/v1598940778/PERSONA5_nld7xh.jpg "persona- Joshua Aaron Goh")
 
-**per[sona is the brainchild of musician and producer Joshua Aaron Goh.**
+**per[sona is the brainchild of musician and producer Joshua Aaron Goh. Photo: JX Soo.**
 
 ##### What does your songwriting process look like?
 
@@ -61,7 +61,7 @@ My take is that real life is full of shit, but it doesn’t always have to be li
 
 ![persona performing](https://res.cloudinary.com/ddomozydd/image/upload/v1598934213/personaperforming_f93uew.jpg "persona performing")
 
-**per[sona playing at Houg's ["Boy" Single Launch](https://bigduckmusic.com/gigs/boy-single-launch/).** 
+**per[sona playing at Houg's ["Boy" Single Launch](https://bigduckmusic.com/gigs/boy-single-launch/). Photo: JX Soo**
 
 ##### From the likes of "Version" or "Come Above It" we can tell you’ve been through quite a fair bit, having matured as you’ve faced these struggles. How much of the songwriting process played a part in helping you heal and/or come to terms with yourself?
 
