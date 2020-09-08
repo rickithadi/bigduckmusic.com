@@ -43,7 +43,7 @@ People like Ek, who don’t make “content” but direct which, where and how �
 
 Looking at [**@matdryhurst’s** thread](https://twitter.com/matdryhurst/status/1288820336318984194) on this subject is useful. He expands briefly on how companies like Spotify game the system to allow for those who are investing in them more visibility through what he calls “algorithmic populism”. This demonstrates how, whatever Ek says about this future of music making, is essentially still the emperor’s new clothes. The emperor though is now a cyborg with machine learning processes.
 
-I am not a business person when it comes to music, I only write and perform them when the opportunity arises, I live off commissions and performances and just hope to slowly reach out to new audiences who might be interested in the work I do. I don't subscribe to being part of Spotify’s ecology or future they are creating because it is nothing but horror and toxic to me.
+I am not a business person when it comes to music, I only write and perform them when the opportunity arises, I live off commissions and performances and just hope to slowly reach out to new audiences who might be interested in the work I do. I don't subscribe to being part of Spotify’s ecology or future they are creating because it is nothing but toxic horror to me.
 
 ![Daniel Ek - Spotify CEO](https://res.cloudinary.com/ddomozydd/image/upload/v1599500063/2018_04_06_43538_1522997957._large_tnarex.jpg "Daniel Ek - Spotify CEO")
 
