@@ -29,7 +29,7 @@ Bani Haykal experiments with text and music. He has collaborated, exhibited, per
 
 ##### First off, a simple, How are you?
 
-Not dead yet. I guess generally everyone alive still is, but i’ve been wanting to acknowledge this imminent outcome more these days as a reminder to myself that it’s not over yet
+Not dead yet. I guess generally everyone alive still is, but I’ve been wanting to acknowledge this imminent outcome more these days as a reminder to myself that it’s not over yet
 
 ##### COVID-19 has been unprecedented in how it has affected life here and around the world, and arts and culture here have been affected. How have you been handling it so far?
 
