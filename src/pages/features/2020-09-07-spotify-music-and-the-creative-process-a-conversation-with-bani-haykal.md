@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: "Spotify, Music, and the Creative Process: A Conversation with Bani Haykal"
-author: Nash
-col: white
+author: Nashrudin
+col: black
 date: 2020-09-07T17:08:51.852Z
 description: Leader of influential local experimental band, B-Quartet, poet,
   composer and all-round artist – we sat down for an interview with Bani Haykal
