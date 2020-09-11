@@ -21,7 +21,7 @@ tags:
   - Murphy Radio
   - Indonesia
 ---
-A special rendition of our Top Picks this week curated by Russell Seow of indie-math outfit Woes - featuring a variety of the freshest  math-rock out there now including Look Mexico, Good Game, and Murphy Radio!
+**A special rendition of our Top Picks this week curated by Russell Seow of indie-math outfit Woes - featuring a variety of the freshest  math-rock out there now including Look Mexico, Good Game, and Murphy Radio!**
 
 # Look Mexico
 
