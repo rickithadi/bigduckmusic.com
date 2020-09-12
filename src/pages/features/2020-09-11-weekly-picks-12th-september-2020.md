@@ -5,9 +5,8 @@ author: Russell Seow
 col: white
 date: 2020-09-11T19:04:00.831Z
 description: A special rendition of our Top Picks this week curated by Russell
-  Seow of indie-math outfit Woes - featuring a variety of the
-  freshest  math-rock out there now including Look Mexico, Good Game, and Murphy
-  Radio!
+  Seow of indie-math outfit Woes - featuring a variety of the freshest math-rock
+  out there now including Look Mexico, Good Game, and Murphy Radio!
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1599852056/banner12sept_s06np8.jpg
@@ -21,7 +20,7 @@ tags:
   - Murphy Radio
   - Indonesia
 ---
-**A special rendition of our Top Picks this week curated by Russell Seow of indie-math outfit Woes - featuring a variety of the freshest  math-rock out there now including Look Mexico, Good Game, and Murphy Radio!**
+**A special rendition of our Top Picks this week curated by Russell Seow of indie-math outfit Woes - featuring a variety of the freshest math-rock out there now including Look Mexico, Good Game, and Murphy Radio!**
 
 # Look Mexico
 
@@ -33,7 +32,7 @@ tags:
 
 Look Mexico is a band that I have been super eager to talk about. When I chanced upon their latest 2016 album, Uniola a few years back, I was treated to a glorious mish-mash of math rock/emo that made me instantly fall in love. This American band from Tallahassee brings a unique take on math rock that not so much focuses on the technicality, but on the soul that constitutes each track. Guitar lines and musical ideas flow seamlessly from section to section, creating an elaborate carving of what this genre of music is at its core. Emotions, skill and heart.
 
-Their sound has matured since their earlier albums in which they were still finding their sound, with mix on Uniola being a tad more commercial sounding compared to albums such as their 2010 release, [To Bed To Battle](https://open.spotify.com/album/3IxI62HxsEewtjR9vg4nkd?si=4XES-jetRmyPb18N3PmskA). The vocals possess a distinct timbre, very much reminiscent of the Arctic Monkeys’ Alex Turner.
+Their sound has matured since their earlier albums in which they were still finding their sound, with mix on Uniola being a tad more accessible compared to albums such as their 2010 release, [To Bed To Battle](https://open.spotify.com/album/3IxI62HxsEewtjR9vg4nkd?si=4XES-jetRmyPb18N3PmskA). The vocals possess a distinct timbre, very much reminiscent of the Arctic Monkeys’ Alex Turner.
 
 The lyrics of *Ride or Die, Remember?* are a poetic cry for help from a man longing for what could have been, waiting for the “last time bomb” to explode. Damage to the heart is inevitable. All this is enveloped in dream-like, reverb-filled guitar lines and instrumentals.
 
