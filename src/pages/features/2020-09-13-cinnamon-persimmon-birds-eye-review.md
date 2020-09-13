@@ -42,8 +42,6 @@ Overall, *Bird’s Eye* barely scratches the surface of what Cinnamon Persimmon 
 
 **Cinnamon Persimmon. Photo: Wen Xin.**
 
-
-
 **Drop Cinnamon Persimmon a like on [Facebook](https://www.facebook.com/cinnamonpersimmon/) and follow them on [Instagram](https://www.instagram.com/cinnamonpersimmon/).**
 
 **Listen to *Bird's Eye* here:**
