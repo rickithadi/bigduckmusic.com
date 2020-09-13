@@ -32,11 +32,17 @@ Penultimate track *Reverse This Or Cancel* is a pretty, introspective song and a
 
 Closing track *Omelette Du Hommage* is the best of the bunch, being the most exciting and dynamic track on Bird’s Eye. With an almost grunge-esque chord progression on the verse that explodes into a banging refrain (“Fold me in half I’m a paper crane for your pocket/ Afternoon design I’m a summer flame for your rocket.”). The guitars and keys vary in building up and stripping away dynamically as the track chugs along while the rhythm section holds it all down, keeping it a refreshing listen. The band finally sticks the landing in earning the self-proclamation of their music being a “cerebral bop” in *Omelette Du Hommage’s* excellent bridge. Its dramatic, tight bridge builds with syncopated drums and wobbly affected guitars eventually progress into rousing guitar riffing and a fuzz bass that pleasantly rounds up the track’s frequencies. This section however still suffers from the obnoxious keyboards present, in a similar manner to opening track *Be Your Animal*. *Omelette Du Hommage* is a solid track in its own right and hopefully a sign of better things to come for Cinnamon Persimmon.
 
+![Bird's Eye - Cinnamon Persimmon](https://res.cloudinary.com/ddomozydd/image/upload/v1599987489/600x600bb_rvvx9d.jpg "Bird's Eye - Cinnamon Persimmon")
+
+**Bird's Eye**
+
+Overall, *Bird’s Eye* barely scratches the surface of what Cinnamon Persimmon is capable of despite its small flashes of brilliance and potential, but I’m confident that moving forward the band will be able to refine their sound and am still excited by the prospect of hearing a sophomore EP or full length album.
+
 ![Cinnamon Persimmon ](https://res.cloudinary.com/ddomozydd/image/upload/v1599986324/CinnamonPersimmon_pszwzs.jpg "Cinnamon Persimmon ")
 
 **Cinnamon Persimmon. Photo: Wen Xin.**
 
-Overall, *Bird’s Eye* barely scratches the surface of what Cinnamon Persimmon is capable of despite its small flashes of brilliance and potential, but I’m confident that moving forward the band will be able to refine their sound and am still excited by the prospect of hearing a sophomore EP or full length album.
+
 
 **Drop Cinnamon Persimmon a like on [Facebook](https://www.facebook.com/cinnamonpersimmon/) and follow them on [Instagram](https://www.instagram.com/cinnamonpersimmon/).**
 
