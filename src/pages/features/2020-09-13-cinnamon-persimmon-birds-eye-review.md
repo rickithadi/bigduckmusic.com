@@ -38,7 +38,7 @@ Closing track *Omelette Du Hommage* is the best of the bunch, being the most exc
 
 Overall, *Bird’s Eye* barely scratches the surface of what Cinnamon Persimmon is capable of despite its small flashes of brilliance and potential, but I’m confident that moving forward the band will be able to refine their sound and am still excited by the prospect of hearing a sophomore EP or full length album.
 
-![Cinnamon Persimmon ](https://res.cloudinary.com/ddomozydd/image/upload/v1599986324/CinnamonPersimmon_pszwzs.jpg "Cinnamon Persimmon ")
+![ Cinnamon Persimmon](https://res.cloudinary.com/ddomozydd/image/upload/v1599986324/CinnamonPersimmon_pszwzs.jpg "Cinnamon Persimmon")
 
 **Cinnamon Persimmon. Photo: Wen Xin.**
 
