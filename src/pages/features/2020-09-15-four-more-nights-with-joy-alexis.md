@@ -64,7 +64,7 @@ Arguably my favourite remix of the bunch, Halal Sol yet again proves himself to 
 
 **Abouritz**
 
-Abouritz’s remix is the closet to the original song in terms of its vibe, but also commendably takes some of the most interesting risks in terms of its ideas. Of note are its intro that consists of a sample of Joy’s vocals, chopped up and pitch-shifted – setting the track’s moody atmosphere, and the outro only adds to the melancholy, with its swelling strings and simple, emotional piano chords. These elements certainly stand on its own, but unfortunately merely feel tacked on in the context of the track, rather than coming off as fully integrated.
+Abouritz’s remix is the closest to the original song in terms of its vibe, but also commendably takes some of the most interesting risks in terms of its ideas. Of note are its intro that consists of a sample of Joy’s vocals, chopped up and pitch-shifted – setting the track’s moody atmosphere, and the outro only adds to the melancholy, with its swelling strings and simple, emotional piano chords. These elements certainly stand on its own, but unfortunately merely feel tacked on in the context of the track, rather than coming off as fully integrated.
 
 <iframe src="https://open.spotify.com/embed/track/5pY98v3MzgBU9KIPGNWhWC" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
