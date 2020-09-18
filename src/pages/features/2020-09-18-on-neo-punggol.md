@@ -69,7 +69,7 @@ But who are the enemies that *Neo Punggol’s* voices rage against? Chua’s fra
 
 Lowering the curtain on the dizzying beatscapes, Chua closes the album with “Empathy” – a beatless harsh noise blowout. It’s metaphoric – for the listener, it’s a violent palette cleanser, obliterating previous conceptions through brute force; for Chua’s voices on Smokescreen, the noise renders them formless and opaque, their concerns and enemies alike. Forcibly shut down by overwhelming forces, the mob’s rage evaporates into senseless mist, ostensibly for the sake of a better world. Constructing our utopias, is violence ultimately inescapable?
 
-Chua gives no answers – only smokescreens. As the track grinds to a halt, *Neo Punggol’s* final scene gives just mere glimpses at what lies beyond: more information, and the scene of an impending kill.
+Chua gives no answers – only smokescreens. Grinding to a halt, *Neo Punggol’s* final scene gives just mere glimpses at what lies beyond: more information, and the scene of an impending kill.
 
 \-
 
