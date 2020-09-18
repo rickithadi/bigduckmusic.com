@@ -17,7 +17,7 @@ tags:
   - Ujikaji Records
   - Singapore
 ---
-## The lead single from the Singaporean sound artist’s return is a thrilling audiovisual collage that serves as a commentary on the global information war, and a reflection on our over-saturated world.
+## The lead single from the Singaporean sound artist’s return is a thrilling audiovisual collage that serves as commentary to the global information war we live in – a reflection of our over-saturated world.
 
 \-
 
@@ -40,8 +40,6 @@ Chua proclaims his work as “contemplative prayers”; *Smokescreen’s* prayer
 .
 
 On Chua’s [Bandcamp page](https://georgechua.bandcamp.com/), a manifesto-like footnote reads: “no genre, no commercial potential, military use only.” Indeed, a martial atmosphere radiates throughout *Neo Punggol*. Paired with a spellbinding video directed by mixed media artist Yeyoon Avis Ann, the track anchors itself contextually in the language of violence.With its abrupt shifts in tempo, its rhythms pulsate and spill over one another – much like the information war it reflects, its audiovisual density creates a sense of relentless overload, grinding down on the listener.
-
-
 
 <div class="container cunt"><iframe class="wrapped-iframe" width="100%" height="500vh" src="https://www.youtube.com/embed/https://youtu.be/cQXIUyzVsKk""frameborder="0" allowfullscreen></iframe></div>
 
