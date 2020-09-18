@@ -17,7 +17,7 @@ tags:
   - Ujikaji Records
   - Singapore
 ---
-## The lead single from the Singaporean sound artist’s return is a thrilling audiovisual collage that serves as commentary to the global information war we live in – a reflection of our over-saturated world.
+## The lead single from the Singaporean sound artist’s return is a thrilling audiovisual collage that serves as commentary for the global information war we live in – a reflection of our over-saturated world.
 
 \-
 
