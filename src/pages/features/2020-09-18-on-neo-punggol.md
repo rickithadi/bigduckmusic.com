@@ -19,7 +19,7 @@ tags:
 ---
 ## The lead single from the Singaporean sound artist’s return is a thrilling audiovisual collage that serves as a commentary on the global information war, and a reflection on our over-saturated world.
 
-Active since the late nineties, George Chua is nothing short of a pioneer in Singapore’s experimental music landscape. Upholding an uncompromising, genreless approach to his experiments, Chua has dedicated himself to psychedelic exercises in sound for over 20 years, producing an oeuvre spanning from [glistening, progressive ambient](https://georgechua.bandcamp.com/album/evidence-of-things-not-seen) to aggressive post-techno beatwork. Accompanying his gradual return to live sets, we find ourselves with *Smokescreen*, his first release coming off a near-decade absence in original work – of which *Neo Punggol* serves as its first salvo.
+Active since the late nineties, George Chua is nothing short of a pioneer in Singapore’s experimental music landscape. Upholding an uncompromising, genreless approach to his experiments, Chua has dedicated himself to psychedelic exercises in sound for over 20 years, producing an oeuvre spanning from [glistening, progressive ambient](https://georgechua.bandcamp.com/album/evidence-of-things-not-seen) to aggressive post-techno beatwork. Accompanying his gradual return to live sets, we find ourselves with *Smokescreen*, his first release coming off a near-decade absence in original material – of which *Neo Punggol* serves as its first salvo.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1405028734/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://georgechua.bandcamp.com/track/-">独孤九剑 by George Chua</a></iframe>
 
@@ -41,7 +41,7 @@ But just as utopia seemingly establishes itself, the floodgates to chaos reopen.
 
 ![George Chua](https://res.cloudinary.com/ddomozydd/image/upload/v1600418217/GeorgeChua_qsdcg2.jpg "George Chua")
 
-**George Chua. Photo: Discogs**
+**George Chua in performance. Photo: Discogs**
 
 But who are the enemies that *Neo Punggol’s* voices rage against? Chua’s fragmented voices try to tell the tale. “Listen,” one voice calls out; “Everything,” says another. Perhaps everything is the answer – lying not in the details, but its form, as an overwhelming audiovisual mass. Juxtaposed with Ann’s clashing visions of utopian fantasy and dystopian chaos, Chua’s fixations with Paul Virilio’s writings seemingly ring through Neo Punggol’s structure. As Chua’s sonics break down and reconstruct in cycles of violent disintegration, the repeating structure and cycle becomes *Neo Punggol’s* subject itself: with advancement necessarily comes potential for derailment – success coexisting with struggle, peace coexisting with pain, virtue coexisting with violence. It’s a fitting metaphor for Asia’s path – having begun with social demonstration and militaristic violence, to reaching towards futuristic metropolises and information overload. Under a global information war, the excess never ends.
 
@@ -51,7 +51,9 @@ Lowering the curtain on the dizzying beatscapes, Chua closes the album with “E
 
 Chua gives no answers – only smokescreens. As the track grinds to a halt, *Neo Punggol’s* final scene gives just mere glimpses at what lies beyond: more information, and the scene of an impending kill.
 
-Neo Punggol is the lead single from Smokescreen, out now on Ujikaji Records. Along with its digital release, the album will be issued on limited vinyl, packaged with a deluxe spot UV cover. Buy it over at their [Bandcamp page](https://ujikaji.bandcamp.com/album/smokescreen).
+\-
+
+*Neo Punggol is the lead single from Smokescreen, out now on Ujikaji Records. Along with its digital release, the album will be issued on limited vinyl, packaged with a deluxe spot UV cover. Buy it over at their [Bandcamp page](https://ujikaji.bandcamp.com/album/smokescreen).*
 
 **Listen to Smokescreen here:**
 
