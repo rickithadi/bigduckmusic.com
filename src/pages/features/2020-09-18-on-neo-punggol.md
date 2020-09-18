@@ -63,6 +63,8 @@ But just as utopia seemingly establishes itself, the floodgates to chaos reopen.
 
 But who are the enemies that *Neo Punggol’s* voices rage against? Chua’s fragmented voices try to tell the tale. “Listen,” one voice calls out; “Everything,” says another. Perhaps everything is the answer – lying not in the details, but its form, as an overwhelming audiovisual mass. Juxtaposed with Ann’s clashing visions of utopian fantasy and dystopian chaos, Chua’s fixations with Paul Virilio’s writings seemingly ring through Neo Punggol’s structure. As Chua’s sonics break down and reconstruct in cycles of violent disintegration, the repeating structure and cycle becomes *Neo Punggol’s* subject itself: with advancement necessarily comes potential for derailment – success coexisting with struggle, peace coexisting with pain, virtue coexisting with violence. It’s a fitting metaphor for Asia’s path – having begun with social demonstration and militaristic violence, to reaching towards futuristic metropolises and information overload. Under a global information war, the excess never ends.
 
+.
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3794831577/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1714207127/transparent=true/" seamless><a href="https://ujikaji.bandcamp.com/album/smokescreen">Smokescreen by George Chua</a></iframe>
 
 .
