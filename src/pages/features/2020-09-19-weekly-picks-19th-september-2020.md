@@ -4,9 +4,9 @@ title: "WEEKLY PICKS: 19th September 2020"
 author: JX Soo and Isaac Yackem
 col: white
 date: 2020-09-19T01:10:10.911Z
-description: Our top picks this week - an emotional hip-hop ballad from Hidemen
-  rapper Wira Munir, a beautiful collaboration between Fauxe and Shye, and
-  blistering beatscapes from George Chua!
+description: Our top picks this week - featuring an emotional hip-hop ballad
+  from Hidemen rapper Wira Munir, a beautiful collaboration between Fauxe and
+  Shye, and blistering beatscapes from George Chua!
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1600478332/PicksBanner_sgrgmp.jpg
@@ -20,7 +20,7 @@ tags:
   - George Chua
   - Ujikaji Records
 ---
-**Our top picks this week - an emotional hip-hop ballad from Hidemen rapper Wira Munir, a beautiful collaboration between Fauxe and Shye, and blistering beatscapes from George Chua!**
+**Our top picks this week - featuring an emotional hip-hop ballad from Hidemen rapper Wira Munir, a beautiful collaboration between Fauxe and Shye, and blistering beatscapes from George Chua!**
 
 # Wira Munir
 
