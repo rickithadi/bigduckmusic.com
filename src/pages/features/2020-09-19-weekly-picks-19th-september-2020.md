@@ -20,7 +20,7 @@ tags:
   - George Chua
   - Ujikaji Records
 ---
-**Our Top Picks this week - featuring hard-hitting Jungle Drum & Bass from Red Hot Chili Peppers guitarist John Frusciante, an Italo disco remix of a Tamil classic by Kaye, and an exhilarating experimental electronic track from Isyraf.**
+**Our top picks this week - an emotional hip-hop ballad from Hidemen rapper Wira Munir, a beautiful collaboration between Fauxe and Shye, and blistering beatscapes from George Chua!**
 
 # Wira Munir
 
