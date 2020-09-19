@@ -34,7 +34,7 @@ tags:
 
 Wira Munir from rap collective [Hidemen](https://open.spotify.com/album/4OvuBtLRwr541XVDaBOJ8c?si=PatrYZr4SX2GrGOn63pwjQ) comes through with an emotive solo effort about unrequited love on *it’s 12:45, where are you?.* Munir wears his heart on his sleeve lyrically both in his melodious singing and competent rapping, where he longs to be the object of affection of a girl he admires. Instrumentally, the track serves the intent of the song well with its sparse keys, percussive beats, and ambient pads all setting the mood.
 
-Munir acknowledges that he knows that he isn’t the man of choice as he sings of still being there regardless (“I’m not the one you think of, as you run your fingers down/ I know I’m not the one you’d try, but I’d pull up if you dial”) and switches it up as he raps on a verse of a fantasy in which he gets what he wants (Just us together/ No view but the sun/ I hope you really think that’d be fun/ and we ride on our feelings/ we write down our feelings”).
+Munir acknowledges that he knows that he isn’t the man of choice as he sings of still being there regardless (“I’m not the one you think of, as you run your fingers down/ I know I’m not the one you’d try, but I’d pull up if you dial”) and switches it up as he raps on a verse of a fantasy in which he gets what he wants ("Just us together/ No view but the sun/ I hope you really think that’d be fun/ And we ride on our feelings/ We write down our feelings”).
 
 *it’s 12:45, where are you?* is a track that I feel would fly by the radars of many but is still well worth a listen, in particular for how Munir paints his image of longing through his lyrics.
 
