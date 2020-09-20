@@ -15,101 +15,95 @@ class BlogRollF extends React.Component {
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
-    console.log('number', posts);
+    let efs = posts.filter(({node: p}) => p.frontmatter.category === 'feature');
+
+    console.log('fets', efs);
     return (
       <div>
         {posts && (
           <div className="columns is-multiline ">
             {!this.state.isMobile
-              ? posts.slice(0, 8).map(({node: post}) => {
-                  if (post.frontmatter.category === 'feature') {
-                    console.log(post);
-                    return (
-                      <div
-                        className="is-parent column is-3 "
-                        key={post.id}
-                        style={{height: '100%'}}>
-                        <div class="card">
-                          <div class="card-image">
-                            {post.frontmatter.category && (
-                              <span className="taggy bike is-pulled-right">
-                                {post.frontmatter.category}
-                              </span>
-                            )}
+              ? efs.slice(0, 8).map(({node: post}) => {
+                  return (
+                    <div
+                      className="is-parent column is-3 "
+                      key={post.id}
+                      style={{height: '100%'}}>
+                      <div class="card">
+                        <div class="card-image">
+                          {post.frontmatter.category && (
+                            <span className="taggy bike is-pulled-right">
+                              {post.frontmatter.category}
+                            </span>
+                          )}
 
-                            <figure class="image is-4by3">
-                              <img
-                                //src="https://bulma.io/images/placeholders/1280x960.png"
-                                src={post.frontmatter.dispImage}
-                                alt="Placeholder image"
-                              />
-                            </figure>
-                          </div>
-                          <Link
-                            to={post.fields.slug}
-                            style={{paddingTop: '15px', color: 'inherit'}}>
-                            <div class="container" style={{height: '100%'}}>
-                              <article className="blog-list-item tile is-child">
-                                <div className="columns is-mobile">
-                                  <p className="top">
-                                    {post.frontmatter.title}
-                                  </p>
-                                </div>
-                                <div className="columns is-mobile">
-                                  <p className="bike">"{post.excerpt}"</p>
-                                </div>
-                              </article>
-                            </div>
-                          </Link>
-                          <p className="biker">{post.frontmatter.date}</p>
+                          <figure class="image is-4by3">
+                            <img
+                              //src="https://bulma.io/images/placeholders/1280x960.png"
+                              src={post.frontmatter.dispImage}
+                              alt="Placeholder image"
+                            />
+                          </figure>
                         </div>
+                        <Link
+                          to={post.fields.slug}
+                          style={{paddingTop: '15px', color: 'inherit'}}>
+                          <div class="container" style={{height: '100%'}}>
+                            <article className="blog-list-item tile is-child">
+                              <div className="columns is-mobile">
+                                <p className="top">{post.frontmatter.title}</p>
+                              </div>
+                              <div className="columns is-mobile">
+                                <p className="bike">"{post.excerpt}"</p>
+                              </div>
+                            </article>
+                          </div>
+                        </Link>
+                        <p className="biker">{post.frontmatter.date}</p>
                       </div>
-                    );
-                  }
+                    </div>
+                  );
                 })
-              : posts.slice(0, 4).map(({node: post}) => {
-                  if (post.frontmatter.category === 'feature') {
-                    console.log(post);
-                    return (
-                      <div
-                        className="is-parent column is-3 "
-                        key={post.id}
-                        style={{height: '100%'}}>
-                        <div class="card">
-                          <div class="card-image">
-                            {post.frontmatter.category && (
-                    <span className="taggy bike is-pulled-right"style={{marginBottom:'-40px'}}>
-                                {post.frontmatter.category}
-                              </span>
-                            )}
+              : efs.slice(0, 4).map(({node: post}) => {
+                  return (
+                    <div
+                      className="is-parent column is-3 "
+                      key={post.id}
+                      style={{height: '100%'}}>
+                      <div class="card">
+                        <div class="card-image">
+                          {post.frontmatter.category && (
+                            <span className="taggy bike is-pulled-right">
+                              {post.frontmatter.category}
+                            </span>
+                          )}
 
-                              <img
-                                //src="https://bulma.io/images/placeholders/1280x960.png"
-                                src={post.frontmatter.dispImage}
-                                alt="Placeholder image"
-                              />
-                          </div>
-                          <Link
-                            to={post.fields.slug}
-                            style={{paddingTop: '15px', color: 'inherit'}}>
-                            <div class="container" style={{height: '100%'}}>
-                              <article className="blog-list-item tile is-child">
-                                <div className="columns is-mobile">
-                                  <p className="top">
-                                    {post.frontmatter.title}
-                                  </p>
-                                </div>
-                                <div className="columns is-mobile">
-                                  <p className="bike">"{post.excerpt}"</p>
-                                </div>
-                              </article>
-                            </div>
-                          </Link>
-                          <p className="biker">{post.frontmatter.date}</p>
+                          <figure class="image is-4by3">
+                            <img
+                              //src="https://bulma.io/images/placeholders/1280x960.png"
+                              src={post.frontmatter.dispImage}
+                              alt="Placeholder image"
+                            />
+                          </figure>
                         </div>
+                        <Link
+                          to={post.fields.slug}
+                          style={{paddingTop: '15px', color: 'inherit'}}>
+                          <div class="container" style={{height: '100%'}}>
+                            <article className="blog-list-item tile is-child">
+                              <div className="columns is-mobile">
+                                <p className="top">{post.frontmatter.title}</p>
+                              </div>
+                              <div className="columns is-mobile">
+                                <p className="bike">"{post.excerpt}"</p>
+                              </div>
+                            </article>
+                          </div>
+                        </Link>
+                        <p className="biker">{post.frontmatter.date}</p>
                       </div>
-                    );
-                  }
+                    </div>
+                  );
                 })}
           </div>
         )}
