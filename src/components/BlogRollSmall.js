@@ -7,16 +7,18 @@ class BlogRollSmall extends React.Component {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
 
-    console.log(posts);
+    let items = [];
+    for (let i = 0; i < posts.length; i++) {
+      items.push(posts[Math.floor(Math.random() * posts.length)]);
+    }
     return (
       <div className="columns ">
         <div className="column is-4">
           <h1 className="head">more like this</h1>
         </div>
 
-        {posts &&
-          //posts.slice(0, 6).map(({node: post}) => (
-          posts.slice(0, 3).map(({node: post}) => (
+        {items &&
+          items.slice(0, 3).map(({node: post}) => (
             <div
               className="is-parent column is-3 "
               key={post.id}
@@ -24,7 +26,9 @@ class BlogRollSmall extends React.Component {
               <div class="card">
                 <div class="card-image">
                   {post.frontmatter.category && (
-                    <span className="taggy bike is-pulled-right"style={{marginBottom:'-40px'}}>
+                    <span
+                      className="taggy bike is-pulled-right"
+                      style={{marginBottom: '-40px'}}>
                       {post.frontmatter.category}
                     </span>
                   )}
