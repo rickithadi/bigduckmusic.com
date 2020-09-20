@@ -42,7 +42,7 @@ export default class Index extends React.Component {
           </h3>
         </div>
         <div class="column is-7 ">
-          <p className="biker">
+          <p className="biker" style={{padding:'10px'}}>
             For any music submissions or collaboration queries, or just to say
             hi, please fill out the contact tab below. Big Duck is a passion
             project - much like many of the projects in our scene, and we’d love
