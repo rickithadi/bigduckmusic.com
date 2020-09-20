@@ -25,7 +25,7 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log(date);
+  document.querySelector('body').scrollTop = 0;
 
   return (
     <div>
@@ -196,6 +196,7 @@ const BlogPost = ({data}) => {
   const {markdownRemark: post} = data;
 
   console.log('got', data);
+  window.scrollTo(0, 0);
   return (
     <Layout>
       <BlogPostTemplate

@@ -10,12 +10,12 @@ class BlogRollF extends React.Component {
   componentDidMount = () => {
     let hold = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
     this.setState({isMobile: hold});
-    console.log('monb', this.state.isMobile);
   };
 
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
+    console.log('number', posts);
     return (
       <div>
         {posts && (
