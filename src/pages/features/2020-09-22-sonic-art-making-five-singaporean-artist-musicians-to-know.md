@@ -48,7 +48,7 @@ Nuclear Families was his debut solo album as Jeremy Sharma, and personally it is
 
 # **Shoebox**
 
-**From Tomorrow Is Our Permanent Address by B-Quartet**
+**from Tomorrow Is Our Permanent Address by B-Quartet**
 
 ![Bani Haykal](https://res.cloudinary.com/ddomozydd/image/upload/v1599499907/bani_vb4esr.jpg "Bani Haykal")
 
