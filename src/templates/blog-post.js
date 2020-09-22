@@ -25,7 +25,10 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  document.querySelector('body').scrollTop = 0;
+
+  if (document.querySelector('body')) {
+    document.querySelector('body').scrollTop = 0;
+  }
 
   return (
     <div>

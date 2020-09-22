@@ -27,7 +27,10 @@ export const GigPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
   console.log(deets);
-  document.querySelector('body').scrollTop = 0;
+
+  if (document.querySelector('body')) {
+    document.querySelector('body').scrollTop = 0;
+  }
 
   return (
     <div>
