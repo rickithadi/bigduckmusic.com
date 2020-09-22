@@ -28,10 +28,6 @@ export const GigPostTemplate = ({
   const PostContent = contentComponent || Content;
   console.log(deets);
 
-  if (document) {
-    document.querySelector('body').scrollTop = 0;
-  }
-
   return (
     <div>
       <div className="is-hidden-touch">

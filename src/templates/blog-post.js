@@ -26,10 +26,6 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  if (document) {
-    document.querySelector('body').scrollTop = 0;
-  }
-
   return (
     <div>
       <div

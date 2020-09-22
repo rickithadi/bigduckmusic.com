@@ -12,6 +12,7 @@ class BlogRoll extends React.Component {
     this.setState({filter: event.target.value});
   };
 
+  move = () => (document.querySelector('body').scrollTop = 0);
   handleChange = event => this.setState({filter: event.target.value});
 
   render() {
@@ -39,7 +40,7 @@ class BlogRoll extends React.Component {
     );
 
     return (
-      <div style={{minHeight: '100vh !important',height:'100%'}}>
+      <div style={{minHeight: '100vh !important', height: '100%'}}>
         <div className="hold">{dd}</div>
         <div className="columns is-multiline">
           {posts &&
@@ -70,6 +71,9 @@ class BlogRoll extends React.Component {
                         </figure>
                       </div>
                       <Link
+                        onClick={e => {
+                          this.move();
+                        }}
                         to={post.fields.slug}
                         style={{paddingTop: '15px', color: 'inherit'}}>
                         <div class="container" style={{height: '100%'}}>
@@ -123,7 +127,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
-      dispImage
+                dispImage
                 category
                 featuredimageo
               }

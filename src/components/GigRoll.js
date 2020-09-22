@@ -6,11 +6,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
 
 class GigRoll extends React.Component {
+    move = () => (document.querySelector('body').scrollTop = 0);
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
     console.log(data);
-
     return (
       <div
         className="columns is-multiline"
@@ -28,12 +28,15 @@ class GigRoll extends React.Component {
                 {post.frontmatter.test && <p style={{padding: '2px'}}>PAST</p>}
               </div>
               <div class="card" style={{border: '0'}}>
-                <div class="card-image" >
+                <div class="card-image">
                   <div className="cen" style={{margin: 'none !important'}}>
                     <img src={post.frontmatter.featuredimageo} />
                   </div>
                 </div>
                 <Link
+                  onClick={e => {
+                    this.move();
+                  }}
                   to={post.fields.slug}
                   style={{paddingTop: '15px', color: 'inherit'}}>
                   <div class="container" style={{height: '100%'}}>

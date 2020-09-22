@@ -12,6 +12,7 @@ class BlogRollF extends React.Component {
     this.setState({isMobile: hold});
   };
 
+  move = () => (document.querySelector('body').scrollTop = 0);
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
@@ -46,6 +47,9 @@ class BlogRollF extends React.Component {
                           </figure>
                         </div>
                         <Link
+                          onClick={e => {
+                            this.move();
+                          }}
                           to={post.fields.slug}
                           style={{paddingTop: '15px', color: 'inherit'}}>
                           <div class="container" style={{height: '100%'}}>
