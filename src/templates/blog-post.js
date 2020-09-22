@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  if (document.querySelector('body')) {
+  if (document) {
     document.querySelector('body').scrollTop = 0;
   }
 
