@@ -26,7 +26,7 @@ tags:
 ---
 My favourite thing about artists making music is their relinquishing a song of its conventional responsibility. Following the punk ethos of learning “how to *not* play your instrument”, artist-musicians are by no means poorly-skilled; they just do not allow themselves to be caught up with the pursuit of technical prowess. From performance-artist Genesis P-Orridge of Throbbing Gristle and Yoko Ono who needs no introduction, to Kathleen Hanna who started Bikini Kill in art school, and artist-turned-DJ Helena Hauff, it is no surprise that many musicians started off as artists – in fact, some still are!
 
-Lots of artists play in their own bands on the side as well, to supplement their creative diet, to vent, to communicate and exchange in ways spoken language cannot. Art-making is one of the ways one channels their creative energies, and some ideas just translate better as music, and this is just as true here in Singapore. Here are just five tracks from five of many Singapore-based artist-musicians to check out.
+Lots of artists play in their own bands on the side as well, to supplement their creative diet, to vent, to communicate and exchange in ways spoken language cannot. Art-making is one of the ways one channels their creative energies, and some ideas just translate better as music, and this is just as true here in Singapore. Here are just five tracks from five of many Singapore-based artist-musicians to check out!
 
 # **Take on the Ziggurat**
 
