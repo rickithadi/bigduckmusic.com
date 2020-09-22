@@ -82,7 +82,7 @@ Morning Song 4 is featured in the second half of her video-installation work, [O
 
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/623001915&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ye-yoon-ann" title="nerd.ster" target="_blank" style="color: #cccccc; text-decoration: none;">nerd.ster</a> · <a href="https://soundcloud.com/ye-yoon-ann/morning-song-4" title="Morning Song 4" target="_blank" style="color: #cccccc; text-decoration: none;">Morning Song 4</a></div>
 
-[nerd.ster](https://soundcloud.com/ye-yoon-ann)· [Morning Song 4](https://soundcloud.com/ye-yoon-ann/morning-song-4)
+[](https://soundcloud.com/ye-yoon-ann)
 
 # **i'm saying i'm ok, i'm ok (but in actual fact i'm not i'm not)**
 
