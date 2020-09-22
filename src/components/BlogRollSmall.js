@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import {Link, graphql, StaticQuery} from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 class BlogRollSmall extends React.Component {
+  move = () => (document.querySelector('body').scrollTop = 0);
   render() {
     const {data} = this.props;
     const {edges: posts} = data.allMarkdownRemark;
@@ -40,6 +41,9 @@ class BlogRollSmall extends React.Component {
                   />
                 </div>
                 <Link
+                  onClick={e => {
+                    this.move();
+                  }}
                   to={post.fields.slug}
                   style={{paddingTop: '15px', color: 'inherit'}}>
                   <div class="container" style={{height: '100%'}}>

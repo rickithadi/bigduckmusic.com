@@ -196,8 +196,6 @@ const BlogPost = ({data}) => {
   const {markdownRemark: post} = data;
 
   console.log('got', data);
-  if (typeof window === 'undefined') console.log('Window is not there');
-  else window.scrollTo(0, 0);
   return (
     <Layout>
       <BlogPostTemplate
