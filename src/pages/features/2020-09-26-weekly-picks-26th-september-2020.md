@@ -81,6 +81,6 @@ Bronson’s ridiculously witty lyricism paired with the track’s laid-back bass
 
 **You can watch the hilarious music video for Latin Grammys that features deepfaked bodybuilding here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n6R0t_AVIXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/n6R0t_AVIXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * **\- by Isaac Yackem**
