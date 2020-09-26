@@ -39,7 +39,7 @@ Within this entrancing sonic haze, there is always a sense of immediacy to *Mirr
 
 **Watch the gorgeous monochrome video for Wu Mang’s Mirror here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/llP0pQIOWck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/llP0pQIOWck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * **\- by JX Soo**
 
