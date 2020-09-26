@@ -45,7 +45,7 @@ Within this entrancing sonic haze, there is always a sense of immediacy to *Mirr
 
 # The Analog Girl
 
-#### ***"I'm Feeling On Top Of The World"***
+#### ***"I Feel on Top of the World"***
 
 ###### Awe
 
@@ -55,11 +55,11 @@ Within this entrancing sonic haze, there is always a sense of immediacy to *Mirr
 
 Revered Singaporean electronic music trailblazer The Analog Girl returns with a collection of self-described ‘dance ballads’ on her latest album, *Awe*, after four years in the making.
 
-On *I’m Feeling On Top Of The World*, The Analog Girl melds steady disco rhythms and claps with enigmatic soundscapes and textures to compliment her reverb drenched vocals and meditative lyricism. This all comes together in a hazy, dark synth-driven spectacle that has its roots in electropop and nu-disco.
+On *I Feel on Top of the World*, The Analog Girl melds steady disco rhythms and claps with enigmatic soundscapes and textures to compliment her reverb drenched vocals and meditative lyricism. This all comes together in a hazy, dark synth-driven spectacle that has its roots in electropop and nu-disco.
 
 Lyrically, The Analog Girl paints an image of isolation and confusion (“Will I be yours/ Will I be lost/ Will I be yours/ Will I be loved”) before that completely turns around in the song’s incredibly gratifying refrain (“I - I feel on top of the world/ You and I - I feel on top of the world”). The song’s outro is particularly captivating with Wong perhaps desiring ignorance and bliss (“Wish you would/ Hypnotise me until the world spins/ In synchronicity and virtue”). Musically, The Analog Girl really makes the track pop with elements such as its syncopated flange-laden percussions.
 
-**Listen to “I'm Feeling On Top Of The World” here:**
+**Listen to “I Feel on Top of the World” here:**
 
 <iframe src="https://open.spotify.com/embed/track/4bZy1wFmtiDeYJTaLexb2f" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
