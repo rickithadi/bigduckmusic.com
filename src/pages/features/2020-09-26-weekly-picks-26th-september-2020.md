@@ -79,8 +79,8 @@ The lead single preceding Action Bronson’s latest album *Only For Dolphins*, L
 
 Bronson’s ridiculously witty lyricism paired with the track’s laid-back basslines and theatrical trumpets is also infused with his love for wrestling (“Suplex city, bitch!”) and action movies (“I fly the plane better than Tom Cruise” or “My new shit Only For Dolphins/ Then let the slammer off like Dolph Lundgren”), which results in an incredibly fun mix of chilled out grooves and self-aware testosterone laden humour that just works.
 
-**You can watch the hilarious music video for Latin Grammys that features deepfaked bodybuilding here:**
+**You can watch the hilarious music video for Latin Grammys that features deepfaked bodybuilding [here](https://youtu.be/n6R0t_AVIXs) and listen to the track here:**
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/n6R0t_AVIXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://open.spotify.com/embed/track/6QrgxKiGjdJ5wOmZvGzWPu" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * **\- by Isaac Yackem**
