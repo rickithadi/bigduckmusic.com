@@ -57,7 +57,7 @@ Revered Singaporean electronic music trailblazer The Analog Girl returns with a 
 
 On *I Feel on Top of the World*, The Analog Girl melds steady disco rhythms and claps with enigmatic soundscapes and textures to compliment her reverb drenched vocals and meditative lyricism. This all comes together in a hazy, dark synth-driven spectacle that has its roots in electropop and nu-disco.
 
-Lyrically, The Analog Girl paints an image of isolation and confusion (“Will I be yours/ Will I be lost/ Will I be yours/ Will I be loved”) before that completely turns around in the song’s incredibly gratifying refrain (“I - I feel on top of the world/ You and I - I feel on top of the world”). The song’s outro is particularly captivating with Wong perhaps desiring ignorance and bliss (“Wish you would/ Hypnotise me until the world spins/ In synchronicity and virtue”). Musically, The Analog Girl really makes the track pop with elements such as its syncopated flange-laden percussions.
+Lyrically, The Analog Girl paints an image of isolation and confusion (“Will I be yours/ Will I be lost/ Will I be yours/ Will I be loved”) before that completely turns around in the song’s incredibly gratifying refrain (“I - I feel on top of the world/ You and I - I feel on top of the world”). The song’s outro is particularly captivating with The Analog Girl perhaps desiring ignorance and bliss (“Wish you would/ Hypnotise me until the world spins/ In synchronicity and virtue”). Musically, The Analog Girl really makes the track pop with elements such as its syncopated flange-laden percussions.
 
 **Listen to “I Feel on Top of the World” here:**
 
