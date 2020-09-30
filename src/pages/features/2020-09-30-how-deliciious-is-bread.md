@@ -63,7 +63,7 @@ I got heavily criticised for the release. There were a lot of hurtful comments t
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UkJj_hT5Ig4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Fuck This Shit* featuring Jaye Funk, the lead single off the now deleted *Mental Illness EP*.**
+***Fuck This Shit* featuring [Jaye Funk](https://open.spotify.com/track/614s5bG40Ql15ocHHHwqdF?si=L33MkvGASQepqMREjafAnQ), the lead single off the now deleted *Mental Illness EP*.**
 
 ##### So would you say that your change in sound was purely because of the hatred you were getting or was there something else?
 
