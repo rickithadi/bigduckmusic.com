@@ -19,7 +19,7 @@ tags:
 ---
 ### “Fuck your bitch, fuck your bitch, ayy," his fire lines say, but when it comes to baking, there are no problems. As Deliciious, rapper-baker extraordinaire Benetton Lim's fresh rhymes are just the tasty crust to what lies behind him. We sit down for a heartfelt interview with Deliciious and ask: How Deliciious is bread?
 
-It’s 8pm, and Benetton finally joins the zoom call. He told me he was rushing home from camp so I was half expecting him to be in camo when his screen lit up. I was instead greeted by an earnest kid in plain clothes, keen on sharing aspects of his multifaceted lifestyle - one that involves a love for rap, being an unlikely recipient of hate and... bread?
+It’s 8pm, and Benetton finally joins the Zoom call. He told me he was rushing home from camp so I was half expecting him to be in camo when his screen lit up. I was instead greeted by an earnest kid in plain clothes, keen on sharing aspects of his multifaceted lifestyle - one that involves a love for rap, being an unlikely recipient of hate and... bread?
 
 ##### I heard somewhere that you studied the culinary arts at Shatec. How did that come to be?
 
