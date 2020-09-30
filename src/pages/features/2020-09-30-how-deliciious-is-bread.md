@@ -49,6 +49,10 @@ Actually with *[Minimum Wage](https://open.spotify.com/track/47Dy7Xp2ktNRBzbuF2O
 
 Actually, I don't just write about the past. There’s a fair amount of the present and future in it too. Let’s look at *[Caramel](https://open.spotify.com/track/2dlY1BZvCtGArbogmd1dv5?si=JECbti0ARCuwsQzrfFHswQ)*, for example. It’s a love song but at the same time, I wanted to use lyrical metaphors from my other life as a pastry chef at the time by using playful, food-centric words like “caramel”, “cheesecake” and a bunch of other stuff. it’s a reflection of the present as well. I always found I find it interesting that not a lot of people out there incorporate food as a subject matter in music so I figured why not? It’s a very real part of me and who knows, that could probably be what makes me uniquely me.
 
+![Benetton and his DJ](https://res.cloudinary.com/ddomozydd/image/upload/v1601450446/delidj_umpjf7.jpg "Benetton and his DJ")
+
+##### **Deliciious with his live DJ, DJ Tz. Photo: Benetton Lim**
+
 ##### 100%. I think strengthening that identity as you grow older could be a really endearing thing about Deliciious. But before we dive deeper into the present and the future, let's focus on the past for a second. When was the first time you released something?
 
  In 2016. I basically used Audacity at the time. The software isn’t even that good but I was probably 15 or 16 at the time and didn't know any better. That's literally how I wrote my first ever song, *[Real Money, Real Talk](https://youtu.be/mwX361WSVpU)*, which I used to start my set with at the Big Duck MHC show last year. At the time, there was a particular sound I was going for, and Jaz from The Music Parlour really understood that. I really wanted to try my hand at metal rap in the vein of guys like Scarlxrd, so I also worked with Jaye (Funk), who also helped me on *Mental Illness* - an album that I’ve since deleted.
