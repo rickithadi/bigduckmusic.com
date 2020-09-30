@@ -23,7 +23,7 @@ It’s 8pm, and Benetton finally joins the zoom call. He told me he was rushing 
 
 ##### I heard somewhere that you studied the culinary arts at Shatec. How did that come to be?
 
-It was right after secondary school. I went to ITE and studied P&B (Pastry & Baking) but I honestly wanted more so I immediately followed that up with a P&B diploma at Shatec. I guess, way before I started music, Iwas always involved in that life. I pretty much started out as a baker because I love bread a lot, ever since I was in secondary school. Especially Sourdough bread. You know sourdough bread? At the time, it wasn’t really a thing here but I felt like it was the best kind of bread out there. Unlike other breads, real sourdough uses natural things like apples to help ferment the bread. Crazy, right? It’s the little things like that that makes me love bread and it’s been that way ever since.
+It was right after secondary school. I went to ITE and studied P&B (Pastry & Baking) but I honestly wanted more so I immediately followed that up with a P&B diploma at Shatec. I guess, way before I started music, I was always involved in that life. I pretty much started out as a baker because I love bread a lot, ever since I was in secondary school. Especially Sourdough bread. You know sourdough bread? At the time, it wasn’t really a thing here but I felt like it was the best kind of bread out there. Unlike other breads, real sourdough uses natural things like apples to help ferment the bread. Crazy, right? It’s the little things like that that makes me love bread and it’s been that way ever since.
 
 ![Bennetton Lim baking](https://res.cloudinary.com/ddomozydd/image/upload/v1601447287/BennettonBaking_zsaxs8.jpg "Bennetton Lim baking")
 
