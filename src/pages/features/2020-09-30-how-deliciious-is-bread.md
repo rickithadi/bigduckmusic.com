@@ -51,7 +51,7 @@ Actually, I don't just write about the past. There’s a fair amount of the pres
 
 ##### 100%. I think strengthening that identity as you grow older could be a really endearing thing about Deliciious. But before we dive deeper into the present and the future, let's focus on the past for a second. When was the first time you released something?
 
- In 2016. I basically used Audacity at the time. The software isn’t even that good but i was probably 15 or 16 at the time and didn't know any better. That's literally how I wrote my first ever song, *[Real Money, Real Talk](https://youtu.be/mwX361WSVpU)*, which I used to start my set with at the Big Duck MHC show last year. At the time, there was a particular sound I was going for, and Jaz from The Music Parlour really understood that. I really wanted to try my hand at metal rap in the vein of guys like Scarlxrd, so I also worked with Jaye (Funk), who also helped me on *Mental Illness* - an album that I’ve since deleted.
+ In 2016. I basically used Audacity at the time. The software isn’t even that good but I was probably 15 or 16 at the time and didn't know any better. That's literally how I wrote my first ever song, *[Real Money, Real Talk](https://youtu.be/mwX361WSVpU)*, which I used to start my set with at the Big Duck MHC show last year. At the time, there was a particular sound I was going for, and Jaz from The Music Parlour really understood that. I really wanted to try my hand at metal rap in the vein of guys like Scarlxrd, so I also worked with Jaye (Funk), who also helped me on *Mental Illness* - an album that I’ve since deleted.
 
 ##### Why did you delete it?
 
