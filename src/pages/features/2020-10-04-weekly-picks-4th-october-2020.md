@@ -5,7 +5,7 @@ author: JX Soo and Isaac Yackem
 col: white
 date: 2020-10-04T11:40:26.920Z
 description: Our top picks this week - featuring lush Japanese ambience from
-  Meitei, jazzy beatwork from Wovensound, and a edgy pop bop from J.M3!
+  Meitei, jazzy beatwork from Wovensound, and an edgy pop bop from J.M3!
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1601811733/BANNERPICKS_jzsixn.jpg
@@ -20,7 +20,7 @@ tags:
   - Andrew Marko
   - J.M3
 ---
-**Our top picks this week - featuring lush Japanese ambience from Meitei, jazzy beatwork from Wovensound, and a edgy pop bop from J.M3!**
+**Our top picks this week - featuring lush Japanese ambience from Meitei, jazzy beatwork from Wovensound, and an edgy pop bop from J.M3!**
 
 # Meitei
 
