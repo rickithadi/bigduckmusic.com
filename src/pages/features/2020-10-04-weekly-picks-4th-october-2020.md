@@ -30,7 +30,8 @@ tags:
 
 ![Meitei - Kofū](https://res.cloudinary.com/ddomozydd/image/upload/v1601807362/meitei800_pgd4cp.jpg "Meitei - Kofū")
 
-\-
+\- 
+
 Meitei’s tracks are sonic rituals of historical reverence. In his quest to rediscover and reinterpret lost Japanese moods, the Hiroshima ambient producer’s discography has conjured a distinctive aural world draped in ukiyo-e-like yugen – from Kwaidan’s (Evening Chants) studies of folkloric haunts, to Komachi’s (Metron Records) serene, arcane nightscapes. On Kofū, the finale to his trilogy released on established Singaporean outpost Kitchen Label, he expands his scope, attempting to craft a satire of Japanese aesthetics as a whole. Yet by subverting his own techniques and methods, Meitei manages to create his best work yet – a poignant work of art that invokes faded memories surprisingly through a surreal recreation of Japanese past.
 
 Of the album’s 13 tracks, *Sadayakko* is one of *Kofu*’s centrepieces, embodying its most strikingly different quality compared to his past work. Named after famed pre-war theatre actress Kawakami Sadayakko, the track vividly reimagines the circumstances that surrounded her life and career. Like an ecstatic dance sequence, the track prances along at a jaunt-like pace, accelerating while alternating between spliced string samples and playful bass. As the track progresses, the story is told by two voices that shuffle between one another – “Japanese people,” a man’s voice constantly repeats in English, reflecting the Western admiration (and near-fetishization) for Japanese arts and culture during the period. Yet, the track only replies once in Japanese – ”o-machidosama,” a subservient expression. As an actress, the playful nature of the track reflects the performative appeal of her work and persona– yet under a distorted patriarchal lens, her true self is ultimately a misunderstood one. 
