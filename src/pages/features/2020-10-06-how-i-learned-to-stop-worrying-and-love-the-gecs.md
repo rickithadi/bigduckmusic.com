@@ -7,7 +7,7 @@ date: 2020-10-06T05:49:46.979Z
 description: In an incredible stroke of musical shitposting, Dylan Brady and
   Laura Les of 100 Gecs have made me feel nostalgic over early 2000’s genres
   that I have absolutely no business of enjoying. And I’m loving it.
-category: feature
+category: take
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1601963903/gecsbanner_qesl8h.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1601963903/gecscard_g91hx7.jpg
 tags:
