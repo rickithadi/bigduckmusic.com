@@ -4,9 +4,8 @@ title: "How I Learned to Stop Worrying and Love the Gecs "
 author: Destin Tay
 col: white
 date: 2020-10-06T05:49:46.979Z
-description: In an incredible stroke of musical shitposting, Dylan Brady and
-  Laura Les of 100 Gecs have made me feel nostalgic over early 2000’s genres
-  that I have absolutely no business of enjoying. And I’m loving it.
+description: Follow our resident music snob Destin’s journey as he enlightens
+  himself to the way of the gec!
 category: take
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1601963903/gecsbanner_qesl8h.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1601963903/gecscard_g91hx7.jpg
