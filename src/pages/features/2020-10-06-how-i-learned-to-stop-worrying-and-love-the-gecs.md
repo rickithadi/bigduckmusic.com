@@ -14,24 +14,28 @@ tags:
   - 1000 gecs
   - gecs
   - shitpost
+  - review
+  - takes
 ---
-### In an incredible stroke of musical shitposting, Dylan Brady and Laura Les of 100 Gecs have made me feel nostalgic over early 2000’s genres that I have absolutely no business of enjoying. And I’m loving it.
+### With incredible strokes of musical shitposting, Dylan Brady and Laura Les of 100 Gecs have made me feel nostalgic over early 2000’s genres that I have absolutely no business of enjoying. And I’m loving it.
+
+\-
 
 What absolute fuckery is this?
 
-I’d never felt like a bigger boomer than when I finished 1000 gecs for the first time.
+I’d never felt like a bigger boomer than when I finished listening to 1000 gecs for the first time.
 
-Being a part of the slightly snobby Facebook group *Patrician Music Chartposting* (don’t @ me), I’ve always had a tendency to trust the quality of the albums constantly name-dropped there. Around the end of last year, when members were sharing their best-of-year lists, 1000 gecs was an inescapable name. I thought it strange, but I saw it on every list, consistently being included – and so I bit the bullet and took a gander at it. As you can tell from my reaction above, I was not impressed.
+Being a part of the slightly snobby Facebook group *Patrician Music Chartposting* (don’t @ me), I’ve always had a tendency to trust the quality of the albums constantly name-dropped there. Around the end of last year, when members were sharing their best-of-year lists, 1000 gecs became inescapable. I thought it as strange, but I saw their name everywhere, consistently being included in every list – and so I bit the bullet and took a gander at it. As you can tell from my reaction above, I was not impressed.
 
 ![Patrician Music Chartposting](https://res.cloudinary.com/ddomozydd/image/upload/v1601965638/chartposting_fms5eo.jpg "Patrician Music Chartposting")
 
-**Patrician Music Chartposting**
+###### ***Patrician Music Chartposting***
 
 Is this what the kids are into these days? I was dismissive of the record after that first listen. Amidst the overbearing sensory stimulation, I fought the nagging feeling that Ashton Kutcher (or [Filthy Frank](https://youtu.be/H6iefP8lf3o) for a more contemporary spin) was gonna pop into my room to notify me that I was, indeed, pranked. The brazen melding of dubstep, ska, Europop, pop punk and nightcore vocals felt dangerously close to parody at the time, like the worst parts of the Wayans Brothers filmography (looking at you, Scary Movie 5). In summation,major cringe bro.The chiptune in particular felt especially grating to me; bringing me back to a deep, dark period in YouTube history when Chipmunk remixes were all the rage.
 
 ![I have committed multiple war crimes and cannot enter heaven as a result](https://res.cloudinary.com/ddomozydd/image/upload/v1601963985/alvinandthechipmunks_lvraeg.jpg "I have committed multiple war crimes and cannot enter heaven as a result")
 
-**I have committed multiple war crimes and cannot enter heaven as a result**
+###### *I have committed multiple war crimes and cannot enter heaven as a result.*
 
 Upon heavy insistence from a friend however, the initial shock value of 1000 gecs slowly chipped away. There was definitely merit to what Dylan and Laura were trying to accomplish, and as I listened to it more, I found their appeal not unlike what made similar trends like vaporwave and hyper-pop work. Eventually, I found my thoughts about the album shifting from parody to irony. And after a separate deep dive listen session with Sameh of [Houg](https://open.spotify.com/album/2nqS2I1PQN8rJ58df3kPMZ?si=k3u1yUBMRKCHcTEFsPKe1g) fame, it clicked.
 
@@ -39,7 +43,7 @@ I enjoyed myself.
 
 ![100 gecs - 1000 gecs](https://res.cloudinary.com/ddomozydd/image/upload/v1601964436/100gecs_ddxxtd.jpg "100 gecs - 1000 gecs")
 
-**100 gecs' debut album, 1000 gecs**\
+***100 gecs' debut album, 1000 gecs***\
 \
 It’s just such a catchy record. Full of chaotic energy, 100 gecs have masterfully managed to stuff a bunch of unrelated genres from the 2000s into a blender, and create a surprising formula that works. If you were in secondary school around the time X-Craft was cool, you’ll probably find something you like in this Sweet Talk Oreo Ice Blend of an album. From the head-bopping ska-tinged* [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm?si=IsS1Oa9NQmiBljD8eBB8uQ)* and its stupidly catchy chorus; to the Cascada-esque *[xXXi_wud\_nvrstøp\_ÜXXx](https://open.spotify.com/track/7vaFuClNKe02pjKYbXEJ46?si=MOlS01L4SqmF8B-PBFt3eg)* that compels me to order my very own e-scooter with RGB lights; it was only a matter of time before I found myself vibin’ with the music.
 
@@ -47,7 +51,7 @@ Increasingly, it became harder and harder for me to fault 100 gecs for their see
 
 ![100 gecs ](https://res.cloudinary.com/ddomozydd/image/upload/v1601964617/100gecsband_admcip.jpg "100 gecs")
 
-**100 gecs members Laura Les and Dylan Brady. Photo: Skullcandy**
+***100 gecs members Laura Les and Dylan Brady. Photo: Skullcandy***
 
 No matter what the backdrop of each song is, Laura Les’ autotuned, nightcore-esque vocals tie everything together. Sickly sweet tumblr-era musings mixed with scenes of absurdity – it’s addictive to say the least. It’s best seen in the debut single *[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl?si=nMHDJZ9oSiW5Hn7XBRVg9g)*, which starts with an undeniably hilarious intro (Your arms look so fucking cute/They look like lil’ cigarettes/I bet I could smoke you/I could roast you), before the bravado fades away and Laura goes into a moment of vulnerable introversion. And oh God, the cutesy pacing and sampling of analog beeps and boops on *[ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz?si=nOExz6x0Qx-7bFYnm-5udg)*? Legitimately one of the grooviest pop songs I’ve heard in years.\
 \
@@ -55,7 +59,7 @@ What led me to truly embrace my inner gecgecgecgec however, was the release of p
 
 ![1000 gecs and The Tree of Clues](https://res.cloudinary.com/ddomozydd/image/upload/v1601964921/TreeOfClues_w8u2bd.jpg "1000 gecs and The Tree of Clues")
 
-**100 gecs' remix album, 1000 gecs and The Tree of Clues**
+***100 gecs' remix album, 1000 gecs and The Tree of Clues***
 
 At almost twice the length of the original 1000 gecs, Tree of Clues takes the infectious absurdity up to 11. It’s an excellent companion piece to the original album, which sounds almost tame compared to the remixes. Listening to Tree of Clues first and 1000 gecs second may actually be, in my opinion, the best way to experience 100 gecs. It helps to remove the initial shock factor that came with the original, and it helped me appreciate the nuances in their debut much better.
 
@@ -74,6 +78,8 @@ Meanwhile, I found this 100 gecs tree in Bishan Park.
 **100 gecs tree in Bishan Park**
 
 In a moment of introspection while stupid horse looped in my earpiece, I mused. O cruel, needless misunderstanding! O stubborn, self-willed exile from the loving breast! Two tears trickle down the side of my nose. But it was all right, everything was all right, the struggle was finished. I had won the victory over myself. I loved 100 gecs.
+
+\-
 
 **Drop 100 gecs a like on [Facebook](https://www.facebook.com/100-gecs-105422244201666) and follow them on [Instagram](https://www.instagram.com/100gecs/).**
 
