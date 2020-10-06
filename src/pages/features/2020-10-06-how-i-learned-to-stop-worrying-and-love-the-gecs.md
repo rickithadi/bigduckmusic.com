@@ -31,13 +31,13 @@ Being a part of the slightly snobby Facebook group *Patrician Music Chartposting
 
 ###### ***Patrician Music Chartposting***
 
-Is this what the kids are into these days? I was dismissive of the record after that first listen. Amidst the overbearing sensory stimulation, I fought the nagging feeling that Ashton Kutcher (or [Filthy Frank](https://youtu.be/H6iefP8lf3o) for a more contemporary spin) was gonna pop into my room to notify me that I was, indeed, pranked. The brazen melding of dubstep, ska, Europop, pop punk and nightcore vocals felt dangerously close to parody at the time, like the worst parts of the Wayans Brothers filmography (looking at you, Scary Movie 5). In summation,major cringe bro.The chiptune in particular felt especially grating to me; bringing me back to a deep, dark period in YouTube history when Chipmunk remixes were all the rage.
+Is this what the kids are into these days? I was dismissive of the record after that first listen. Amidst the overbearing sensory stimulation, I fought the nagging feeling that Ashton Kutcher (or [Filthy Frank](https://youtu.be/H6iefP8lf3o) for a more contemporary spin) was gonna pop into my room to notify me that I was, indeed, pranked. The brazen melding of dubstep, ska, Europop, pop punk and nightcore vocals felt dangerously close to parody at the time, like the worst parts of the Wayans Brothers filmography (looking at you, Scary Movie 5). In summation, major cringe bro. The chiptune in particular felt especially grating to me; bringing me back to a deep, dark period in YouTube history when chipmunk remixes were all the rage.
 
 ![I have committed multiple war crimes and cannot enter heaven as a result](https://res.cloudinary.com/ddomozydd/image/upload/v1601963985/alvinandthechipmunks_lvraeg.jpg "I have committed multiple war crimes and cannot enter heaven as a result")
 
 ###### *I have committed multiple war crimes and cannot enter heaven as a result.*
 
-Upon heavy insistence from a friend however, the initial shock value of 1000 gecs slowly chipped away. There was definitely merit to what Dylan and Laura were trying to accomplish, and as I listened to it more, I found their appeal not unlike what made similar trends like vaporwave and hyper-pop work. Eventually, I found my thoughts about the album shifting from parody to irony. And after a separate deep dive listen session with Sameh of [Houg](https://open.spotify.com/album/2nqS2I1PQN8rJ58df3kPMZ?si=k3u1yUBMRKCHcTEFsPKe1g) fame, it clicked.
+Upon heavy insistence from a friend, however, the initial shock value of 1000 gecs slowly chipped away. There was definitely merit to what Dylan and Laura were trying to accomplish, and as I listened to it more, I found their appeal not unlike what made similar trends, like vaporwave and hyper-pop work for me. Eventually, I found my thoughts about the album shifting from parody to irony – and after a separate deep dive listening session with Sameh of [Houg](https://open.spotify.com/album/2nqS2I1PQN8rJ58df3kPMZ?si=k3u1yUBMRKCHcTEFsPKe1g) fame, it clicked.
 
 I enjoyed myself.
 
