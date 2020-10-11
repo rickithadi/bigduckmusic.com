@@ -1,7 +1,7 @@
 ---
 templateKey: picks-page
 date: 2020-10-04T10:28:34.625Z
-title: 4th October 2020 Picks
+title: 4th October 2020 Picks.
 featuredimageso:
   - image: https://res.cloudinary.com/ddomozydd/image/upload/b_rgb:000000,e_gradient_fade:20,y_-0.5/v1601807362/meitei800_pgd4cp.jpg
     link: https://open.spotify.com/track/76Dp6MxetOczQdQkh7d2uK?si=KvpWk8r2TemXm_L5eHcWEw
