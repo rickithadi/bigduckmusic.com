@@ -9,7 +9,7 @@ description: On the process of making music, romance, and life itself – Big Du
   first self-titled EP, Amanda.
 category: feature
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1602841721/Spotify_Spotlight_Amanda_Rectangle_iug0fv.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1602843035/Spotify_Spotlight_Amanda_Rectangle_qeapge.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1602850208/amanda800_gdjk08.jpg
 tags:
   - singer-songwriter
   - Amanda Ong
