@@ -34,7 +34,7 @@ I don’t really think it was a talent, but like a lot of children in Singapore,
 
 I remember on my 15th birthday, I sang 15 by Taylor Swift! I just did a little voice recording for myself. She’s still quite an inspiration to me, because she writes stories about her life. A lot of songs nowadays are just talking about one specific point in time, but her songs have a story, and that’s what I like to write about as well.
 
-![Amanda EP](https://res.cloudinary.com/ddomozydd/image/upload/v1602841721/Spotify_Spotlight_Amanda_Rectangle_iug0fv.jpg "Amanda, Ong's first EP, was released, containing songs dating all the way back to her 17-year old self.")
+![Amanda Ong, performing](https://res.cloudinary.com/ddomozydd/image/upload/v1602841721/Spotify_Spotlight_Amanda_Rectangle_iug0fv.jpg "Amanda, Ong's first EP, was released, containing songs dating all the way back to her 17-year old self.")
 
 ***Ong's debut work, Amanda is quite figuratively a trip down memory lane – containing songs dating all the way back to her 17-year old self.***\
 .
@@ -67,7 +67,7 @@ I think not directly, but I’ve told some people I wrote about that it’s a so
 
 I think I used to be a romantic. But I’m now a realist, because when people grow up, you need to think about bills, how you’re going to get your house, all the finances to think about. With my fiancé now, we finally got a good queue number after three years of trying for a BTO - but the house will only be ready in six years. So it makes you a realist in the end, things like thinking that I would want to have kids before getting a house. And so, in comparison to all these bigger life decisions, holding out for the perfect partner seems unrealistic to me.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1602841118/9zVkaVn_g5mnw1.png "Amanda")
+![Amanda Ong, EP artwork](https://res.cloudinary.com/ddomozydd/image/upload/q_auto:good/v1602841118/9zVkaVn_g5mnw1.png)
 
 ***The cover art is done by Eilis Ong, Amanda's cousin – who currently is also an illustrator on Instagram under the handle @evergreen_daydreams.***\
 .
@@ -92,7 +92,10 @@ But the aircon was really loud, so I would turn it off and put the blanket on, a
 \
 For the EP, I finally got some help, because I decided I can’t do all this by myself with a full time job and everything. I’m glad to support other artists as well! Like, other creatives in the industry, who are producing the cover art and everything. In fact, the cover art was actually done by my cousin, who just graduated from SOTA a while ago. I like to get the cover art done by a different person every time. Some people might disagree with that because branding is important, but I like to see different styles.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/c_scale,q_93,w_600/v1602842635/Amanda_AppleMusic_Shoutout_HiRes-683x1024_ecixfe.jpg) .
+![](https://res.cloudinary.com/ddomozydd/image/upload/v1602842635/Amanda_AppleMusic_Shoutout_HiRes-683x1024_ecixfe.jpg)
+
+\
+.
 
 #### What has it been like releasing music in a pandemic, and how have you been coping these couple of months?
 
