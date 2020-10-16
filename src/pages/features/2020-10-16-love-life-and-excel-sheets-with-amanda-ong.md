@@ -20,7 +20,7 @@ tags:
 ---
 ## On the process of making music, romance, and life itself – Big Duck has a candid discussion with singer-songwriter Amanda Ong, as she releases her first self-titled EP, Amanda.
 
-Meet Amanda Ong, an indie-folk singer-songwriter following the sonic footsteps of songwriters from Sara Barailles and dodie, to Jacob Collier and Rachel Bloom. Following a series of singles and acapella YouTube uploads, Amanda is the singer’s first EP, with its stories inspired by episodes of the singer’s coming of age. Its six tracks are slices of airy, acoustic-flavored pop, graced with comfortably layered guitars and her innocent, airy croons – as she strums and sings, she invites us into an intimate sonic journey, as we walk down memory lane, through the mindscapes of her late teens and early 20s.
+Meet Amanda Ong, an indie-folk singer-songwriter following the sonic footsteps of songwriters from Sara Barailles and dodie, to Jacob Collier and Rachel Bloom. Following a series of singles and acapella YouTube uploads, Amanda is the singer’s first EP, with its stories inspired by episodes of the singer’s coming of age. Its six tracks are slices of intimate, acoustic-flavored pop, graced with comfortably layered guitars and her innocent, airy croons – as she strums and sings, she invites us into an intimate sonic journey, as we walk down memory lane, through the mindscapes of her late teens and early 20s.
 
 It's about 6.20pm when Amanda floats into a little coffee shop on Tanjong Katong Road. Early to our meeting, what of her face that isn't obscured by a mask is arranged in a pensive expression. But as she comments on the difference between my hair irl and in my WhatsApp picture, she slowly breaks into a light-spirited giggle.
 
