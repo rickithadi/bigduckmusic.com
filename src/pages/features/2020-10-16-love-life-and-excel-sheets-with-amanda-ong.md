@@ -113,4 +113,4 @@ I feel like it's a shame that marketing plays such a big role in whether your mu
 
 ###### *Amanda recently shared her work on Carousell’s #MadeInSG, a campaign to help creatives share work during the challenging times of a pandemic. Her work is also available on Spotify, YouTube, YouTube Music, Deezer, Bandcamp, and Apple Music.*
 
-*Stream her EP Amanda [here!](https://smarturl.it/amanda-ep)*
+***Stream her EP Amanda [here!](https://smarturl.it/amanda-ep)***
