@@ -8,7 +8,7 @@ description: On the process of making music, romance, and life itself – Big Du
   has a candid discussion with singer-songwriter Amanda Ong, as she releases her
   first self-titled EP, Amanda.
 category: feature
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1602841721/Spotify_Spotlight_Amanda_Rectangle_iug0fv.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1602850418/AMANDABANNER_w4nykc.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1602850208/amanda800_gdjk08.jpg
 tags:
   - singer-songwriter
@@ -67,7 +67,7 @@ I think not directly, but I’ve told some people I wrote about that it’s a so
 
 I think I used to be a romantic. But I’m now a realist, because when people grow up, you need to think about bills, how you’re going to get your house, all the finances to think about. With my fiancé now, we finally got a good queue number after three years of trying for a BTO - but the house will only be ready in six years. So it makes you a realist in the end, things like thinking that I would want to have kids before getting a house. And so, in comparison to all these bigger life decisions, holding out for the perfect partner seems unrealistic to me.
 
-![Amanda Ong, EP artwork](https://res.cloudinary.com/ddomozydd/image/upload/q_auto:good/v1602841118/9zVkaVn_g5mnw1.png)
+![Amanda Ong, EP artwork](https://res.cloudinary.com/ddomozydd/image/upload/q_auto:good/v1602841118/9zVkaVn_g5mnw1.png "Amanda Ong, EP artwork")
 
 ***The cover art is done by Eilis Ong, Amanda's cousin – who currently is also an illustrator on Instagram under the handle @unfrigerator.***\
 .
@@ -92,7 +92,7 @@ But the aircon was really loud, so I would turn it off and put the blanket on, a
 \
 For the EP, I finally got some help, because I decided I can’t do all this by myself with a full time job and everything. I’m glad to support other artists as well! Like, other creatives in the industry, who are producing the cover art and everything. In fact, the cover art was actually done by my cousin, who just graduated from SOTA a while ago. I like to get the cover art done by a different person every time. Some people might disagree with that because branding is important, but I like to see different styles.
 
-![](https://res.cloudinary.com/ddomozydd/image/upload/v1602842635/Amanda_AppleMusic_Shoutout_HiRes-683x1024_ecixfe.jpg)
+![Amanda Ong](https://res.cloudinary.com/ddomozydd/image/upload/v1602842635/Amanda_AppleMusic_Shoutout_HiRes-683x1024_ecixfe.jpg "Amanda Ong")
 
 \
 .
