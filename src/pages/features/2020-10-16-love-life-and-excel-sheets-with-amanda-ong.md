@@ -69,7 +69,7 @@ I think I used to be a romantic. But I’m now a realist, because when people gr
 
 ![Amanda Ong, EP artwork](https://res.cloudinary.com/ddomozydd/image/upload/q_auto:good/v1602841118/9zVkaVn_g5mnw1.png)
 
-***The cover art is done by Eilis Ong, Amanda's cousin – who currently is also an illustrator on Instagram under the handle @evergreen_daydreams.***\
+***The cover art is done by Eilis Ong, Amanda's cousin – who currently is also an illustrator on Instagram under the handle @unfrigerator.***\
 .
 
 #### Has it always been music that you’re interested in? What do you do apart from music and work?
