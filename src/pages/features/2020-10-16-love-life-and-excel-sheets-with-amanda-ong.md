@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Love, Life, and Excel Sheets with Amanda Ong "
 author: Alexandra Chin
 col: white
-date: 2020-10-11T09:31:45.045Z
+date: 2020-10-16T09:31:45.045Z
 description: On the process of making music, romance, and life itself – Big Duck
   has a candid discussion with singer-songwriter Amanda Ong, as she releases her
   first self-titled EP, Amanda.
