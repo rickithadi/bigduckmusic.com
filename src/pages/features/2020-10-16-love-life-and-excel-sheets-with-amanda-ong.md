@@ -20,7 +20,7 @@ tags:
 ---
 ## On the process of making music, romance, and life itself – Big Duck has a candid discussion with singer-songwriter Amanda Ong, as she releases her first self-titled EP, Amanda.
 
-Meet Amanda Ong, an indie-folk singer-songwriter following the sonic footsteps of songwriters from Sara Barailles and dodie, to Jacob Collier and Rachel Bloom. Following a series of singles and acapella YouTube uploads, Amanda is the singer’s first EP, with its stories inspired by episodes of the singer’s coming of age. Its six tracks are slices of intimate, acoustic-flavored pop, graced with comfortably layered guitars and her innocent, airy croons – as she strums and sings, she invites us into an intimate sonic journey, as we walk down memory lane, through the mindscapes of her late teens and early 20s.
+Meet Amanda Ong, an indie-folk singer-songwriter following the sonic footsteps of songwriters from Sara Barailles and dodie, to Jacob Collier and Rachel Bloom. Following a series of singles and a capella YouTube uploads, Amanda is the singer’s first EP, with its stories inspired by episodes of the singer’s coming of age. Its six tracks are slices of intimate, acoustic-flavored pop, graced with comfortably layered guitars and her innocent, airy croons – as she strums and sings, she invites us into an intimate sonic journey, as we walk down memory lane, through the mindscapes of her late teens and early 20s.
 
 It's about 6.20pm when Amanda floats into a little coffee shop on Tanjong Katong Road. Early to our meeting, what of her face that isn't obscured by a mask is arranged in a pensive expression. But as she comments on the difference between my hair irl and in my WhatsApp picture, she slowly breaks into a light-spirited giggle.
 
@@ -80,7 +80,7 @@ Every time there was an overseas trip to be planned, I would whip out my travel 
 \
 My favourite sheet so far is my own financial planning sheet – it has all my rough income sources and expenses until I die, as well as my payment plan for future goals like my BTO and children. With that sheet, it's a lot easier to tell how much I can spare if I'm feeling spendy!
 
-#### You’re part of an acapella group New Recording 47. What’s that like in comparison to your solo journey?
+#### You’re part of an a capella group New Recording 47. What’s that like in comparison to your solo journey?
 
 When it comes to my solo journey, I feel like everything is just own-time, own-target. I can complete all the tasks by myself, I’m not rushing anybody except myself – but that could be bad as well, because if I just don’t want to do shit, then no one’s going to chase me for it. I can just not get a song done for 3 years. In fact, that’s exactly what happened – this EP was actually meant to come out 3 years ago, as part of my university’s final year project! But in hindsight, I also knew so little back then, so I’m glad I didn’t release it!
 
@@ -99,7 +99,7 @@ For the EP, I finally got some help, because I decided I can’t do all this by 
 
 #### What has it been like releasing music in a pandemic, and how have you been coping these couple of months?
 
-I think it’s actually easier to work by myself, because I don’t have to go out and meet friends. But at the same time, I can also watch Netflix all the time, so I need to really make myself do it. And I think I wasn’t really gigging actively before the pandemic, so my income wasn’t cut by that much. But I was putting up a lot of online covers, acapella covers. So I think when the pandemic hit, people already saw that I was quite active online, and I got some unique opportunities from that. Like, Carousell reached out to me.
+I think it’s actually easier to work by myself, because I don’t have to go out and meet friends. But at the same time, I can also watch Netflix all the time, so I need to really make myself do it. And I think I wasn’t really gigging actively before the pandemic, so my income wasn’t cut by that much. But I was putting up a lot of online covers, a capella covers. So I think when the pandemic hit, people already saw that I was quite active online, and I got some unique opportunities from that. Like, Carousell reached out to me.
 
 #### With the #MadeInSG campaign, for example?
 
