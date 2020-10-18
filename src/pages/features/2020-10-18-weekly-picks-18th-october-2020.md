@@ -55,7 +55,7 @@ Altogether, the duo's chaotic synergy create an intimidating, imposing sonic mas
 
 With a slew of singles last year, upstart duo Islandeer have begun establishing themselves wielding a buttery-smooth indie rock sound. Fashioned after the usual NME heroes – [The Strokes](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW?si=SolAkyvsRXCxgwSfC2sNNQ) and [Bombay Bicycle Club](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J?si=l-yNuEx8RTeP-XUtNrGEDw) for starters - they color their songs with an easy-going energy, informed by their love for light psychedelia, and their shows have largely been able to capture that, with the duo’s warm synergy largely creating pleasant, bopping affairs. However, yet despite being able to capture that spark live, their previous singles still sounded like works in progress, with them sometimes sounding too stilted or overproduced, hindering its wonderful melodic sensibilities.
 
-With *Daytona*, however, Islandeer seems to have found the right gears. Lushly produced, the single is a life-affirming jolt in the arm, and proves to be their strongest release by far. A filtered chord invite the listeners into their world on a 4-count, and as the green lights flash, the song blossoms into crisp focus, filling up the frequencies with its shining vocal harmonies and riffs. The drums are crisp, and snap the guitars into place perfectly, as vocalist Michael Garcia’s vocals tell a story of imagined, unrealized romances trapped in mundanity (So whatchu think about the baby crib?/We gotta get out now/Sir walk this way you’ll work in cubicle/ Get me out now").
+With *Daytona*, however, Islandeer seems to have found the right gears. Lushly produced, the single is a life-affirming jolt in the arm, and proves to be their strongest release by far. A filtered chord invite the listeners into their world on a 4-count, and as the green lights flash, the song blossoms into crisp focus, filling up the frequencies with its shining vocal harmonies and riffs. The drums are crisp, and snap the guitars into place perfectly, as vocalist Michael Garcia’s vocals tell a story of imagined, unrealized romances trapped in mundanity ("So whatchu think about the baby crib?/We gotta get out now/Sir walk this way you’ll work in cubicle/ Get me out now").
 
 Islandeer's sonic confectionery only helps to bolster their tale, with its guitar tone especially irresistible – striking the right balance between clarity and tasteful fuzz. Much like the sweet tale they try to tell, the wonderfully balanced mix helps the band glide through their verses effortlessly, making the song a breezy listen that uplifts in no time.
 
@@ -73,13 +73,13 @@ On the large part, *Daytona* sounds like Islandeer’s victory lap. If this is i
 
 #### ***“Robots”***
 
-**michigan/missinghim / Where Are The Fruits?**
+**Robots / Where Are The Fruits?**
 
 ![Robots - lewloh](https://res.cloudinary.com/ddomozydd/image/upload/v1603022792/lewloh800_fiwxpx.jpg "Robots - lewloh")
 
 \-
 
-In anticipation for his upcoming full-length album entitled *michigan/missinghim*, singer-songwriter Lewis Loh, recently rechristened lewloh, and formerly known as LEW, has dropped his first single *Robots*. With lewloh’s prior output ranking amongst the best works made by Singaporean singer-songwriters in recent memory (namely the gorgeous 2019’s *[Red Flags EP](https://open.spotify.com/album/7wo7srfbSwXff3Li23vu9E?si=oLiOHMxGQNSmJ5orw6PMWQ)* and his debut album, *[Lullacry](https://open.spotify.com/album/6vHxwpxlxCyauOF8UtRjlU?si=4S8teMBATO-ihaiQ60BE0Q)*), *Robots* unfortunately falls short of the lofty standards set by these previous releases. Sadly, it’s somewhat of a step back.
+*Robots* is the latest single from singer-songwriter Lewis Loh, recently rechristened lewloh, and formerly known as LEW. With lewloh’s prior output ranking amongst the best works made by Singaporean singer-songwriters in recent memory (namely the gorgeous 2019’s *[Red Flags EP](https://open.spotify.com/album/7wo7srfbSwXff3Li23vu9E?si=oLiOHMxGQNSmJ5orw6PMWQ)* and his debut album, *[Lullacry](https://open.spotify.com/album/6vHxwpxlxCyauOF8UtRjlU?si=4S8teMBATO-ihaiQ60BE0Q)*), *Robots* unfortunately falls short of the lofty standards set by these previous releases. Sadly, it’s somewhat of a step back.
 
 On Robots, lewloh tackles issues regarding upbringing and societal expectations through the lens of the traditional Asian family dynamic, with a stripped-down performance consisting of just his acoustic guitar and voice. The track excels in terms of its musicality. Its tastefully barebones production helps empower lewloh’s powerfully impassioned vocal performance, as the sparse, lush guitars that color the track help add to its emotional potency. On the sonic end, *Robots* uses its simplicity to its advantage, making for a comprehensively pleasant and satisfying listening experience.
 
