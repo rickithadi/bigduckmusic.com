@@ -4,12 +4,12 @@ title: "WEEKLY PICKS: 18th October 2020"
 author: JX Soo and Isaac Yackem
 col: white
 date: 2020-10-18T11:30:12.308Z
-description: Our top picks this week - featuring a melancholic anthem from
-  Kotoji, hard-hitting footwork from iyer, and sweet indie pop from Much!
+description: Our top picks this week - featuring Sonic destruction from
+  sl_owtalk, smooth indie rock from Islandeer, and folk pop from lewloh!
 category: feature
 spotify: ""
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1602420484/BANNERNOW_fxpjyo.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1602420485/MOBILEBANNER_vahpoq.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1603023556/weeklybanner_ojyjw2.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1603023557/weeklycard_llgwfq.jpg
 tags:
   - Top Picks
   - sl_owtalk
@@ -17,7 +17,7 @@ tags:
   - Islandeer
   - lewloh
 ---
-**Our top picks this week - featuring a melancholic anthem from Kotoji, hard-hitting footwork from iyer, and sweet indie pop from Much!**
+**Our top picks this week - featuring Sonic destruction from sl_owtalk, smooth indie rock from Islandeer, and folk pop from lewloh!**
 
 # sl_owtalk
 
