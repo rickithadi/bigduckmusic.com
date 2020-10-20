@@ -126,14 +126,6 @@ I would like to think no one likes snobs – whether it be on jazz funk or other
 
 That being said, I also create music that’s very different from what people would perceive a pastor to be like. It was never intentional – after all, I have been making music way before my Christian work, but I do find myself in an intersection of things that don’t socially overlap. Over time, I have matured as a person, but I also became a self righteous prick myself – the music in Smokescreen is part of my repentance from that. I could have been that jazz funk snob.
 
-### Speaking about being a pastor – does it play a crossover effect with your pursuits in music and the arts? What influence has religion played in your life?\*\*
-
-I was a musician way before when I was a pastor, so I wouldn’t say that my faith plays a big part in my music – rather, I’ve become more uncompromising in how I’ve expressed myself over the course of my career. In fact, I’m currently on a three-month sabbatical.
-
-I used to be a staunch non-believer – but surprisingly, I went into the arts full-time because of Christianity as well. I was in the pits, and I had an encounter with god. I went to church one day in 1999, and I remembered my pastor saying: “those people who are in the crossroads, give whatever you have to God, and let God guide you”. So I decided to take the leap of faith, and prayed that night. On the same Sunday night, I was invited to three cities as part of an experimental theatre group – Tokyo, Hong Kong, Busan. A mysterious skin affliction that I had forever cleared up as well, and being picked for all these events despite being a complete newbie. I’m the most skeptical person, but I knew that it couldn't be a coincidence. It was a miracle.
-
-So I just went for it – I even cancelled my insurance!
-
 ![George Chua performing](https://res.cloudinary.com/ddomozydd/image/upload/v1603184872/GeorgeChuaPerforming_su0xcj.jpg "George Chua performing")
 
 ***PHOTO: Nicholas Kent Tann***
