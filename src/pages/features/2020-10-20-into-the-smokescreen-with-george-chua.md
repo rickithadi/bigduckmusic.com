@@ -25,8 +25,6 @@ A pioneer since the early 2000s with his work in theatre and sound art, Big Duck
 
 \-
 
-
-
 ![](https://lh5.googleusercontent.com/Do8YcLJuYyjdlBuQ1Si2qJfR-Ut3imiu4QTK_ZnWNfiDfK8e6TG5USZtqoRboRv5VVv1MreXzAQArxfyW8XqVtuaxsCLFglivK3blohy6H_u9v50wYCqlCDTBnt3mt04krgv2OyL)
 
 **PHOTO: Nicholas Kent Tann**
@@ -41,7 +39,7 @@ Around 2016, I was invited to play in Tokyo for the Tokyo Festival of Modular. T
 
 Playing at SuperDeluxe was really memorable. It’s a well-known space – you’d always hear albums namedropping the place; Keiji Haino played there a few times as well. The Japanese have a professionalism to them, and the venue had great sound – so I really enjoyed the performance. Just being able to watch various artists and attend the workshops made for a really fun time.
 
-I didn’t have any intention of my music going anywhere – things just happen and fall into place. So in 2017, Mark from Ujikaji Records floated the idea of making an album. So we had a performance at ArtScience Museum in 2017 for their Late program, with visuals done by video artist Wu Jun Han - that performance was called Smokescreen. It was the spark for the project – although the album didn’t include , the music was very similar – complicated beats and dense noise. The album was done in 2018. 2020 seemed like the most inappropriate time to release the album, but when Mark says it's time, it became the perfect time to do this.
+I didn’t have any intention of my music going anywhere – things just happen and fall into place. So in 2017, Mark from Ujikaji Records floated the idea of making an album. So we had a performance at ArtScience Museum in 2017 for their Late program, with visuals done by video artist Wu Jun Han - that performance was called *Smokescreen*. It was the spark for the project – although the album didn’t include , the music was very similar – complicated beats and dense noise. The album was done in 2018. 2020 seemed like the most inappropriate time to release the album, but when Mark says it's time, it became the perfect time to do this.
 
 ![Tokyo Modular](https://res.cloudinary.com/ddomozydd/image/upload/v1603184001/Tokyo_Modular_vpce7k.jpg "Tokyo Modular")
 
