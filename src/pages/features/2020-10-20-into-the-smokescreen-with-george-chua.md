@@ -140,7 +140,7 @@ So I just went for it – I even cancelled my insurance!
 
 ![George Chua performing](https://res.cloudinary.com/ddomozydd/image/upload/v1603184872/GeorgeChuaPerforming_su0xcj.jpg "George Chua performing")
 
-**PHOTO: Nicholas Kent Tann**
+***PHOTO: Nicholas Kent Tann***
 
 ### What’s some of your favorite music of late, whether it be Ujikaji or beyond?
 
@@ -162,7 +162,7 @@ I don’t look back on past experiences very well, but performing “*Tear Gas*�
 
 ![George performing Tear Gas](https://res.cloudinary.com/ddomozydd/image/upload/v1603185134/GeorgeSubstation_xkgajw.jpg "George performing Tear Gas")
 
-**Chua performing *Tear Gas*. PHOTO: The Substation**
+***Chua performing ''Tear Gas.'' PHOTO: The Substation***
 
 ### Finally, speaking of performances, one memorable performance I remember of yours was the [Evening Chants ](https://www.facebook.com/eveningchants/)show that you performed an eternity ago. Having now returned to your activities, do you notice something that feels different about audiences today when compared to the past?
 
