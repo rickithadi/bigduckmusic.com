@@ -31,7 +31,7 @@ tags:
 
 ### Hi George! Thanks for your time. *Smokescreen* is your first release in around 10 years – what inspired your return to art-making in general – and what went on during your break from it?
 
-I took about a five year break from making music and art-making. But prior to that, I had been a full-time artist, becoming more active around 2002 onwards. I was really the first person that did sound art in Singapore – naturally, there wasn’t sound art-related work back then, but theatres tended to have good budgets back in the day, so I began working with theatres doing sound design work, and I eventually branched out into film and composing across mediums.
+I took about a five year break from making music and art-making. But prior to that, I had been a full-time artist, becoming more active around 2002 onwards. I was really one of my first few people that did sound art in Singapore – naturally, there wasn’t sound art-related work back then, but theatres tended to have good budgets back in the day, so I began working with theatres doing sound design work, and I eventually branched out into film and composing across mediums.
 
 I was very active in the past, but disappeared for a few years – my children were young at the time, and I wanted to reflect and just listen. But I started performing again around 2012 sporadically – it began when I was working with artist Ho Tsu Nyen for his theatre project *The Song of the Brokenhearted Tiger*, and the following year I was invited to Lasalle College of the Arts for another performance. Time passed, and around 2015-16, people began noticing my work again, and became more interested in the music.
 
