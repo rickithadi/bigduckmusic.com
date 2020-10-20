@@ -45,8 +45,6 @@ I didn’t have any intention of my music going anywhere – things just happene
 
 ***PHOTO: Tokyo Festival of Modular***
 
-#### .
-
 ### What was the recording process of *Smokescreen* like?
 
 I don’t feel a need to release an album, unless someone initiates it. In a sense, every performance is a new piece of music. For the past 10 years, I’ve never pre-recorded everything and there aren’t presets and pre-loops that I prepare. In a sense, every piece of music could’ve been an album. That being said, in committing something to recording, one could be making a more serious statement – in this particular statement I am saying something beneath the surface of sonic wars: to pay attention to the softest sound in every track.
@@ -54,8 +52,6 @@ I don’t feel a need to release an album, unless someone initiates it. In a sen
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3794831577/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ujikaji.bandcamp.com/album/smokescreen">Smokescreen by George Chua</a></iframe>
 
 With that said, I spend a long time thinking about the music. Since I worked with a whole case of modular synths, I don’t have a particular module to highlight. I tinker with a patch for weeks on end – but when I record I’m very decisive. The process took around a year – I would make the patch, improvise within it, record four to five different versions of each console, and that would be it. In a sense, each patch becomes an instrument for a particular set of rhythmic interplays.
-
-.
 
 ### **How do you know when a particular track is ready? Was there a specific intent to craft a collection of work with certain subject matter when you first began making the album in 2017?**
 
