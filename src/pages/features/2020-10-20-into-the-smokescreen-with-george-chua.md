@@ -138,7 +138,7 @@ I can listen to all sorts of music, but I find that they play different function
 
 ### You’re a multidisciplinary artist yourself – beyond the sonic realm, what other pieces of art have you been influenced by lately?
 
-Beyond music, I’m also working on a project that I’ve been developing for over ten years – called the "*Seven Legged Spider Dance Troupe*", where I aim to bring the grace of outcast bodies and forms to the forefront. I call it dance because it relates to the language of bodies, but I doubt the phrase also because it upsets people’s usual conceptions of dance. There’s more ways to dance than just grooving along to a beat, though. I used to do a lot of physical theatre – the project’s language is similar to butoh, but I also hesitate to compare it with that, since they have different cultural contexts. Recently, a curator was looking for works for a show that involved the physical body, and so I decided to resurrect the project to showcase.
+Beyond music, I’m also working on a project from the past that I've resurrected called the "Seven Legged Spider Dance Troupe". It's along the lines of physical theatre, which i used to do a lot of – recently, a curator was looking for works for a show that involved the physical body, and so I decided to bring back the project to showcase. More to come.
 
 ### I was wondering whether you could give us a lowdown on “*Tear Gas*”, the piece you recorded at the [Substation](https://www.substation.org/) for BlackKaji - and how it relates to the work on Smokescreen? Was it similarly in focus or in its process?
 
