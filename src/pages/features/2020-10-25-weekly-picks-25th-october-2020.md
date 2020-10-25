@@ -5,7 +5,7 @@ author: JX Soo
 col: white
 date: 2020-10-25T12:44:41.977Z
 description: Our top picks this week - featuring earthshaking screamo from
-  Naedr, sparkling hyperpop debut from Cayenne, and intoxicating beats from
+  Naedr, a sparkling hyperpop debut from Cayenne, and intoxicating beats from
   mastermind Intriguant.
 category: feature
 spotify: ""
@@ -18,7 +18,7 @@ tags:
   - Jorud
   - Intriguant
 ---
-**Our top picks this week - featuring earthshaking screamo from Naedr, sparkling hyperpop debut from Cayenne, and intoxicating beats from mastermind Intriguant.**
+**Our top picks this week - featuring earthshaking screamo from Naedr, a sparkling hyperpop debut from Cayenne, and intoxicating beats from mastermind Intriguant.**
 
 # Naedr
 
@@ -93,7 +93,5 @@ At certain junctures, the beats stall and repeat in place, giving highlights to 
 **Listen to "Your Love" here:**
 
 <iframe src="https://open.spotify.com/embed/track/3UgfKkZCwTU9de3iRugoaO" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
 
 * **\- by JX Soo**
