@@ -76,7 +76,7 @@ Drivin’ Away is out now on all platforms.
 
 #### ***“Your Love”***
 
-**Spirits / Syndicate**
+**Spirits / TAV Records**
 
 ![Intriguant - Your Love](https://res.cloudinary.com/ddomozydd/image/upload/v1603630625/intriguant800_n6gtcy.jpg "Intriguant - Your Love")
 
