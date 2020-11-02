@@ -20,8 +20,6 @@ tags:
 ---
 **Our top picks this week - featuring a special live performance of sludgy stoner rock from Marijannah, a perfect neo-soul and acid-jazz bop from Wednesday's Child, and hard rap from Deliciious and Han.**
 
-
-
 # Marijannah
 
 #### ***“Full Moon / Shapeless (Live)”***
@@ -60,7 +58,11 @@ Unfortunately, *Istanah*’s main flaw also carries through - with the vocal per
 
 \-
 
-Placeholder
+Wednesday’s Child is the solo project of young bassist/songwriter Elliot Tan – painting her canvas with a sparkling amalgamation of lush jazz voicings, impeccable bass grooves and Nujabes-esque beatwork, she first emerged with*[ Siren Song](https://open.spotify.com/track/3BIoBQmtEuLWKe2Jmkw2Pg?si=8EXX5prHQyOCFFMl88wgaA)*, an entrancing single that recruited the smooth croons of Woes’ Raizel that demonstrated a distinct neo-soul sensibilities to full effect (think the likes of Hiatus Kaiyote). On her latest release, *Pedestrian Life*, her arsenal is once again on full display – albeit in a brighter effort, teaming up with singer Marj to deliver a perfectly soulful and groovy ode to holding on and unwanted goodbyes. 
+
+Her sensibilities form the bedrock for an impassioned vocal performance by Marj - “don’t wanna go back to my Pedestrian Life,” she laments as she recounts minute, intimate moments. Coloured with tasteful drum chops, pleasantly poppy keys and a tastefully stanky synth solo in the middle, they form a charismatic alchemy that pulls listeners into her world.
+
+*Pedestrian Life* is a strong document of youth, longing, and fleeting adventure, all tightly and earnestly put together. It’s music that truly makes you feel, and music that feels like a glimpse into something about Elliot, Marj, and perhaps even yourself every time you listen to it. Another quality offering from one of the most promising acts to emerge from Singapore this year.
 
 **Listen to “Pedestrian Life” here:**
 
@@ -87,7 +89,5 @@ With these ad-libs, his natural accent actually breaks through as one of his gre
 **You can listen to “Taiji” here:**
 
 <iframe src="https://open.spotify.com/embed/track/0V38uFiE0ZTtPZwt0gE0vE" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
 
 * **\- by Isaac Yackem**
