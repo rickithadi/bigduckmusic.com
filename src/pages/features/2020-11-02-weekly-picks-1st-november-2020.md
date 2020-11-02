@@ -36,7 +36,7 @@ Given that vast chunks of their lyrical content are based off horror movies, the
 
 Wong’s hard-hitting, almost mechanical rhythms, which he does while concurrently singing, makes him look like he’s been possessed by the spirit of Frankenstein’s monster. That, on top of the trance-like state of the rest of the band, helps the quartet plough through hammering riff work and thick wah-infused guitar solos, imbuing this performance with a true sense of Halloween spirit. 
 
-Unfortunately, *Istanah*’s main flaw also carries through - with the vocal performances by Wong and Juraimi be so averagely *okay*. Their singing is by no means bad, but it’s still the weakest link in an otherwise powerful and face-melting performance by Marijannah. This is also made worse by the vocals sitting at such an awkward frequency in the mix where it feels muffled and buried by the mix, unable to cut through the sludge. With all that said, given that it is stoner rock after all, the vocals aren’t really a deal breaker at all – unless you’re really looking to nitpick.
+Unfortunately, *Istanah*’s main flaw also carries through - with the vocal performances by Wong and Juraimi being so averagely *okay*. Their singing is by no means bad, but it’s still the weakest link in an otherwise powerful and face-melting performance by Marijannah. This is also made worse by the vocals sitting at such an awkward frequency in the mix where it feels muffled and buried by the mix, unable to cut through the sludge. With all that said, given that it is stoner rock after all, the vocals aren’t really a deal breaker at all – unless you’re really looking to nitpick.
 
 **Marijannah’s performance of Full Moon/Shapeless is best experienced with the video accompanying it and you can watch it here:**
 
