@@ -1,6 +1,6 @@
 ---
 templateKey: picks-page
-date: 2020-11-16T07:32:56.219Z
+date: 2020-11-16T07:36:54.856Z
 title: 15th Nov 2020
 featuredimageso:
   - image: https://res.cloudinary.com/ddomozydd/image/upload/b_rgb:000000,co_rgb:000000,e_gradient_fade:20,y_-0.5/v1605510068/prodigiium800_k5qzlb.jpg
