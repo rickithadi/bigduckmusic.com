@@ -1,7 +1,7 @@
 ---
 templateKey: picks-page
-date: 2020-11-02T09:23:06.096Z
-title: Weekly Picks 15th November 2020
+date: 2020-11-16T07:32:56.219Z
+title: 15th Nov 2020
 featuredimageso:
   - image: https://res.cloudinary.com/ddomozydd/image/upload/b_rgb:000000,co_rgb:000000,e_gradient_fade:20,y_-0.5/v1605510068/prodigiium800_k5qzlb.jpg
     link: https://open.spotify.com/track/0LezXEBFZ4HgMtLZqrK6WH?si=988CYU28SruXiG-9JJAMog
