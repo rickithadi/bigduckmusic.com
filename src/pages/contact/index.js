@@ -122,7 +122,7 @@ export default class Index extends React.Component {
               </div>
               <div className="field">
                 <button
-                  className="button is-link cen"
+                  className="button is-link cen biker"
                   type="submit"
                   style={{
                     backgroundColor: 'black',
