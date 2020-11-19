@@ -91,6 +91,9 @@ class BlogRollF extends React.Component {
                           </figure>
                         </div>
                         <Link
+                        onClick={e => {
+                          this.move();
+                        }}
                           to={post.fields.slug}
                           style={{paddingTop: '15px', color: 'inherit'}}>
                           <div class="container" style={{height: '100%'}}>
