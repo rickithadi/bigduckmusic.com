@@ -28,9 +28,9 @@ My favourite thing about artists making music is their relinquishing a song of i
 
 Lots of artists play in their own bands on the side as well, to supplement their creative diet, to vent, to communicate and exchange in ways spoken language cannot. Art-making is one of the ways one channels their creative energies, and some ideas just translate better as music, and this is just as true here in Singapore. Here are just five tracks from five of many Singapore-based artist-musicians to check out!
 
-# **Take on the Ziggurat**
+# **Jeremy Sharma**
 
-**from Nuclear Families by Jeremy Sharma**
+**Take on the Ziggurat from Nuclear Families** 
 
 ![Jeremy Sharma](https://res.cloudinary.com/ddomozydd/image/upload/v1600759214/jeremysharma_t3ooay.jpg "Jeremy Sharma")
 
@@ -46,9 +46,9 @@ Nuclear Families was his debut solo album as Jeremy Sharma, and personally it is
 
 <iframe src="https://open.spotify.com/embed/track/2FMDjj5uM3JoEJGl3ryfjj" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-# **Shoebox**
+# **Bani Haykal**
 
-**from Tomorrow Is Our Permanent Address by B-Quartet**
+**Shoebox from Tomorrow Is Our Permanent Address by B-Quartet**
 
 ![Bani Haykal](https://res.cloudinary.com/ddomozydd/image/upload/v1599499907/bani_vb4esr.jpg "Bani Haykal")
 
@@ -64,9 +64,9 @@ I still need a few more listens of B-Quartet’s stuff – but so far, I’ve re
 
 <iframe src="https://open.spotify.com/embed/track/1UbvapOt3OIMhYv9ZOG6ZP" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-# **Morning Song 4**
+#### **Yeyoon Avis Ann**
 
-**from Elec.(AR)chival by nerd.ster**
+**Morning Song 4 from Elec.(AR)chival by nerd.ster**
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1600759618/yeyoonavisann_yrqntn.jpg)
 
@@ -84,9 +84,9 @@ Morning Song 4 is featured in the second half of her video-installation work, [O
 
 [](https://soundcloud.com/ye-yoon-ann)
 
-# **i'm saying i'm ok, i'm ok (but in actual fact i'm not i'm not)**
+# **Lai Yu Tong**
 
-**from Bad Memories by Pessimist Pies**
+**i'm saying i'm ok, i'm ok (but in actual fact i'm not i'm not) from Bad Memories by Pessimist Pies**
 
 ![Lai Yu Tong](https://res.cloudinary.com/ddomozydd/image/upload/v1600759760/LaiYuTong_lmwshr.jpg "Lai Yu Tong")
 
@@ -102,9 +102,9 @@ Yu Tong and his friend Ryan made [Pessimist Pies](https://pessimistpies.bandcamp
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=743424325/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=59246384/transparent=true/" seamless><a href="https://pessimistpies.bandcamp.com/album/bad-memories">Bad Memories by 难过蛋糕 Pessimist Pies</a></iframe>
 
-# **Hot Boy**
+# **Ian Woo**
 
-**from Midnight Hot by I\D**
+**Hot Boy from Midnight Hot by I\D**
 
 ![Ian Woo](https://res.cloudinary.com/ddomozydd/image/upload/v1600759891/IanWoo_gm2b8j.jpg "Ian Woo")
 
