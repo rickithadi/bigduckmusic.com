@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "WEEKLY PICKS: 8th August 2020"
+title: 'WEEKLY PICKS: 8th August 2020'
 author: JX Soo and Isaac Yackem
 col: white
 date: 2020-08-08T09:24:07.363Z
@@ -18,15 +18,20 @@ tags:
   - Don.a.aron
   - CHERIE SLAYN
 ---
+
 **Our top picks this week - featuring our favorite dapat music connoisseur Don.a.aron, harrowing emoviolence from Nuvolascura, and the majestic orchestral beauty of Owen Pallett!**
 
 # Owen Pallett
 
-#### ***“A Bloody Morning”***
+#### **_“A Bloody Morning”_**
 
 **Island**
 
-![Owen Pallett - Island](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick1_mgkc5l.jpg "Owen Pallett - Island")
+![Owen Pallett - Island](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick1_mgkc5l.jpg 'Owen Pallett - Island')
+
+<h1 style={{color:'blue'}}>hi</h1>
+<h1 style={{color:'blue'}}>hi</h1>
+<h1 style="color:blue;">This is a Blue Heading</h1>
 
 \
 From his fantastical sagas as Final Fantasy to the wide-eyed songcraft of Heartland, Owen Pallett’s intricate chamber-pop songs have always been delicate exercises of introversion - but by scaling back even more on their fifth full-length effort, Pallett manages to extract a poignant tale of faith and humanity from a wandering, orchestral expanse. Six years on from the vulnerable In Conflict, the Canadian composer reprises the character of Lewis, the protagonist of 2010’s Heartland. Having defeated his omnipresent deity Owen in the album’s predecessor, Lewis is now alone, washed ashore - and instead of their usual exuberant electronics, Pallett’s achingly beautiful arrangements take center stage, weaving a restrained and brooding tale of self-reflection. The record’s first half is much more reserved than his previous efforts. From the folky picking of “Transformer” to the prancing “Paragon of Order”, Pallett’s airy vocals present his novel-esque mythology episode by episode, while the orchestra looms in the background, waiting for the perfect moment to emerge.
@@ -39,15 +44,15 @@ Yet even within these grandiose orchestral arrangements, a sense of grounded cla
 
 ###### Listen to "A Bloody Morning" [here](https://owenpallett.bandcamp.com/track/a-bloody-morning).
 
-* **\- by JX Soo**
+- **\- by JX Soo**
 
 # Nuvolascura
 
-#### ***“Pixel Vision Anxiety”***
+#### **_“Pixel Vision Anxiety”_**
 
-***As We Suffer From Memory and Imagination***
+**_As We Suffer From Memory and Imagination_**
 
-![Nuvolascura - As We Suffer From Memory and Imagination](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick2_z5chj4.jpg "Nuvolascura - As We Suffer From Memory and Imagination")
+![Nuvolascura - As We Suffer From Memory and Imagination](https://res.cloudinary.com/ddomozydd/image/upload/v1596384079/pick2_z5chj4.jpg 'Nuvolascura - As We Suffer From Memory and Imagination')
 
 \
 The year has been one of shock and paralysis - one borne root from senseless violence and disease, activated through trauma and media, manifested through overstimulation and disorientation. With their blistering self-titled debut in 2019, the Los Angeles four-piece vaulted to screamo’s forefront with their white-hot salvos of mathcore intensity, spearheaded by dynamic, desperate songwriting and frontwoman Erica’s piercing vocals, like on punishing tracks like “death as a crown” and “half-truth”. On their sophomore effort, however, they have expanded their sonic palette, with tapped technicality, ambient collages and tonal and tempo whiplashes coloring the duration of As We Suffer’s… brief 21-minute runtime.
@@ -60,15 +65,15 @@ But the break is merely a deceptive calm before the storm. As the track’s neur
 
 ###### Listen to "Pixel Vision Anxiety" [here](https://nuvolascura.bandcamp.com/track/pixel-vison-anxiety).
 
-* **\- by JX Soo**
+- **\- by JX Soo**
 
 # DON.A.A.RON (feat. CHERIE SLAYN)
 
-#### ***"DISTANCE"***
+#### **_"DISTANCE"_**
 
 ###### Distance
 
-![Don.a.aron - DISTANCE](https://res.cloudinary.com/ddomozydd/image/upload/v1596384095/Pick3_lunrio.jpg "Don.a.aron - DISTANCE")
+![Don.a.aron - DISTANCE](https://res.cloudinary.com/ddomozydd/image/upload/v1596384095/Pick3_lunrio.jpg 'Don.a.aron - DISTANCE')
 
 Inspired by the separation anxiety that came with the lockdowns as a result of the global pandemic, DISTANCE sounds like it could about a long distance relationship, a couple being way too clingy or just about any scenario that involves yearning for your lover, either way it’s a banging retro-pop bop.
 
@@ -78,4 +83,4 @@ A tasteful combination of a simple albeit groovy retro-futuristic rhythm section
 
 ###### You can check out a stripped down acoustic version of the song that they premiered on Facebook recently [here](https://www.facebook.com/iamdon.a.a.ron/videos/345150536514608/), as well as the single itself [here](https://open.spotify.com/track/2nI1s0lRGGonltLMqAZg3y?si=89P1IfaGToWt19mi3cIgyg).
 
-* **\- by Isaac Yackem**
+- **\- by Isaac Yackem**
