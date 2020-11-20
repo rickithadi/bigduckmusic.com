@@ -55,7 +55,7 @@ class BlogRollF extends React.Component {
                           <div class="container" style={{height: '100%'}}>
                             <article className="blog-list-item tile is-child">
                               <div className="columns is-mobile">
-                                <p className="top">{post.frontmatter.title}</p>
+                                <h1 >{post.frontmatter.title}</h1>
                               </div>
                               <div className="columns is-mobile">
                                 <p className="bike">"{post.excerpt}"</p>
@@ -99,7 +99,7 @@ class BlogRollF extends React.Component {
                           <div class="container" style={{height: '100%'}}>
                             <article className="blog-list-item tile is-child">
                               <div className="columns is-mobile">
-                                <p className="top">{post.frontmatter.title}</p>
+                                <h1 >{post.frontmatter.title}</h1>
                               </div>
                               <div className="columns is-mobile">
                                 <p className="bike">"{post.excerpt}"</p>
