@@ -80,7 +80,7 @@ export const BlogPostTemplate = ({
         class="is-hidden-touch"
         style={{
           width: '100vw',
-          height: '52vh',
+          height: '100%',
           backgroundImage: `url(${featuredimageo})`,
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
@@ -94,35 +94,37 @@ export const BlogPostTemplate = ({
             style={{
               color: 'white',
               paddingTop: '10vh',
+              paddingBottom: '10vh',
             }}>
             {title}
           </h1>
-          <div
+          {category && (
+            <span
+              style={{
+              }}
+              className="swaggy">
+              {category}
+            </span>
+          )}
+          <p
+            className="bikercb"
             style={{
-              top: '40vh',
-              paddingTop: '3vh',
+              marginTop: '10px',
+              padding: '0px',
+              color: `${col}`,
             }}>
-            {category && <span className="swaggy ">{category}</span>}
-            <p
-              className="bikercb"
-              style={{
-                marginTop: '10px',
-                padding: '0px',
-                color: `${col}`,
-              }}>
-              {' '}
-              Written by {author}
-            </p>
-            <p
-              className="bikercb"
-              style={{
-                padding: '0px',
-                color: `${col}`,
-              }}>
-              {' '}
-              Published on {date}
-            </p>
-          </div>
+            {' '}
+            Written by {author}
+          </p>
+          <p
+            className="bikercb"
+            style={{
+              padding: '0px',
+              color: `${col}`,
+            }}>
+            {' '}
+            Published on {date}
+          </p>
         </div>
       </div>
 
