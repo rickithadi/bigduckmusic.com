@@ -30,16 +30,20 @@ class BlogRollSmall extends React.Component {
                     key={post.id}
                     style={{height: '100%'}}>
                     <div class="card-image">
-                      {post.frontmatter.category && (
-                        <span className="taggy bike is-pulled-right">
-                          {post.frontmatter.category}
-                        </span>
-                      )}
-                      <img
-                        //src="https://bulma.io/images/placeholders/1280x960.png"
-                        src={post.frontmatter.dispImage}
-                        alt="Placeholder image"
-                      />
+        {post.frontmatter.category && (
+                      <span className="taggy bike is-pulled-right">
+                        {post.frontmatter.category}
+                      </span>
+                    )}
+
+
+                      <div style={{margin: 'none !important'}}>
+                        <img
+                          //src="https://bulma.io/images/placeholders/1280x960.png"
+                          src={post.frontmatter.dispImage}
+                          alt="Placeholder image"
+                        />
+                      </div>
                     </div>
                     <div className="card-header-title">
                       <h2>{post.frontmatter.title}</h2>
