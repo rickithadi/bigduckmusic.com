@@ -22,15 +22,15 @@ class BlogRollF extends React.Component {
     return (
       <div>
         {posts && (
-          <div className="columns is-multiline ">
+          <div class="tile is-ancestor columns is-multiline">
             {!this.state.isMobile
               ? efs.slice(0, 8).map(({node: post}) => {
                   return (
-                    <div
-                      className="is-parent column is-3 "
-                      key={post.id}
-                      style={{height: '100%'}}>
-                      <div class="card">
+                    <div class="colums is-3 tile is-parent">
+                      <div
+                        class="tile is-child card"
+                        key={post.id}
+                        style={{height: '100%'}}>
                         <div class="card-image">
                           {post.frontmatter.category && (
                             <span className="taggy bike is-pulled-right">
@@ -55,7 +55,7 @@ class BlogRollF extends React.Component {
                           <div class="container" style={{height: '100%'}}>
                             <article className="blog-list-item tile is-child">
                               <div className="columns is-mobile">
-                                <h1 >{post.frontmatter.title}</h1>
+                                <h1>{post.frontmatter.title}</h1>
                               </div>
                               <div className="columns is-mobile">
                                 <p className="bike">"{post.excerpt}"</p>
@@ -63,53 +63,57 @@ class BlogRollF extends React.Component {
                             </article>
                           </div>
                         </Link>
-                        <p className="biker">{post.frontmatter.date}</p>
+                        <div class="card-footer">
+                          <p className="biker">{post.frontmatter.date}</p>
+                        </div>
                       </div>
                     </div>
                   );
                 })
               : efs.slice(0, 4).map(({node: post}) => {
                   return (
-                    <div
-                      className="is-parent column is-3 "
-                      key={post.id}
-                      style={{height: '100%'}}>
-                      <div class="card">
-                        <div class="card-image">
-                          {post.frontmatter.category && (
-                            <span className="taggy bike is-pulled-right">
-                              {post.frontmatter.category}
-                            </span>
-                          )}
+                    <div class="tile is-parent">
+                      <div
+                        class="tile is-child card"
+                        key={post.id}
+                        style={{height: '100%'}}>
+                          <div class="card-image">
+                            {post.frontmatter.category && (
+                              <span className="taggy bike is-pulled-right">
+                                {post.frontmatter.category}
+                              </span>
+                            )}
 
-                          <figure class="image is-4by3">
-                            <img
-                              //src="https://bulma.io/images/placeholders/1280x960.png"
-                              src={post.frontmatter.dispImage}
-                              alt="Placeholder image"
-                            />
-                          </figure>
-                        </div>
-                        <Link
-                        onClick={e => {
-                          this.move();
-                        }}
-                          to={post.fields.slug}
-                          style={{paddingTop: '15px', color: 'inherit'}}>
-                          <div class="container" style={{height: '100%'}}>
-                            <article className="blog-list-item tile is-child">
-                              <div className="columns is-mobile">
-                                <h1 >{post.frontmatter.title}</h1>
-                              </div>
-                              <div className="columns is-mobile">
-                                <p className="bike">"{post.excerpt}"</p>
-                              </div>
-                            </article>
+                            <figure class="image is-4by3">
+                              <img
+                                //src="https://bulma.io/images/placeholders/1280x960.png"
+                                src={post.frontmatter.dispImage}
+                                alt="Placeholder image"
+                              />
+                            </figure>
                           </div>
-                        </Link>
-                        <p className="biker">{post.frontmatter.date}</p>
+                          <Link
+                            onClick={e => {
+                              this.move();
+                            }}
+                            to={post.fields.slug}
+                            style={{paddingTop: '15px', color: 'inherit'}}>
+                            <div class="container" style={{height: '100%'}}>
+                              <article className="blog-list-item tile is-child">
+                                <div className="columns is-mobile">
+                                  <h1>{post.frontmatter.title}</h1>
+                                </div>
+                                <div className="columns is-mobile">
+                                  <p className="bike">"{post.excerpt}"</p>
+                                </div>
+                              </article>
+                            </div>
+                          </Link>
+                          <div class="card-footer">
+                            <p className="biker">{post.frontmatter.date}</p>
+                          </div>
+                        </div>
                       </div>
-                    </div>
                   );
                 })}
           </div>
