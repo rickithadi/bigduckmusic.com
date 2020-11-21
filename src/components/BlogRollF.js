@@ -27,63 +27,22 @@ class BlogRollF extends React.Component {
               ? efs.slice(0, 8).map(({node: post}) => {
                   return (
                     <div class="colums is-3 tile is-parent">
-                      <div
-                        class="tile is-child card"
-                        key={post.id}
-                        style={{height: '100%'}}>
-                        <div class="card-image">
-                          {post.frontmatter.category && (
-                            <span className="taggy bike is-pulled-right">
-                              {post.frontmatter.category}
-                            </span>
-                          )}
-
-                          <figure class="image is-4by3">
-                            <img
-                              //src="https://bulma.io/images/placeholders/1280x960.png"
-                              src={post.frontmatter.dispImage}
-                              alt="Placeholder image"
-                            />
-                          </figure>
-                        </div>
-                        <Link
-                          onClick={e => {
-                            this.move();
-                          }}
-                          to={post.fields.slug}
-                          style={{paddingTop: '15px', color: 'inherit'}}>
-                          <div class="container" style={{height: '100%'}}>
-                            <article className="blog-list-item tile is-child">
-                              <div className="columns is-mobile">
-                                <h1>{post.frontmatter.title}</h1>
-                              </div>
-                              <div className="columns is-mobile">
-                                <p className="bike">"{post.excerpt}"</p>
-                              </div>
-                            </article>
-                          </div>
-                        </Link>
-                        <div class="card-footer">
-                          <p className="biker">{post.frontmatter.date}</p>
-                        </div>
-                      </div>
-                    </div>
-                  );
-                })
-              : efs.slice(0, 4).map(({node: post}) => {
-                  return (
-                    <div class="tile is-parent">
-                      <div
-                        class="tile is-child card"
-                        key={post.id}
-                        style={{height: '100%'}}>
+                      <Link
+                        onClick={e => {
+                          this.move();
+                        }}
+                        to={post.fields.slug}
+                        style={{paddingTop: '15px', color: 'inherit'}}>
+                        <div
+                          class="tile is-child card"
+                          key={post.id}
+                          style={{height: '100%'}}>
                           <div class="card-image">
                             {post.frontmatter.category && (
                               <span className="taggy bike is-pulled-right">
                                 {post.frontmatter.category}
                               </span>
                             )}
-
                             <figure class="image is-4by3">
                               <img
                                 //src="https://bulma.io/images/placeholders/1280x960.png"
@@ -92,28 +51,57 @@ class BlogRollF extends React.Component {
                               />
                             </figure>
                           </div>
-                          <Link
-                            onClick={e => {
-                              this.move();
-                            }}
-                            to={post.fields.slug}
-                            style={{paddingTop: '15px', color: 'inherit'}}>
-                            <div class="container" style={{height: '100%'}}>
-                              <article className="blog-list-item tile is-child">
-                                <div className="columns is-mobile">
-                                  <h1>{post.frontmatter.title}</h1>
-                                </div>
-                                <div className="columns is-mobile">
-                                  <p className="bike">"{post.excerpt}"</p>
-                                </div>
-                              </article>
-                            </div>
-                          </Link>
+                          <div className="card-header-title">
+                            <h1>{post.frontmatter.title}</h1>
+                          </div>
                           <div class="card-footer">
-                            <p className="biker">{post.frontmatter.date}</p>
+                            <p className="biker card-footer-item">
+                              {post.frontmatter.date}
+                            </p>
                           </div>
                         </div>
-                      </div>
+                      </Link>
+                    </div>
+                  );
+                })
+              : efs.slice(0, 4).map(({node: post}) => {
+                  return (
+                    <div class="colums is-3 tile is-parent">
+                      <Link
+                        onClick={e => {
+                          this.move();
+                        }}
+                        to={post.fields.slug}
+                        style={{paddingTop: '15px', color: 'inherit'}}>
+                        <div
+                          class="tile is-child card"
+                          key={post.id}
+                          style={{height: '100%'}}>
+                          <div class="card-image">
+                            {post.frontmatter.category && (
+                              <span className="taggy bike is-pulled-right">
+                                {post.frontmatter.category}
+                              </span>
+                            )}
+                            <figure class="image is-4by3">
+                              <img
+                                //src="https://bulma.io/images/placeholders/1280x960.png"
+                                src={post.frontmatter.dispImage}
+                                alt="Placeholder image"
+                              />
+                            </figure>
+                          </div>
+                          <div className="card-header-title">
+                            <h1>{post.frontmatter.title}</h1>
+                          </div>
+                          <div class="card-footer">
+                            <p className="biker card-footer-item">
+                              {post.frontmatter.date}
+                            </p>
+                          </div>
+                        </div>
+                      </Link>
+                    </div>
                   );
                 })}
           </div>
