@@ -57,12 +57,12 @@ class BlogRoll extends React.Component {
                         this.move();
                       }}
                       to={post.fields.slug}
-                      style={{paddingTop: '15px', color: 'inherit'}}>
+                      style={{paddingTop: '15px', color: 'inherit',width:'100%'}}>
                       <div
                         class="tile is-child card"
                         key={post.id}
                         style={{height: '100%'}}>
-                        <div class="card-image">
+                        <div class="card-image is-4by3">
                           {post.frontmatter.category && (
                             <span className="taggy bike is-pulled-right">
                               {post.frontmatter.category}

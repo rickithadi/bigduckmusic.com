@@ -24,7 +24,7 @@ class BlogRollSmall extends React.Component {
                     this.move();
                   }}
                   to={post.fields.slug}
-                  style={{paddingTop: '15px', color: 'inherit'}}>
+                  style={{paddingTop: '15px', color: 'inherit',width:'100%'}}>
                   <div
                     class="tile is-child card"
                     key={post.id}
