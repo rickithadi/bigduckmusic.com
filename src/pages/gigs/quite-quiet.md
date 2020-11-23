@@ -30,7 +30,7 @@ tags:
   - Tim De Cotta
   - Cherry Syrup
 ---
-We were honoured to be have had the full band debut of Quite Quiet on the 14th of March! \
+We were honoured to have had the full band debut of Quite Quiet on the 14th of March! \
 From the likes of funky scene veteran Time De Cotta and bedroom pop newcomers Cherry Syrup, we had a wonderful all rounded lineup to mark this memorable occasion!
 
 FEATURING SECRET ACT "MARSUPIALS"\
