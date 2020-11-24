@@ -4,9 +4,8 @@ title: "WEEKLY PICKS: 22nd November 2020"
 author: JX Soo & Isaac Yackem
 col: white
 date: 2020-11-22T11:30:43.142Z
-description: Our top picks this week - featuring a crushing metal from newcomers
-  Prodigium, a groovy indie rock banger from M1LDL1FE, and dexterous rap from
-  Opus Renegade and KNWN.
+description: Our top picks this week - featuring dreamy r'n'b from Leeray,
+  anthemic shoegaze from culenasm, and cathartic indie pop from whirring.
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1606217580/banner_gls5po.jpg
@@ -17,7 +16,7 @@ tags:
   - culenasm
   - whirring
 ---
-**Our top picks this week - featuring a crushing metal from newcomers Prodigium, a groovy indie rock banger from M1LDL1FE, and dexterous rap from Opus Renegade and KNWN.**
+**Our top picks this week - featuring dreamy r'n'b from Leeray, anthemic shoegaze from culenasm, and cathartic indie pop from whirring.**
 
 # Leeray
 
