@@ -4,7 +4,7 @@ title: "WEEKLY PICKS: 22nd November 2020"
 author: JX Soo & Isaac Yackem
 col: white
 date: 2020-11-22T11:30:43.142Z
-description: Our top picks this week - featuring dreamy r'n'b from Leeray,
+description: Our top picks this week - featuring dreamy R'n'B from Leeray,
   anthemic shoegaze from culenasm, and cathartic indie pop from whirring.
 category: feature
 spotify: ""
@@ -16,7 +16,7 @@ tags:
   - culenasm
   - whirring
 ---
-**Our top picks this week - featuring dreamy r'n'b from Leeray, anthemic shoegaze from culenasm, and cathartic indie pop from whirring.**
+**Our top picks this week - featuring dreamy R'n'B from Leeray, anthemic shoegaze from culenasm, and cathartic indie pop from whirring.**
 
 # Leeray
 
