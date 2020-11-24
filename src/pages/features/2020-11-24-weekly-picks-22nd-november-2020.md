@@ -85,3 +85,5 @@ There’s a good song in *if you’d have me* – but its overall underwhelming 
 **You can listen to “if you'd have me” here:**
 
 <iframe src="https://open.spotify.com/embed/track/0YRm5Kbyhg0u9O38pBhC8X" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* **\- by Isaac Yackem**
