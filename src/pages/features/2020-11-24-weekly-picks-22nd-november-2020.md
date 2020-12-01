@@ -1,89 +1,95 @@
 ---
 templateKey: blog-post
-title: "WEEKLY PICKS: 22nd November 2020"
-author: JX Soo & Isaac Yackem
+title: "WEEKLY PICKS: 29th November 2020"
+author: Isaac Yackem & Chester
 col: white
-date: 2020-11-22T11:30:43.142Z
-description: Our top picks this week - featuring dreamy R'n'B from Leeray,
-  anthemic shoegaze from culenasm, and cathartic indie pop from whirring.
+date: 2020-11-29T09:30:43.142Z
+description: Our top picks this week - alternative hip-hop from P_NEDA,
+  retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop Thaddeus
+  Lin!
 category: feature
 spotify: ""
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1606217580/banner_gls5po.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1606217579/cardz_wxxue5.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1606812386/banner_wdkxg5.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1606812386/card_axp2s9.jpg
 tags:
   - Top Picks
-  - Leeray
-  - culenasm
-  - whirring
+  - P_NEDA
+  - Houg
+  - Lincoln Lim
+  - Thaddeus Lin
 ---
-**Our top picks this week - featuring dreamy R'n'B from Leeray, anthemic shoegaze from culenasm, and cathartic indie pop from whirring.**
+**Our top picks this week - alternative hip-hop from P_NEDA, retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop Thaddeus Lin.**
 
-# Leeray
+# P_NEDA
 
-#### ***“Semicircle”***
+#### ***“Lotus”***
 
-**Semicircle**
+**Perseherone's Garden / UGLYBOYS**
 
-![Semicircle - Leeray](https://res.cloudinary.com/ddomozydd/image/upload/v1606217663/Leeray800_nbmswl.jpg "Semicircle - Leeray")
-
-\-
-
-Dubbing his work “Dream R 'n’ B", young upstart vocalist Leeray has been at it for a couple of singles, with a brand of downcast, soulful crooning not far from the lane of . But although the 808-friendly stylings of his previous work helped him blend into the company of his R'n'B contemporaries, his success at conjuring the ‘dream’ part of gimmick has definitely been mixed – with much of his chosen stylings overpowering his vocal presence, while also watering down the distinctiveness of his pop music. With *Semicircle*, however, he finally finds himself in the ballpark of hypnagogic atmosphere, weaving a fever-dream-like ode commiserating unrealised potential and celebrating newfound strength.
-
-Opening with an attention-arresting beat topped with whipping snares and conga layers, arpeggiating, harp-like synths introduce a reverberating, dreamy haze that serves as wonderful bedrock for his verses. With the cloudy sonic haze dripping with personality, he finds a winning formula by toning back, giving *Semicircle* a newfound effortlessness that delivers in spades. Simplicity is key when riding such tasteful production, and he largely understands this this time round. Delivering subdued, feathery verses that balance a self-effacing attitude with resigned realism, the result is a deliciously queer slow jam perfect for self-reflective nights alone – and easily way more evocative than any of his previous singles.  
-
-Unfortunately, the vocals are also placed a tad awkwardly too high in the mix – but it does also give it a charming home-made quality. “Eyes on the prizes/I been getting wiser/you say what you want with the cap on,” he proclaims in an affirming refrain – and on a parade of shuffling hats and snares, smeared with tastefully lush key harmonies, the result is a song close to a wonderfully intimate microportrait of his own growth towards self-belief. It’s still very much work in progress to a full moon – but as far as Leeray’s melodies on Semicircle goes, it’s a winner through simplicity. Or as he puts it, done wasting time on bullshit.
-
-**Listen to "Semicircle" here:**
-
-<iframe src="https://open.spotify.com/embed/track/1rczAooJEgjtLYfLoMnbeZ" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-* **\- by JX Soo**
-
-# culenasm
-
-#### ***"Mabushikute"***
-
-###### eyes on you
-
-![eyes on you - Culenasm](https://res.cloudinary.com/ddomozydd/image/upload/v1606217663/culenasm800_htsufo.jpg "eyes on you - Culenasm")
+![Persephone's Garden - P_NEDA](https://res.cloudinary.com/ddomozydd/image/upload/v1606812382/pneda800_yfbxmj.jpg "Persephone's Garden - P_NEDA")
 
 \-
 
-In a brief two years, Fukuoka quartet culenasm have established themselves as worthy successors to a brand of shoegaze-adjacent indie rock uniquely informed by J-pop sensibilities. It’s a vacuum that’s been left behind ever since the demise of by-now icons Kinoko Teikoku – and a large factor to culenasm’s potential successorship lies in the distinctively translucent vocal presence of vocalist moe. While not a gargantuan operatic presence like Kinoko’s Chiaki Sato, culenasm compensate with a refreshing, melodic sweetness, and on their debut album, rest of the dusk, they channeled their best Kinoko impressions to marvelous results – with tracks like *White Memory* and *Ao wo Miru* surging shoegaze-pop tendencies to post-rockian heights.  
+[UGLYBOYS](https://www.instagram.com/weareuglyboys/) rapper and producer P_NEDA returns a near fully formed artist on his latest EP* [Persephone’s Garden](https://open.spotify.com/album/7AkxttGkpnpugEV3Y3LFKR?si=alUikLyTQPyFm_theKBKtg)*. Traces of BROCKHAMPTON and *Cherry Bomb*-era Tyler the Creator’s influence appear throughout and are apparent on the EP’s solid singles, such as *[Sidekick](https://open.spotify.com/track/2aLTYU3RrfAuJhFnS0psbg?si=btYfGDmvQfaUrZ63SFLL7g)* -boasting impeccable trap beats that incorporates lounging guitar samples, tasty 808s and creative production choices, alongside a catchy hook and assured flows.
 
-On the following effort, in your fragrance, they refined their sound in both extremes – channelling powerful oceanic walls of sound on singles like *petal*, while amplifying their festival-ready J-pop tendencies on others like Helshinki’s Dream, its barrelling basslines and chiming arpeggios paving the path to a massive pop-friendly chorus. Coming into their new album Eyes on you, it’s the latter that has taken hold. In a sharp turn over these six tracks, their J-pop inclinations no longer serves as undercurrent, but a glowing sign of their full-blown jump into the spotlight, as they try their best to get into the good books of Rockin’On Magazine. 
+Opening track *Lotus* is a standout on *Persephone’s Garden*, showcasing P_NEDA’s versatility both as a rapper and producer. Its percussive-focused approach to beatmaking combined with scant thumping 808 bass hits makes the track hard-hitting and driving in contrast to the more sensitive and introspective nature present on most of *Persephone’s Garden*. The track’s percussive elements are akin to the original mix of Run The Jewel’s *[Panther Like a Panther](https://open.spotify.com/track/21qq8XgAn6jiHg8IoDFttL?si=-E4TnF6GS7eFRc7TlZmhAg)*, though slightly more laid back in comparison. What sounds like old-school soul vocals are sampled as well but modulated and pitched, recontextualizing them to sound like something tribal, which compliments the rest of the track. P_NEDA switches it up at the end of the track with a heartfelt and melodic outro, with gorgeous piano chords leading the way before reintroducing the percussive elements on the track in a subversive manner.
 
-Yet unlike Kinoko’s major-label turn into milder, city-flavored grooves, culenasm’s stylings stay laser focused on radiant choruses and anthemic rock energy. It’s no more obvious than on their singles – powerful backbeats color the yearning melancholy of *Kimi no Inai Sekai (A World Without You)*, while they colored their lead single, *Daggers* in Yorushika-like guitar theatrics, breaking out as one of their biggest songs so far with a similarly animated, cerulean video. By all means, eyes on you does not fail on its merits as a pop album – its powerful hooks are undeniable and carry the album wonderfully. 
+*Lotus* also features a killer hook (“Making all the change like a synonym/ They dont even know bout my middle name/ Focus, dont blink/ Lotus, how I'm floating”) and witty lyricism and references (“Gold plaque bronze bust/ They whoopi goldberg while we more like goldust/ Rap game Bernie Sanders - not me, but us,” or “Shit internet, how I'm b-b-b-buffering/ Like the king's speech, chop it up no st-st-st-stuttering, huh”) that keeps the track engaging through and through
 
-But with their shift into the limelight, they also risk losing what made them magical in the first place – their unique melancholic synergy between J-pop sweetness and urgent walls of sound. *Mabushikute (Blinding*) is demonstrative of when this works best. On top of a driving backbeat, wandering guitar arpeggios and ambient textures set the stage for a confessional monologue by moe on a relationship reaching an explosive coda – “Let’s end this/Even though I’ve thought about it endlessly/But emotions interfere,” she croons. As she reflects in falsetto, the chorus explodes with a dramatic synth line bending skyward, resulting in a powerful yet fragile atmosphere many of their peers currently struggle to replicate (“Just a little more/Leave it undelivered… to be with you”)
+Despite leaning strongly on his influences, *Persephone’s Garden* definitely establishes P_NEDA as having his own strong voice and identity within Singaporean rap, and it’s heartening to see yet another hip-hop artist bring his own fresh and distinct sound to the table.
 
-Taking a much poppier approach in their music, their third effort demonstrates that they still very much haven’t lost sight of what makes them great as a band, balancing radiant walls of noise with yearning romanticism. If anything, *Mabushikute*’s light can serve as a guiding path as they continue forward – the light of pop stardom may be bright, but it doesn’t have to be blinding.
+**Listen to "Lotus" here:**
 
-**Listen to “Mabushikute” here:**
-
-<iframe src="https://open.spotify.com/embed/track/50mNiIvaBdeUNodw6ayTTD" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-* **\- by JX Soo**
-
-# whirring
-
-#### ***“if you'd have me”***
-
-**if you'd have me / Where Are The Fruits?**
-
-![if you'd have me - whirring](https://res.cloudinary.com/ddomozydd/image/upload/v1606217663/whirring800_reeykj.jpg "if you'd have me - whirring")
-
-\-
-
-The debut single of indie pop duo whirring, *if you’d have me* threads familiar ground, treading the thin line between a heartfelt, minimalistic pop and elements that unfortunately align them with soon-to-be-dated chart-friendly sounds. At its best, it boasts a satisfyingly cathartic refrain that accompanies groovy arpeggiated synths – but at its worst, it largely sounds undercooked, with a lack of much-needed dynamics in its minimalism impeding its production from filling up its frequencies and delivering the song’s strengths in a satisfying manner. Both vocalists put on a solid performance throughout the track, with emotive yet controlled vocals that really sell the track’s lyrics, in particular it’s earnestly vulnerable chorus (“I can’t be spending all my time/ Lost in you but oh god why/ If the light hits your hair just right/ I might let my feelings show/ Can't tell how you feel but/ Plеase, if you'd have me I would gеt so close”). 
-
-Yet at the same time, the duo’s puzzling decision to sing in unison throughout the entire track without any melodic variation or harmonies is detrimental to the listening experience. Aqid Aiman’s vocals reside awkwardly on the lower mids of the track for the duration of the whole song making it feel unnecessarily tacked on. There’s a ton of enjoyment to be had in *if you’d have me’s* prechorus, with its gratifying arpeggiated synths leading up to a stripped down arrangement, that allows its swelling synths and punchy 808s to come dynamically crashing back in. However, even this section still lacked the overall dynamic impact that would’ve taken an already solid chorus to another level. The production on the chorus is serviceable but feels like a wasted opportunity, not fully leaning into the soaring nature of its composition.
-
-There’s a good song in *if you’d have me* – but its overall underwhelming production and odd stylistic choices vocally leave much more to be desired. Given the duo’s keen musical sensibilities, there’s still tonnes of untapped potential within the project. With their overall sonic aesthetic, I’m sure it's just a matter of time before they find a more solid footing to cement their own identity within the Southeast Asian indie pop sphere.
-
-**You can listen to “if you'd have me” here:**
-
-<iframe src="https://open.spotify.com/embed/track/0YRm5Kbyhg0u9O38pBhC8X" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2GCae0EpuIu9F4OPPEpLx3" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * **\- by Isaac Yackem**
+
+# Lincoln Lim & Houg
+
+#### ***"(Feel Like) Dancing Alone - Houg Mix"***
+
+###### (Feel Like) Dancing Alone / Cross Ratio Entertainment
+
+![(Feel Like) Dancing Alone -  Lincoln Lim & Houg](https://res.cloudinary.com/ddomozydd/image/upload/v1606812382/LincolnHoug_fjwvjj.jpg "(Feel Like) Dancing Alone -  Lincoln Lim & Houg")
+
+\-
+
+In an unexpected collaboration between singer-songwriter Lincoln Lim and trip-hop maestro Houg, *(Feel Like) Dancing Alone* combines the former artist’s pop sensibilities with the synth-driven groove of the latter to mixed results. Houg’s joyfully lush production stylings and tasteful embellishments are present especially so on the “*Houg Mix*”, serving as the B-side to the single. The original mix on the lead single itself however, sacrifices character for clarity, making for a boring and obnoxious mix of the song.
+
+The songwriting is serviceable at best, with lines such as “roast chicken on a Sunday night is what I’m feeling like” seemingly coming out of left field rather than the carrying the quirk needed for the line to work, or any of the introspection typically associated with Lim’s previous works. Melodically, the song’s chorus (“You make the distance feel fine (Feels like just dancing)/While staying up all night…”) is just okay, toeing the fine line between an attempt to be catchy and being straight up annoying.
+
+On the plus side lays enjoyably understated and intricate production work on the *Houg Mix*, with its chillwave and 80s-indebted sonic landscape shining through. Synths are tightly weaved in with its groovy 16th note hi-hatsand kick snare drum patterns, all its elements building a dynamic sense of atmosphere that ebbs and flows as the song progresses. The *Houg mix* particularly succeeds on the front where the original single mix seems to stumble, with its lead synths tastefully complimenting the track rather than overpowering the rest of the instrumentation in a trebly mess.Though never quite reaching the soaring heights of the tracks on his recent EP[ *The Oscillation Scene*](https://open.spotify.com/album/2nqS2I1PQN8rJ58df3kPMZ?si=23eVIMm6RW-e72F1m3-xfQ), the production in the *Houg Mix* of *(Feel Like) Dancing Alone* is a commendable effort and testament to Houg’s mixing sensibilities.
+
+It feels like *(Feel Like) Dancing Alone* suffers from an inherent stylistic clash between the two artists present, with the Lim and Houg not able to reconcile how their individual musical sensibilities (which has proved to work great on their own respective projects) may work together, leading to something that sounds half-baked and uninspired for the most part.
+
+**Listen to “(Feel Like) Dancing Alone - Houg Mix” here:**
+
+<iframe src="https://open.spotify.com/embed/track/12dWo1HTr7ax0zUwws4PAG" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* **\- by Isaac Yackem**
+
+# Thaddeus Lin
+
+#### ***“What's This Feeling?”***
+
+**I Wish It Rained Forever**
+
+![I Wish It Rained Forever - Thaddeus Lin](https://res.cloudinary.com/ddomozydd/image/upload/v1606812382/Thaddeus_imyte9.jpg "I Wish It Rained Forever - Thaddeus Lin")
+
+\-
+
+Emerging singer-songwriter Thaddeus Lin released his debut EP, *I Wish it Rained Forever*, last Friday and it is something that I’ve been looking forward to for quite some time. The art of storytelling through the medium of music has been seemingly lost by the one-by-one distribution of modern singles, but Thaddeus goes against the grain and sticks to his guns by doing releasing an EP with a cohesive narrative.
+
+Thaddeus shows his flair for creating catchy hooks and melodies, and the EP consists of genuine head-boppers. My favorite track being the final song on the record, *What’s This Feeling?*, being a fast, funky number. The track also utilises the “telephone vocal” effect , which continues throughout ad-libs until the end of the song. The 80s inspired sensibilities present are thoroughly enjoyable. Thaddeus also incorporates impeccable guitar tones during the solos on the track that also present on the first song of the EP, *I Must G*o.
+
+With this being a debut release, Thaddeus really needs to smoothen out some of the edges or perhaps apply chamfering to them because as a whole. The EP doesn’t really flow well from the start to the end as there is an incoherent mix of four different genres its four tracks. That being said, it is impressive nonetheless that he is versatile enough to play within all these different genres.
+
+The vocals are mixed as if he perceives himself having a more crisp timbre in the alto range, when in fact his voice is in a much lower register. That being said, the transitions to-and-fro his falsettos is excellent, as evident in *I Must Go*. His vocals are also mixed way too far up front. This could possibly be due to the lack of experience or equipment (monitors, iPhone earpiece, IEMs) required to get a good mix.
+
+To sum this up, Thaddeus Lin’s debut EP, *I Wish It Rained Forever*, is definitely worth a listen as I feel that he is a very passionate musician with excellent pop sensibilities, albeit rough around the edges. These songs are emotive and catchy, knowing what the listener wants to hear. I’m look forward to his subsequent releases and to perhaps see him perform live after the pandemic blows over.
+
+**You can listen to "What's This Feeling?” here:**
+
+<iframe src="https://open.spotify.com/embed/track/2xzmHm9SwH3XsVp5OID2f4" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* **\- by Chester**
