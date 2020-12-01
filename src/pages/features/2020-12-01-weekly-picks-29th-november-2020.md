@@ -5,8 +5,8 @@ author: Isaac Yackem & Chester
 col: white
 date: 2020-11-29T09:14:34.581Z
 description: Our top picks this week - alternative hip-hop from P_NEDA,
-  retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop Thaddeus
-  Lin!
+  retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop from
+  Thaddeus Lin!
 category: feature
 spotify: ""
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1606812386/banner_wdkxg5.jpg
@@ -18,7 +18,7 @@ tags:
   - Lincoln Lim
   - Thaddeus Lin
 ---
-**Our top picks this week - alternative hip-hop from P_NEDA, retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop Thaddeus Lin.**
+**Our top picks this week - alternative hip-hop from P_NEDA, retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop from Thaddeus Lin.**
 
 # P_NEDA
 
