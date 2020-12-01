@@ -30,7 +30,7 @@ tags:
 
 Dubbing his work “Dream R n’ B’, young upstart vocalist Leeray has been at it for a couple of singles, with a brand of downcast, soulful crooning. But although the 808-friendly stylings of his previous work helped him blend into the company of his R'n'B contemporaries, his success at conjuring the ‘dream’ part of gimmick has definitely been mixed – with much of his chosen stylings overpowering his vocal presence, while also watering down the distinctiveness of his pop music. With *Semicircle*, however, he finally finds himself in the ballpark of hypnagogic atmosphere, weaving a fever-dream-like ode commiserating unrealised potential and celebrating newfound strength.[](https://www.instagram.com/weareuglyboys/)
 
-Opening with an attention-arresting beat topped with whipping snares and conga layers, arpeggiating, harp-like synths introduce a reverberating, dreamy haze that serves as wonderful bedrock for his verses. With the cloudy sonic haze dripping with personality, he finds a winning formula by toning back, giving Semicircle a newfound effortlessness that delivers in spades. Simplicity is key when riding such tasteful production, and he largely understands this this time round. Delivering subdued, feathery verses that balance a self-effacing attitude with resigned realism, the result is a deliciously queer slow jam perfect for self-reflective nights alone – and easily way more evocative than any of his previous singles.  
+Opening with an attention-arresting beat topped with whipping snares and conga layers, arpeggiating, harp-like synths introduce a reverberating, dreamy haze that serves as wonderful bedrock for his verses. With the cloudy sonic haze dripping with personality, he finds a winning formula by toning back, giving *Semicircle* a newfound effortlessness that delivers in spades. Simplicity is key when riding such tasteful production, and he largely understands this this time round. Delivering subdued, feathery verses that balance a self-effacing attitude with resigned realism, the result is a deliciously queer slow jam perfect for self-reflective nights alone – and easily way more evocative than any of his previous singles.  
 
 Unfortunately, the vocals are also placed a tad awkwardly too high in the mix – but it does also give it a charming home-made quality. “Eyes on the prizes/I been getting wiser/you say what you want with the cap on,” he proclaims in an affirming refrain – and on a parade of shuffling hats and snares, smeared with tastefully lush key harmonies, the result is a song close to a wonderfully intimate microportrait of his own growth towards self-belief. It’s still very much work in progress to a full moon – but as far as Leeray’s melodies on *Semicircle* goes, it’s a winner through simplicity. Or as he puts it, done wasting time on bullshit.
 
@@ -44,7 +44,7 @@ Unfortunately, the vocals are also placed a tad awkwardly too high in the mix �
 
 #### *"Mabushikute"*
 
-###### Eyes On You 
+###### Eyes On You
 
 ![Culenasm - Eyes On You](https://res.cloudinary.com/ddomozydd/image/upload/v1606217663/culenasm800_htsufo.jpg "Culenasm - Eyes On You")
 
