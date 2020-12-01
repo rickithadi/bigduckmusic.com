@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "WEEKLY PICKS: 29th November 2020"
-author: Isaac Yackem & Chester
+title: "WEEKLY PICKS: 22nd November 2020"
+author: JX Soo & Isaac Yackem
 col: white
 date: 2020-11-22T09:30:43.142Z
 description: Our top picks this week - featuring dreamy R'n'B from Leeray,
