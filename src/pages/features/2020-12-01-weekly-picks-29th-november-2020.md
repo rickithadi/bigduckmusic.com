@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "WEEKLY PICKS: 29th November 2020"
 author: Isaac Yackem & Chester
 col: white
-date: 2020-12-01T09:14:34.581Z
+date: 2020-11-29T09:14:34.581Z
 description: Our top picks this week - alternative hip-hop from P_NEDA,
   retro-styled pop from Lincoln Lim & Houg, and a funk influenced bop Thaddeus
   Lin!
