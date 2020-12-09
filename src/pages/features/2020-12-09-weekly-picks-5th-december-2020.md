@@ -18,8 +18,6 @@ tags:
 ---
 **Our top picks this week - experimental ambient pop from Lydia Ang, pop rock from RENE, and an instrumental banger from Imp Act.**
 
-
-
 # Lydia Ang
 
 #### ***“Asylum”***
@@ -54,7 +52,7 @@ Amid is a solid album in its own right, and a sure testament to Ang’s commitme
 
 \-
 
-With light innocent touches to indie-pop formulas, RENE has slowly established herself with an energetic, guitar-friendly persona over the past couple of years, emerging in events like The Great Singapore Replay and SCAPR's Music Day Out . “RENE is a pop-rock musician. Pop Punk? Punk rock? Alternative…?” her Spotify bio tells us. To “rock” kids on the block, her singles presented an undoubtedly appealing sound perfectly on trend – with her pleasant melodies and upbeat vocal deliveries allowing a buoyancy that finds kinship with other teen-friendly pop attempts on the island (see tragically: [Royal Estate](https://open.spotify.com/track/4l8xFbuOP5shyhH5b3z9e9?si=31vZPHuHQrSjN6YWJx4Ykw)). Unfortunately, with her first single, she finds herself with a case of mistaken identity. The answer definitely lies within these realms – sadly, her answer is most definitely not punk.
+With light innocent touches to indie-pop formulas, RENE has slowly established herself with an energetic, guitar-friendly persona over the past couple of years, emerging in events like The Great Singapore Replay and SCAPE's Music Day Out . “RENE is a pop-rock musician. Pop Punk? Punk rock? Alternative…?” her Spotify bio tells us. To “rock” kids on the block, her singles presented an undoubtedly appealing sound perfectly on trend – with her pleasant melodies and upbeat vocal deliveries allowing a buoyancy that finds kinship with other teen-friendly pop attempts on the island (see tragically: [Royal Estate](https://open.spotify.com/track/4l8xFbuOP5shyhH5b3z9e9?si=31vZPHuHQrSjN6YWJx4Ykw)). Unfortunately, with her first single, she finds herself with a case of mistaken identity. The answer definitely lies within these realms – sadly, her answer is most definitely not punk.
 
 It’s marketable! But as the video finds RENE fronting the guerilla stage of DIY bastion Lithe House, there’s a misplaced energy that’s hard to ignore. With production so polished and neutered, the song is scrubbed devoid of any sense of rock-star energy sonically or attitude, and certainly nothing close to the indie rock guise she's trying to put on.
 
@@ -68,11 +66,13 @@ With the song finishing with a mild aftertaste, it’s RENE’s still many doses
 
 Pop Punk? Punk rock? Alternative…? Toned down NDP song.
 
+**Watch the music video to "Off My Mind" [here](https://youtu.be/LmJXZD1XgPE).**
+
 **Listen to “Off My Mind” here:**
 
 <iframe src="https://open.spotify.com/embed/track/5F8HnW4WZxwPvxYNeXblLy" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**Watch the music video to "Off My Mind" [here](https://youtu.be/LmJXZD1XgPE).**
+
 
 * **\- by JX Soo & Isaac Yackem**
 
