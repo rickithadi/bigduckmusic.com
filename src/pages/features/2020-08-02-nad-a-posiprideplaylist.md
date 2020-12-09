@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "NAD: A PosiPridePlaylist "
+title: "NAD: A PosiPridePlaylist - Queer artists to listen to!"
 author: nad.
 col: white
 date: 2020-08-02T16:01:00.000Z
