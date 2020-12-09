@@ -42,7 +42,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
 
 ![Ivy Sole - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585343/Ivy_aeiwtb.jpg "Ivy Sole - queer artists to check out in celebration of pride")
 
-
+**\-**
 
 #### *“Black, queer, radical. Nothing short of Magical.”(Lovely Fiction, overgrown)*
 
@@ -56,6 +56,8 @@ Her music is comforting - which is something I attribute to her silvery vocals, 
 
 ![Rina Sawayama - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585476/rina_bhhieh.jpg "Rina Sawayama")
 
+\-
+
 Rina blends R&B with our favourite 2000s teen-pop anthems - (the likes of 90s Destiny’s Child and 2000s Britney) - in a nostalgic throwback to Y2K that simultaneously confronts and laments issues with identity and conflict.
 
 If I absolutely *had* to define the genre of music she makes, I’d classify hers as “genre-defying”. Nothing else can reflect this more clearly than her own discography. Refreshingly fun and dancey, Rina switches up her R&B/bubblegum pop tracks - like *Cherry* and *Cyber Stockholm Syndrome* - for an angry and unapologetic reinvention of nu-metal - lamenting and redirecting casual racism - in *STFU!* (with a bubblegum pop chorus?? And it works??!!!)
@@ -65,6 +67,8 @@ If I absolutely *had* to define the genre of music she makes, I’d classify her
 # **Choker**
 
 ![Choker - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585676/0010650634_0_v2mjvk.jpg "Choker")
+
+\-
 
 I found Choker when I fell down the rabbit hole of Spotify’s ‘Discover’ feature. Blending R&B with hiphop and psychedelic rock melodies, Choker’s sounds are ethereal, vulnerable and introspective musings that are reminiscent of both Frank Ocean and Kevin Abstract.
 
@@ -76,7 +80,7 @@ They’re sounds that could paint a dreamy picture, complete with vignette edges
 
 ![Shura - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585829/Shura_d1wh7n.jpg "Shura")
 
-
+\-
 
 Shura’s music is what I wish I had growing up as a questioning teen in the 2000s - a fresh take and revival of the 80s pop persuasion, reminiscent of Kylie Minogue, Madonna and Janet Jackson - with honest and relatable lyrics reflecting WLW yearning. (Maybe I wouldn’t have had such a prolonged emo, teen-angst phase....)
 
@@ -90,7 +94,7 @@ In *Nothing’s Real*, (my favourite album of hers), Shura delivers a versatile 
 
 ![Deb Never - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585912/DebNever_vefart.jpg "Deb Never")
 
-
+\-
 
 Deb Never was a voice that stuck out to me during a binge-listening party of Brockhampton’s *Ginger* album. Apart from her obvious newness amidst the all-too-familiar dudebro collective - her soft and ethereal voice contrasted so strikingly against the group’s stronger, brassy vocals. (ngl I was disappointed that she wasn’t a new member of BH...)
 
