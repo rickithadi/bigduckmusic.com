@@ -32,6 +32,6 @@ tags:
 ---
 We’re proud to have had local rap legends[](https://www.instagram.com/mhc.sg/) Mediocre Haircut Crew headline this show!
 
-Supported by some of Singapore’s most electrifying acts including musical maestro [](https://www.instagram.com/fauxe_91/)Fauxe alongside his band Altruism; and the fiery up-and-coming rapper[](https://www.instagram.com/abangsapau/)ABANGSAPAU, it was another night of madness not to be missed!
+Supported by some of Singapore’s most electrifying acts including musical maestro [](https://www.instagram.com/fauxe_91/)Fauxe alongside his band Altruism; and the fiery up-and-coming rapper [](https://www.instagram.com/abangsapau/)ABANGSAPAU, it was another night of madness not to be missed!
 
 ![](https://res.cloudinary.com/ddomozydd/image/upload/v1591115014/MHC/mhcborder_s2bqrb.jpg "MHC")
