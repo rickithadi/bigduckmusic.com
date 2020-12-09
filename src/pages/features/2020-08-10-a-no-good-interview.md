@@ -87,7 +87,7 @@ Regardless of whether you understand what they're saying or not, there’s no do
 
 **Smek**: Quentin x Dain Said (he's a local filmmaker). I would only recommend Bunohan though.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-QTphk6_VU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/o-QTphk6_VU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [](https://www.youtube.com/watch?v=https://youtu.be/o-QTphk6_VU)
 
@@ -119,7 +119,7 @@ Regardless of whether you understand what they're saying or not, there’s no do
 
 **Mat Yie**: Hahahhah
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hMEMqpM0JjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/hMEMqpM0JjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Shit, so I guess it's not too popular in Malaysia then.
 
