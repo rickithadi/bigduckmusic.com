@@ -27,23 +27,35 @@ I’d never felt like a bigger boomer than when I finished listening to 1000 gec
 
 Being a part of the slightly snobby Facebook group *Patrician Music Chartposting* (don’t @ me), I’ve always had a tendency to trust the quality of the albums constantly name-dropped there. Around the end of last year, when members were sharing their best-of-year lists, 1000 gecs became inescapable. I thought it as strange, but I saw their name everywhere, consistently being included in every list – and so I bit the bullet and took a gander at it. As you can tell from my reaction above, I was not impressed.
 
+\-
+
 ![Patrician Music Chartposting](https://res.cloudinary.com/ddomozydd/image/upload/v1601965638/chartposting_fms5eo.jpg "Patrician Music Chartposting")
 
 ###### ***Patrician Music Chartposting***
 
+\-
+
 Is this what the kids are into these days? I was dismissive of the record after that first listen. Amidst the overbearing sensory stimulation, I fought the nagging feeling that Ashton Kutcher (or [Filthy Frank](https://youtu.be/H6iefP8lf3o) for a more contemporary spin) was gonna pop into my room to notify me that I was, indeed, pranked. The brazen melding of dubstep, ska, Europop, pop punk and nightcore vocals felt dangerously close to parody at the time, like the worst parts of the Wayans Brothers filmography (looking at you, Scary Movie 5). In summation, major cringe bro. The chiptune in particular felt especially grating to me; bringing me back to a deep, dark period in YouTube history when chipmunk remixes were all the rage.
+
+\-
 
 ![I have committed multiple war crimes and cannot enter heaven as a result](https://res.cloudinary.com/ddomozydd/image/upload/v1601963985/alvinandthechipmunks_lvraeg.jpg "I have committed multiple war crimes and cannot enter heaven as a result")
 
 ###### *I have committed multiple war crimes and cannot enter heaven as a result.*
 
+\-
+
 Upon heavy insistence from a friend, however, the initial shock value of 1000 gecs slowly chipped away. There was definitely merit to what Dylan and Laura were trying to accomplish, and as I listened to it more, I found their appeal not unlike what made similar trends, like vaporwave and hyper-pop work for me. Eventually, I found my thoughts about the album shifting from parody to irony – and after a separate deep dive listening session with Sameh of [Houg](https://open.spotify.com/album/2nqS2I1PQN8rJ58df3kPMZ?si=k3u1yUBMRKCHcTEFsPKe1g) fame, it clicked.
 
 I enjoyed myself.
 
+\-
+
 ![100 gecs - 1000 gecs](https://res.cloudinary.com/ddomozydd/image/upload/v1601964436/100gecs_ddxxtd.jpg "100 gecs - 1000 gecs")
 
-***100 gecs' debut album, 1000 gecs***\
+***100 gecs' debut album, 1000 gecs***
+
+***\-***\
 \
 It’s just such a catchy record. Full of chaotic energy, 100 gecs have masterfully managed to stuff a bunch of unrelated genres from the 2000s into a blender, and create a surprising formula that works. If you were in secondary school around the time X-Craft was cool, you’ll probably find something you like in this Sweet Talk Oreo Ice Blend of an album. From the head-bopping ska-tinged* [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm?si=IsS1Oa9NQmiBljD8eBB8uQ)* and its stupidly catchy chorus; to the Cascada-esque *[xXXi_wud\_nvrstøp\_ÜXXx](https://open.spotify.com/track/7vaFuClNKe02pjKYbXEJ46?si=MOlS01L4SqmF8B-PBFt3eg)* that compels me to order my very own e-scooter with RGB lights; it was only a matter of time before I found myself vibin’ with the music.
 
@@ -73,9 +85,13 @@ Tree of Clues even includes two additional original tracks, *[came to my show](h
 \
 Meanwhile, I found this 100 gecs tree in Bishan Park.
 
+\-
+
 ![Bishan Park gecs tree](https://res.cloudinary.com/ddomozydd/image/upload/v1601964224/bishangecstree_sjpusg.jpg "Bishan Park gecs tree")
 
 **100 gecs tree in Bishan Park**
+
+**\-**
 
 In a moment of introspection while stupid horse looped in my earpiece, I mused. O cruel, needless misunderstanding! O stubborn, self-willed exile from the loving breast! Two tears trickle down the side of my nose. But it was all right, everything was all right, the struggle was finished. I had won the victory over myself. I loved 100 gecs.
 
@@ -86,6 +102,8 @@ In a moment of introspection while stupid horse looped in my earpiece, I mused. 
 **Listen to 1000 gecs here:**
 
 <iframe src="https://open.spotify.com/embed/album/2uhB1KivbFnlkARpbd0Cvu" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+\-
 
 **And 1000 gecs and the Tree of Clues here:**
 
