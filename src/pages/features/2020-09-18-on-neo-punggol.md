@@ -41,7 +41,7 @@ Chua proclaims his work as “contemplative prayers”; *Smokescreen’s* prayer
 
 On Chua’s [Bandcamp page](https://georgechua.bandcamp.com/), a manifesto-like footnote reads: “no genre, no commercial potential, military use only.” Indeed, a martial atmosphere radiates throughout *Neo Punggol*. Paired with a spellbinding video directed by mixed media artist Yeyoon Avis Ann, the track anchors itself contextually in the language of violence.With its abrupt shifts in tempo, its rhythms pulsate and spill over one another – much like the information war it reflects, its audiovisual density creates a sense of relentless overload, grinding down on the listener.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQXIUyzVsKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/cQXIUyzVsKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Video: Yeyoon Avis Ann**
 
