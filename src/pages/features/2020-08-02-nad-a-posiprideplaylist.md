@@ -42,7 +42,7 @@ But of course, it’s important for me to disclaim that someone’s identity doe
 
 ![Ivy Sole - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585343/Ivy_aeiwtb.jpg "Ivy Sole - queer artists to check out in celebration of pride")
 
-**\-**
+\-
 
 #### *“Black, queer, radical. Nothing short of Magical.”(Lovely Fiction, overgrown)*
 
@@ -51,6 +51,8 @@ Central to Ivy Sole’s music is her poetic lyricism and raw spoken-word inflect
 Her music is comforting - which is something I attribute to her silvery vocals, seemingly radiating a pleasant warmth, and the smooth and meditative boom-bap beats of her music. Whether she sings of motherhood or queerness or self-love, her music is one I find myself grooving along to in my seat.\
 \
 ***Songs I love: Dream Girl, Lovely Fiction, Les Fleurs.***
+
+*\-*
 
 # **Rina Sawayama**
 
@@ -64,6 +66,8 @@ If I absolutely *had* to define the genre of music she makes, I’d classify her
 
 ***Songs I love: Cherry, STFU!, Cyber Stockholm Syndrome.***
 
+*\-*
+
 # **Choker**
 
 ![Choker - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585676/0010650634_0_v2mjvk.jpg "Choker")
@@ -75,6 +79,8 @@ I found Choker when I fell down the rabbit hole of Spotify’s ‘Discover’ fe
 They’re sounds that could paint a dreamy picture, complete with vignette edges that would fit right into a scene in an indie romance film - until the record scratches and frame freezes and he takes a swerve into a different direction mid-song (see *Starfruit NYC* for e.g.) His experimental tunes are unique to his artistry and his songs don’t always go quite the way you expect them to. But for me, that’s the charm.
 
 ***Songs I love: Lucky, Starfruit LA, Dualshock.***
+
+*\-*
 
 # **Shura**
 
@@ -90,6 +96,8 @@ In *Nothing’s Real*, (my favourite album of hers), Shura delivers a versatile 
 
 \*\* White Light has a beautiful instrumental bridge that makes me feel cosmic!
 
+\-
+
 # **Deb Never**
 
 ![Deb Never - queer artists to check out in celebration of pride](https://res.cloudinary.com/ddomozydd/image/upload/v1595585912/DebNever_vefart.jpg "Deb Never")
@@ -101,6 +109,8 @@ Deb Never was a voice that stuck out to me during a binge-listening party of Bro
 Cue my following new-found obsession of her alt-hiphop, emo-rap grunge music where I had my favourite “sad girl bop”, *Ugly*, on repeat for days on end. Though her music comes offas woeful and moody, what’s central to her music is pure honesty. Breaking down her music, it feels like the use of instruments and beats in her songs serve to echo this vulnerability - ultimately creating a hazy and quietly understated score to misplaced identities and fostering community.
 
 ***Songs I love: Ugly, Stone Cold, mr nobody***
+
+*\-*
 
 These artists are only the tip of the very huge and very much underground iceberg of queer acts. I’m also on my own journey to discover so much more, in support of our queer community. Perhaps these can be our stepping stones to appreciating and embracing music that transgresses heternormativity and dispels queerphobia.
 
