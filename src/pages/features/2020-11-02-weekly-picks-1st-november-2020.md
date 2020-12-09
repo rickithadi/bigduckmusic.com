@@ -40,7 +40,7 @@ Unfortunately, *Istanah*’s main flaw also carries through - with the vocal per
 
 **Marijannah’s performance of Full Moon/Shapeless is best experienced with the video accompanying it and you can watch it here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cx1pKL514Vs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Cx1pKL514Vs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **This performance is also available on streaming platforms and you can listen to it on Spotify here:**
 
