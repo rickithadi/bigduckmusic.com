@@ -1,6 +1,6 @@
 ---
 templateKey: picks-page
-date: 2020-11-29T09:05:37.631Z
+date: 2020-12-09T15:30:38.224Z
 title: 5th December 2020 picks
 featuredimageso:
   - image: https://res.cloudinary.com/ddomozydd/image/upload/b_rgb:000000,co_rgb:000000,e_gradient_fade:20,y_-0.5/v1607519558/Amid_gavqt6.jpg
