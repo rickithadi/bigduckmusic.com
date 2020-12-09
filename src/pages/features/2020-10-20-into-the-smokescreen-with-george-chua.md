@@ -82,7 +82,7 @@ The only way I can apply it is with contradictions. Ideally sound can liberate u
 
 I love the energy of the no wave era, and that remains the only kind of punk rock I still listen to. I always was into weirder music, but beginning in my 20s I started to see music more as sound. No wave was special because I discovered Ikue Mori, who was the drummer for the band DNA, who were active back in the 90s. I bought a lot of her records back then, and I thought if I programmed my electronics, I would love to program it like her rhythms. It’s danceable and not at the same time, and in *Smokescreen*, there’s a similarly angular energy to it, in how the noise emerges from the beats – sometimes rhythmic, sometimes arrhythmic. It’s almost surprising – like Arto Lindsay. He looks like a nerd, but creates these unimaginable noises.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uz47h75_FJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uz47h75_FJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Yes, in some way it is animalistic – like an animal hungry for food. Running through my veins is the blood of a human animal. The previous sentence is a lyric. But even more so there’s a human element to it, the rhythms on *Smokescreen* is somewhat akin to fighting. When you talk about fights, there’s a rhythm to it, and you’re always trying to break the other’s rhythm to get an upper hand. It’s not metrical, but you always need the combinations to throw your follow-up punches.
 
@@ -106,7 +106,7 @@ Nothing.
 
 Mark from Ujikaji raised the idea that we should do a music video, and we were saying that we should maybe we should work with someone different. It would be better to go for someone younger, I thought, and talking with Mark, he ran through a list of artists that he knew. I thought Avis’ work would be interesting, because I believed she would bring along a different set of sensibilities to the music. There was some conversation surrounding the video – Whatsapp and Zoom chats – but most of the decisions were up to her. This was truly a 2020 collaboration.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQXIUyzVsKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cQXIUyzVsKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### You talk about the terror of a global information war. What do you think is the most striking to you personally about the oversaturated climate we face today, and what do you think we should guard ourselves most against?
 
@@ -120,7 +120,7 @@ One complex five letter word: China. Also, CBD Oil money.
 
 The track title is in reference to the band Naked City's track called *Jazz Snob Eat Shit*. I just added the word funk into it to make it groovy and removed the rude consumption of faeces.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fy2j4od6-U0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Fy2j4od6-U0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I would like to think no one likes snobs – whether it be on jazz funk or otherwise. I actually have no problem with people who are really technically proficient. But I grew up in a time where there were many subcultures that became really snobbish – oh, I only listen to 70s rock, I only listen to jazz fusion – it could be anything. It was that narrow-mindedness I wanted to poke fun at. Of course, people like that probably still exist, but from my experiences, those people who are probably just record collectors or audiophiles who don’t make music themselves.
 
