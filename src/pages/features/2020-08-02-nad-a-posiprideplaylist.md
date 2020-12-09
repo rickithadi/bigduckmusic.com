@@ -4,7 +4,7 @@ title: "NAD: A PosiPridePlaylist "
 author: nad.
 col: white
 date: 2020-08-02T16:01:00.000Z
-description: PosiPridePlaylist by nad.
+description: PosiPridePlaylist by nad- queer artists to listen to in 2020!
 category: take
 spotify: https://open.spotify.com/playlist/11gDoUJtmrEExK64tuYqHH?si=w6SRyTjRR-iOP8jCKprtVg
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1595738817/rightnadsize_tesqam.jpg
