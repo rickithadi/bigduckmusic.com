@@ -28,13 +28,13 @@ tags:
 
 \-
 
-From intriguing shakuhachi studies to gentle indie folk, Lydia Ang has been quietly releasing a steady cross-genre repertoire of tracks since 2012, blending singer-songwriter sensibilities with a penchant for the sonically experimental. Here, the calm, granular blue that tinges *Amid*’s graduated cover serves as an apt metaphor for the music it contains – within a melancholic outlook, she delivers her most sombre and consistent work with pop-tinged songwriting and sound design that would be friendly to readers of The Wire.
+From intriguing shakuhachi studies to gentle indie folk, Lydia Ang has been quietly releasing a steady cross-genre repertoire of tracks since 2012, blending singer-songwriter sensibilities with a penchant for the sonically experimental. Here, the calm, granular blue that tinges *Amid*’s graduated cover serves as apt metaphor for the music it contains – with a downcast, melancholic outlook, she delivers her most consistent work so far, tinging sombre pop songwriting with sound design in stylings familiar to readers of The Wire.
 
-Here, it’s this attention to detail that helps the songs stand out. The steady 4/4 pulse of *Ghostly Grains* gives way to xx-style guitar lines and Chromatics-like deliveries that form hypnotic monotone synth-pop, while bubbling, pulsating metallic textures fill the instrumental palette of *Moth and Mayfly*. It’s when she envelops her music in this mist where the tracks become most appealing – and accordingly, *Asylum* is the album’s highlight. With pounding sub-bass frequencies moving pulsating, glacial textures, she weaves together reverberating pianos, sparse guitar lines and droning waves of glass-like synths.
+Here, it’s the attention to detail that helps its tracks stand out. The steady 4/4 pulse of *Ghostly Grains* gives way to xx-style guitar lines and Chromatics-like deliveries that form a hypnotic synth-pop monotone, while bubbling metallic textures fill the instrumental palette of *Moth and Mayfly*. It’s when she envelops her music in this mist where the tracks become most appealing – and accordingly, *Asylum* is the album’s highlight. With pounding sub-bass frequencies moving pulsating, glacial textures, she weaves together an enchanting slow-burner uniting reverberating pianos, sparse guitar lines and droning waves of glass-like synths.
 
-Far from the vocal-heavy stylings of her past work, *Amid*’s veil of sonic obscura raises her melodies beyond singer-songwriter purgatory. Despite these songs carrying a strong interest in their microscopic details, they unfortunately feel a little too meandering at times. There is a lack of gravitas and impact when it comes to the hooks and melodic sensibilities throughout, which leads to an album that feels like it takes itself a little too seriously and perhaps is a little too self-indulgent. The later half of the album in particular suffers because of this - with its comparatively straightforward production bringing skeletal and weak songwriting to light.
+*Amid*’s veil of sonic obscura raises her melodies beyond singer-songwriter purgatory, one that often ensnared the vocal-heavy stylings of her past work. But it remains its weakness – even as these songs serve interest with their microscopic details, they unfortunately feel a little too meandering at times. There is a lack of gravitas and impact when it comes to the hooks and melodic sensibilities throughout, which leads to an album that feels like it takes itself a little too seriously at times. It isn't entirely self-indulgent, but the later half of the album in particular suffers when it reverts to comparatively straightforward production, as its skeletal and weak songwriting gets brought to light.
 
-Amid is a solid album in its own right, and a sure testament to Ang’s commitment to sonic exploration and pushing her artistic boundaries. Even with songwriting that might not seem to hit the mark at times, Ang’s densely layered, atmospheric production alongside a keen attention to detail create a worthwhile exploration of heartbreak and existential dread.
+Amid is a solid album in its own right, and a sure testament to Ang’s commitment to sonic exploration and continually pushing her artistic boundaries. Even with songwriting that might not seem to hit the mark at times, Ang’s densely layered, atmospheric production alongside keen attention to detail create a worthwhile exploration of heartbreak and existential dread.
 
 **Listen to "Asylum" here:**
 
@@ -56,23 +56,21 @@ With light innocent touches to indie-pop formulas, RENE has slowly established h
 
 It’s marketable! But as the video finds RENE fronting the guerilla stage of DIY bastion Lithe House, there’s a misplaced energy that’s hard to ignore. With production so polished and neutered, the song is scrubbed devoid of any sense of rock-star energy sonically or attitude, and certainly nothing close to the indie rock guise she's trying to put on.
 
-It’s an absolute shame, especially when considering the performance that its burying. Here, RENE’s vocals are more than competent, and she shows glimpses of strength in moments (state examples). Yet completely unlike the pomp of her heroes or what she could very well try to be (Hayley Williams, beabadoobee for a modern equivalent) she is almost completely obstructed by the track’s lifeless production – in what can only be described as neutered attempts at 1975-esque jangle.
+It’s an absolute shame, especially when considering the potential song that it's burying. Here, RENE’s vocals are more than competent, and she shows glimpses of strength in moments like its delightful chorus. Yet completely unlike the pomp of her heroes or what she could very well try to be (Hayley Williams, beabadoobee for a modern equivalent) the track’s lifeless production almost completely obstructs her – in what can only be described as neutered attempts at new 1975-esque jangle.
 
-Rather than allowing her voice to shine through playful abrasion or powerful refrains, the mix plays things absurdly safe, with drums lacking any sort of distinctive dynamics, and glass-like guitars simply gliding along without character, leading to a result that absolutely betrays the genre pools she aspires to be. Her voice almost mirrors these choices, all too often too restrained… “Punk rock” and “Alternative” leaning this is not– unless alternative means a Boyce Avenue-like takeover for the next National Day Parade theme song. Singapore would probably like that. But even so, [Electrico](https://youtu.be/qdY5k2e-7g4) has done it better.
+Rather than allowing her voice to shine through playful abrasion, the mix plays things safe, with drums lacking any sort of distinctive dynamics, and glass-like guitars simply gliding along without character. Her voice almost mirrors these choices, all too often too restrained for its own good – and it steals energy away from what's meant to be a powerful refrain. The supposed youthful energy is thus completely missing, leading to a result that absolutely betrays the genre pools she aspires to be. “Punk rock” and “Alternative” leaning this is not – unless alternative means a Boyce Avenue-like pop takeover for the next National Day Parade theme song. Singapore would probably like that. But even so, [Electrico](https://youtu.be/qdY5k2e-7g4) has done it better.
 
-Make no mistake – the song is dripping with nice melodies. “I can’t get seem to get you off my mind,” she yearns with classic pop harmonies, and with her pleasantly sweet delivery, the song does its best to be a breezy, feel-good pop song dedicated to die-hard past loves. But embracing pop wholesale is not a bad thing – and by doubling down on production choices that complement her stylistic preferences, her vocal presence will have more room to shine.
+Make no mistake – there is a great song hidden within Off My Mind, itself dripping with nice melodies and bright guitar licks. “I can’t get seem to get you off my mind,” she yearns with classic pop harmonies, and with her pleasantly sweet delivery, the song does its earnest best to be a breezy, feel-good pop song dedicated to die-hard past loves – unfortunately, its sonic attitude is utterly unconvincing. 
 
-With the song finishing with a mild aftertaste, it’s RENE’s still many doses of grit away from touching the punk label. For now, it’s an ambiguity that struggles to linger the right way.
+With the song finishing with a mild aftertaste, it’s RENE’s still many doses of grit away from touching the punk label. Embracing pop wholesale is not a bad thing – by doubling down on production choices that complement her stylistic preferences, her vocal presence will have more room to shine. 
 
-Pop Punk? Punk rock? Alternative…? Toned down NDP song.
+For now, it’s an ambiguity that struggles to linger the right way. Pop Punk? Punk rock? Alternative…? Toned down NDP for now.
 
 **Watch the music video to "Off My Mind" [here](https://youtu.be/LmJXZD1XgPE).**
 
 **Listen to “Off My Mind” here:**
 
 <iframe src="https://open.spotify.com/embed/track/5F8HnW4WZxwPvxYNeXblLy" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
 
 * **\- by JX Soo & Isaac Yackem**
 
