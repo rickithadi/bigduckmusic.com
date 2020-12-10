@@ -62,7 +62,7 @@ Rather than allowing her voice to shine through playful abrasion, the mix plays 
 
 Make no mistake – there is a great song hidden within Off My Mind, itself dripping with nice melodies and bright guitar licks. “I can’t get seem to get you off my mind,” she yearns with classic pop harmonies, and with her pleasantly sweet delivery, the song does its earnest best to be a breezy, feel-good pop song dedicated to die-hard past loves – unfortunately, its sonic attitude is utterly unconvincing. 
 
-With the song finishing with a mild aftertaste, it’s RENE’s still many doses of grit away from touching the punk label. Embracing pop wholesale is not a bad thing – by doubling down on production choices that complement her stylistic preferences, her vocal presence will have more room to shine. 
+With the song finishing with a mild aftertaste, RENE’s still many doses of grit away from touching punk labels. By doubling down on production choices that complement her stylistic preferences, her vocal presence will have more room to shine – and after all, embracing pop wholesale is not a bad thing.
 
 For now, it’s an ambiguity that struggles to linger the right way. Pop Punk? Punk rock? Alternative…? Toned down NDP for now.
 
