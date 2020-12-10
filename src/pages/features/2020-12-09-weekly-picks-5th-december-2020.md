@@ -64,7 +64,7 @@ Make no mistake – there is a great song hidden within Off My Mind, itself drip
 
 With the song finishing with a mild aftertaste, RENE’s still many doses of grit away from touching punk labels. By doubling down on production choices that complement her stylistic preferences, her vocal presence will have more room to shine – and after all, embracing pop wholesale is not a bad thing.
 
-For now, it’s an ambiguity that struggles to linger the right way. Pop Punk? Punk rock? Alternative…? Toned down NDP for now.
+For now, it’s an ambiguity that struggles to linger the right way. Pop Punk? Punk rock? Alternative…? Toned down NDP.
 
 **Watch the music video to "Off My Mind" [here](https://youtu.be/LmJXZD1XgPE).**
 
