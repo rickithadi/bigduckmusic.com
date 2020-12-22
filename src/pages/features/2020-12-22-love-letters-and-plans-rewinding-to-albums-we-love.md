@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Love Letters and Plans: Rewinding to Albums we Love"
+title: "Plans and Love Affairs: A Big Duck Rewind"
 author: nad. & Nashrudin
 col: white
 date: 2020-12-22T09:18:47.471Z
