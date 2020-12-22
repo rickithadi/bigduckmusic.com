@@ -16,7 +16,7 @@ tags:
   - Death Cab for Cutie
   - The Great Spy Experiment
 ---
-As we get ready to mark the start of a hopefully better year, we’re taking the time to rewind a little. From an indie rock classic to a Singaporean institution, two of our writers personally celebrate the anniversaries of two works close to their heart.
+### As we get ready to mark the start of a hopefully better year, we’re taking the time to rewind a little. From an indie rock classic to a Singaporean institution, two of our writers personally celebrate the anniversaries of two works close to their heart.
 
 # A Love Letter to *Plans*
 
