@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Love Letters and Plans: Rewinding to Albums we Love"
-author: nad & Nashrudin
+author: nad. & Nashrudin
 col: white
 date: 2020-12-22T09:18:47.471Z
 description: As we get ready to mark the start of a hopefully better year, we’re
@@ -20,7 +20,7 @@ tags:
 
 # A Love Letter to *Plans*
 
-By Nad
+By nad.
 
 ![Death Cab for Cutie on The OC](https://res.cloudinary.com/ddomozydd/image/upload/v1608629541/DeathCabOCMeme_bdhio1.jpg "Death Cab for Cutie on The OC")
 
