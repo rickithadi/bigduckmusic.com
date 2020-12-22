@@ -28,11 +28,15 @@ By nad.
 
 Can you even really call yourself emo if you’ve never even died in a cab? Strap in friends, it’s real emo hours now – for I’ve risen from my metaphorical grave to channel Seth Cohen and pen my love and adoration for Death Cab for Cutie. Bear with me – it gets a little bit dark and a little too personal, but it’s something that needs to be said in tribute to this really underrated album.
 
-Like most people, *I’ll Follow you Into The Dark* was the first ever Death Cab song I’d ever listened to. With it, I quickly became enamoured by DCFC’s sound – and this year marks the 15th anniversary of Death Cab’s melodic and deeply melancholic, indie-pop album, Plans.
+Like most people, *I’ll Follow you Into The Dark* was the first ever Death Cab song I’d ever listened to. With it, I quickly became enamoured by DCFC’s sound – and this year marks the 15th anniversary of Death Cab’s melodic and deeply melancholic, indie-pop album, *Plans*.
+
+![Death Cab for Cutie](https://res.cloudinary.com/ddomozydd/image/upload/v1608631316/deathcab_zf2mkj.jpg "Death Cab for Cutie")
+
+**Death Cab for Cutie circa 2005. Photo: NBHAP**
 
 It’s difficult for me to single out the reasons why this album was so important to me. But it was a discovery I made at the right time - something I needed to experience at a time when growing up was rocky, scary and messy all at the same time. I needed something as raw and vulnerable, something as earnest in its sadness to help me realise it was OK not to be OK (as corny as this sounds).
 
-I admit – I probably romanticised the melancholia and lyrical vulnerability of the album a little too much. Perhaps, it was the sad 2011 Tumblr Indie girl in me that related so strongly with this. But even so, *Plans* makes up the very essence of my being today. As with most DCFC songs, Gibbard channels his emotions through metaphors; and in Plans, he manifests his relationships in his comparisons to distance and geography.
+I admit – I probably romanticised the melancholia and lyrical vulnerability of the album a little too much. Perhaps, it was the sad 2011 Tumblr Indie girl in me that related so strongly with this. But even so, *Plans* makes up the very essence of my being today. As with most DCFC songs, Gibbard channels his emotions through metaphors; and in *Plans*, he manifests his relationships in his comparisons to distance and geography.
 
 It’s an exploration that begins with *Soul Meets Body* – “If the silence takes you then I hope it takes me too,” he sings to a strangely upbeat tune. At the intersection of love and loss, he continues weaving a running narrative of painful desire – *I Will Follow You Into the Dark* is pretty self-explanatory, while on *What Sarah Said*, he poses a heart-wrenching and existential question: “love is watching someone die. So who’s gonna watch you die?”
 
@@ -56,9 +60,9 @@ By Nashrudin
 
 The early 2000s sure was a weird time for rock music. Post-grunge and nu-metal dominated the airwaves, and every guy was worshipping the great Fred Durst, rocking that red snapback cap and spiking their hair like their nu-metal heroes. But as music fans, you were pretty much questioning rock’s genuineness at that point.
 
-Then came The Strokes and their decade-defining debut “Is This It”. It was a seismic shift for the sound of popular guitar-based indie music, and soon, it helped pave the way for new alternative rock bands to take centre stage: from Interpol and the Yeah Yeah Yeahs to The Killers.
+Then came The Strokes and their decade-defining debut *[Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5?si=glWg9_ASQz-RcsjnDX0PAQ)*. It was a seismic shift for the sound of popular guitar-based indie music, and soon, it helped pave the way for new alternative rock bands to take centre stage: from Interpol and the Yeah Yeah Yeahs to The Killers.
 
-It was an era-defining rebirth, and *Meet me in The Bathroom*, an oral history by Lizzy Goodman, perfectly and beautifully encapsulates the buzzy New York rock scene at the turn of the millennium.I highly recommend checking it out, if you haven’t already read it.
+It was an era-defining rebirth, and *Meet me in The Bathroom*, an oral history by Lizzy Goodman, perfectly and beautifully encapsulates the buzzy New York rock scene at the turn of the millennium. I highly recommend checking it out, if you haven’t already read it.
 
 ![The Strokes ](https://res.cloudinary.com/ddomozydd/image/upload/v1608629907/TheStrokesNME_krijrt.jpg "The Strokes")
 
