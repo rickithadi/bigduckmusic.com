@@ -70,9 +70,9 @@ It was an era-defining rebirth, and *Meet me in The Bathroom*, an oral history b
 
 But back in our motherland, Singapore had already seen its fair share of local indie rock acts. In a sense, we had our own CBGB –it all centered around The Substation, an independent arts venue on Armenian Street. Alongside it grew Singapore’s indie music scene – as the 90s came, we saw indie pop from the likes of The Padres, to bands like AWOL and Lion City hardcore legends Stompin’ Ground. All in all, the Substation served as a launching pad for many local bands during the time. But being still a small and niche market, it naturally wasn’t getting much attention as it should.
 
-![The Padres](https://res.cloudinary.com/ddomozydd/image/upload/v1608630343/thepadres_gudjfg.jpg "The Padres")
+![The Padres](https://res.cloudinary.com/ddomozydd/image/upload/v1608633460/padres_dzwg4h.jpg "The Padres")
 
-**90s Singaporean indie-rockers The Padres**
+**An invite card for a gig featuring The Padres in the 90s.**
 
 Everything changed when post-punk revival’s emerging waves seeped its way into our shores. It gave groups of bored teenagers and delinquents inspiration in realising that they had something to offer to the scene. Alongside the continued success of already established bands, suddenly came a burst of new talent.
 
@@ -80,7 +80,7 @@ One of the many that stood out was The Great Spy Experiment – a band that deli
 
 Kicking it all off with a build up reminiscent of The Killers’ hit *Read My Mind*, a triumphant synth opening brings in frontman Saiful Idris’ memorable opening lyrics. “What I’d do just to take you in/You know I’ll take you somewhere deep within,” he sings, as arena-sized drums enter to create an anthemic sonic landscape.
 
-![The Great Spy Experiment](https://res.cloudinary.com/ddomozydd/image/upload/v1608630586/thegreatspyexperiment_zcfreb.jpg "The Great Spy Experiment")
+![The Great Spy Experiment](https://res.cloudinary.com/ddomozydd/image/upload/v1608633261/thegreatspyexperiment_vocet2.jpg "The Great Spy Experiment")
 
 **The Great Spy Experiment**
 
