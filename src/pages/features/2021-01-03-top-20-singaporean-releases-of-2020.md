@@ -23,11 +23,11 @@ But it was also a year of solidarity and reinvention. As local institutions like
 
 Of course, the driving force behind it was simple: the music stayed good. As artists hunkered down indoors with the pandemic, creativity became its saving grace, as artists in our scene found room to further refine and record with its accompanying lull. We saw fresh sounds emerge from a collective spirit of exploration. New voices in unprecedented genres emerged, while established names came back sharper. The result was a flourishing, diverse landscape of releases, one we’re proud to celebrate as we welcome a new year of musical exploration.
 
-So to send off the disaster that was 2020, we’ll gradually be revealing our picks of last year's Singaporean albums/EPs we heard that stuck the most with us. For the sake of posterity, we’ve condensed it to 20 picks and 5 honorable mentions, but even with these rankings, all these works are equally worth celebrating. Our rankings are purely our own personal opinion: take them at most a grain of salt. After all, there were many more wonderful works we wished we could mention – from carnatic footwork ([iyer](https://iyer.bandcamp.com/)) and modular soundscapes, ([Kin Leonn/Hiroshi Ebina](https://kitchenlabel.bandcamp.com/album/faraway-vicinity)), progressive suites ([Fauxe](https://suneyerecords.bandcamp.com/album/new-life)) and emerging indie royalty ([Shye](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU?si=P4m6tngXR_CuZzClO1EjmQ)), to introspective ambient pop ([Lydia Ang](https://lydiaang.bandcamp.com/album/amid)) and wonderful documents of collective creativity ([Syndicate's *SEED*](https://syndicatesg.bandcamp.com/album/seed)). These don’t even include the endlessly memorable singles – from adventures searching for food ([Wovensound's *Hunger Pangs*](https://open.spotify.com/album/324bGZ60PMO8pitxU8siVF?si=uotdCRIQTUi_b0kJDTyd0w)) and reinventions in glitchwork ([Anise](https://anise.bandcamp.com/album/inward)), to noise-rock freakouts ([sl_owtalk](https://sl-owtalk.bandcamp.com/track/berpecah)) and glittering hyperpop debuts ([Cayenne](https://open.spotify.com/track/7LoduJv2prGxny0GagzCdm?si=86Zui2mORVm70pCpveB6ZQ)).
+So to send off the disaster that was 2020, we’ll gradually be revealing our picks of last year's Singaporean albums/EPs we heard that stuck the most with us. For the sake of posterity, we’ve condensed it to 20 picks and 5 honourable mentions, but even with these rankings, all these works are equally worth celebrating. Our rankings are purely our own personal opinion: take them at most a grain of salt. After all, there were many more wonderful works we wished we could mention – from carnatic footwork ([iyer](https://iyer.bandcamp.com/)) and modular soundscapes, ([Kin Leonn/Hiroshi Ebina](https://kitchenlabel.bandcamp.com/album/faraway-vicinity)), progressive suites ([Fauxe](https://suneyerecords.bandcamp.com/album/new-life)) and emerging indie royalty ([Shye](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU?si=P4m6tngXR_CuZzClO1EjmQ)), to introspective ambient pop ([Lydia Ang](https://lydiaang.bandcamp.com/album/amid)) and wonderful documents of collective creativity ([Syndicate's *SEED*](https://syndicatesg.bandcamp.com/album/seed)). These don’t even include the endlessly memorable singles – from adventures searching for food ([Wovensound's *Hunger Pangs*](https://open.spotify.com/album/324bGZ60PMO8pitxU8siVF?si=uotdCRIQTUi_b0kJDTyd0w)) and reinventions in glitchwork ([Anise](https://anise.bandcamp.com/album/inward)), to noise-rock freakouts ([sl_owtalk](https://sl-owtalk.bandcamp.com/track/berpecah)) and glittering hyperpop debuts ([Cayenne](https://open.spotify.com/track/7LoduJv2prGxny0GagzCdm?si=86Zui2mORVm70pCpveB6ZQ)).
 
 Ultimately, they form a small slice of Singapore’s diverse musical offerings this year. These were some releases among many worth remembering - and in a year that felt like ten compressed into one, 2020 gave room for them all.
 
-## Honorable Mentions
+## Honourable Mentions
 
 ### Hauste - *Patterns*
 
@@ -55,7 +55,7 @@ Although admittedly not as emotionally cathartic as its predecessor, the math ro
 
 \-
 
-With a far starker palette than his band’s instrumental color (recorded in fact, with just a single microphone and guitar), math rock geek and Woes bandleader Russell Seow somehow finds an even stronger emotional potency in his solo project’s Midwest-flavored emo folk. From gentle, finger-picked yearning (*The Moon,* *I Wish I Could...*) to the driving storminess of *A Haunting*, Not Really glimmers with self-reflective beauty – with gentle guitars and painfully honest vocals, a calm catharsis invites you to bleed its Owen-like heart out with him.
+With a far starker palette than his band’s instrumental colour (recorded in fact, with just a single microphone and guitar), math rock geek and Woes bandleader Russell Seow somehow finds an even stronger emotional potency in his solo project’s Midwest-flavored emo folk. From gentle, finger-picked yearning (*The Moon,* *I Wish I Could...*) to the driving storminess of *A Haunting*, Not Really glimmers with self-reflective beauty – with gentle guitars and painfully honest vocals, a calm catharsis invites you to bleed its Owen-like heart out with him.
 
 ### Listen to *Not Really* here:
 
@@ -109,7 +109,7 @@ Consisting of veterans across the hardcore scene, BIND’s EP *STATE OF MIND* ta
 
 \-
 
-With a blistering blend of industrial dance grooves, hard-hitting drum and bass beats, and hardcore punk-esque vocals over a cathartically driving noise-rock aesthetic, up-and-coming [Syndicate](https://www.syndicate.sg/) producer deformed masterfully warps colorful synths and demented samples in what sounds like a signature sound in the making.
+With a blistering blend of industrial dance grooves, hard-hitting drum and bass beats, and hardcore punk-esque vocals over a cathartically driving noise-rock aesthetic, up-and-coming [Syndicate](https://www.syndicate.sg/) producer deformed masterfully warps colourful synths and demented samples in what sounds like a signature sound in the making.
 
 ### Listen to *LATE TO THE LOUDNESS WAR* here:
 
