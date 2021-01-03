@@ -73,7 +73,7 @@ With a far starker palette than his band’s instrumental color (recorded in fac
 
 \-
 
-Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wraps kicked the year’s doors in with unabashed joy, setting the stage for the rapper’s grandly green persona. Balancing self-aware bragaddocio (*6th Best Wrapper*) with infectious hooks, Vol. 1 served as an absurdly fun introduction to Sean Lim’s lyrically dense boom-bap flows – with Danny Brown-esque delivery, he moves from shitting gloriously on fake hypebeasts (*Waste*) to celebrating his food family (kimchi jigae and his beansprout-gimmicked brother, Bryan all included). With all his quirks well-armed, it was a winning opening salvo for the gourd – and luckily for RT (and even better for us), this was only the beginning.
+Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wraps kicked the year’s doors in with unabashed joy, setting the stage for the rapper’s grandly green persona. Balancing self-aware bragaddocio (*6th Best Wrapper*) with infectious hooks, Vol. 1 served as an absurdly fun introduction to Sean Lim’s lyrically dense boom-bap flows – with Danny Brown-esque delivery, he moves from shitting gloriously on fake hypebeasts (*Waste*) to celebrating his food family (kimchi jigae and his [beansprout-gimmicked](https://www.instagram.com/limbrotherstravel/) brother, Bryan all included). With all his quirks well-armed, it was a winning opening salvo for the gourd – and luckily for RT (and even better for us), this was only the beginning.
 
 ### Listen to *Veggie Wraps Vol.1* here:
 
