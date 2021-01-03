@@ -43,6 +43,8 @@ Although admittedly not as emotionally cathartic as its predecessor, the math ro
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2069834981/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://haustesound.bandcamp.com/album/patterns">Patterns by hauste</a></iframe>
 
+* **By JX Soo**
+
 \-
 
 ## Everything Us Alright - *Not Really*
@@ -58,6 +60,8 @@ With a far starker palette than his band’s instrumental color (recorded in fac
 ### Listen to *Not Really* here:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2742283880/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://everythingusalright.bandcamp.com/album/not-really">Not Really by Everything Us Alright</a></iframe>
+
+* **By JX Soo**
 
 \-
 
@@ -75,6 +79,8 @@ Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wra
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2964991639/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bgourd.bandcamp.com/album/veggie-wraps-vol-1">Veggie Wraps, Vol.1 by BGourd &amp; Halal Sol</a></iframe>
 
+* **By JX Soo**
+
 \-
 
 ## BIND - *STATE OF MIND*
@@ -91,6 +97,8 @@ Consisting of veterans across the hardcore scene, BIND’s EP *STATE OF MIND* ta
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2441345178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bindsg.bandcamp.com/album/state-of-mind">STATE OF MIND by BIND</a></iframe>
 
+* **By Isaac Yackem**
+
 \-
 
 ## deførmed - *LATE TO THE LOUDNESS WAR*
@@ -106,6 +114,8 @@ With a blistering blend of industrial dance grooves, hard-hitting drum and bass 
 ### Listen to *LATE TO THE LOUDNESS WAR* here:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=153343898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://syndicatesg.bandcamp.com/album/late-to-the-loudness-war">LATE TO THE LOUDNESS WAR by deførmed</a></iframe>
+
+* **By Isaac Yackem**
 
 \-
 
