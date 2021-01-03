@@ -15,23 +15,23 @@ tags:
   - Top 20
   - Singapore
 ---
-## As we welcome a new year, we run down our personal ranking of the best Singaporean albums and EPs worth celebrating from 2020.
+### As we welcome a new year, we run down our personal ranking of the best Singaporean albums and EPs worth celebrating from 2020.
 
 2020’s been a tough year, and it’s safe to say that the Singaporean music scene wasn’t spared as well. As the teeth of COVID-19 sunk in with the circuit breaker, our usual experiences with music saw the knife of disruption driven into them - tours were cancelled, campaigns were delayed, and artists lost out on opportunities to test and promote their new material on the live stage.
 
-But it was also a year of solidarity and reinvention. As local institutions like [Lithe House](https://www.facebook.com/litheparalogue/) came to the brink of closure, the community quickly united to save it with a fundraiser. Other institutions found new life in secondary alternative ventures, such as Headquarter's [club-turned speakeasy bar](https://www.facebook.com/headquarters.sg/). Our favorite live series adopted online alter egos, with initiatives from [Uploading](https://www.instagram.com/uploadingsg/) and [Tonehouse Studios](https://www.tonehouse.sg/) transforming into livestreams. We adopted that spirit here at Big Duck too - as we await our return to the live stage, we converted our Big Duck Energy into highlighting the richness of our music scenes here and beyond at our site, joining the ranks of fellow publications [NME Asia](https://www.nme.com/en_asia/), [Singapore Community Radio](https://www.sgcommunityradio.com/), and [Life In Arpeggio](https://www.lifeinarpeggio.com/).
+But it was also a year of solidarity and reinvention. As local institutions like [Lithe House](https://www.facebook.com/litheparalogue/) came to the brink of closure, the community quickly united to save it with a fundraiser. Other institutions found new life in secondary alternative ventures, from a [club-turned speakeasy bar](https://www.facebook.com/headquarters.sg/), to transformed livestream events from [Uploading](https://www.instagram.com/uploadingsg/) and [Tonehouse Studios](https://www.tonehouse.sg/). We adopted that spirit here at Big Duck too - as we await our return to the live stage, we converted our Big Duck Energy into highlighting the richness of our music scenes here and beyond at our site, joining the ranks of fellow publications [NME Asia](https://www.nme.com/en_asia/), [Singapore Community Radio](https://www.sgcommunityradio.com/), and [Life In Arpeggio](https://www.lifeinarpeggio.com/).
 
-Of course, the driving force behind it is simple: the music stayed good. As artists hunkered down indoors with the pandemic, creativity became its saving grace, as artists in our scene found room to further refine and record with its accompanying lull. We saw fresh sounds emerge from a collective spirit of exploration. New voices in unprecedented genres emerged, while established names came back sharper. The result was a flourishing, diverse landscape of releases, one we’re proud to celebrate as we welcome a new year of musical exploration.
+Of course, the driving force behind it was simple: the music stayed good. As artists hunkered down indoors with the pandemic, creativity became its saving grace, as artists in our scene found room to further refine and record with its accompanying lull. We saw fresh sounds emerge from a collective spirit of exploration. New voices in unprecedented genres emerged, while established names came back sharper. The result was a flourishing, diverse landscape of releases, one we’re proud to celebrate as we welcome a new year of musical exploration.
 
 So to send off the disaster that was 2020, we’ll gradually be revealing our picks of last year's Singaporean albums/EPs we heard that stuck the most with us. For the sake of posterity, we’ve condensed it to 20 picks and 5 honorable mentions, but even with these rankings, all these works are equally worth celebrating. Our rankings are purely our own personal opinion: take them at most a grain of salt. After all, there were many more wonderful works we wished we could mention – from carnatic footwork ([iyer](https://iyer.bandcamp.com/)) and modular soundscapes, ([Kin Leonn/Hiroshi Ebina](https://kitchenlabel.bandcamp.com/album/faraway-vicinity)), progressive suites ([Fauxe](https://suneyerecords.bandcamp.com/album/new-life)) and emerging indie royalty ([Shye](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU?si=P4m6tngXR_CuZzClO1EjmQ)), to introspective ambient pop ([Lydia Ang](https://lydiaang.bandcamp.com/album/amid)) and wonderful documents of collective creativity ([Syndicate's *SEED*](https://syndicatesg.bandcamp.com/album/seed)). These don’t even include the endlessly memorable singles – from adventures searching for food ([Wovensound's *Hunger Pangs*](https://open.spotify.com/album/324bGZ60PMO8pitxU8siVF?si=uotdCRIQTUi_b0kJDTyd0w)) and reinventions in glitchwork ([Anise](https://anise.bandcamp.com/album/inward)), to noise-rock freakouts ([sl_owtalk](https://sl-owtalk.bandcamp.com/track/berpecah)) and glittering hyperpop debuts ([Cayenne](https://open.spotify.com/track/7LoduJv2prGxny0GagzCdm?si=86Zui2mORVm70pCpveB6ZQ)).
 
 Ultimately, they form a small slice of Singapore’s diverse musical offerings this year. These were some releases among many worth remembering - and in a year that felt like ten compressed into one, 2020 gave room for them all.
 
-# Honorable Mentions
+## Honorable Mentions
 
-## Hauste - *Patterns*
+### Hauste - *Patterns*
 
-### Math Rock
+#### Math Rock
 
 ![Hauste - Patterns](https://res.cloudinary.com/ddomozydd/image/upload/v1609662271/Top%2020/hon_patterns_ioihdp.jpg "Hauste - Patterns")
 
@@ -47,9 +47,9 @@ Although admittedly not as emotionally cathartic as its predecessor, the math ro
 
 \-
 
-## Everything Us Alright - *Not Really*
+### Everything Us Alright - *Not Really*
 
-### Emo / Singer-songwriter
+#### Emo / Singer-songwriter
 
 ![Everything Us Alright - Not Really](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_everything_us_alright_i9rqrj.jpg "Everything Us Alright - Not Really")
 
@@ -65,9 +65,9 @@ With a far starker palette than his band’s instrumental color (recorded in fac
 
 \-
 
-## BGourd/Halal Sol - *Veggie Wraps Vol.1*
+### BGourd/Halal Sol - *Veggie Wraps Vol.1*
 
-### Hip House / Boom-bap
+#### Hip House / Boom-bap
 
 ![BGourd Halal Sol - Veggie Wraps Vol 1](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/hon_bgourd_vol1_my5bdn.jpg "BGourd Halal Sol - Veggie Wraps Vol 1")
 
@@ -83,9 +83,9 @@ Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wra
 
 \-
 
-## BIND - *STATE OF MIND*
+### BIND - *STATE OF MIND*
 
-### Hardcore
+#### Hardcore
 
 ![BIND - STATE OF MIND](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_Bind_state_of_mind_mckx3u.jpg "BIND - STATE OF MIND")
 
@@ -101,9 +101,9 @@ Consisting of veterans across the hardcore scene, BIND’s EP *STATE OF MIND* ta
 
 \-
 
-## deførmed - *LATE TO THE LOUDNESS WAR*
+### deførmed - *LATE TO THE LOUDNESS WAR*
 
-### Experimental Electronic
+#### Experimental Electronic
 
 ![deformed - LATE TO THE LOUDNESS WAR](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_deformed_late_ihduwk.jpg "deformed - LATE TO THE LOUDNESS WAR")
 
