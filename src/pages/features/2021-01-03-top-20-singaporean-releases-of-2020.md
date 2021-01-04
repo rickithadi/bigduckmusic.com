@@ -37,7 +37,7 @@ Ultimately, they form a small slice of Singapore’s diverse musical offerings t
 
 \-
 
-Although admittedly not as emotionally cathartic as its predecessor, the math rock trio’s follow-up effort to 2018’s excellent Leavings still finds room for dynamic highlights. From neurotic bass theatrics in *Bassball* to breezy jams in *Happy and Angels*, they also find new diversity to their palette, courtesy of Bobbi Brown’s laid-back hip-hop bounce (*Courduroy*). Refining their formula of technicality towards more settled forms, hauste find themselves maturing with Patterns, and reaffirm themselves as one of the island’s premier math outfits.
+Although admittedly not as emotionally cathartic as its predecessor, the math rock trio’s follow-up effort to 2018’s excellent *[Leavings](https://haustesound.bandcamp.com/album/leavings)* still finds room for dynamic highlights. From neurotic bass theatrics in *Bassball* to breezy jams in *Happy and Angels*, they also find new diversity to their palette, courtesy of Bobbi Brown’s laid-back hip-hop bounce (*Courduroy*). Refining their formula of technicality towards more settled forms, hauste find themselves maturing with Patterns, and reaffirm themselves as one of the island’s premier math outfits.
 
 ### Listen to *Patterns* here:
 
