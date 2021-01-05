@@ -87,7 +87,7 @@ BAD DOD’s *Yikes!* is unadulterated, pure rock goodness. The trio’s debut al
 
 \-
 
-### 17. per[sona - These Algorithms Don’t Work Anymore 
+### 17. per[sona - These Algorithms Don’t Work Anymore
 
 #### Alternative/Indie rock
 
@@ -109,7 +109,7 @@ Despite the seemingly dreary and existential nature of the EP, hope remains its 
 
 \-
 
-### 16. Houg - The Oscillation Scene 
+### 16. Houg - The Oscillation Scene
 
 #### Chillwave
 
@@ -117,9 +117,7 @@ Despite the seemingly dreary and existential nature of the EP, hope remains its 
 
 \-
 
-With nostalgic aesthetics and tasteful production choices heavily indebted to 80s-adjacent sonic palettes, the excellent songwriting on Houg’s sophomore trip-hop effort The *Oscillation Scene* is anything but derivative.
-
-In equal parts groovy and introspective, the EP's dense layers never loses focus.
+With nostalgic aesthetics and tasteful production choices heavily indebted to 80s-adjacent sonic palettes, the excellent songwriting on Houg’s sophomore trip-hop effort The *Oscillation Scene* is anything but derivative. In equal parts groovy and introspective, the EP's dense layers never loses focus.
 
 With driving drum machine hits, bass thumps and claps, *ICBM*'s powerful lyricism and refrains present an enticing duality, forming both commentaries on love's struggles and critiques on artistic integrity. On *Wet Wants*, a combination of tasty guitars, sax licks and understated keys set the stage for impassioned vocal performances, altogether leading to satisfyingly huge snares and infectious, grooving verses. On other notes, like on closing track *Slippin’*, Houg walks the line between his trip-hop and art rock influences, with the resulting track feeling soaring, cathartic, and profound.
 
