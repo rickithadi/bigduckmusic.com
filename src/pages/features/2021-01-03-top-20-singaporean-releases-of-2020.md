@@ -119,4 +119,108 @@ With a blistering blend of industrial dance grooves, hard-hitting drum and bass 
 
 \-
 
-# Top 20 coming soon...
+### 20. Feston - *Field Notes*
+
+#### Ambient
+
+![Feston - Field Notes](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_field_notes_v3kf8b.jpg "Feston - Field Notes")
+
+\-
+
+A quieter venture for Stopgap/Gouch guitar wizard Calvin Joseph Phua, the ambient music he makes as Feston makes its appeals through calm, microscopic studies. Dubbing his project as thematic music about the trauma of modernity, Field Notes takes on much more of a healing character, dissolving the tension of the drones that filled last year's frigid *[pēⁿ​-​ká](https://feston.bandcamp.com/album/pe-ka)*. Here, aural scenes from Seoul to Kathmandu intertwine with carefully crafted textures, creating their own distinct transportive worlds via a comforting naturalistic palette.
+
+Altogether, they form aural snapshots of locales yearned to be rediscovered. On HP, wandering guitar fragments colour distant reveries, as cavernous field recordings build an enveloping urban melancholia – on others (Riverwaves), the soundscapes embrace comforts of the natural world, as radiating shimmers amalgamate with the flowing of creeks and streams. Even at the collection’s most alive, like on Kamal Marga’s ritualistic processions, they are portals to contemplative liminal spaces – as chants and percussion dissolve into fuzzy, modulating drones, its mass forms a glow of mystifying psychedelia. There’s a warm spirit that imbues itself across Field Notes’ three sketches – and for a year that has reveled in chaos, its gentle, yet explorative serenity always feels welcome.
+
+### Listen to *Field Notes* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4045008544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://feston.bandcamp.com/album/field-notes">Field Notes by Feston</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 19. Bongomann - *Smiles EP*
+
+#### Deep house
+
+![Bongomann - Smiles](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/19_bongomann_f2xfee.jpg "Bongomann - Smiles")
+
+\-
+
+Bongomann’s *Smiles EP* is filled with the satisfying amalgamation of thumping kicks drums and bass grooves, upbeat open hi-hats, and chopped up vocal samples that would light up the dancefloor - a bubbling formula all perfectly packaged within a slick yet hazy atmosphere. Be it the cruising groove of collaborator Halal Sol’s “reluved” remix of *Deeperluv (Get it)* or the enticingly percussive *CHIPS,* there’s a little something for all fans of house music or anyone just looking for a good time at the club – or hopefully as the pandemic tides over, another gathering of fun at his [Ice Cream Sundays](https://www.facebook.com/icecreamsundayssg/).
+
+### Listen to *Smiles EP* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3192526526/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bongomann.bandcamp.com/album/smiles-ep">Smiles EP by Bongomann</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 18. BAD DOD - *Yikes!*
+
+#### Garage rock
+
+![Bad Dod - Yikes](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/18_yikes_srt46g.jpg "Bad Dod - Yikes")
+
+\-
+
+BAD DOD’s *Yikes!* is unadulterated, pure rock goodness. The trio’s debut album is a tight, hard-hitting love letter to its garage rock and grunge influences (Nirvana, The Vines and Jay Reatard, to name a few); chock-full of contagious energy, inspired songwriting and a healthy dose of self-awareness underneath it’s no-fucks-given exterior. Opening track *FIGHT* is a masterclass in riff rock songwriting, setting the stage for the rest of the atomic fuzz-laden, mosh-inciting runtime – while *Feel Nothing Yet* and *Outta My Brain* highlight BAD DOD’s acute pop sensibilities, with their infectious hooks sacrificing none of its pummelling drive. Above all, *Yikes!*' well-crafted songwriting stays consistent throughout the album –and at just 24 minutes, it's an exhilarating listen that never overstays its welcome. Above all, it sounds like a band just having a whole lot of fun.
+
+### Listen to *Yikes!* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2584757371/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://baddod.bandcamp.com/album/yikes">Yikes! by BAD DOD</a></iframe>
+
+### You can also read our full review of Yikes! [here](https://bigduckmusic.com/features/2020-08-18-bad-dod-yikes-review/).
+
+* **By Isaac Yackem**
+
+\-
+
+### 17. per[sona - These Algorithms Don’t Work Anymore 
+
+#### Alternative/Indie rock
+
+![persona - These Algorithms Don't Work Anymore](https://res.cloudinary.com/ddomozydd/image/upload/v1609836316/Top%2020/17_persona_vdciks.jpg "persona - These Algorithms Don't Work Anymore")
+
+\-
+
+Birthed from a near-death experience, per[sona is a peek into the soul of musician and producer Joshua Aaron Goh. His debut EP *These Algorithms Don’t Work Anymore* is a triumphant indie rock effort – channeling Reznor to Radiohead as he paints an earnest chronicle of his internal struggles, as he paves his way to recovery from self-defeat.
+
+In the process, per[sona squeezes out what is easily some of the best recent work from renowned Singaporean producer Leonard Soosay. Even as lush electronic textures masterfully blend with live instrumentation and captivating vocal performances, its clean mix never lacks the urgency and edge required for when it gets going – like on rockier tracks such as *Splinters* or *Version*. The gorgeous soundscapes on Up/Away and Posthumous further build atmosphere upon the emotional quality of the tracks.
+
+Despite the seemingly dreary and existential nature of the EP, hope remains its overarching message. In that respect, *These Algorithms Don’t Work Anymore* succeeds - being not just an exploration of the human condition, but also a strong testament to its spirit.
+
+### Listen to *These Algorithms Don't Work Anymore* here:
+
+<iframe src="https://open.spotify.com/embed/album/37Hm5JJhxyYoFMxspTSteV" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 16. Houg - The Oscillation Scene 
+
+#### Chillwave
+
+![Houg - The Oscillation Scene](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/16_houg_iszvad.jpg)
+
+\-
+
+With nostalgic aesthetics and tasteful production choices heavily indebted to 80s-adjacent sonic palettes, the excellent songwriting on Houg’s sophomore trip-hop effort The *Oscillation Scene* is anything but derivative.
+
+In equal parts groovy and introspective, the EP's dense layers never loses focus.
+
+With driving drum machine hits, bass thumps and claps, *ICBM*'s powerful lyricism and refrains present an enticing duality, forming both commentaries on love's struggles and critiques on artistic integrity. On *Wet Wants*, a combination of tasty guitars, sax licks and understated keys set the stage for impassioned vocal performances, altogether leading to satisfyingly huge snares and infectious, grooving verses. On other notes, like on closing track *Slippin’*, Houg walks the line between his trip-hop and art rock influences, with the resulting track feeling soaring, cathartic, and profound.
+
+Massive, yet melancholic and intimate, *The Oscillation Scene* presents an honest narrative, depicting Houg's own bouts wrestling with self-doubt and insecurity. Across its 6 tracks, the Oscillation scene feels fresh, provocative, and sensual- but most importantly, it feels honest.
+
+### Listen to The Oscillation Scene here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2006859706/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://houg.bandcamp.com/album/the-oscillation-scene">The Oscillation Scene by Houg</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+## Top 15 coming soon...
