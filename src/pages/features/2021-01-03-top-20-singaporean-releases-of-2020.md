@@ -141,7 +141,7 @@ Massive, yet melancholic and intimate, *The Oscillation Scene* presents an hones
 
 In one of the year’s most left-field surprises, Isa Ong’s (of Pleasantry, Amateur Takes Control and sub:shaman) new solo moniker finds his lyrical songcraft morphed through the prism of astonishing, fractured glitchscapes. Taking after anime-inspired spirits of transportive fantasy, *Isekai*’s sonics find otherworldly parallels with his own dissociative experiences, through rabbit holes of complex beatwork and stuttering organic textures.
 
-*Isekai*’s world represents a self-described bundle of nerves – as the tracklist progresses, its anxious dramatics manifest themselves in an arc that grows in exhilarating intensity. Inward finds Manic IDM-adjacent breaks giving way to suspenseful arpeggios, while his formative influences peek their head through the cracks on *Corcovado* (itself a reference in name to a Jobim bossa classic). Like its namesake, *Isekai* channels his base sensibilities through an alternate dimension, processed through their own demented maelstroms. “What disguise do I craft this time?,” his persona croons – and as his familiar guitars stutter on top of pounding bass and kicks, alien melodies write Isa’s warped character studies. Revealing a glitching interior, *Isekai* presents wonder through mutation.
+The album's world represents a self-described bundle of nerves – as the tracklist progresses, its anxious dramatics manifest themselves in an arc that grows in exhilarating intensity. Inward finds manic IDM-adjacent breaks giving way to suspenseful arpeggios, while his formative influences peek their head through the cracks on *Corcovado* (itself a reference in name to a Jobim bossa classic). Like its namesake, *Isekai* finds his base sensibilities in alternate dimensions, processed through their own demented maelstroms. “What disguise do I craft this time?,” his persona croons – and as his familiar guitars stutter on top of pounding bass and kicks, alien melodies write Isa’s warped character studies. Revealing a glitching interior, *Isekai* presents wonder through mutation.
 
 As its five tracks navigate stories of decaying relationships, fragmenting identities, and distorted passions, its sonics mirror mania as they intensify. Dead knot’s neuroticism finds Isa riding sparse sub bass and shuffling percolations towards frantic, explosive breakcore, while the title track’s breakbeats bloom into sequences of engineered, tribalistic chaos. Eventually, with industrial textures and wandering bass, the journey fizzles to a sudden stop. Like its accidental nature, *Isekai*’s confusion closes itself not with premeditated resolutions, but by surreal fadeouts of shock.
 
@@ -155,7 +155,7 @@ As its five tracks navigate stories of decaying relationships, fragmenting ident
 
 ### 14. Various Artists - Pick of The Lot!
 
-#### Compilation 
+#### Compilation
 
 ![Various Artists - Pick Of The Lot!](https://res.cloudinary.com/ddomozydd/image/upload/v1609662726/Top%2020/14_pick_of_the_lot_kdudbx.jpg "Various Artists - Pick Of The Lot!")
 
@@ -165,7 +165,7 @@ As its five tracks navigate stories of decaying relationships, fragmenting ident
 
 Admittedly, some pieces fit better than others. Some tracks inherited the spirit of their originals, though with mixed results – while susurrus distilled *[Anchor Forever](https://xfrmusic.bandcamp.com/track/anchor-forever)*'s sweaty refrains into [calculated crescendos](https://tiredrecordssg.bandcamp.com/track/anchor-forever-xingfoo-roy-cover) , their counterparts presented a straightforward, punkish rendition of Cosmic Child’s aching *Warm*, accidentally stripping it clean of its atmospheric wonders. On others, the originals became launchpads for entirely different takes, injecting their own distinctive palettes – from beatdown hardcore courtesy of Charm, to [strangely tropical bars ](https://tiredrecordssg.bandcamp.com/track/not-super-shinada-susurrus-sample)on a redubbed [*Super Shinada*,](https://susurrusdesu.bandcamp.com/track/super-shinada) to Forests’ familiar midwest noodling.
 
-But its most exciting moments were when these tracks struck a delicate balance, transcending their originals via reinvention. With whimsical tapping and buoyant harmonies, math quartet cues recrafted *[Peachy](https://terriblepeoplesg.bandcamp.com/track/peachy-2)*’s slow-burning melancholia into a hopeful statement of yearning – while on the other hand, Cosmic Child refracted Forests' emo through their signature gossamer haze, closing the compilation with prismatic beauty. Even on the cuts that fell slightly flat, Pick Of The Lot’s adaptations and mutations displayed these songs’ powerful versatility – and above all, it reminded us of one thing always worth celebrating: the power of collective creativity.
+But its most exciting moments were when these tracks struck a delicate balance, transcending their originals via reinvention. With whimsical tapping and buoyant harmonies, math quartet cues recrafted *[Peachy](https://terriblepeoplesg.bandcamp.com/track/peachy-2)*’s slow-burning melancholia into a [hopeful statement of yearning](https://tiredrecordssg.bandcamp.com/track/peachy-terrible-people-cover) – while on the other hand, Cosmic Child [refracted Forests' emo](https://weareforests.bandcamp.com/track/cup-of-tea) through their signature gossamer haze, closing the compilation with [prismatic beauty](https://tiredrecordssg.bandcamp.com/track/cup-of-tea-forests-cover). Even on the cuts that fell slightly flat, Pick Of The Lot’s adaptations and mutations displayed these songs’ powerful versatility – and above all, it reminded us of one thing always worth celebrating: the power of collective creativity.
 
 ### Listen to *Pick of The Lot!* here:
 
@@ -183,7 +183,7 @@ But its most exciting moments were when these tracks struck a delicate balance, 
 
 \-
 
-Rising above the myriad of her fellow Pop/R&B contemporaries with inspired songwriting, tasteful reverberated production, and a killer voice that’s equal parts characteristic and charismatic, Sam Rui’s *In Between* is a remarkable EP that proves itself to be a firm winner. Standout track *How It Ends* features R&B singer Slodown for a memorable and heart wrenching duet detailing star-crossed love (“Not every story ends/ The way that they deserve to/ Maybe in another lifetime you and me could’ve last”), with both vocalists bringing some of their best performances yet.
+Rising above the myriad of her fellow Pop/R&B contemporaries with inspired songwriting, tasteful reverberated production, and a killer voice equal parts characteristic and charismatic with Korean flair, Sam Rui’s *In Between* is a remarkable EP that proves itself to be a firm winner. Standout track *How It Ends* features R&B singer Slodown for a memorable and heart wrenching duet detailing star-crossed love (“Not every story ends/ The way that they deserve to/ Maybe in another lifetime you and me could’ve last”), with both vocalists bringing some of their best performances yet.
 
 Be it the shattering heartbreak of *U Luv Me* or the rousing camaraderie of *Crew*, *In Between*’s soulful and powerful production anchors its emotional journey. Hazy yet concisely crisp, the collection forms its own beautiful contradiction, just as the life of loneliness, companionship, love, lust, and friendship Rui sings of on its tracks.
 
@@ -236,8 +236,6 @@ Yet even with his straightforward delivery, his subjects are always shrouded in 
 \-
 
 # Top 10 coming soon...
-
-
 
 ## Honourable Mentions
 
