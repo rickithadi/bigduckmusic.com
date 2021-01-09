@@ -113,7 +113,7 @@ Despite the seemingly dreary and existential nature of the EP, hope remains its 
 
 #### Chillwave
 
-![Houg - The Oscillation Scene](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/16_houg_iszvad.jpg)
+![Houg - The Oscillation Scene](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/16_houg_iszvad.jpg "Houg - The Oscillation Scene")
 
 \-
 
@@ -123,7 +123,7 @@ With driving drum machine hits, bass thumps and claps, *ICBM*'s powerful lyricis
 
 Massive, yet melancholic and intimate, *The Oscillation Scene* presents an honest narrative, depicting Houg's own bouts wrestling with self-doubt and insecurity. Across its 6 tracks, the Oscillation scene feels fresh, provocative, and sensual- but most importantly, it feels honest.
 
-### Listen to The Oscillation Scene here:
+### Listen to *The Oscillation Scene* here:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2006859706/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://houg.bandcamp.com/album/the-oscillation-scene">The Oscillation Scene by Houg</a></iframe>
 
@@ -131,7 +131,113 @@ Massive, yet melancholic and intimate, *The Oscillation Scene* presents an hones
 
 \-
 
-## Top 15 coming soon...
+### 15. Claude Glass - Isekai
+
+#### Experimental Pop
+
+![Claude Glass - Isekai](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/15_isekai_fwj2un.jpg "Claude Glass - Isekai")
+
+\-
+
+In one of the year’s most left-field surprises, Isa Ong’s (of Pleasantry, Amateur Takes Control and sub:shaman) new solo moniker finds his lyrical songcraft morphed through the prism of astonishing, fractured glitchscapes. Taking after anime-inspired spirits of transportive fantasy, *Isekai*’s sonics find otherworldly parallels with his own dissociative experiences, through rabbit holes of complex beatwork and stuttering organic textures.
+
+*Isekai*’s world represents a self-described bundle of nerves – as the tracklist progresses, its anxious dramatics manifest themselves in an arc that grows in exhilarating intensity. Inward finds Manic IDM-adjacent breaks giving way to suspenseful arpeggios, while his formative influences peek their head through the cracks on *Corcovado* (itself a reference in name to a Jobim bossa classic). Like its namesake, *Isekai* channels his base sensibilities through an alternate dimension, processed through their own demented maelstroms. “What disguise do I craft this time?,” his persona croons – and as his familiar guitars stutter on top of pounding bass and kicks, alien melodies write Isa’s warped character studies. Revealing a glitching interior, *Isekai* presents wonder through mutation.
+
+As its five tracks navigate stories of decaying relationships, fragmenting identities, and distorted passions, its sonics mirror mania as they intensify. Dead knot’s neuroticism finds Isa riding sparse sub bass and shuffling percolations towards frantic, explosive breakcore, while the title track’s breakbeats bloom into sequences of engineered, tribalistic chaos. Eventually, with industrial textures and wandering bass, the journey fizzles to a sudden stop. Like its accidental nature, *Isekai*’s confusion closes itself not with premeditated resolutions, but by surreal fadeouts of shock.
+
+### Listen to *Isekai* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1073283754/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://syndicatesg.bandcamp.com/album/isekai">ISEKAI by Claude Glass</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 14. Various Artists - Pick of The Lot!
+
+#### Compilation 
+
+![Various Artists - Pick Of The Lot!](https://res.cloudinary.com/ddomozydd/image/upload/v1609662726/Top%2020/14_pick_of_the_lot_kdudbx.jpg "Various Artists - Pick Of The Lot!")
+
+\-
+
+2020 really didn’t give us much to celebrate about, but Tired Records somehow found a bright spot by celebrating what we most sorely missed in person - community. Capturing a key slice of the indie rock scene prominent over the past three or four years, *Pick of the Lot!* transforms its key highlights into challenges, each song a template for for their peers to remake in their own styles – the result creating a colourful jigsaw displaying the scene’s wealth of sonic character.
+
+Admittedly, some pieces fit better than others. Some tracks inherited the spirit of their originals, though with mixed results – while susurrus distilled *[Anchor Forever](https://xfrmusic.bandcamp.com/track/anchor-forever)*'s sweaty refrains into [calculated crescendos](https://tiredrecordssg.bandcamp.com/track/anchor-forever-xingfoo-roy-cover) , their counterparts presented a straightforward, punkish rendition of Cosmic Child’s aching *Warm*, accidentally stripping it clean of its atmospheric wonders. On others, the originals became launchpads for entirely different takes, injecting their own distinctive palettes – from beatdown hardcore courtesy of Charm, to [strangely tropical bars ](https://tiredrecordssg.bandcamp.com/track/not-super-shinada-susurrus-sample)on a redubbed [*Super Shinada*,](https://susurrusdesu.bandcamp.com/track/super-shinada) to Forests’ familiar midwest noodling.
+
+But its most exciting moments were when these tracks struck a delicate balance, transcending their originals via reinvention. With whimsical tapping and buoyant harmonies, math quartet cues recrafted *[Peachy](https://terriblepeoplesg.bandcamp.com/track/peachy-2)*’s slow-burning melancholia into a hopeful statement of yearning – while on the other hand, Cosmic Child refracted Forests' emo through their signature gossamer haze, closing the compilation with prismatic beauty. Even on the cuts that fell slightly flat, Pick Of The Lot’s adaptations and mutations displayed these songs’ powerful versatility – and above all, it reminded us of one thing always worth celebrating: the power of collective creativity.
+
+### Listen to *Pick of The Lot!* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3273300520/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tiredrecordssg.bandcamp.com/album/pick-of-the-lot">Pick of The Lot! by Tired Records</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 13. Sam Rui - *In Between*
+
+#### Pop/R&B
+
+![Sam Rui - In Between](https://res.cloudinary.com/ddomozydd/image/upload/v1610186730/Top%2020/13_SamRui_w5oxhm.jpg "Sam Rui - In Between")
+
+\-
+
+Rising above the myriad of her fellow Pop/R&B contemporaries with inspired songwriting, tasteful reverberated production, and a killer voice that’s equal parts characteristic and charismatic, Sam Rui’s *In Between* is a remarkable EP that proves itself to be a firm winner. Standout track *How It Ends* features R&B singer Slodown for a memorable and heart wrenching duet detailing star-crossed love (“Not every story ends/ The way that they deserve to/ Maybe in another lifetime you and me could’ve last”), with both vocalists bringing some of their best performances yet.
+
+Be it the shattering heartbreak of *U Luv Me* or the rousing camaraderie of *Crew*, *In Between*’s soulful and powerful production anchors its emotional journey. Hazy yet concisely crisp, the collection forms its own beautiful contradiction, just as the life of loneliness, companionship, love, lust, and friendship Rui sings of on its tracks.
+
+### Listen to *In Between* here:
+
+<iframe src="https://open.spotify.com/embed/album/0MMnPFaLsv4hutC2Bsjhu2" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 12. Dog Eater - *DOG EATER*
+
+#### Metalcore
+
+![Dog Eater - Self-titled](https://res.cloudinary.com/ddomozydd/image/upload/v1609662726/Top%2020/12_dogeater_lzvrmd.jpg "Dog Eater - Self-titled")
+
+\-
+
+Is this the future of Lion City Hardcore? Perhaps one of the biggest surprises of 2020 was the blistering self-titled debut of brothers Trevor and Russell Wee’s metalcore project Dog Eater. Despite their absurd online presence chock-full of deceptive memelording, Dog Eater’s debut EP wastes no time in quickly establishing their sludgy, metallic riffage. A monster work that clocks in at just 10 minutes, impressive bangers like *Undefined* boast dissonant harmonics and guttural vocal performances - all nicely tied together with extraordinarily brutal and tight production work from Aaron Devoy of [ARC (Aggressive Raisin Cat)](https://www.instagram.com/arcbandofficial/).
+
+### Listen to *DOG EATER* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3128163300/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://dogeaterhc.bandcamp.com/album/dog-eater">DOG EATER by Dog Eater</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 11. Mary Sue - *Grey Noise*
+
+#### Experimental Hip-Hop
+
+![Mary Sue - Grey Noise](https://res.cloudinary.com/ddomozydd/image/upload/v1610187291/Top%2020/11_Mary_Sue_da6psr.jpg "Dog Eater - Self-titled")
+
+\-
+
+Borne from a formative wandering, *Grey Noise*’s splintered beats present internal portraits of isolation through fractured obscura. With sensibilities informed by a legion of beatmakers working within sample-heavy strains of atmospheric, experimental hip-hop (think the likes of MIKE, Medhane and Some Rap Songs-era Earl Sweatshirt), Mary Sue's debut sees the emerging producer/rapper skewing fragmented microsamples and sequencing harsh, scattered beats into a bedrock of ghostly, amorphous soundscapes.
+
+The result are minute-long vignettes that make their impact through a series of distinctively impressionistic, yet blindsiding jabs. On *Dead Space*, saxophone runs and manipulated strings thread themselves into a hauntingly descending veneer, while *Play With My Heart*’s stuttering sonics find glassy melodies snapping into place with hollowly abrasive snares and rumbling waves of sub bass. Riding this phantasmal hypnagogia, a cold, dejected delivery presents skeletal verses, telling stories of vulnerability, sin, and at times a yearning regret on past mistakes.
+
+Yet even with his straightforward delivery, his subjects are always shrouded in ambiguity, turning his words into mystifying windows observing possible pasts and faded memories. As listeners explore these juxtapositions, *Grey Noise*’s sonic universe ensnares them into its haunting shadows – but before these figures emerge into focus, its sum evaporates into an enticing mist, leaving listeners reeling for more. Although the year later saw further world-building with a denser follow-up effort, *Grey Noise* stands as a clear showcase of a young producer with a creative vision ahead of many of his peers. Finding poignancy in abstraction, its frigid reveries serve as a mere introduction to an exciting darkness.
+
+### Listen to *Grey Noise* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=320451561/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sweetmarysue.bandcamp.com/album/grey-noise">GREY NOISE by mary sue</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+# Top 10 coming soon...
+
+
 
 ## Honourable Mentions
 
