@@ -153,7 +153,7 @@ As its five tracks navigate stories of decaying relationships, fragmenting ident
 
 \-
 
-### 14. Various Artists - Pick of The Lot!
+### 14. Various Artists [(Tired Records)](https://tiredrecordssg.bandcamp.com/) - Pick of The Lot!
 
 #### Compilation
 
