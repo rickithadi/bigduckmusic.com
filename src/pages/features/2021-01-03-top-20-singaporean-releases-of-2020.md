@@ -217,7 +217,7 @@ Is this the future of Lion City Hardcore? Perhaps one of the biggest surprises o
 
 #### Experimental Hip-Hop
 
-![Mary Sue - Grey Noise](https://res.cloudinary.com/ddomozydd/image/upload/v1610187291/Top%2020/11_Mary_Sue_da6psr.jpg "Dog Eater - Self-titled")
+![Mary Sue - Grey Noise](https://res.cloudinary.com/ddomozydd/image/upload/v1610187291/Top%2020/11_Mary_Sue_da6psr.jpg "Mary Sue - Grey Noise")
 
 \-
 
@@ -235,7 +235,113 @@ Yet even with rhymes painfully direct, he shrouds his subjects in perpetual ambi
 
 \-
 
-# Top 10 coming soon...
+### 10. **The Observatory / Keiji Haino - *Authority is Alive***
+
+#### Free improv
+
+![The Observatory / Keiji Haino - Authority is Alive](https://res.cloudinary.com/ddomozydd/image/upload/v1609662726/Top%2020/10_keiji_authority_mzqhh9.jpg "The Observatory / Keiji Haino - Authority is Alive")
+
+\-
+
+Keiji Haino is an immovable presence. From collaborations with sludge metal titans SUMAC to works with legendary ensembles like Futsushisha, the avant-garde icon always manages to leave his own distinct imprint on the performances and settings he finds himself in. With his iconic vocal presence and animalistic guitar freakouts, his work channels shades of meditative catharsis via an intense totality – and having always been on the pulse of the fiercely explorational, it comes as no surprise that The Observatory come as perfect playmates for Haino.
+
+Hosts of now-established experimental mainstay Playfreely, Authority is Alive documents the art-rock-turned free-improv institution’s collision with Haino at last year’s event. The result puts the trio’s intersections on full display. As Cheryl Ong’s percussion alternates between steady pulses and tensely sparse hits, Yuen Chee Wai and Dharma fill in the spaces with guitar-based abstraction; as sheets of dissonance and malleted tones creating turbulent oceans of sound that crest and tide with Haino’s enigmatically expressive poetry. The result feels exhilarating and utterly one-of-a-kind, and ominously cognisant of the year’s dystopian frenzy.
+
+### Listen to *Authority is Alive* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303947246/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ujikaji.bandcamp.com/album/authority-is-alive">Authority is Alive by Haino Keiji &amp; The Observatory</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 9. Mediocre Haircut Crew - *The MHC Mixtape*
+
+#### Hip-hop
+
+![Mediocre Haircut Crew - MHC Mixtape](https://res.cloudinary.com/ddomozydd/image/upload/v1609662726/Top%2020/9_the_mhc_mixtape_uihcro.jpg "Mediocre Haircut Crew - MHC Mixtape")
+
+\-
+
+“MHC coming back don’t care!”
+
+A celebration of the Crew’s journey and a true testament to their legacy in shaping what Singaporean hip-hop is today, *The MHC Mixtape* is Mediocre Haircut Crew’s triumphant return. After a lengthy hiatus, the mixtape is a compilation of unreleased music – thus making it feel more like a rarities box set rather than a cohesive album. But with MHC’s slick wombo combo of unparalleled chemistry, infectious hooks, witty lyricism, and sleek production, these songs still elevate themselves well above their contemporaries.
+
+Be it the house influences on standout banger *Bali Boys*, the ground shaking 808s of *SMD*, or the beautifully sampled keys on *Wayu Chitomi* and *T M I*, every track on the mixtape carries a distinct flavour to them. Yet even with this diversity, there’s a sense of continuity between them all – with omarKENOBI, daniKIDDO, and mickeyLEANO’s characteristic voices. Hard bangers like the trap-flavoured *Juice* or the old-school gangsta rap inspired *Don’t Care* are balanced out by the intimate soul searching of *Comfort* or heart-wrenching crooning on *Nobody Knows*. In between, the crew sprinkle just a good dose of playful humour – standout track *TOM YUM* is a masterclass in absurd storytelling, while faux-country number *Runaway Child* stays unapologetically ridiculous.
+
+While perhaps *The MHC Mixtape* isn’t the most focused project (especially when compared to their[ legendary debut EP](https://mediocrehaircutcrew.bandcamp.com/album/the-mhc-ep)), it’s a release that perfectly encapsulates the joy and confusion of youth. An alternative Singaporean coming of age story, the mixtape feels like a swan song for this era of Mediocre Haircut Crew - after all their adventures, they’ve grown up. 
+
+### Listen to *THE MHC MIXTAPE* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=782628883/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mhc4life.bandcamp.com/album/the-mhc-mixtape">THE MHC MIXTAPE by Mediocre Haircut Crew</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 8. Woes - *Wake Up Pls*
+
+#### Math rock / indie-pop
+
+![Woes - Wake Up Pls](https://res.cloudinary.com/ddomozydd/image/upload/v1609662725/Top%2020/8_woes_fgic54.jpg "Woes - Wake Up Pls")
+
+\-
+
+Previously mired in meandering tendencies that obscured their great melodic potential (on singles like *Lake* and *Goldilocks*), *Wake Up Pls* finally creates for Woes a magical balance. With the math-rock quintet now finding an anchor in new vocalist Raizel Gonzalez’s jazz-influenced proficiency, *Wake Up Pls* is brilliantly lucid – with these four songs, they now find themselves able to channel their radiant technicality through the lens with laser-sharp pop songcraft.
+
+These four songs run from a playbook familiar to their Midwest-math friendly contemporaries – from Elephant Gym to TTNG – but with Raizel’s vocal gravity, these formative influences find a much more comfortable home, as a melodic cohesiveness that its opening one-two punch demonstrates in spades. On *Tadpole*, a tapped opening scene effortlessly melts into driving indie-rock verses – while its successor is even stronger; *Monkey Tennis*’ galloping drums and bass theatrics morphing into a graceful, key-flourished glow. Effortlessly switching tempos into a twinkling outro jam, the band delivers their best song by far, as its gentle yearning tale brings to their math-pop a distinct touch of infectious lightness.
+
+Even when they indulge in more wandering tendencies or explicitly derivative (*Bikini Bottom*’s CHON-like noodling or *For Damien Carter*’s gigantic crescendos), their evolution allows them to become songs that persuade with their effortless charm. It’s a powerful invitation: more people should really wake up to Woes - at least certainly, their music has.
+
+### Listen to *Wake Up Pls* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3834061522/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://woesmusic.bandcamp.com/album/wake-up-pls">Wake Up Pls by Woes</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 7. **KoFlow - *Metem***
+
+#### Progressive Electronic
+
+![KoFlow - Metem](https://res.cloudinary.com/ddomozydd/image/upload/v1610966772/Top%2020/a1445441226_10_tm5pid.jpg "KoFlow - Metem")
+
+\-
+
+From organising b-boying mainstay Radikal Forze Jam to winning worldwide competitions over a decade-long tenure, KoFlow's music has always been rooted in sweaty clubs and an embrace of dynamic motion. On *Metem*, he distills this vitality into a transfixing collection of high-octane bangers, morphing meticulous sound design into explorative journeys that traverse beatscapes all the way from cerebral strains of future bass and IDM, to hip hop and dubstep's rhythmic thump.
+
+### Listen to *Metem* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=463395473/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://syndicatesg.bandcamp.com/album/metem">Metem by KoFlow</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 6. Intriguant - *Spirits*
+
+#### House / Techno
+
+![Intriguant - Spirits](https://res.cloudinary.com/ddomozydd/image/upload/v1610967051/Top%2020/a2695192041_10_bld8fq.jpg "Intriguant - Spirits")
+
+\-
+
+After presenting a dusty, heartfelt ode to the dancefloor with last year's *Kindred*, 2020 saw Intriguant’s beloved spaces finding sudden rejection. But even as COVID-19 shuttered many of the spaces that celebrated the electronic community, its absence served not as a death knell, but a space for new imaginative possibilities to emerge. As he brought his own Uploading Nights onto online spaces, Intriguant’s third album, *Spirits* finds its beats guiding *Kindred*’s gates to an entirely new world – with well-placed collaborations and its breakbeats and hyper-lush textures, the producer welcomes luminous sonic possibilities in celebratory and kinetic fashion.
+
+Although its cuts inherit its predecessor's percussive sensibilities (with *Cosway*’s drum machine hits and conga layers coming closest to its skeletal energy), *Spirits*’ four-on-the-floor familiarity does away with *Kindred*’s isolated cold – instead dissolving into an ephemeral, inviting mist. Here, his dancefloor-ready cuts come wrapped in warm, emotional saturation – from *Hours* trailing reveries and *Stargaze*’s lounge-like woodwinds, to the subtly reverberating melancholia that accompanies *Desandan*’s guitars and squelched grooves. It’s a versatile canvas that invites for various degrees of sonic alchemy. On *Wind*, HYU’s brand of simplicity finds her Korean juxtapositions not far from Park Hye Jin’s hypnotic deliveries, while fzpz’s technicality injects into the tracklist hyperactive beatscapes.
+
+Ultimately, *Spirits*’ imaginary dancefloors become their most potent as evocative portals, converging emotional yearning with imaginations of future physical convocations. Embodied on centerpiece *Our Love*, *Spirits* finds itself at its most alive – enrapturing and enveloping with its radiance. Holding the dancefloor’s joie de vivre in hand, Intriguant finds himself readying for its return with open arms, while facing its imaginary future with a dynamic, forward thinking energy.
+
+### Listen to *Spirits* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1959858898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://intriguant.bandcamp.com/album/spirits">Spirits by Intriguant</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+# Top 5 coming soon...
 
 ## Honourable Mentions
 
