@@ -343,7 +343,129 @@ And at its most alive, *Spirits* finds itself enrapturing and enveloping with it
 
 \-
 
-# Top 5 coming soon...
+### 5. George Chua - *Smokescreen*
+
+#### Harsh Noise
+
+![George Chua - Smokescreen](https://res.cloudinary.com/ddomozydd/image/upload/v1609662724/Top%2020/5_smokescreen_hedcuy.jpg "George Chua - Smokescreen")
+
+\-
+
+Packed with brutal walls of sound and grids of harsh noise, multi-disciplinary artist George Chua’s return to music is a sonic mirror for an overstimulated zeitgeist. Comprising improvised exercises on deliberately crafted modular synth combinations, *Smokescreen* is thrillingly unpredictable. At once both viscerally powerful and mentally disorienting, Chua’s experiments form hyperdense music that morphs into metaphor for an overwhelming modern life.
+
+“What lies behind the Smokescreen?” the album asks. An ephemeral, formless nature accompanies the album’s scenes, allowing themselves to mould themselves into the potential metaphors that their titles suggest. Chua’s titles provides some mild context on their inspirations: from jazz-funk elitism to metropolitan futures (from Guangzhou to Tokyo). Indeed, structure emerges in some of these pieces, mirroring urban life’s suffocating constructions – from *Neo Punggol*’s overflowing percolations, to the martial percussiveness of *Desert Screen*.
+
+But it's the more obliterative cuts like *Empathy*’s cathartic sonic violence that signal a more plausible explanation. Closing the album with sheer abrasion, it reflects a tongue-in-cheek irreverence Chua balances with his adventurous sonic excursions. “No genre, no commercial potential, military use only,” he proclaims on his bandcamp page. Perhaps behind the smokescreen is an opaque future – an endless fight is against a formless, undefeatable enemy.
+
+### Listen to *Smokescreen* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3794831577/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ujikaji.bandcamp.com/album/smokescreen">Smokescreen by George Chua</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 4. Hanging Up The Moon - *For The Time Being*
+
+#### City pop
+
+![Hanging Up The Moon - For The Time Being](https://res.cloudinary.com/ddomozydd/image/upload/v1609662725/Top%2020/4_hanging_up_the_moon_zlee1e.jpg "Hanging Up The Moon - For The Time Being")
+
+\-
+
+Finding kindred spirits in gentle grooves and city pop-informed melancholia, *For The Time Being* reinvents Sean Lam’s Hanging Up The Moon’s folk-pop with a settled optimism. Following adventures in Taiwan with their compatriots at Big Romantic Records (home to Lin Yiloh of noiseniks Skip Skip Ben Ben), the EP’s songs reveal a rose-tinted, pastel interior – looking away from the downcast palettes of their Kitchen Label past, the quartet channel their trademark sentimentality in a fresh sonic playground.
+
+A tapestry of lushly strummed acoustic guitars, sentimental verses, and upbeat arrangements, these four songs radiate a delicate, autumnal glow. *Hold The Colours*’ surging harmonies give way to verses that touch upon internal brooding – while on the title track, the band rides deliciously palm-muted riffs to a celebration of community, as Lam’s words contemplate loss and resignation with trademark wistfulness. “Maybe I’ll see you again,” he sings – looking back at memories conjured by faded photographs and journeys spent looking skyward, they find comfort through a yearning for future friends and brighter travels to come.
+
+In a year that has felt relentlessly bleak, *For The Time Being*’s grounded warmth remains reassuring with its effortless charm – it’s music that celebrates beauty in the weary. After all, with a world caving in, pausing for fleeting memories isn’t such a bad thing.
+
+### Listen to *For The Time Being* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3397054050/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hangingupthemoon.bandcamp.com/album/for-the-time-being">For The Time Being by hanging up the moon</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 3. Naedr - *Past Is Prologue*
+
+#### Screamo
+
+![Naedr - Past Is Prologue](https://res.cloudinary.com/ddomozydd/image/upload/v1609662725/Top%2020/3_naedr_msnsjp.jpg "Naedr - Past Is Prologue")
+
+\-
+
+For Naedr, “past is prologue” is more than an apt statement. A collision course of more than a handful of Singaporean heavy music mainstays – from the shrieked intensities of [Paris In The Making](https://parisinthemaking.bandcamp.com/album/solve-et-coagula) and [Bethari](https://bethari.bandcamp.com/album/s-t) to math rock trios in [susurrus](https://susurrusdesu.bandcamp.com/album/ultra-orange) and [hauste](https://haustesound.bandcamp.com/album/patterns) – the five-piece supergroup's experience delivers a screamo debut that shines with earth-shattering brilliance.
+
+Blessed by outstandingly clear mixing, *Past Is Prologue*’s highs suffocate with obliterating intensity. The muscular *The Prodigal Son* pounds and punishes in a breathless, minute-long blitz, while on *The Waltz of Fate*, the band rides impeccably tight tremolo passages into white-hot blast beats. These songs are bludgeoning on impact – but underpinning these highlights are intricacies where their collective acumen shine. Melodic textures colour *The Waltz of Fate*’s blinding crescendos, as guitar leads reveal themselves rich with melancholic depth. Meanwhile, on *The Sorrow*, Naedr triple its climaxes with precision, taking its tale of gruesome dismemberment through a masterful exercise of tension and release.
+
+And it’s these moments’ overwhelming sonic urgency that allow space for its heartbreaking lulls to shine. As crystalline tones bridge into the widescreen brilliance of *Asunder* and *Disquiet*, the album finds a window for brief pause, only for that breath to be robbed again by *Gehenna*’s punishing closing statement. Those underpinnings reveal their foundational influences – shades of brilliant company ranging from slowburn Japanese compatriots in Envy, to the melodic richness of European peers like Suis La Lune, La Quiete and Raein.
+
+*Past Is Prologue* presents nothing particularly groundbreaking in regard to those bands, but held to the pantheon’s highlights, these songs more than stand their ground. As vocalist Timothy Wong’s abrasive shrieks pierce through the violent chaos, a literary ambition presents itself – balancing with references both biblical and philosophical, spanning English, Chinese, and Bahasa alike. With craftsmanship abundant in their songwriting, the band forms a collective statement that stands uniquely on its own.
+
+Above all, it’s just absurdly well-crafted screamo. As *Gehenna*’s title suggests, its towering intensities form in their own way an extraordinary place of punishment. Extracting soul-ripping intensity from their lowest points, Naedr find stunning beauty through climactic maxima.
+
+### Listen to *Past Is Prologue* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1748343183/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://naedr.bandcamp.com/album/past-is-prologue-3">Past is Prologue by Naedr</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### 2. BGourd / Fauxe - *Veggie Wraps, Vol. 2*
+
+#### Hip-hop/ Boom-bap
+
+![BGourd Fauxe - Veggie Wraps Vol 2](https://res.cloudinary.com/ddomozydd/image/upload/v1609662725/Top%2020/2_bgourd_vol2_ydkakl.jpg "BGourd Fauxe - Veggie Wraps Vol 2")
+
+\-
+
+Now teamed up with veteran producer Fauxe, the green-skinned alter ego of one Sean Lim crafts a groundbreaking EP that defies all conventions of Singaporean rap thus far. Boasting a palette with influences from Denzel Curry to John Coltrane, they form a sound that’s truly their own – bravely experimental, unabashedly intimate, darkly humorous, and surprisingly catchy.
+
+Departing from the house-tinged bangers of *Veggie Wraps, Vol. 1* (which inception is equal parts indebted to previous co-conspirator Halol Sol), *Vol. 2*’s uncompromising and adventurous nature is immediately apparent –*Stop Here If You Want To*, he proclaims to his listeners on its eponymous opening track. Over its 14 minute runtime, Fauxe’s beat work crafts a densely organic concoction in which every distorted sample, kick or snare serves a purpose despite its seemingly chaotic noise and speckle. BGourd’s nasal conviction contextualises the chaos – his delivery weaving a narrative that explores identity, self, time, and death.
+
+*Reel* brings a confrontational critique of Singapore’s rap scene, dissing the scene’s prevalent mediocrity and unoriginality (“All you listen to is just sicko maybe some cole / but all you are is lukewarm with no flow”). Over a beat comprising of dry key samples and a moving bass synth that seems to have a mind of its own, BGourd owns the quirks that make him while Fauxe plays with its arrangement in an almost improvisational manner.
+
+*Fair Price* is a standout track on the EP, with a signature Fauxe-ian hook that grants it a charm that’s equal parts weird and infectious, while BGourd comes to terms with the realities of life and his own self-worth - lyrically bundled up with odd veggies-at-the-market metaphors that just magically work. (“He see’s asparagus get picked up again”) It’s followed by *Fresh Air*, a much welcome breather to the heavy subject matter of the previous track, as its energetic, cheeky sax samples ride a lively percussive bounce that allows BGourd to feed off its energy and stay in his element. (“I’m just having fun man/ eating up the ramen”).
+
+*Alignment*’s house-leaning tendencies harken back toVol. 1– yet still feel characteristicallyVol. 2with impassioned delivery from BGourd as he explores his place in the grand scheme of time and space. The beat switches up at the end into an experimental outro, in which warped sounds are built up into a gratifying bass hit before fizzling out into string samples - driving home the subject matter of the song and giving it a truly cosmic feel.
+
+Finally, *State* ends it all on an intimate note, with faint vocal samples and simple drum patterns that sparsely populate its piano melodies. As the beat takes a backseat to BGourd’s observations and intricate lyricism, State is the EP’s great pay-off – as the song reaches its end, Fauxe’s beautiful backing vocals and subtle horns adorn it as BGourd’s last impassioned bars bring *Veggie Wraps, Vol. 2* to a close with a sense of finality. (“I got the belt up on my neck see it real down low on my waist/ keep it calm no similes on my name/ all family to my name/ I'm in the mood/ in the mood”)
+
+A massive step-up from an already solid debut, it's an exciting prospect to wonder how BGourd going to continue surprising and innovating when *Veggie Wraps, Vol. 3* eventually drops. As BGourd himself would say, his music, like the bitter gourd, is an acquired taste. It might not be for everyone – but taking the effort to learn to enjoy it is truly rewarding.
+
+### Listen to *Veggie Wraps, Vol. 2* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2133219975/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bgourd.bandcamp.com/album/veggie-wraps-vol-2">Veggie Wraps, Vol. 2 by BGourd &amp; Fauxe</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### 1. .gif - *Hail Nothing*
+
+#### Synthpop
+
+![gif - Hail Nothing](https://res.cloudinary.com/ddomozydd/image/upload/v1609662725/Top%2020/1_hail_nothing_t2bh1u.jpg "gif - Hail Nothing")
+
+\-
+
+In gif’s world, isolation is a familiar thing. From *saudade* to *soma*, a rainy-day sentimentality has always permeated through the electronic duo’s work – but on *Hail Nothing*, a title that displays them at their most seemingly nihilistic, .gif now find hope in bleakness. Embracing the faintest light emerging from the ends of their Sisyphean tunnels, Hail Nothing’s songs present powerful statements of affirmation, brought to life via exquisitely arcane night music. Easily Din and Weish’s boldest artistic statement so far, it is a triumph that stands as a landmark release in Singapore’s electronic scene.
+
+Crafted painstakingly over a four-year long gestation period, *Hail Nothing*’s obsidian sonics are immediately arresting. Aided by tenured producer Jason Tan, its microscopic details find themselves becoming full-fledged highlights. *Vacant Speck*’s frigid arpeggios reverberate and dance amongst scattered polyrhythms; *Let’s Go*’ schipped synths and bass pulses balance in strange, joyous techno; *Not My Place* thrillingly alternates between rumbling bass and key stabs into a transcendent sweep.
+
+It’s this clinical minimalist palette that provides Weish a perfect canvas for emotive contrast. Embedded in a pristine bedrock of darkly sparse synthpop, she tells tales of constriction, alienation, and failed pursuits – “I can’t feel anymore,” she croons on *And While Alive.* But as her vocals twist and turn, her trapped stories bring shades of hope. On lead single *My Darling*, these stories even turn autobiographical – turning writhing cries of pain and helpless suffocation into demented affirmation.
+
+It’s a sentiment encapsulated from its very first notes. “Your sadness is yours, nobody can take it from you,” she croons on the spellbinding *Only Yours*, intertwining with the dulcet tones of B-Quartet luminary [Bani Haykal](https://bigduckmusic.com/features/2020-09-07-spotify-music-and-the-creative-process-a-conversation-with-bani-haykal/). As their celebratory sonic journey ends, the statement becomes *Hail Nothing*’s manifesto. Unable to find true connection and belonging in an absurd world, there remains comfort in pure action – power in persisting in the self. Even without answers in the end, .gif prove that there is beauty in just being.
+
+### Listen to *Hail Nothing* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2874426797/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://dotgifdotgif.bandcamp.com/album/hail-nothing">HAIL NOTHING by .gif</a></iframe>
+
+* **By JX Soo**
+
+\-
 
 ## Honourable Mentions
 
@@ -383,7 +505,7 @@ With a far starker palette than his band’s instrumental colour (recorded in fa
 
 \-
 
-### BGourd/Halal Sol - *Veggie Wraps Vol.1*
+### BGourd / Halal Sol - *Veggie Wraps Vol.1*
 
 #### Hip House / Boom-bap
 
