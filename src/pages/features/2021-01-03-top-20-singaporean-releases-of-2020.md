@@ -27,6 +27,98 @@ So to send off the disaster that was 2020, we’ll gradually be revealing our pi
 
 Ultimately, they form a small slice of Singapore’s diverse musical offerings this year. These were some releases among many worth remembering - and in a year that felt like ten compressed into one, 2020 gave room for them all.
 
+## Honourable Mentions
+
+### Hauste - *Patterns*
+
+#### Math Rock
+
+![Hauste - Patterns](https://res.cloudinary.com/ddomozydd/image/upload/v1609662271/Top%2020/hon_patterns_ioihdp.jpg "Hauste - Patterns")
+
+\-
+
+Although admittedly not as emotionally cathartic as its predecessor, the math rock trio’s follow-up effort to 2018’s excellent *[Leavings](https://haustesound.bandcamp.com/album/leavings)* still finds room for dynamic highlights. From neurotic bass theatrics in *Bassball* to breezy jams in *Happy and Angels*, they also find new diversity to their palette, courtesy of Bobbi Brown’s laid-back hip-hop bounce (*Courduroy*). Refining their formula of technicality towards more settled forms, hauste find themselves maturing with Patterns, and reaffirm themselves as one of the island’s premier math outfits.
+
+### Listen to *Patterns* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2069834981/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://haustesound.bandcamp.com/album/patterns">Patterns by hauste</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### Everything Us Alright - *Not Really*
+
+#### Emo / Singer-songwriter
+
+![Everything Us Alright - Not Really](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_everything_us_alright_i9rqrj.jpg "Everything Us Alright - Not Really")
+
+\-
+
+With a far starker palette than his band’s instrumental colour (recorded in fact, with just a single microphone and guitar), math rock geek and Woes bandleader Russell Seow somehow finds an even stronger emotional potency in his solo project’s Midwest-flavored emo folk. From gentle, finger-picked yearning (*The Moon,* *I Wish I Could...*) to the driving storminess of *A Haunting*, Not Really glimmers with self-reflective beauty – with gentle guitars and painfully honest vocals, a calm catharsis invites you to bleed its Owen-like heart out with him.
+
+### Listen to *Not Really* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2742283880/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://everythingusalright.bandcamp.com/album/not-really">Not Really by Everything Us Alright</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### BGourd / Halal Sol - *Veggie Wraps Vol.1*
+
+#### Hip House / Boom-bap
+
+![BGourd Halal Sol - Veggie Wraps Vol 1](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/hon_bgourd_vol1_my5bdn.jpg "BGourd Halal Sol - Veggie Wraps Vol 1")
+
+\-
+
+Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wraps kicked the year’s doors in with unabashed joy, setting the stage for the rapper’s grandly green persona. Balancing self-aware bragaddocio (*6th Best Wrapper*) with infectious hooks, Vol. 1 served as an absurdly fun introduction to Sean Lim’s lyrically dense boom-bap flows – with Danny Brown-esque delivery, he moves from shitting gloriously on fake hypebeasts (*Waste*) to celebrating his food family (kimchi jigae and his [beansprout-gimmicked](https://www.instagram.com/limbrotherstravel/) brother all included). With all his quirks well-armed, it was a winning opening salvo for the gourd – and luckily for RT (and even better for us), this was only the beginning.
+
+### Listen to *Veggie Wraps Vol.1* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2964991639/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bgourd.bandcamp.com/album/veggie-wraps-vol-1">Veggie Wraps, Vol.1 by BGourd &amp; Halal Sol</a></iframe>
+
+* **By JX Soo**
+
+\-
+
+### BIND - *STATE OF MIND*
+
+#### Hardcore
+
+![BIND - STATE OF MIND](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_Bind_state_of_mind_mckx3u.jpg "BIND - STATE OF MIND")
+
+\-
+
+Consisting of veterans across the hardcore scene, BIND’s EP *STATE OF MIND* taps into years of experience to form an impressively tight, impassioned, and heavy debut. Be it the searing refrain on *Defy Your Hate* (“I, I won't play your game! I, I defy your hate!) or the metallic riffing on *Astray*, *STATE OF MIND* possesses all the conviction needed to make an age old sound seem fresh.
+
+### Listen to *STATE OF MIND* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2441345178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bindsg.bandcamp.com/album/state-of-mind">STATE OF MIND by BIND</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
+### deførmed - *LATE TO THE LOUDNESS WAR*
+
+#### Experimental Electronic
+
+![deformed - LATE TO THE LOUDNESS WAR](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_deformed_late_ihduwk.jpg "deformed - LATE TO THE LOUDNESS WAR")
+
+\-
+
+With a blistering blend of industrial dance grooves, hard-hitting drum and bass beats, and hardcore punk-esque vocals over a cathartically driving noise-rock aesthetic, up-and-coming [Syndicate](https://www.syndicate.sg/) producer deformed masterfully warps colourful synths and demented samples in what sounds like a signature sound in the making.
+
+### Listen to *LATE TO THE LOUDNESS WAR* here:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=153343898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://syndicatesg.bandcamp.com/album/late-to-the-loudness-war">LATE TO THE LOUDNESS WAR by deførmed</a></iframe>
+
+* **By Isaac Yackem**
+
+\-
+
 ## TOP 20 SINGAPOREAN RELEASES OF 2020
 
 ### 20. Feston - *Field Notes*
@@ -464,97 +556,5 @@ It’s a sentiment encapsulated from its very first notes. “Your sadness is yo
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2874426797/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://dotgifdotgif.bandcamp.com/album/hail-nothing">HAIL NOTHING by .gif</a></iframe>
 
 * **By JX Soo**
-
-\-
-
-## Honourable Mentions
-
-### Hauste - *Patterns*
-
-#### Math Rock
-
-![Hauste - Patterns](https://res.cloudinary.com/ddomozydd/image/upload/v1609662271/Top%2020/hon_patterns_ioihdp.jpg "Hauste - Patterns")
-
-\-
-
-Although admittedly not as emotionally cathartic as its predecessor, the math rock trio’s follow-up effort to 2018’s excellent *[Leavings](https://haustesound.bandcamp.com/album/leavings)* still finds room for dynamic highlights. From neurotic bass theatrics in *Bassball* to breezy jams in *Happy and Angels*, they also find new diversity to their palette, courtesy of Bobbi Brown’s laid-back hip-hop bounce (*Courduroy*). Refining their formula of technicality towards more settled forms, hauste find themselves maturing with Patterns, and reaffirm themselves as one of the island’s premier math outfits.
-
-### Listen to *Patterns* here:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2069834981/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://haustesound.bandcamp.com/album/patterns">Patterns by hauste</a></iframe>
-
-* **By JX Soo**
-
-\-
-
-### Everything Us Alright - *Not Really*
-
-#### Emo / Singer-songwriter
-
-![Everything Us Alright - Not Really](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_everything_us_alright_i9rqrj.jpg "Everything Us Alright - Not Really")
-
-\-
-
-With a far starker palette than his band’s instrumental colour (recorded in fact, with just a single microphone and guitar), math rock geek and Woes bandleader Russell Seow somehow finds an even stronger emotional potency in his solo project’s Midwest-flavored emo folk. From gentle, finger-picked yearning (*The Moon,* *I Wish I Could...*) to the driving storminess of *A Haunting*, Not Really glimmers with self-reflective beauty – with gentle guitars and painfully honest vocals, a calm catharsis invites you to bleed its Owen-like heart out with him.
-
-### Listen to *Not Really* here:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2742283880/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://everythingusalright.bandcamp.com/album/not-really">Not Really by Everything Us Alright</a></iframe>
-
-* **By JX Soo**
-
-\-
-
-### BGourd / Halal Sol - *Veggie Wraps Vol.1*
-
-#### Hip House / Boom-bap
-
-![BGourd Halal Sol - Veggie Wraps Vol 1](https://res.cloudinary.com/ddomozydd/image/upload/v1609662727/Top%2020/hon_bgourd_vol1_my5bdn.jpg "BGourd Halal Sol - Veggie Wraps Vol 1")
-
-\-
-
-Paired with co-conspirator Halal Sol’s hip-house grooves, BGourd’s first wraps kicked the year’s doors in with unabashed joy, setting the stage for the rapper’s grandly green persona. Balancing self-aware bragaddocio (*6th Best Wrapper*) with infectious hooks, Vol. 1 served as an absurdly fun introduction to Sean Lim’s lyrically dense boom-bap flows – with Danny Brown-esque delivery, he moves from shitting gloriously on fake hypebeasts (*Waste*) to celebrating his food family (kimchi jigae and his [beansprout-gimmicked](https://www.instagram.com/limbrotherstravel/) brother all included). With all his quirks well-armed, it was a winning opening salvo for the gourd – and luckily for RT (and even better for us), this was only the beginning.
-
-### Listen to *Veggie Wraps Vol.1* here:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2964991639/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bgourd.bandcamp.com/album/veggie-wraps-vol-1">Veggie Wraps, Vol.1 by BGourd &amp; Halal Sol</a></iframe>
-
-* **By JX Soo**
-
-\-
-
-### BIND - *STATE OF MIND*
-
-#### Hardcore
-
-![BIND - STATE OF MIND](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_Bind_state_of_mind_mckx3u.jpg "BIND - STATE OF MIND")
-
-\-
-
-Consisting of veterans across the hardcore scene, BIND’s EP *STATE OF MIND* taps into years of experience to form an impressively tight, impassioned, and heavy debut. Be it the searing refrain on *Defy Your Hate* (“I, I won't play your game! I, I defy your hate!) or the metallic riffing on *Astray*, *STATE OF MIND* possesses all the conviction needed to make an age old sound seem fresh.
-
-### Listen to *STATE OF MIND* here:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2441345178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bindsg.bandcamp.com/album/state-of-mind">STATE OF MIND by BIND</a></iframe>
-
-* **By Isaac Yackem**
-
-\-
-
-### deførmed - *LATE TO THE LOUDNESS WAR*
-
-#### Experimental Electronic
-
-![deformed - LATE TO THE LOUDNESS WAR](https://res.cloudinary.com/ddomozydd/image/upload/v1609662728/Top%2020/hon_deformed_late_ihduwk.jpg "deformed - LATE TO THE LOUDNESS WAR")
-
-\-
-
-With a blistering blend of industrial dance grooves, hard-hitting drum and bass beats, and hardcore punk-esque vocals over a cathartically driving noise-rock aesthetic, up-and-coming [Syndicate](https://www.syndicate.sg/) producer deformed masterfully warps colourful synths and demented samples in what sounds like a signature sound in the making.
-
-### Listen to *LATE TO THE LOUDNESS WAR* here:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=153343898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://syndicatesg.bandcamp.com/album/late-to-the-loudness-war">LATE TO THE LOUDNESS WAR by deførmed</a></iframe>
-
-* **By Isaac Yackem**
 
 \-
