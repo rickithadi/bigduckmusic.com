@@ -36,7 +36,7 @@ As we met at Maxwell Food Centre, we found his hair freshly dyed in shades of pi
 
 “I’d imagine there aren’t many people your age that would be interested in what I do!”, he frankly admits with a smile. A former lecturer at institutions like Lasalle College of the Arts, Kelvin is most likely known to the younger generations in his role as a teacher. Performing with his band, The Oddfellows at the Esplanade, a few of his students sat in the audience, many of them greeting him as a mentor.
 
-But his teaching gigs have always been fuel for his own prolific creative endeavors. Sparked with endless creativity since the 1990s, Kelvin's work has sprawled vast dimensions – beyond a musical output has numbered over 150 releases, his forays have also delved into photographic and literary efforts: writing two novels, poems, and various plays.
+But his teaching gigs have always been fuel for his own prolific creative endeavours. Sparked with endless creativity since the 1990s, Kelvin's work has sprawled vast dimensions – beyond a musical output has numbered over 150 releases, his forays have also delved into photographic and literary efforts: writing two novels, poems, and various plays.
 
 A large part of his musical story is impossible to tell without his chapter with indie rock trail-blazers, The Oddfellows. Brought into the fray through a fateful meeting with frontman Patrick Chng at a film festival, Kelvin joined as guitarist in 1991, becoming a key member as the band rose to prominence, from outcasts to celebrated pioneers. The role he played in the band, however, was also an unconventional one. Unlike much of the indie rock background his fellow band members shared, his influences came from a lineage of singer-songwriters, brought up on the likes of Jackson Browne and Neil Young.
 
@@ -50,7 +50,7 @@ With Kelvin bringing onboard an outlier sensibility, the band found both an unpr
 
 Even with their differing sensibilities, it was a love of music that bound the unit together, and helped bring them to prominence. Part of it came through in his friendship with head honcho of landmark music magazine BigO, Philip Cheah – one struck up over their preteens, becoming fast friends over frequent cassette listening sessions. As BigO emerged in 1985 with Cheah’s brother, Michael, The Oddfellows found themselves championed as one of Singapore’s first popular indie acts. As a result, their 1991 radio hit,So Happy, became a mainstay within Singapore’s alternative music canon.
 
-“But before that, we came out of nowhere,” he remarks, reminded about the disapproval they faced at the time from the thrash and grunge scenes. “There would be no Oddfellows if there was no BigO,” Kelvin contemplated. As they became championed amongst the community, their brand of indie rock paved the way for Singaporean music to come, opening the doors for other contemporaries like the Padres.
+“But before that, we came out of nowhere,” he remarks, reminded about the disapproval they faced at the time from the thrash and grunge scenes. “There would be no Oddfellows if there was no BigO,” Kelvin contemplated. As they became championed amongst the community, their brand of indie rock paved the way for Singaporean music to come, opening the doors for other contemporaries like the [Padres](https://youtu.be/IhrE1Blcius).
 
 ![Kelvin Tan](https://lh3.googleusercontent.com/pGibdVPzIkBm5vJWOr4uy5HmcyNghZf6JXb1d-Yu2mtzQyogo6ouYjMES0b4OqhwgiLuWNuqPNaF3bJA2quKynPpJV6iiwl5hevylMeYr_hwJSJeCnKvj2DMeUMEybbhVXPwx8-q "Kelvin Tan")
 
