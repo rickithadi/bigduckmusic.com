@@ -18,7 +18,7 @@ tags:
 ---
 ### *From his halcyon days as a key member of pioneering indie band [The Oddfellows](https://youtu.be/yIXFuNWgxnQ), to his ongoing chameleon act with a prolific output numbering over 150 releases, Kelvin Tan’s music has always charted his own Singaporean story. But even as he finds himself with stories to tell across Singapore's scene, the singer-songwriter and his work remains curiously under the shadows.*
 
-### *Off the back of 5 releases in 2020 and a well-received show at the Esplanade Outdoor Theatre with The Oddfellows, Kelvin continues to record with vigour, both with his solo efforts and beloved band. Over kopi, Big Duck caught up with Kelvin Tan as we found out about his story.*
+### *Off the back of 5 releases in 2020 and a well-received show at the Esplanade Outdoor Theatre with The Oddfellows, Kelvin continues to record with vigour, both with his solo efforts and beloved band. Over kopi, Big Duck caught up with Kelvin Tan, as we found out about his story.*
 
 *\-*
 
@@ -32,15 +32,15 @@ As we met at Maxwell Food Centre, we found his hair freshly dyed in shades of pi
 
 \-
 
-![Kelvin Tan](https://lh5.googleusercontent.com/WE7m0klduJnCFwZ5EeRKj1j7WXhhIv_Jv9934ZRtQqYeq5Ahv4ExwjHSzbb2HPdppqEqoKulV7nKGN3cHzEzEgp4ZFySia3XDIxu_AAHTs_VIUGTQ-ypbURnHmY9WNpCtonI4m6u "Kelvin Tan")
-
-\-
-
 “I’d imagine there aren’t many people your age that would be interested in what I do!”, he frankly admits with a smile. A former lecturer at institutions like Lasalle College of the Arts, Kelvin is most likely known to the younger generations in his role as a teacher. Performing with his band, The Oddfellows at the Esplanade, a few of his students sat in the audience, many of them greeting him as a mentor.
+
+![Kelvin Tan portrait](https://lh5.googleusercontent.com/x8iPc_PgaPCqBvcjn9NXGIorKSDuyLOdazyXdD6R26GhcolpISgaEnkDGAC22_d1bUblZoZqkwNm1I7jfYkkDAjwHPudBkCs9EpYm-yImg7-8E-iL4VB2AGNdOUld8xl0qXrMF09 "Kelvin Tan")
+
+
 
 But his teaching gigs have always been fuel for his own prolific creative endeavours. Sparked with endless creativity since the 1990s, Kelvin's work has sprawled vast dimensions – beyond a musical output spanning over 150 releases, his forays have also delved into photographic and literary efforts: writing two novels, poems, and various plays.
 
-A large part of his musical story is impossible to tell without his chapter with indie rock trail-blazers, The Oddfellows. Brought into the fray through a fateful meeting with frontman Patrick Chng at a film festival, Kelvin joined as guitarist in 1991, becoming a key member as the band rose to prominence, from outcasts to celebrated pioneers. The role he played in the band, however, was also an unconventional one. Unlike much of the indie rock background his fellow band members shared, his influences came from a lineage of singer-songwriters, brought up on the likes of Jackson Browne and Neil Young.
+When it comes to his musical story, Kelvin's journey is impossible to tell without his chapter with indie rock trail-blazers, The Oddfellows. Brought into the fray through a fateful meeting with frontman Patrick Chng at a film festival, Kelvin joined as guitarist in 1991, becoming a key member as the band rose to prominence, from outcasts to celebrated pioneers. The role he played in the band, however, was also an unconventional one. Unlike much of the indie rock background his fellow band members shared, his influences came from a lineage of singer-songwriters, brought up on the likes of Jackson Browne and Neil Young.
 
 \-
 
@@ -48,7 +48,7 @@ A large part of his musical story is impossible to tell without his chapter with
 
 \-
 
-Himself bringing an outlier sensibility to a band working at rock's fringes, the band found both an unpredictable edge and a learned instinct. “Somehow I always had a punk sensibility even though I was a singer-songwriter first!,” he muses. As The Oddfellows performed, it was a contrast he displayed magnificently, effortlessly transitioning from heartfelt indie-pop crooning to a blistering, bottle-necked solo. Unleashing a frenzy of noise and feedback, the notes ripped into his fingers, as blood fell onto his strings.
+Himself bringing an outlier sensibility to a band, at the time, working at Singaporean rock's fringes, the Oddfellows found both an unpredictable edge and a learned instinct. “Somehow I always had a punk sensibility even though I was a singer-songwriter first!,” he muses. As The Oddfellows performed at the Esplanade, it was a contrast he displayed magnificently, effortlessly transitioning from heartfelt indie-pop crooning to a blistering, bottle-necked solo. Unleashing a frenzy of noise and feedback, the notes ripped into his fingers, as blood fell onto his strings.
 
 With their differing sensibilities, it was a love of music that bound the unit together, and helped bring them to prominence. Part of it came through in his friendship with head honcho of landmark music magazine BigO, Philip Cheah – one struck up over their preteens, becoming fast friends over frequent cassette listening sessions. As BigO emerged in 1985 with Cheah’s brother, Michael, The Oddfellows found themselves championed as one of Singapore’s first popular indie acts. As a result, their 1991 radio hit, *[So Happy](https://youtu.be/yIXFuNWgxnQ)*, became a mainstay within Singapore’s alternative music canon.
 
@@ -131,7 +131,7 @@ Bringing up the past, Kelvin brings out gifts for us. He hands us both a persona
 
 \-
 
-“He’s a total tech guru and musical genius, really - but he’s got a tyrannical grip on the creative process!” he remarks. It's an experience he believes that he shares with .gif’s own production process – with Jason’s pristine, Sylvian-like sonics colouring *Hail Nothing*’s masterful beats. Examining his past collaborators from his age, many have also reemerged in the scene, making their mark in their own ways: whether it be KAYE running celebrated electronic imprint Darker Than Wax, or reemerging sound art pioneer George Chua.
+“He’s a total tech guru and musical genius, really - but he’s got a tyrannical grip on the creative process!” he remarks. It's an experience he believes that he shares with .gif’s own production process – with Jason’s pristine, Sylvian-like sonics colouring *Hail Nothing*’s masterful beats. Examining his past collaborators from his age, many have also reemerged in the scene, making their mark in their own ways: whether it be KAYE running celebrated electronic imprint Darker Than Wax, or reemerging sound art pioneer George Chua. Yet even as his friends and peers emerge, Kelvin's work has always been caught somewhere in his own lane, on a radar separate from the rest.
 
 Nevertheless, he doesn’t miss the elitism he observed in different scenes of old, one he recalls from his encounters with certain obstinate members of the metal scene. “Someone would say ‘You like Slayer ah?’ But he doesn’t actually want you to be a Slayer fan, because he wants to be known as being the ‘real’ Slayer fan,” Kelvin elaborates. As a result, many were caught in a chase of virtuosic calisthenics as competition – a speed race that Kelvin was grateful that he didn’t get caught up in.
 
@@ -193,19 +193,17 @@ Compared to countries like Taiwan or Japan, he believes Singapore largely lags b
 
 \-
 
-However, Kelvin is quick to assert his love for Singapore. After all, he has been part of that artistic history itself. In his almost 30 years as an artist, none came stranger than his experience than his performances in Pyongyang – representing Singapore at the time as part of multidisciplinary arts collective Aporia Society.
+However, Kelvin is quick to assert his love for Singapore. After all, he has been part of that artistic history itself. In his almost 30 years as an artist, none came stranger and more foundational to his Singaporean experience than his performances in Pyongyang – representing the Lion City at the time as part of multidisciplinary arts collective, Aporia Society.
+
+One day, Wong Kwang Han, his friend, informed Kelvin that Aporia had received a letter from the North Korean embassy. Inside contained an invitation to perform at the 16th Spring Arts Festival in Pyongyang - but initially, Kelvin was in disbelief.
+
+“'Nonsense!' I said. It’s not a good idea to joke about things like that. But he showed me the letter and there it was - I guess we sounded communist or something!” Kelvin laughingly remarks.
 
 \-
 
 ![North Korean Performer's Pass](https://lh6.googleusercontent.com/_Rq2qcsKYHATyiX4WtRXAXjdWQ8-yzdLLDYX23VY19avnw_y2wpP0zSquSR3Jd-8OX0wlTnCQyFNOjppChWCr-cv-JvfNFb-QTGNTZiSJPdcTF8iQdg7i044kro_4lR3cRLBjlXF "North Korean Performer's Pass")
 
 ###### ***Kelvin’s North Korean performer’s pass. Photo: Kelvin Tan***
-
-\-
-
-One day, Wong Kwang Han, his friend, informed Kelvin that Aporia had received a letter from the North Korean embassy. Inside contained an invitation to perform at the 16th Spring Arts Festival in Pyongyang - but initially, Kelvin was in disbelief.
-
-“'Nonsense!' I said. It’s not a good idea to joke about things like that. But he showed me the letter and there it was - I guess we sounded communist or something!” Kelvin laughingly remarks.
 
 An eventful trip followed. Without direct flights, the entourage proceeded to Beijing to be picked up by an old 1940s style plane, only for their passports to be immediately confiscated upon arrival. “It was scary, because there was no way we could leave the country then,” he recounts.
 
@@ -215,7 +213,9 @@ Originally thinking they were to be taken to the hotel, they were instead put in
 
 ![](https://lh5.googleusercontent.com/BXO_zQyx8_LDdxZHwaoJe0lG2LO9RJinzVDSrPkG44KuwzlyEETSWpuWpudomDGfRZqtDbbb5Z2yVJVGHRDNMvtla0QvrRzRxnEb3gAsZexVN33sp8zj4oAwc13n9XtvkefJoGfV)-
 
-As part of a cultural exchange, Kelvin then found himself having to learn a song about Pyongyang to honour then Leader Kim Jong-Il, and one “Singaporean song” to represent his homeland. It served as the setlist to his several performances in North Korea, amongst which include showcases in front of North Korea’s late Leader, Kim Jong-Il. To represent Singapore, Kelvin chose the classic national song *Di Tanjong Katong*.
+Diving into the experiences with the North Korean people that he met, he noted the haunting cognitive dissonance they possessed. “There was one time on the bus where we were all given some apples to eat by our interpreter,” he recalls. “She asked us how the apples were. One of the German singers told her that they were ‘not bad’ - but as the interpreter heard their words, she promptly began chastising them. “Not bad? Why not good? Did you know our great leader planted and grew these apples for you to eat?” It would be the last he would see of them.
+
+As part of a cultural exchange, Kelvin then found himself having to learn a song about Pyongyang to honour then Leader Kim Jong-Il, and one “Singaporean song” to represent his homeland. Over a two-week-long stay, it served as the setlist to his several performances in North Korea, amongst which include showcases in front of North Korea’s late Leader, Kim Jong-Il. To represent Singapore, Kelvin chose the classic national song *Di Tanjong Katong*.
 
 \-
 
@@ -225,13 +225,13 @@ As part of a cultural exchange, Kelvin then found himself having to learn a song
 
 \-
 
-Diving into the experiences with the North Korean people that he met, he noted the haunting cognitive dissonance they possessed. “There was one time on the bus where we were all given some apples to eat by our interpreter,” he recalls. “She asked us how the apples were. One of the German singers told her that they were ‘not bad’ - but as the interpreter heard their words, she promptly began chastising them. “Not bad? Why not good? Did you know our great leader planted and grew these apples for you to eat?” It would be the last he would see of them.
-
-While frightening, the trip was an eye-opener for Kelvin – one he does not regret having embarked on. “It’s the only Stalinist country in the world, and I lived there for 2 weeks! North Korea changed my life, and it made me appreciate Singapore a lot more,” he reflected.
+While frightening, the trip was an eye-opener for Kelvin – one he does not regret having embarked on. “It’s the only Stalinist country in the world, and for two weeks, I lived there! North Korea changed my life, and above all, it made me appreciate Singapore a lot more,” he reflected.
 
 \-
 
-![Kelvin Tan portrait](https://lh5.googleusercontent.com/x8iPc_PgaPCqBvcjn9NXGIorKSDuyLOdazyXdD6R26GhcolpISgaEnkDGAC22_d1bUblZoZqkwNm1I7jfYkkDAjwHPudBkCs9EpYm-yImg7-8E-iL4VB2AGNdOUld8xl0qXrMF09 "Kelvin Tan")
+![Kelvin Tan](https://lh5.googleusercontent.com/WE7m0klduJnCFwZ5EeRKj1j7WXhhIv_Jv9934ZRtQqYeq5Ahv4ExwjHSzbb2HPdppqEqoKulV7nKGN3cHzEzEgp4ZFySia3XDIxu_AAHTs_VIUGTQ-ypbURnHmY9WNpCtonI4m6u "Kelvin Tan")
+
+
 
 \-
 
