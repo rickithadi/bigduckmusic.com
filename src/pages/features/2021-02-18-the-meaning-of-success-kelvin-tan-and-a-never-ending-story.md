@@ -16,7 +16,7 @@ tags:
   - Kelvin Tan
   - The Oddfellows
 ---
-### *From his halcyon days as a key member of pioneering indie band [The Oddfellows](https://youtu.be/yIXFuNWgxnQ), to his ongoing chameleon act with a prolific output numbering over 150 releases, Kelvin Tan’s music has always charted his own Singaporean story. But even as he finds himself with stories to tell across Singapore's scene, the singer-songwriter and his work remains curiously under the shadows.* 
+### *From his halcyon days as a key member of pioneering indie band [The Oddfellows](https://youtu.be/yIXFuNWgxnQ), to his ongoing chameleon act with a prolific output numbering over 150 releases, Kelvin Tan’s music has always charted his own Singaporean story. But even as he finds himself with stories to tell across Singapore's scene, the singer-songwriter and his work remains curiously under the shadows.*
 
 ### *Off the back of 5 releases in 2020 and a well-received show at the Esplanade Outdoor Theatre with The Oddfellows, Kelvin continues to record with vigour, both with his solo efforts and beloved band. Over kopi, Big Duck caught up with Kelvin Tan as we found out about his story.*
 
@@ -135,7 +135,7 @@ Bringing up the past, Kelvin brings out gifts for us. He hands us both a persona
 
 Nevertheless, he doesn’t miss the elitism he observed in different scenes of old, one he recalls from his encounters with certain obstinate members of the metal scene. “Someone would say ‘You like Slayer ah?’ But he doesn’t actually want you to be a Slayer fan, because he wants to be known as being the ‘real’ Slayer fan,” Kelvin elaborates. As a result, many were caught in a chase of virtuosic calisthenics as competition – a speed race that Kelvin was grateful that he didn’t get caught up in.
 
-Kelvin makes his disdain for that mindset clear.  guitar ability is evident – demonstrated aplenty on both his performances and albums, like 2016's *[Where the Real Lions Are ….](https://open.spotify.com/album/12VZBcvkrzJsE3sxVd27UN?si=vnHRf8I3RZ-fb80jeYIi-w).* But he is quick to emphasise the importance of songwriting and musicality, something he believes that the chops-obsessed scene he grew up in greatly lacked. “I’m glad for my diverse musical upbringing. It allows me to shred if I wanna shred, but there’s no point if it isn’t musical,” he says.
+Kelvin makes his disdain for that mindset clear. Without doubt, his guitar ability is evident – demonstrated aplenty on both his performances and albums, like 2016's *[Where the Real Lions Are ….](https://open.spotify.com/album/12VZBcvkrzJsE3sxVd27UN?si=vnHRf8I3RZ-fb80jeYIi-w).* But he is quick to emphasise the importance of songwriting and musicality, something he believes that the chops-obsessed scene he grew up in greatly lacked. “I’m glad for my diverse musical upbringing. It allows me to shred if I wanna shred, but there’s no point if it isn’t musical,” he says.
 
 "I think it’s tied to the academic system here in Singapore, that culture of competitiveness.” Distilling that experience into advice for new, aspiring musicians, he emphasises the importance of knowing one’s agenda with music. “Are you doing it for the music itself? For the glamour? Or something else? Whatever it is, don’t be pretentious about it.”
 
@@ -221,11 +221,11 @@ As part of a cultural exchange, Kelvin then found himself having to learn a song
 
 ![Kelvin Tan North Korea](https://lh5.googleusercontent.com/sqdCL7ZGzT5QiI5piW1YqjZOCRiUvxaCiH6GA0xgvNvdj-eNtLydyPmYjEIdQIiyt3VXdR9_6a4-1C7BU1ZzfMve7fxwF15Lb4rf_fzqP7d5CrZzQP5OM6JuzkPh8eHesSMhZqBx "Kelvin Tan North Korea")
 
-**Kelvin in Pyongyang, 1998**
+###### *Kelvin in Pyongyang, 1998*
 
 \-
 
-Diving into the experiences with the North Korean people that he met, he noted how scary the cognitive dissonance they possessed was. “There was one time on the bus where we were all given some apples to eat by our interpreter,” he recalls. “She asked us how the apples were. One of the German singers told her that they were ‘not bad’ - but as the interpreter heard the singer, she promptly began scolding the singers. “Not bad? Why not good? Did you know our great leader planted and grew these apples for you to eat?” It would be the last he would see of them.
+Diving into the experiences with the North Korean people that he met, he noted the haunting cognitive dissonance they possessed. “There was one time on the bus where we were all given some apples to eat by our interpreter,” he recalls. “She asked us how the apples were. One of the German singers told her that they were ‘not bad’ - but as the interpreter heard their words, she promptly began chastising them. “Not bad? Why not good? Did you know our great leader planted and grew these apples for you to eat?” It would be the last he would see of them.
 
 While frightening, the trip was an eye-opener for Kelvin – one he does not regret having embarked on. “It’s the only Stalinist country in the world, and I lived there for 2 weeks! North Korea changed my life, and it made me appreciate Singapore a lot more,” he reflected.
 
