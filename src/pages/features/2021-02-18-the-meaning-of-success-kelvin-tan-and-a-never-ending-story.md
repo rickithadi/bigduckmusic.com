@@ -205,9 +205,9 @@ However, Kelvin is quick to assert his love for Singapore. After all, he has bee
 
 One day, Wong Kwang Han, his friend, informed Kelvin that Aporia had received a letter from the North Korean embassy. Inside contained an invitation to perform at the 16th Spring Arts Festival in Pyongyang - but initially, Kelvin was in disbelief.
 
-“Nonsense!” I said. It’s not a good idea to joke about things like that. But he showed me the letter and there it was - I guess we sounded communist or something!” Kelvin laughingly remarks.
+“'Nonsense!' I said. It’s not a good idea to joke about things like that. But he showed me the letter and there it was - I guess we sounded communist or something!” Kelvin laughingly remarks.
 
-An eventful trip followed. Without direct flights, the entourage proceeded to Beijing to be picked up by an old 1940s style plane, only for their passports to be immediately confiscated upon arrival in North Korea. “It was scary, because there was no way we could leave the country then,” he recounts.
+An eventful trip followed. Without direct flights, the entourage proceeded to Beijing to be picked up by an old 1940s style plane, only for their passports to be immediately confiscated upon arrival. “It was scary, because there was no way we could leave the country then,” he recounts.
 
 Originally thinking they were to be taken to the hotel, they were instead put into a van, driven far into the dark countryside. Spooked without knowing what was going on, the drive continued for hours, until their purpose was revealed – to present a bouquet of flowers and bow down to a statue of Kim Il-Sung.
 
