@@ -109,7 +109,7 @@ Yet at the same time, he is also eager to continue pushing his sonic boundaries 
 
 Asking Kelvin what he’s been listening to recently, the replies are impressively diverse – some entries which would not have been out of place from collections of fans brought up in the internet age. Citing his favorite artists, he namedrops Fontaines D.C. and Kanye West, while his rotation heavily features garage rock like Ty Segall and avant-garde jazz the likes of Jeff Parker. Perhaps even more surprising was his love for a handful of lo-fi indie darlings: Alex G, Elvis Depressedly, and Deerhunter amongst many.
 
-But at 53 years old, Kelvin finds himself in an even more awkward position with his youthful outlook - a middle man sandwiched within the generational gap that separates the pioneers and gatekeepers of his time, from the current wave of Singaporean music. It’s a state that he laments and protests against.
+But at 56 years old, Kelvin finds himself in an even more awkward position with his youthful outlook - a middle man sandwiched within the generational gap that separates the pioneers and gatekeepers of his time, from the current wave of Singaporean music. It’s a state that he laments and protests against.
 
 \-
 
