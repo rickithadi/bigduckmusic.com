@@ -36,8 +36,6 @@ As we met at Maxwell Food Centre, we found his hair freshly dyed in shades of pi
 
 ![Kelvin Tan portrait](https://lh5.googleusercontent.com/x8iPc_PgaPCqBvcjn9NXGIorKSDuyLOdazyXdD6R26GhcolpISgaEnkDGAC22_d1bUblZoZqkwNm1I7jfYkkDAjwHPudBkCs9EpYm-yImg7-8E-iL4VB2AGNdOUld8xl0qXrMF09 "Kelvin Tan")
 
-
-
 But his teaching gigs have always been fuel for his own prolific creative endeavours. Sparked with endless creativity since the 1990s, Kelvin's work has sprawled vast dimensions – beyond a musical output spanning over 150 releases, his forays have also delved into photographic and literary efforts: writing two novels, poems, and various plays.
 
 When it comes to his musical story, Kelvin's journey is impossible to tell without his chapter with indie rock trail-blazers, The Oddfellows. Brought into the fray through a fateful meeting with frontman Patrick Chng at a film festival, Kelvin joined as guitarist in 1991, becoming a key member as the band rose to prominence, from outcasts to celebrated pioneers. The role he played in the band, however, was also an unconventional one. Unlike much of the indie rock background his fellow band members shared, his influences came from a lineage of singer-songwriters, brought up on the likes of Jackson Browne and Neil Young.
@@ -169,7 +167,7 @@ Kelvin considers himself a success by the definition of Bob Dylan - defined by c
 
 It’s a raison d’etre he applies to his music, through insisting on constant exploration. “My music is an attempt to find an alternative voice. Sometimes you fail, but part of the process is failing – after all, the great playwright Samuel Beckett said ‘fail better’. As a musician, I think that’s what it’s all about: failing better.” With the COVID-19 pandemic forming a reset for the music industry, the need to look for work and make a living still exists for Kelvin. Even so, he finds refuge in continuing his art-making. “I’m not so worried about that. I’m still doing what I do even when I’m in my 50s. I take heart in that - to me, this might be part of the journey to something new."
 
-With a keen eye attentive to Singapore's music scene today, he believes that artists as of late are capable of creating a new potential renaissance in the scene. As our conversation moves towards the present, Kelvin lights up, as he expresses a strong desire for chances to work with those from new generation. Of these, he mentions [FAUXE](https://suneyerecords.bandcamp.com/album/new-life) in particular – admiring and sensing a common soul with the producer’s open-minded spirit. But beyond FAUXE, he also finds himself excited at the idea of working with anyone musically open to new ideas.
+With a keen eye attentive to Singapore's music scene today, he believes that artists as of late are capable of creating a new potential renaissance in the scene. As our conversation moves towards the present, Kelvin lights up, as he expresses a strong desire for chances to work with those from the new generation. Of these, he mentions [FAUXE](https://suneyerecords.bandcamp.com/album/new-life) in particular – admiring and sensing a common soul with the producer’s open-minded spirit. But beyond FAUXE, he also finds himself excited at the idea of working with anyone musically open to new ideas.
 
 Above all, he believes in those dedicated to the art of songwriting. With a laugh, he even states more absurd examples. “If Justin Bieber called me up for a collab, I would totally do it! It would be fun!” Kelvin amusedly says.
 
@@ -230,8 +228,6 @@ While frightening, the trip was an eye-opener for Kelvin – one he does not reg
 \-
 
 ![Kelvin Tan](https://lh5.googleusercontent.com/WE7m0klduJnCFwZ5EeRKj1j7WXhhIv_Jv9934ZRtQqYeq5Ahv4ExwjHSzbb2HPdppqEqoKulV7nKGN3cHzEzEgp4ZFySia3XDIxu_AAHTs_VIUGTQ-ypbURnHmY9WNpCtonI4m6u "Kelvin Tan")
-
-
 
 \-
 
