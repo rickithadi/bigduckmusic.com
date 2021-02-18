@@ -215,7 +215,7 @@ Originally thinking they were to be taken to the hotel, they were instead put in
 
 ![](https://lh5.googleusercontent.com/BXO_zQyx8_LDdxZHwaoJe0lG2LO9RJinzVDSrPkG44KuwzlyEETSWpuWpudomDGfRZqtDbbb5Z2yVJVGHRDNMvtla0QvrRzRxnEb3gAsZexVN33sp8zj4oAwc13n9XtvkefJoGfV)-
 
-As part of a cultural exchange, Kelvin then found himself having to learn a song about Pyongyang to honour then Leader Kim Jong-Il, and one song to  “Singaporean song” . It served as the setlist to his several performances in North Korea, amongst which include showcases in front of North Korea’s late Leader, Kim Jong-Il. To represent Singapore, Kelvin chose the classic national song *Di Tanjong Katong*.
+As part of a cultural exchange, Kelvin then found himself having to learn a song about Pyongyang to honour then Leader Kim Jong-Il, and one “Singaporean song” to represent his homeland. It served as the setlist to his several performances in North Korea, amongst which include showcases in front of North Korea’s late Leader, Kim Jong-Il. To represent Singapore, Kelvin chose the classic national song *Di Tanjong Katong*.
 
 \-
 
