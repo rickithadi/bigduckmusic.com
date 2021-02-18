@@ -209,7 +209,7 @@ One day, Wong Kwang Han, his friend, informed Kelvin that Aporia had received a 
 
 An eventful trip followed. Without direct flights, the entourage proceeded to Beijing to be picked up by an old 1940s style plane, only for their passports to be immediately confiscated upon arrival. “It was scary, because there was no way we could leave the country then,” he recounts.
 
-Originally thinking they were to be taken to the hotel, they were instead put into a van, driven far into the dark countryside. Spooked without knowing what was going on, the drive continued for hours, until their purpose was revealed – to present a bouquet of flowers and bow down to a statue of Kim Il-Sung.
+Originally thinking they were to be taken to the hotel, they were instead put into a van, driven far into the dark North Korean countryside. Spooked without knowing what was going on, the drive continued for hours, until their purpose was revealed – to present a bouquet of flowers and bow down to a statue of Kim Il-Sung.
 
 \-
 
