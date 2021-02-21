@@ -29,7 +29,7 @@ tags:
 
 \-
 
-A sensitive detour that melts down his ferocious, breakcore-tinged facade, deformed melts down to an oddball indie rock ode to his prospective takes on love. Possibly both metaphor to the unprofessional BPM of one’s heart racing, and rhythms conjuring the tension of your ass sphincter clenched tight, muscle strain, ten reactions and all, his deadpan vocal delivery rides a pulsating note to reveal some hilarious, yet sincere confessions. As he avoids the losing end, attached below is an excerpt from his thesis:
+A sensitive detour that melts down his ferocious, breakcore-tinged facade, deformed delivers an oddball indie rock ode to his prospective takes on love. Possibly both metaphor to the unprofessional BPM of one’s heart racing, and rhythms conjuring the tension of your ass sphincter clenched tight, muscle strain, ten reactions and all, his deadpan vocal delivery rides a pulsating note to reveal some hilarious, yet sincere confessions. As he avoids the losing end, attached below is an excerpt from his thesis:
 
 "I crush your head 
 
