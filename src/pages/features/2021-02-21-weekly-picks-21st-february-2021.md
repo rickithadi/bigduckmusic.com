@@ -4,7 +4,7 @@ title: "WEEKLY PICKS: 21st February 2021"
 author: JX Soo, Isaac Yackem and Chester
 col: white
 date: 2021-02-21T09:56:04.303Z
-description: Our top picks this week - hilarious indie rock from deførmed,
+description: Our top picks this week - a hilarious indie rock bop from deførmed,
   hazily viscous hip-hop from Mary Sue , and a nu-metal effort from Trust The
   Chaos!
 category: feature
@@ -17,7 +17,7 @@ tags:
   - mary sue
   - Trust The Chaos
 ---
-**Our top picks this week - hilarious indie rock from deførmed, hazily viscous hip-hop from Mary Sue , and a nu-metal effort from Trust The Chaos!**
+**Our top picks this week - a hilarious indie rock bop from deførmed, hazily viscous hip-hop from Mary Sue , and a nu-metal effort from Trust The Chaos!**
 
 # deførmed
 
@@ -89,8 +89,6 @@ But they aren’t the only things that sue brings to the table. On *been there b
 **Experience “*to those foreign nights, i love you*” here:**
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Owj5AXzBHj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 * **\- by Isaac Yackem**
 
