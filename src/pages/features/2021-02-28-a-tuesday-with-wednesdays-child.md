@@ -14,7 +14,7 @@ tags:
   - Interview
   - Wednesday's Child
 ---
-### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. Emerging last year with two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. With broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
+### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
 
 ![](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s)
 
@@ -36,7 +36,7 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 ![](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS)
 
-**“Wednesday’s Child” Photo: Elliott**
+**Wednesday’s Child. Photo: Elliot**
 
 \-
 
@@ -50,7 +50,7 @@ Her misfortunes seem to be part of a continuing trend, recalling a recent incide
 
 ![](https://lh6.googleusercontent.com/7xVHSfuh_wuLxr34VUR6rxNJdkuOFqq2MROJwDUBjbO4FCM2gLQon0LzSOwXqYzJocD1ay8HYh46o2wY0XJDkkNBhBxlNq0A_KY7iIv2e0Qkhoz5rT7XhUgfWG7nLwwKDSN-w0LO)
 
-**“The local court” Photo: Sameh Wahba @thebodgedgallery**
+**Photos: Sameh Wahba**
 
 The conversation moves on to the rest of her outfit. “Enough with my boots, I actually want to tell you about my pleb pants! I bought them for an MOE interview. My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
 
@@ -62,7 +62,7 @@ She affirms that she has no intention to stop creating music. “It’s somethin
 
 ![](https://lh5.googleusercontent.com/5TfmTff7yoMFx9znjeZ2Ejrbd9LyQED_XWoAi0fZulZWthevaSWiwum4WAYrUPNPP_BPfdd6wBXC9EFkvPzcRokcPvtuyKLLIBm7xY-H9GPH5Ydp7pkSN35J1zkV0xGkoJtcctyN)
 
-**“Pleb pants and feet-saving boots” Photo: Sameh Wahba @thebodgedgallery**
+**P**
 
 Our conversation moves on to the other things she loves. She begins quoting games, like the recently-released action RPG “Hades”, and the classic god simulator “The Sims” – particularly its 4th edition and all its expansion packs (“Typical EA behavior,” she snarks). She also states that she’d love to play games like Fallout, but gets motion sickness from shooters, barring her the experience of embracing the game’s wastelands.
 
@@ -100,7 +100,7 @@ But to their surprise, *Siren Song* began picking up. As it began placing on Spo
 
 ![](https://lh5.googleusercontent.com/kXdBPHiUXV_bSGX95uGJR6euYITgGgkQ0e8Cm8LPe67PRRFyciaU7hgG0KFsQ21G79lH8BnCbqT44Ox5nj_0K-Abxj9etmykk9QYzOZ5bDFbb8u-cIvKDPc538WnmONeloXqZRVi)
 
-**“*Siren Song*’s personally-designed cover art” Photo: Elliott**
+**“*Siren Song*’s personally-designed cover art. Photo: Elliott**
 
 \-
 
