@@ -20,11 +20,11 @@ tags:
 
 \-
 
-After maneuvering around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliot, the mind behind jazz-pop project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliot, the mind behind jazz-pop project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
-It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single “*[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*”, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
+It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
 
-Comically, it was a Tuesday. I quickly ask her where her moniker originates from. One of her personal woes, considering that the inspiration behind her moniker comes from a poem titled “[Monday’s Child](https://www.englishclub.com/reading/cr-mondays-child.htm)”, which I found later to be a popular rhyme to help young children remember the days of the week. Born on a Wednesday, Elliott found resonance with the line that matched up against her birthday: “Wednesday's child is full of woe”.
+Comically, it was a Tuesday. I quickly ask her where her moniker originates from. One of her personal woes, considering that the inspiration behind her moniker comes from a poem titled *[Monday’s Child](https://www.englishclub.com/reading/cr-mondays-child.htm)*, which I found later to be a popular rhyme to help young children remember the days of the week. Born on a Wednesday, Elliott found resonance with the line that matched up against her birthday: “Wednesday's child is full of woe”.
 
 Right after we settled down, a kid comes up and touches Elliott’s boots.
 
@@ -88,7 +88,7 @@ Although she spent most of her time on bass at that point, she began fiddling wi
 
 “Producing mandopop demos wasn’t really my thing – but it helped me learn more about pop production techniques, and helped me dive deeper into production,” she explains. Up until that point, she hadn’t shown her music to anyone, aside from those who were grading her assignments. But graduating after making music for three years, she decided that it was about time to put something out. With newfound experience, it was an intent that gave birth to the project’s first single, *Siren Song*.
 
-“I didn’t plan to produce ‘*[Siren Song](https://open.spotify.com/track/3BIoBQmtEuLWKe2Jmkw2Pg?si=xuSZ07svQnWxy5XLkb5Z5Q)*’ at all,” she explains. “But I was very obsessed with the show ‘Killing Eve’ then – so I decided to write *Siren Song* from the perspective of one of its characters. After I wrote the lyrics first, I was playing the guitar one day when I realized I could put the two together.”
+“I didn’t plan to produce *[Siren Song](https://open.spotify.com/track/3BIoBQmtEuLWKe2Jmkw2Pg?si=xuSZ07svQnWxy5XLkb5Z5Q)* at all,” she explains. “But I was very obsessed with the show ‘Killing Eve’ then – so I decided to write *Siren Song* from the perspective of one of its characters. After I wrote the lyrics first, I was playing the guitar one day when I realized I could put the two together.”
 
 Elliot sent the initial demo to her friend, a jazz pianist & self-taught producer. Together, they co-produced the track that became *Siren Song* in two weeks, and quickly formed the group as a duo. Without prior plans about the song, the pair decided to put it out to see how it’d fare amongst strangers. “Friends can be too biased with their opinions, so we decided to put it out to hear what random people would think of it,” she notes. “We didn’t even give enough time to plan its pre-release with media outlets and such, so it was really difficult to predict how it’ll go.”
 
@@ -106,8 +106,6 @@ But to their surprise, *Siren Song* began picking up. As it began placing on Spo
 
 Elliott struggles a bit at this point, as if breaking down a wall that's stopping her from speaking her mind. She begins stuttering – but she eventually does so anyway, delving into a fallout that occurred with her musical partner in Wednesday’s Child.
 
-
-
 “I think what I'm about to say here may seem a bit private, but I feel like people need to know about it anyways. He was a pathological liar of sorts – but because I’ve always treated him as a really good friend up till that point, I felt that we could keep Wednesday’s Child exclusive from the issue despite the controversies. After all, strong musical chemistry is pretty rare anyways, and acknowledged that.”
 
 She proceeds to describe her ex-music partner’s actions, which carried an occasional sexual motivation. “He was really scummy, and he began painting (to others) a completely different picture about who he was to me, especially with other girls,” she exclaims. “He even began saying really disgusting things – like he was out to seduce me?”
@@ -122,7 +120,7 @@ Motivated in sending a clear message with her follow-up, she crafted her next si
 
 The work and talent is plenty evident. Within *Pedestrian Life*’s blazing synth lines, deeply introspective lyrics, and soul-consuming instrumentation, individuality bleeds through the song’s funky acid-jazz stylings, more assertive and immediately gripping than her predecessor. That's all her, and if you haven’t realised that yet, then you’ve got another thing coming.
 
--
+*
 
 ![](https://lh4.googleusercontent.com/yg0_9jneXzU181OepkoEleZQOUfmMi2HLGeWWFXW08oPpZOGAgkHZK3rWuT29DdRpUJGI5iqVbjIcqr3w6OgZs29SwgQm_0mrIn4hz5iY2Zl1zmVBFO6kIPQZCL1d6VYso-6fZ-R)
 
@@ -136,7 +134,7 @@ Despite its pop approach, Elliott insists that the lyrics are still a deeply int
 
 ![](https://lh3.googleusercontent.com/DcbdT1puG4eE4W18QGB2579dbFKGrVElR5LTzRO8gq5BjZAB4yv6H9rzCESDznKXe77mdTwv25F3BaC7LVsz_ad3MJzXTKyD-XDk9WiElb1jHrwIK32_XdzV4TDUgqX5WqJmitDp)
 
-**“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)@anyhowmakeusername**
+**“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**@anyhowmakeusername**
 
 But undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliot. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
 
