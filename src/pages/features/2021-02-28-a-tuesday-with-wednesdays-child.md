@@ -3,7 +3,7 @@ templateKey: blog-post
 title: A Tuesday with Wednesday's Child
 author: Sameh Wahba // Photos by Sameh Wahba
 col: white
-date: 2021-02-28T07:11:57.809Z
+date: 2021-02-28T07:17:08.765Z
 description: In this interview, we find how Elliot gave life to Wednesday’s
   Child – a jazz-pop solo project that wasn’t the case by design.
 category: feature
@@ -14,7 +14,7 @@ tags:
   - Interview
   - Wednesday's Child
 ---
-### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. Emerging last year with two standout singles in Siren Song and Pedestrian Life, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. With broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
+### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. Emerging last year with two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. With broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
 
 ![](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s)
 
