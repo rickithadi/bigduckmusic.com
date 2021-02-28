@@ -52,6 +52,8 @@ Her misfortunes seem to be part of a continuing trend, recalling a recent incide
 
 **Photos: Sameh Wahba**
 
+\-
+
 The conversation moves on to the rest of her outfit. “Enough with my boots, I actually want to tell you about my pleb pants! I bought them for an MOE interview. My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
 
 In fact, Elliott’s been waiting to hear back from the MOE about a teaching gig. Currently a tutor to primary school kids, she’s keen on helping them academically, while also wanting to provide them a platform to be heard. “I believe children need that. By being a teacher, I can be a champion for them, and that feels right to me.”
@@ -60,9 +62,11 @@ That being said, she adds that teaching was not exactly a career she wanted. “
 
 She affirms that she has no intention to stop creating music. “It’s something I'll always do. But if I'm doing music exclusively, I'm not too sure if it’ll be able to inspire me on its own as much. Music by itself can be pretty stressful – depending on what it is, it can really suck the joy out of it.” Believing it to be the best of worlds, she expresses her desire to be a music teacher.
 
+\-
+
 ![](https://lh5.googleusercontent.com/5TfmTff7yoMFx9znjeZ2Ejrbd9LyQED_XWoAi0fZulZWthevaSWiwum4WAYrUPNPP_BPfdd6wBXC9EFkvPzcRokcPvtuyKLLIBm7xY-H9GPH5Ydp7pkSN35J1zkV0xGkoJtcctyN)
 
-**P**
+\-
 
 Our conversation moves on to the other things she loves. She begins quoting games, like the recently-released action RPG “Hades”, and the classic god simulator “The Sims” – particularly its 4th edition and all its expansion packs (“Typical EA behavior,” she snarks). She also states that she’d love to play games like Fallout, but gets motion sickness from shooters, barring her the experience of embracing the game’s wastelands.
 
