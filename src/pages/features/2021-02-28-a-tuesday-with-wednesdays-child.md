@@ -16,7 +16,7 @@ tags:
 ---
 ### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
 
-![](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s)
+![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
 \-
 
@@ -34,7 +34,7 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 \-
 
-![](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS)
+![Wednesday's Child](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS "Wednesday's Child")
 
 **Wednesday’s Child. Photo: Elliot**
 
@@ -48,7 +48,7 @@ Her misfortunes seem to be part of a continuing trend, recalling a recent incide
 
 \-
 
-![](https://lh6.googleusercontent.com/7xVHSfuh_wuLxr34VUR6rxNJdkuOFqq2MROJwDUBjbO4FCM2gLQon0LzSOwXqYzJocD1ay8HYh46o2wY0XJDkkNBhBxlNq0A_KY7iIv2e0Qkhoz5rT7XhUgfWG7nLwwKDSN-w0LO)
+![Wednesday's Child](https://lh6.googleusercontent.com/7xVHSfuh_wuLxr34VUR6rxNJdkuOFqq2MROJwDUBjbO4FCM2gLQon0LzSOwXqYzJocD1ay8HYh46o2wY0XJDkkNBhBxlNq0A_KY7iIv2e0Qkhoz5rT7XhUgfWG7nLwwKDSN-w0LO "Wednesday's Child")
 
 **Photos: Sameh Wahba**
 
@@ -64,7 +64,7 @@ She affirms that she has no intention to stop creating music. “It’s somethin
 
 \-
 
-![](https://lh5.googleusercontent.com/5TfmTff7yoMFx9znjeZ2Ejrbd9LyQED_XWoAi0fZulZWthevaSWiwum4WAYrUPNPP_BPfdd6wBXC9EFkvPzcRokcPvtuyKLLIBm7xY-H9GPH5Ydp7pkSN35J1zkV0xGkoJtcctyN)
+![Wednesday's Child](https://lh5.googleusercontent.com/5TfmTff7yoMFx9znjeZ2Ejrbd9LyQED_XWoAi0fZulZWthevaSWiwum4WAYrUPNPP_BPfdd6wBXC9EFkvPzcRokcPvtuyKLLIBm7xY-H9GPH5Ydp7pkSN35J1zkV0xGkoJtcctyN "Wednesday's Child")
 
 \-
 
@@ -82,7 +82,7 @@ Her music demonstrates that sonic cohesiveness in spades. Despite her songs alwa
 
 \-
 
-![](https://lh3.googleusercontent.com/aWrJu98A0mwjuYL_jYbCL7G-KqKESiIC9f1sPok32Noaaj4itdHZgOXTpHLUaykBFpgr86X4PgKghvLBHOiUGIDuzTO5azgDVkoMrpD35GS8AV3LoMWYeBGNWuEjB7tzTMMNczBn)
+![Wednesday's Child](https://lh3.googleusercontent.com/aWrJu98A0mwjuYL_jYbCL7G-KqKESiIC9f1sPok32Noaaj4itdHZgOXTpHLUaykBFpgr86X4PgKghvLBHOiUGIDuzTO5azgDVkoMrpD35GS8AV3LoMWYeBGNWuEjB7tzTMMNczBn "Wednesday's Child")
 
 \-
 
@@ -102,7 +102,7 @@ But to their surprise, *Siren Song* began picking up. As it began placing on Spo
 
 \-
 
-![](https://lh5.googleusercontent.com/kXdBPHiUXV_bSGX95uGJR6euYITgGgkQ0e8Cm8LPe67PRRFyciaU7hgG0KFsQ21G79lH8BnCbqT44Ox5nj_0K-Abxj9etmykk9QYzOZ5bDFbb8u-cIvKDPc538WnmONeloXqZRVi)
+![Wednesday's Child - Siren Song](https://lh5.googleusercontent.com/kXdBPHiUXV_bSGX95uGJR6euYITgGgkQ0e8Cm8LPe67PRRFyciaU7hgG0KFsQ21G79lH8BnCbqT44Ox5nj_0K-Abxj9etmykk9QYzOZ5bDFbb8u-cIvKDPc538WnmONeloXqZRVi "Wednesday's Child - Siren Song")
 
 **“*Siren Song*’s personally-designed cover art. Photo: Elliott**
 
@@ -126,7 +126,7 @@ The work and talent is plenty evident. Within *Pedestrian Life*’s blazing synt
 
 *
 
-![](https://lh4.googleusercontent.com/yg0_9jneXzU181OepkoEleZQOUfmMi2HLGeWWFXW08oPpZOGAgkHZK3rWuT29DdRpUJGI5iqVbjIcqr3w6OgZs29SwgQm_0mrIn4hz5iY2Zl1zmVBFO6kIPQZCL1d6VYso-6fZ-R)
+![Wednesday's Child](https://lh4.googleusercontent.com/yg0_9jneXzU181OepkoEleZQOUfmMi2HLGeWWFXW08oPpZOGAgkHZK3rWuT29DdRpUJGI5iqVbjIcqr3w6OgZs29SwgQm_0mrIn4hz5iY2Zl1zmVBFO6kIPQZCL1d6VYso-6fZ-R "Wednesday's Child")
 
 **“The dangers of men” Photo: Sameh Wahba @thebodgedgallery**
 
@@ -136,7 +136,7 @@ Despite its pop approach, Elliott insists that the lyrics are still a deeply int
 
 \-
 
-![](https://lh3.googleusercontent.com/DcbdT1puG4eE4W18QGB2579dbFKGrVElR5LTzRO8gq5BjZAB4yv6H9rzCESDznKXe77mdTwv25F3BaC7LVsz_ad3MJzXTKyD-XDk9WiElb1jHrwIK32_XdzV4TDUgqX5WqJmitDp)
+![Wednesday's Child](https://lh3.googleusercontent.com/DcbdT1puG4eE4W18QGB2579dbFKGrVElR5LTzRO8gq5BjZAB4yv6H9rzCESDznKXe77mdTwv25F3BaC7LVsz_ad3MJzXTKyD-XDk9WiElb1jHrwIK32_XdzV4TDUgqX5WqJmitDp "Wednesday's Child")
 
 **“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**@anyhowmakeusername**
 
@@ -150,7 +150,7 @@ She begins listing some of her dream collabs, which she hopes to be able to have
 
 \-
 
-![](https://lh3.googleusercontent.com/qNyqKWfALxWYn2jzfqM_2CYkkcY57w4dlZSxdHYps42mMk7h-RzjcMEgHeyKgaC39Z1SqhDMreBiGCJjBAtPHA4U9f3D65dgfAgNVWte3z44PzmEmsZwnLJqUPB-AfaIe5H2wbkF)
+![Wednesday's Child](https://lh3.googleusercontent.com/qNyqKWfALxWYn2jzfqM_2CYkkcY57w4dlZSxdHYps42mMk7h-RzjcMEgHeyKgaC39Z1SqhDMreBiGCJjBAtPHA4U9f3D65dgfAgNVWte3z44PzmEmsZwnLJqUPB-AfaIe5H2wbkF "Wednesday's Child")
 
 **“Elliott contemplating the plans she has for Wednesday’s Child” Photo: Sameh Wahba @thebodgedgallery**
 
