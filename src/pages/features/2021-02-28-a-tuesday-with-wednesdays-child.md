@@ -6,7 +6,7 @@ col: white
 date: 2021-02-28T07:17:08.765Z
 description: In this interview, we find how Elliot gave life to Wednesday’s
   Child – a jazz-pop solo project that wasn’t the case by design.
-category: feature
+category: take
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1614496058/wednesdaychildbanner_iqohsq.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1614496058/Wedchildcard_gfvnpu.jpg
 tags:
