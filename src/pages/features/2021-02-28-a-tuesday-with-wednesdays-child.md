@@ -20,7 +20,7 @@ tags:
 
 \-
 
-After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliot, the mind behind jazz-pop project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliot, the mind behind genre defying project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
 It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
 
@@ -36,7 +36,7 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 ![Wednesday's Child](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS "Wednesday's Child")
 
-**Wednesday’s Child. Photo: Elliot**
+**Wednesday’s Child. Photo: Jamie Png**
 
 \-
 
@@ -54,9 +54,9 @@ Her misfortunes seem to be part of a continuing trend, recalling a recent incide
 
 \-
 
-The conversation moves on to the rest of her outfit. “Enough with my boots, I actually want to tell you about my pleb pants! I bought them for an MOE interview. My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
+The conversation moves on to the rest of her outfit. “Enough with my boots, I actually want to tell you about my plaid pants! I bought them for an MOE interview. My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
 
-In fact, Elliott’s been waiting to hear back from the MOE about a teaching gig. Currently a tutor to primary school kids, she’s keen on helping them academically, while also wanting to provide them a platform to be heard. “I believe children need that. By being a teacher, I can be a champion for them, and that feels right to me.”
+In fact, Elliott’s currently teaching music at an international school as well as tutoring. Currently a tutor to primary school kids, she’s keen on helping them academically, while also wanting to provide them a platform to be heard. “I believe children need that. By being a teacher, I can be a champion for them, and that feels right to me.”
 
 That being said, she adds that teaching was not exactly a career she wanted. “I actually don’t know how to interact with children,” she admits. “I just don’t know how they work.” Nevertheless, she also recognises that having some sort of output beyond music is an important point to her for inspiration.
 
@@ -108,27 +108,31 @@ But to their surprise, *Siren Song* began picking up. As it began placing on Spo
 
 \-
 
-Elliott struggles a bit at this point, as if breaking down a wall that's stopping her from speaking her mind. She begins stuttering – but she eventually does so anyway, delving into a fallout that occurred with her musical partner in Wednesday’s Child.
+Elliott struggles a bit at this point, as if breaking down a wall that's stopping her from speaking her mind. She begins stuttering – but eventually delves into an injustice committed against her by her former musical partner in *Wednesday's Child*.
 
-“I think what I'm about to say here may seem a bit private, but I feel like people need to know about it anyways. He was a pathological liar of sorts – but because I’ve always treated him as a really good friend up till that point, I felt that we could keep Wednesday’s Child exclusive from the issue despite the controversies. After all, strong musical chemistry is pretty rare anyways, and acknowledged that.”
+“I think what I'm about to say here may seem a bit private, but I feel like people need to know about it anyways. He had been spreading serious lies about me and when I confronted him, he admitted that he was a pathological liar  – but because I’ve always treated him as a really good friend up till that point, I felt that we could keep Wednesday’s Child exclusive from the issue despite the controversies. After all, strong musical chemistry is pretty rare anyways, and acknowledged that.”
 
-She proceeds to describe her ex-music partner’s actions, which carried an occasional sexual motivation. “He was really scummy, and he began painting (to others) a completely different picture about who he was to me, especially with other girls,” she exclaims. “He even began saying really disgusting things – like he was out to seduce me?”
+She proceeds to describe her ex-music partner’s actions, which carried an occasional sexual motivation. “He was really scummy, and he began painting (to others) a completely different picture about I was to him, especially with other girls,” she exclaims. “He even began saying really disgusting things – like I was out to seduce him?”
 
-As her partner continued with his antics, she found herself uncomfortable being on the receiving end of her then-music partner’s behaviour , leading her to confront him on how many people he had lied to. “But he didn’t respond, which is funny. At some point, he tried saying the randomest things, just to get himself out of boiling water. I thought things were getting out of hand, so I figured I’d let his victims know about what he’s done to them, since he wouldn’t do it himself."
+As more stories corroborated, Elliott found that her partner was continuing with his antics and found herself uncomfortable being on the receiving end of her then-music partner’s behaviour, leading her to confront him on how many people he had lied to. “But he didn’t respond, which is funny. At some point, he started talking about his issues in third person as if he was a different person, just to get himself out of boiling water. The fact that he was aware about his issues doesn't justify them hurting other individuals. I thought things were getting out of hand, so I figured I’d let his victims know about what he’s done to them, since he wouldn’t do it himself."
 
-“Even today, I'm finding out that he’s been lying to more and more people,” she explains. “But I can’t keep them in the dark, because that would be enabling his behaviour . Naturally, he confronted me and ghosted me since then. No surprise, but I must say that I’m mostly disappointed in his avoidance than anything else.”
+“Even today, I'm finding out that he’s been lying to more and more people,” she explains. “As a fellow woman, it is my responsibility to inform them, I can’t keep them in the dark and enable his behaviour. He ghosted me from that point onwards. No surprise, but I must say that I’m mostly disappointed in his avoidance than anything else.”
 
-But their previous background and musical chemistry bled into people’s perception of *Siren Song*. “Within my social circle, a lot of people regard my ex-music partner as some sort of prodigy, and people attributed Siren Song’s arrangements to it being his handiwork,” she explains. Beyond the unfair nature of the situation, Elliot was also weary of giving her ex-music partner a platform, even before he had redeemed himself. Changing the scope of what Wednesday’s Child meant to Elliot, it led her to claim the project as her own.
+But their previous background and musical chemistry bled into people’s perception of *Siren Song*. “Within my social circle, a lot of people regard my ex-music partner as some sort of prodigy, and people attributed Siren Song’s arrangements to it being his handiwork,” she explains. Clearing her own name amongst her social circle has also led her to be gaslit by acquaintances who favoured their professional relations with her perpetrator over standing up for her.
+
+It is a pressing issue that many women in every industry face and Elliott has decided to stand up for herself.
 
 Motivated in sending a clear message with her follow-up, she crafted her next single as a response to people discrediting the work she put into her music, in favor of her ex-collaborator. As a result, she formed the basis of what was to become *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu)*, which she began working on a month after Siren Song’s release. “Releasing *Pedestrian Life* was my way of showing people that there's talent here as well – and that people shouldn’t miscredit it.”
 
 The work and talent is plenty evident. Within *Pedestrian Life*’s blazing synth lines, deeply introspective lyrics, and soul-consuming instrumentation, individuality bleeds through the song’s funky acid-jazz stylings, more assertive and immediately gripping than her predecessor. That's all her, and if you haven’t realised that yet, then you’ve got another thing coming.
 
-*
+\-
 
 ![Wednesday's Child](https://lh4.googleusercontent.com/yg0_9jneXzU181OepkoEleZQOUfmMi2HLGeWWFXW08oPpZOGAgkHZK3rWuT29DdRpUJGI5iqVbjIcqr3w6OgZs29SwgQm_0mrIn4hz5iY2Zl1zmVBFO6kIPQZCL1d6VYso-6fZ-R "Wednesday's Child")
 
 **“The dangers of men” Photo: Sameh Wahba @thebodgedgallery**
+
+\-
 
 “I feel that prior to that, nothing I wrote had any structure to it,” she reflects. “But it's cool, because Zendyll taught me that it's important for songs to be polished. Like, it needs some catchiness to it? So the poppiness of it, as well as me writing the topline for it was in a way, some of that being practiced.” Though Wednesday's Child was now a solo project, she was also able to enlist [Marj](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA), a friend of hers,[](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA)to lend vocal chops for her track. On *Pedestrian Life*, it's a choice that injects her grooves with both a newfound pop assertiveness and clarity into her state of mind - as Marj's words tell a sultry tale of longing and escape.
 
