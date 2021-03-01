@@ -4,7 +4,7 @@ title: A Tuesday with Wednesday's Child
 author: Sameh Wahba // Photos by Sameh Wahba
 col: white
 date: 2021-02-28T07:17:08.765Z
-description: In this interview, we find how Elliot gave life to Wednesday’s
+description: In this interview, we find how Elliott gave life to Wednesday’s
   Child – a jazz-pop solo project that wasn’t the case by design.
 category: take
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1614496058/wednesdaychildbanner_iqohsq.jpg
@@ -14,13 +14,13 @@ tags:
   - Interview
   - Wednesday's Child
 ---
-### Emerging as Wednesday's Child, bassist/producer Elliot Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliot gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
+### Emerging as Wednesday's Child, bassist/producer Elliott Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliott gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
 \-
 
-After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliot, the mind behind genre defying project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind genre defying project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
 It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
 
@@ -94,7 +94,7 @@ Although she spent most of her time on bass at that point, she began fiddling wi
 
 “I didn’t plan to produce *[Siren Song](https://open.spotify.com/track/3BIoBQmtEuLWKe2Jmkw2Pg?si=xuSZ07svQnWxy5XLkb5Z5Q)* at all,” she explains. “But I was very obsessed with the show ‘Killing Eve’ then – so I decided to write *Siren Song* from the perspective of one of its characters. After I wrote the lyrics first, I was playing the guitar one day when I realized I could put the two together.”
 
-Elliot sent the initial demo to her friend, a jazz pianist & self-taught producer. Together, they co-produced the track that became *Siren Song* in two weeks, and quickly formed the group as a duo. Without prior plans about the song, the pair decided to put it out to see how it’d fare amongst strangers. “Friends can be too biased with their opinions, so we decided to put it out to hear what random people would think of it,” she notes. “We didn’t even give enough time to plan its pre-release with media outlets and such, so it was really difficult to predict how it’ll go.”
+Elliott sent the initial demo to her friend, a jazz pianist & self-taught producer. Together, they co-produced the track that became *Siren Song* in two weeks, and quickly formed the group as a duo. Without prior plans about the song, the pair decided to put it out to see how it’d fare amongst strangers. “Friends can be too biased with their opinions, so we decided to put it out to hear what random people would think of it,” she notes. “We didn’t even give enough time to plan its pre-release with media outlets and such, so it was really difficult to predict how it’ll go.”
 
 But to their surprise, *Siren Song* began picking up. As it began placing on Spotify’s algorithmic and editorial playlists, the song began racking up streams on its own, with listeners coming in from Japan, Los Angeles and Bangkok.
 
@@ -144,13 +144,13 @@ Despite its pop approach, Elliott insists that the lyrics are still a deeply int
 
 **“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**@anyhowmakeusername**
 
-But undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliot. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
+But undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliott. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
 
 “Don’t get me wrong, I still want to establish a sonic identity. But because they serve the lyrics, I don’t think it needs to sound exactly the same across all my songs,” she notes. “With this sort of ‘lyrics-first’ approach I’ve been taking, I suppose a common thread would eventually appear once I've released a couple of songs.”
 
 Elliott further elaborates on some of the things she wants to achieve, moving forward. “Everytime I finish a song, I have this fear that I’ll never be able to replicate that sense of personal satisfaction,” she admits, as she explains her struggles in coming to terms with liking what she makes. “If I don’t like it, how am I supposed to let other people hear it? What's the point? So there’s this need to prove to myself that writing music that I love is not an ability that I could lose overnight. I suppose I can only achieve that by keeping myself at it and writing more.”
 
-She begins listing some of her dream collabs, which she hopes to be able to have the chance to work with at some point – namedropping Weish of [.gif](https://open.spotify.com/artist/4v3jejyuqIBVx8nKiCSDym?si=r9D8QPwzTFCdw2mtmn307w) and [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ?si=087wFftkSjysa8w8obezrg) for their strength as strong storytellers. Yet, believing that they would be more inclined to take the lead on lyricism, Elliot isn’t ready to ask them for the chance yet, with her lyrical focus something she’s not ready to cede as of yet.
+She begins listing some of her dream collabs, which she hopes to be able to have the chance to work with at some point – namedropping Weish of [.gif](https://open.spotify.com/artist/4v3jejyuqIBVx8nKiCSDym?si=r9D8QPwzTFCdw2mtmn307w) and [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ?si=087wFftkSjysa8w8obezrg) for their strength as strong storytellers. Yet, believing that they would be more inclined to take the lead on lyricism, Elliott isn’t ready to ask them for the chance yet, with her lyrical focus something she’s not ready to cede as of yet.
 
 \-
 
