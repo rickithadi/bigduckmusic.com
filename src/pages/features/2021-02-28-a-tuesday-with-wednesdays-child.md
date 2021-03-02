@@ -5,8 +5,8 @@ author: Sameh Wahba // Photos by Sameh Wahba
 col: white
 date: 2021-02-28T07:17:08.765Z
 description: In this interview, we find how Elliott gave life to Wednesday’s
-  Child – a jazz-pop solo project that wasn’t the case by design.
-category: take
+  Child – a solo project that wasn’t the case by design.
+category: feature
 featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1614496058/wednesdaychildbanner_iqohsq.jpg
 dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1614496058/Wedchildcard_gfvnpu.jpg
 tags:
@@ -14,13 +14,13 @@ tags:
   - Interview
   - Wednesday's Child
 ---
-### Emerging as Wednesday's Child, bassist/producer Elliott Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliott gave life to Wednesday’s Child – a jazz-pop solo project that wasn’t the case by design.
+### Emerging as Wednesday's Child, bassist/producer Elliott Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliott gave life to Wednesday’s Child – a solo project that wasn’t the case by design.
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
 \-
 
-After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind genre defying project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind boundary pushing project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
 It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
 
