@@ -18,6 +18,8 @@ tags:
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
+**Photos: Sameh Wahba @[thebodgedgallery](instagram.com/thebodgedgallery)**
+
 \-
 
 After manoeuvring around a superhighway of ants, we settle down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind Wednesday’s Child, it's a spot full of comfort and familiarity. But as moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
@@ -53,8 +55,6 @@ In fact, Elliott’s currently teaching music at an international school as well
 \-
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/7xVHSfuh_wuLxr34VUR6rxNJdkuOFqq2MROJwDUBjbO4FCM2gLQon0LzSOwXqYzJocD1ay8HYh46o2wY0XJDkkNBhBxlNq0A_KY7iIv2e0Qkhoz5rT7XhUgfWG7nLwwKDSN-w0LO "Wednesday's Child")
-
-**Photos: Sameh Wahba**
 
 **\-**
 
@@ -128,8 +128,6 @@ Elliott decided to stand up for herself. Dealing with a pressing issue faced by 
 
 ![Wednesday's Child](https://lh4.googleusercontent.com/yg0_9jneXzU181OepkoEleZQOUfmMi2HLGeWWFXW08oPpZOGAgkHZK3rWuT29DdRpUJGI5iqVbjIcqr3w6OgZs29SwgQm_0mrIn4hz5iY2Zl1zmVBFO6kIPQZCL1d6VYso-6fZ-R "Wednesday's Child")
 
-**“The dangers of men” Photo: Sameh Wahba @thebodgedgallery**
-
 \-
 
 Though Wednesday's Child was now a solo project, she was also able to enlist [Marj](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA), a friend of hers,[](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA) to lend vocal chops for her track. On *Pedestrian Life*, it's a choice that injects her grooves with both pop immediacy and newfound clarity into her state of mind - as Marj's words tell a sultry tale of longing and escape. But despite its pop approach, Elliott insists that the lyrics are still a deeply introspective reflection of her circumstances. “It's about enjoying people's company and being bummed that you’ll always need to go back to being alone – back to a life that seems dull without those people”. A fair point, I may add, especially when it’s accentuated by the fact that Marj represents the only other contributor on the track.
@@ -154,13 +152,11 @@ She begins listing some of her dream collabs, which she hopes to be able to have
 
 ![Wednesday's Child](https://lh3.googleusercontent.com/qNyqKWfALxWYn2jzfqM_2CYkkcY57w4dlZSxdHYps42mMk7h-RzjcMEgHeyKgaC39Z1SqhDMreBiGCJjBAtPHA4U9f3D65dgfAgNVWte3z44PzmEmsZwnLJqUPB-AfaIe5H2wbkF "Wednesday's Child")
 
-**“Elliott contemplating the plans she has for Wednesday’s Child” Photo: Sameh Wahba @thebodgedgallery**
-
 \-
 
 As Elliott vacantly stares at the kids playing basketball in front of us, she ruminates on Wednesday’s Child’s future. She alludes to the potential of a concept EP, referencing her recent love of Taylor Swift’s *folklore*. “All of the songs have their own individual value, but when they’re tied together, they encompass a whole different level of artistry. I’m really inspired by that,” she explains. Although intent on continuing with releasing singles, she mentions her interest in someday releasing something thematic as well.
 
-”But pulling off something like that isn’t easy,” she sighs. “As I said, I just find it really hard to like the stuff that I write. In fact, a week before starting on *Pedestrian Life*, someone asked if I was working on something. I felt completely out of inspiration – so I responded by not only saying that I wasn’t, but also that I wouldn’t be writing anything for a while. “But just a week later, *Pedestrian Life* happened. So even though I’d really like to come up with something thematic like an EP, I'm not really in a position to promise anyone that. After all, inspiration can be a funny thing.”
+”But pulling off something like that isn’t easy,” she sighs. “As I said, I just find it really hard to like the stuff that I write. In fact, a week before starting on *Pedestrian Life*, someone asked if I was working on something. I felt completely out of inspiration – so I responded by not only saying that I wasn’t, but also that I wouldn’t be writing anything for a while. “But just a week later, *Pedestrian Life* happened. So even though I’d really like to come up with something thematic, I'm not really in a position to promise anyone that. After all, inspiration can be a funny thing.”
 
 While the sun (or what very little we’ve been getting) starts to fade between the HDB blocks around us, we’re reminded of how much time has flown. As we both amble to a nearby bus stop, Elliott adds a lasting point about her creative process, as the little time we have dwindles before it gets dark. “Some days I wake up and think: ‘I need to pick up the slack and pick up the guitar, or something to write on,” she reflects.
 
