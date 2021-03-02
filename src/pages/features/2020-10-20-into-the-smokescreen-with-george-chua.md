@@ -19,7 +19,7 @@ tags:
   - Ujikaji Records
   - Singapore
 ---
-### Marking his return to recording in a near-decade long absence, sound artist George Chua has created *Smokescreen,* a magnificent return to form with one of the year’s most ferocious releases. Packed with dense walls of sound and sheets of harsh noise seeping through alternating rhythmic grids, the album’s no wave intensity reflects an artistic statement for an overstimulated zeitgeist – exemplifying it in form as an overwhelming sonic mass, while also irreverent in spirit with its tongue-in-cheek attitude, informed by his own personal experiences.
+### Marking his return to recording in a near-decade long absence, sound artist George Chua's *Smokescreen is* a magnificent return to form – and easily one of the year’s most ferocious releases. Packed with dense walls of sound and sheets of harsh noise seeping through alternating rhythmic grids, the album’s no wave intensity reflects an artistic statement for an overstimulated zeitgeist. As an overwhelming sonic mass, it exemplifies it in form, while his own personal experiences also give it an irreverent spirit, informed by a tongue-in-cheek attitude.
 
 ### A pioneer since the early 2000s with his work in theatre and sound art, Big Duck had a chat with the re-emerging artist on the process behind *Smokescreen*, his experiences in various cities, religion, and how he’s been over the past few years, following his return to music and performance.
 
