@@ -20,7 +20,7 @@ tags:
 
 \-
 
-After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind boundary pushing project Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
 It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
 
