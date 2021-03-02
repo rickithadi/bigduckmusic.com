@@ -38,7 +38,7 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 ![Wednesday's Child](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS "Wednesday's Child")
 
-**Wednesday’s Child. Photo: Jamie Png ([@d0tpng](https://www.instagram.com/d0tpng/),**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**[@anyhowmakeusername](https://www.instagram.com/anyhowmakeusername))**
+**Wednesday’s Child. Photo: Jamie Png ([@d0tpng](https://www.instagram.com/d0tpng/) /** [](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**[@anyhowmakeusername](https://www.instagram.com/anyhowmakeusername))**
 
 \-
 
