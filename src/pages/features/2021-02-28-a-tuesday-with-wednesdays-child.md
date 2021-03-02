@@ -18,7 +18,7 @@ tags:
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
-**Photos: Sameh Wahba @[thebodgedgallery](instagram.com/thebodgedgallery)**
+**Photos: Sameh Wahba ([@thebodgedgallery](https://www.instagram.com/thebodgedgallery/))**
 
 \-
 
@@ -38,7 +38,7 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 ![Wednesday's Child](https://lh5.googleusercontent.com/-5w6hSrCXPESp-ASmfNpjUxp1BpoIySmm9dZBI3pVumROw2AvCrpPq4MQH5RZC_b9VQxtQdScH8CGoRhpla3LkFqRriVmPUCpKDxc3A_zkqvNf1RG6ilHZmZ4B4l1gNDVYihddbS "Wednesday's Child")
 
-**Wednesday’s Child. Photo: Jamie Png**
+**Wednesday’s Child. Photo: Jamie Png ([@d0tpng](https://www.instagram.com/d0tpng/),**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**[@anyhowmakeusername](https://www.instagram.com/anyhowmakeusername))**
 
 \-
 
@@ -138,7 +138,7 @@ Though Wednesday's Child was now a solo project, she was also able to enlist [Ma
 
 ![Wednesday's Child](https://lh3.googleusercontent.com/DcbdT1puG4eE4W18QGB2579dbFKGrVElR5LTzRO8gq5BjZAB4yv6H9rzCESDznKXe77mdTwv25F3BaC7LVsz_ad3MJzXTKyD-XDk9WiElb1jHrwIK32_XdzV4TDUgqX5WqJmitDp "Wednesday's Child")
 
-**“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**@anyhowmakeusername**
+**“*Pedestrian Life* cover art” Photo: Jamie Png** 
 
 Undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliott. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
 
