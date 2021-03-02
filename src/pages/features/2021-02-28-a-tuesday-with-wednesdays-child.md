@@ -14,17 +14,17 @@ tags:
   - Interview
   - Wednesday's Child
 ---
-### Emerging as Wednesday's Child, bassist/producer Elliott Tan injects her acid-jazz tinged pop full of soulful grooves, infectious melodies and lush arrangements. With two standout singles in *Siren Song* and *Pedestrian Life*, her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliott gave life to Wednesday’s Child – a solo project that wasn’t the case by design.
+### Injected with soulful grooves, infectious melodies and lush arrangements, bassist/producer Elliott Tan emerged last year mysteriously as Wednesday's Child, presenting a brand of refreshing, acid-jazz-tinged pop infused full with life and character. With two standout singles in *Siren Song* and *Pedestrian Life,* her project teases to become a unique voice in the making - but as we found out, accidents and betrayals came along the way. Talking broken feet and abandoning the piano, we find how Elliott gave life to Wednesday’s Child: a solo project that wasn’t the case by design.
 
 ![Wednesday's Child](https://lh6.googleusercontent.com/PIdOM4KvBgWJvh5SA7GNwLgF1Fm8JGhmxye8t2-7yQO9JuHKjdeNgioI7AL2qXAVV4xk9pdJuV5LjugTjb8-WdhZIYSOwjopVdduXtALDqHNYqWCto89kg2r7K_KpJk3ooEaOv3s "Wednesday's Child")
 
 \-
 
-After manoeuvring around a superhighway of ants, we settled down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind Wednesday’s Child, it's a spot full of comfort and familiarity. As moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
+After manoeuvring around a superhighway of ants, we settle down at a little spot by the stands of Elliott’s local basketball court. To Elliott, the mind behind Wednesday’s Child, it's a spot full of comfort and familiarity. But as moody clouds gathered above the Hougang skies, the court brought about a juxtaposed sense of warm nostalgia – an appropriately poetic picture that reflected her personal woes.
 
-It’s a melancholic mood that colours her music as Wednesday’s Child as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, her music seems to have shifted towards a more upbeat gear, seeming to look beyond introspection. With kids playing around the court, the mood seems to match her music’s recent changes.
+Comically, it was a Tuesday. I quickly ask her where her moniker originates from. Soon, I found that her moniker was inspired by a poem titled *[Monday’s Child](https://www.englishclub.com/reading/cr-mondays-child.htm)*, which I found later to be a popular rhyme to help young children remember the days of the week. Born on a Wednesday, Elliott found resonance with the line that matched up against her birthday: “Wednesday's child is full of woe”. 
 
-Comically, it was a Tuesday. I quickly ask her where her moniker originates from. One of her personal woes, considering that the inspiration behind her moniker comes from a poem titled *[Monday’s Child](https://www.englishclub.com/reading/cr-mondays-child.htm)*, which I found later to be a popular rhyme to help young children remember the days of the week. Born on a Wednesday, Elliott found resonance with the line that matched up against her birthday: “Wednesday's child is full of woe”.
+A melancholic mood colours Wednesday’s Child's music as well. Emerging with the impeccably lush *Siren Song*, her music swam in an almost glass-like mystique - but off the heels of her recent single *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu?si=k-qDNdEQR9aVuqs-V9uC2A)*, things seem to have shifted towards a more upbeat gear, looking beyond introspection. As children played around the court we settled at, our environment's mood seemed to begin mirrroring her music’s recent changes.
 
 Right after we settled down, a kid comes up and touches Elliott’s boots.
 
@@ -42,9 +42,13 @@ Right after we settled down, a kid comes up and touches Elliott’s boots.
 
 As Elliott points at the same pair of boots the kid touched earlier, she suddenly laughs, recalling a funny story. The story turns out rather grim – describing a traffic accident that she was caught in.
 
-”My foot got run over by a car once, but I was saved by a pair of Doc Martens similar to these,” she explains. “It must’ve saved my feet. I mean, the boots were torn up! The accident caused a Lisfranc fracture on my leg, and since I had to put a cast on, I couldn’t walk for 6 weeks. But if I had worn something else,I truly believe it could’ve been much worse.”
+”My foot got run over by a car once, but I was saved by a pair of Doc Martens similar to these,” she explains. “It must’ve saved my feet. I mean, the boots were torn up! The accident caused a Lisfranc fracture on my leg, and since I had to put a cast on, I couldn’t walk for 6 weeks. But if I had worn something else, I truly believe it could’ve been much worse.”
 
 Her misfortunes seem to be part of a continuing trend, recalling a recent incident where she stubbed her toe on her keyboard stand. “I think I’ve probably pissed off the god of feet?” she jokes. “If this thing keeps up, I hope it's for something good instead – like stepping onto a $100 note, or something.”
+
+The conversation moves on to the rest of her outfit, one Elliott explains she bought for an MOE interview. “Enough with my boots, I actually want to tell you about my plaid pants!  My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
+
+In fact, Elliott’s currently teaching music at an international school as well as tutoring. Currently a tutor to primary school kids, she’s keen on helping them academically, while also wanting to provide them a platform to be heard. “I believe children need that. By being a teacher, I can be a champion for them, and that feels right to me.”
 
 \-
 
@@ -52,11 +56,7 @@ Her misfortunes seem to be part of a continuing trend, recalling a recent incide
 
 **Photos: Sameh Wahba**
 
-\-
-
-The conversation moves on to the rest of her outfit. “Enough with my boots, I actually want to tell you about my plaid pants! I bought them for an MOE interview. My default look is usually a pair of Uniqlo jeans, paired with a black tee. But I figured that wouldn’t be appropriate for something so adult – hence the pants.”
-
-In fact, Elliott’s currently teaching music at an international school as well as tutoring. Currently a tutor to primary school kids, she’s keen on helping them academically, while also wanting to provide them a platform to be heard. “I believe children need that. By being a teacher, I can be a champion for them, and that feels right to me.”
+**\-**
 
 That being said, she adds that teaching was not exactly a career she wanted. “I actually don’t know how to interact with children,” she admits. “I just don’t know how they work.” Nevertheless, she also recognises that having some sort of output beyond music is an important point to her for inspiration.
 
@@ -66,15 +66,15 @@ She affirms that she has no intention to stop creating music. “It’s somethin
 
 ![Wednesday's Child](https://lh5.googleusercontent.com/5TfmTff7yoMFx9znjeZ2Ejrbd9LyQED_XWoAi0fZulZWthevaSWiwum4WAYrUPNPP_BPfdd6wBXC9EFkvPzcRokcPvtuyKLLIBm7xY-H9GPH5Ydp7pkSN35J1zkV0xGkoJtcctyN "Wednesday's Child")
 
-\-
-
+\-\
+\
 Our conversation moves on to the other things she loves. She begins quoting games, like the recently-released action RPG “Hades”, and the classic god simulator “The Sims” – particularly its 4th edition and all its expansion packs (“Typical EA behavior,” she snarks). She also states that she’d love to play games like Fallout, but gets motion sickness from shooters, barring her the experience of embracing the game’s wastelands.
 
-Bringing up things she wished she did more, she brings up her interest in painting. “I’ve only painted 3 times in my life, but something draws me to it, she explains. I can’t stand being bad at stuff – maybe it’s because I'm so bad at it that there’s a need for me to improve, I guess.
+Bringing up things she wished she did more, she brings up her interest in painting. “I’ve only painted 3 times in my life, but something draws me to it," she explains. "I can’t stand being bad at stuff – maybe it’s because I'm so bad at it that there’s a need for me to improve, I guess."
 
-When she was 18, Elliott gave up playing the keyboards because of the same attitude. Having been someone who played classical piano since she was 9, her unrequited commitment towards the neo-soul style of keys a la [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn?si=zISIfu7hQN-KdW4xnaFelQ) forced her to stop. “I just couldn’t. My efforts weren’t paying off. Instead, I kept failing – so I said, ‘fuck this’.
+When she was 18, Elliott gave up playing the keyboards because of the same attitude. Having been someone who played classical piano since she was 9, her unrequited commitment towards the neo-soul style of keys a la [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn?si=zISIfu7hQN-KdW4xnaFelQ) forced her to stop. But incidentally, it was giving up the piano that led Elliott to pick up the bass. 
 
-Incidentally, it was giving up the piano that led Elliott to pick up the bass. “I thought, why not try the bass instead? It's four strings – it can’t possibly be that hard.” Finding its vibrations and low frequencies a comforting presence, she quickly found an affinity for the bass’ physicality. She mentions that even though playing the piano does give out some resonance when the hammer strikes the key, it just isn’t the same.
+“I thought, why not try the bass instead? It's four strings – it can’t possibly be that hard.” Finding its vibrations and low frequencies a comforting presence, she quickly found an affinity for the bass’ physicality – mentioning that even though playing the piano does give out some resonance when the hammer strikes the key, it just isn’t the same.
 
 Yet ironically, despite her love for the bass, Elliott never starts writing with it. “Never,” she emphasises. “I always feel like if I start there, it would be more difficult to lay chords on top of it. So if my strength is in coming up with basslines, I’d rather come up with the chords I want first. Then, I can lay a bassline over that since I'd be able to do that comfortably regardless.
 
@@ -88,15 +88,15 @@ Her music demonstrates that sonic cohesiveness in spades. Despite her songs alwa
 
 Explaining her background in music, Elliott took a Diploma in Music and Audio Tech at Singapore Polytechnic, which served as her first steps in writing and producing. “I have a pretty one-track mind, and I only wanted to be good at bass, particularly in Jazz,” she explains. “I didn't even pay much attention to most of the modules.”
 
-Although she spent most of her time on bass at that point, she began fiddling with production on Logic Pro for school assignments. “I wouldn’t call that production per se?” she jokes, mentioning her overuse of the ‘SoCal’ drum preset for all of her songs. Nevertheless, those experiments continued until her internship at Zendyll Records, which she underwent in 2020. During her internship, Elliott worked under Claire, bassist and producer of mandopop outfit [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX?si=E-Br8aFDRDeOidp5vTMkow), who she picked up most of her pop production techniques from.
+Although she spent most of her time on bass at that point, she began fiddling with production on Logic Pro for school assignments. “I wouldn’t call that production per se?” she jokes, mentioning her overuse of the ‘SoCal’ drum preset for all of her songs. Nevertheless, those experiments continued until her internship at Zendyll Records, which she underwent in 2020. During her internship, Elliott worked under Claire, bassist and producer of mandopop outfit [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX?si=E-Br8aFDRDeOidp5vTMkow), from who she picked up most of her pop production techniques.
 
-“Producing mandopop demos wasn’t really my thing – but it helped me learn more about pop production techniques, and helped me dive deeper into production,” she explains. Up until that point, she hadn’t shown her music to anyone, aside from those who were grading her assignments. But graduating after making music for three years, she decided that it was about time to put something out. With newfound experience, it was an intent that gave birth to the project’s first single, *Siren Song*.
+“Producing mandopop demos wasn’t really my thing – but it helped me learn more about pop production techniques, and helped me dive deeper into production,” she reflects. Up until that point, she hadn’t shown her music to anyone, aside from those who were grading her assignments. But graduating after making music for three years, she decided that it was about time to put something out – with newfound experience, it was an intent that gave birth to the project’s first single, *Siren Song*.
 
 “I didn’t plan to produce *[Siren Song](https://open.spotify.com/track/3BIoBQmtEuLWKe2Jmkw2Pg?si=xuSZ07svQnWxy5XLkb5Z5Q)* at all,” she explains. “But I was very obsessed with the show ‘Killing Eve’ then – so I decided to write *Siren Song* from the perspective of one of its characters. After I wrote the lyrics first, I was playing the guitar one day when I realized I could put the two together.”
 
-Elliott sent the initial demo to her friend, a jazz pianist & self-taught producer. Together, they co-produced the track that became *Siren Song* in two weeks, and quickly formed the group as a duo. Without prior plans about the song, the pair decided to put it out to see how it’d fare amongst strangers. “Friends can be too biased with their opinions, so we decided to put it out to hear what random people would think of it,” she notes. “We didn’t even give enough time to plan its pre-release with media outlets and such, so it was really difficult to predict how it’ll go.”
+Elliott sent the initial demo to her friend, a jazz pianist & self-taught producer. Together, they co-produced the track that became *Siren Song* in two weeks, quickly establishing the group as a duo – without prior plans about the song, the pair decided to put it out to see how it’d fare amongst strangers. “Friends can be too biased with their opinions, so we decided to put it out to hear what random people would think of it,” she notes. “We didn’t even give enough time to plan its pre-release with media outlets and such, so it was really difficult to predict how it’ll go.”
 
-But to their surprise, *Siren Song* began picking up. As it began placing on Spotify’s algorithmic and editorial playlists, the song began racking up streams on its own, with listeners coming in from Japan, Los Angeles and Bangkok.
+But to their surprise, *Siren Song* began picking up. As it began placing on Spotify’s algorithmic and editorial playlists, the song began racking up streams on its own, with listeners coming in from cities like Tokyo, Los Angeles and Bangkok.
 
 “‘Shit, people in America are listening to us!’ we thought. Seeing that inspired her to release more music – life, however, had different plans.
 
@@ -108,23 +108,21 @@ But to their surprise, *Siren Song* began picking up. As it began placing on Spo
 
 \-
 
-Elliott struggles a bit at this point, as if breaking down a wall that's stopping her from speaking her mind. She begins stuttering – but eventually delves into an injustice committed against her by her former musical partner in *Wednesday's Child*.
+Elliott struggles a bit at this point, as if breaking down a wall that's stopping her from speaking her mind. She begins stuttering – but eventually delves into an injustice committed against her by her former musical partner.
 
-“I think what I'm about to say here may seem a bit private, but I feel like people need to know about it anyways. He had been spreading serious lies about me and when I confronted him, he admitted that he was a pathological liar  – but because I’ve always treated him as a really good friend up till that point, I felt that we could keep Wednesday’s Child exclusive from the issue despite the controversies. After all, strong musical chemistry is pretty rare anyways, and acknowledged that.”
+“I think what I'm about to say here may seem a bit private, but I feel like people need to know about it anyways. He had been spreading serious lies about me – and when I confronted him, he admitted that he was a pathological liar. But because I’ve always treated him as a really good friend up till that point, I felt that we could keep Wednesday’s Child exclusive from the issue. After all, strong musical chemistry is pretty rare anyways, and I acknowledged that, despite the controversies.”
 
-She proceeds to describe her ex-music partner’s actions, which carried an occasional sexual motivation. “He was really scummy, and he began painting (to others) a completely different picture about I was to him, especially with other girls,” she exclaims. “He even began saying really disgusting things – like I was out to seduce him?”
+She proceeds to describe her ex-music partner’s actions, which carried an occasional sexual motivation. “He was really scummy, and he began painting (to others) a completely different picture about I was to him, especially with other girls,” she exclaims. “He even began saying really disgusting things – like I was out to seduce him?” As more stories corroborated, Elliott found that her partner continuing with his antics. Finding herself uncomfortable being on the receiving end of her then-music partner’s behaviour, she soon confronted him on how many people he had lied to. 
 
-As more stories corroborated, Elliott found that her partner was continuing with his antics and found herself uncomfortable being on the receiving end of her then-music partner’s behaviour, leading her to confront him on how many people he had lied to. “But he didn’t respond, which is funny. At some point, he started talking about his issues in third person as if he was a different person, just to get himself out of boiling water. The fact that he was aware about his issues doesn't justify them hurting other individuals. I thought things were getting out of hand, so I figured I’d let his victims know about what he’s done to them, since he wouldn’t do it himself."
+“But he didn’t respond, which is funny. At some point, he started talking about his issues in third person as if he was a different person, just to get himself out of boiling water. The fact that he was aware about his issues doesn't justify them hurting other individuals. I thought things were getting out of hand, so I figured I’d let his victims know about what he’s done to them, since he wouldn’t do it himself."
 
-“Even today, I'm finding out that he’s been lying to more and more people,” she explains. “As a fellow woman, it is my responsibility to inform them, I can’t keep them in the dark and enable his behaviour. He ghosted me from that point onwards. No surprise, but I must say that I’m mostly disappointed in his avoidance than anything else.”
+“Even today, I'm finding out that he’s been lying to more and more people,” she explains. “As a fellow woman, it is my responsibility to inform them. I can’t keep them in the dark and enable his behaviour. He ghosted me from that point onwards. No surprise, but I must say that I’m mostly disappointed in his avoidance than anything else.”
 
-But their previous background and musical chemistry bled into people’s perception of *Siren Song*. “Within my social circle, a lot of people regard my ex-music partner as some sort of prodigy, and people attributed Siren Song’s arrangements to it being his handiwork,” she explains. Clearing her own name amongst her social circle has also led her to be gaslit by acquaintances who favoured their professional relations with her perpetrator over standing up for her.
+But their previous background and musical chemistry bled into people’s perception of *Siren Song*. “Within my social circle, a lot of people regard my ex-music partner as some sort of prodigy, and people attributed Siren Song’s arrangements to it being his handiwork,” she explains. At the same time, clearing her own name amongst her social circle also led her to be gaslit by acquaintances, who favoured their professional relations with her perpetrator over standing up for her.
 
-It is a pressing issue that many women in every industry face and Elliott has decided to stand up for herself.
+Elliott decided to stand up for herself. Dealing with a pressing issue faced by many women in every industry, she was motivated in sending a clear message with her follow-up – leading her to craft her next single as a response to people discrediting the work she put into her music. Seeking to prove all her doubters wrong, it formed the basis of what was to become *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu)*, which she began working on a month after Siren Song’s release. 
 
-Motivated in sending a clear message with her follow-up, she crafted her next single as a response to people discrediting the work she put into her music, in favor of her ex-collaborator. As a result, she formed the basis of what was to become *[Pedestrian Life](https://open.spotify.com/track/0qIZWKS1NusKWdrGneQMKu)*, which she began working on a month after Siren Song’s release. “Releasing *Pedestrian Life* was my way of showing people that there's talent here as well – and that people shouldn’t miscredit it.”
-
-The work and talent is plenty evident. Within *Pedestrian Life*’s blazing synth lines, deeply introspective lyrics, and soul-consuming instrumentation, individuality bleeds through the song’s funky acid-jazz stylings, more assertive and immediately gripping than her predecessor. That's all her, and if you haven’t realised that yet, then you’ve got another thing coming.
+“Releasing *Pedestrian Life* was my way of showing people that there's talent here as well – and that people shouldn’t miscredit it.” In the song, Elliott's work and talent is plenty evident – within *Pedestrian Life*’s blazing synth lines, deeply introspective lyrics, and soul-consuming instrumentation, individuality bleeds through the song’s funky acid-jazz stylings. But above all, the song comes through with a previously unheard assertiveness – making it immediately gripping than her predecessor. It's all her, and if you haven’t realised that yet, then you’ve got another thing coming.
 
 \-
 
@@ -134,9 +132,9 @@ The work and talent is plenty evident. Within *Pedestrian Life*’s blazing synt
 
 \-
 
-“I feel that prior to that, nothing I wrote had any structure to it,” she reflects. “But it's cool, because Zendyll taught me that it's important for songs to be polished. Like, it needs some catchiness to it? So the poppiness of it, as well as me writing the topline for it was in a way, some of that being practiced.” Though Wednesday's Child was now a solo project, she was also able to enlist [Marj](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA), a friend of hers,[](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA)to lend vocal chops for her track. On *Pedestrian Life*, it's a choice that injects her grooves with both a newfound pop assertiveness and clarity into her state of mind - as Marj's words tell a sultry tale of longing and escape.
+Though Wednesday's Child was now a solo project, she was also able to enlist [Marj](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA), a friend of hers,[](https://open.spotify.com/artist/3MemR4jMuonGtq4hVBz0HN?si=shqKgHk_RjuK8nZ4LlUwMA) to lend vocal chops for her track. On *Pedestrian Life*, it's a choice that injects her grooves with both pop immediacy and newfound clarity into her state of mind - as Marj's words tell a sultry tale of longing and escape. But despite its pop approach, Elliott insists that the lyrics are still a deeply introspective reflection of her circumstances. “It's about enjoying people's company and being bummed that you’ll always need to go back to being alone – back to a life that seems dull without those people”. A fair point, I may add, especially when it’s accentuated by the fact that Marj represents the only other contributor on the track.
 
-Despite its pop approach, Elliott insists that the lyrics are still a deeply introspective reflection of her circumstances. “It's about enjoying people's company and being bummed that you’ll always need to go back to being alone – back to a life that seems dull without those people”. A fair point, I may add, especially when it’s accentuated by the fact that Marj represents the only other contributor on the track.
+“I feel that prior to that, nothing I wrote had any structure to it,” she adds. “But it's cool, because Zendyll taught me that it's important for songs to be polished. Like, it needs some catchiness to it? So the poppiness of it, as well as me writing the topline for it was in a way, some of that being practiced.” 
 
 \-
 
@@ -144,13 +142,13 @@ Despite its pop approach, Elliott insists that the lyrics are still a deeply int
 
 **“*Pedestrian Life* cover art” Photo: Jamie Png @d0tpng,**[](https://web.telegram.org/#/im?p=%40anyhowmakeusername)**@anyhowmakeusername**
 
-But undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliott. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
+Undeniably, *Pedestrian Life* packs much more energy than its predecessor - its powerful arrangements demonstrating a more confident voice from Elliott. She mentions that with the context of other producers out there, she wanted to be different by not restricting herself to any particular genre or sound. Emphasising the precedence of lyrics over a specific sound or brand, she believes that she hasn’t found her signature yet – a good thing to her.
 
-“Don’t get me wrong, I still want to establish a sonic identity. But because they serve the lyrics, I don’t think it needs to sound exactly the same across all my songs,” she notes. “With this sort of ‘lyrics-first’ approach I’ve been taking, I suppose a common thread would eventually appear once I've released a couple of songs.”
+“Don’t get me wrong, I still want to establish a sonic identity. But because they serve the lyrics, I don’t think (all my songs) need to sound exactly the same,” she notes. “With this sort of ‘lyrics-first’ approach I’ve been taking, I suppose a common thread would eventually appear, once I've released a couple of songs.”
 
-Elliott further elaborates on some of the things she wants to achieve, moving forward. “Everytime I finish a song, I have this fear that I’ll never be able to replicate that sense of personal satisfaction,” she admits, as she explains her struggles in coming to terms with liking what she makes. “If I don’t like it, how am I supposed to let other people hear it? What's the point? So there’s this need to prove to myself that writing music that I love is not an ability that I could lose overnight. I suppose I can only achieve that by keeping myself at it and writing more.”
+Elliott further elaborates on some of the things she wants to achieve, moving forward. “Every time I finish a song, I have this fear that I’ll never be able to replicate that sense of personal satisfaction,” she admits, as she explains her struggles in coming to terms with liking what she makes. “If I don’t like it, how am I supposed to let other people hear it? What's the point? So there’s this need to prove to myself that writing music that I love is not an ability that I could lose overnight. I suppose I can only achieve that by keeping myself at it and writing more.”
 
-She begins listing some of her dream collabs, which she hopes to be able to have the chance to work with at some point – namedropping Weish of [.gif](https://open.spotify.com/artist/4v3jejyuqIBVx8nKiCSDym?si=r9D8QPwzTFCdw2mtmn307w) and [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ?si=087wFftkSjysa8w8obezrg) for their strength as strong storytellers. Yet, believing that they would be more inclined to take the lead on lyricism, Elliott isn’t ready to ask them for the chance yet, with her lyrical focus something she’s not ready to cede as of now.
+She begins listing some of her dream collabs, which she hopes to be able to have the chance to work with at some point – namedropping Weish of [.gif](https://open.spotify.com/artist/4v3jejyuqIBVx8nKiCSDym?si=r9D8QPwzTFCdw2mtmn307w) and [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ?si=087wFftkSjysa8w8obezrg) for their strength as strong storytellers. Yet, believing that they would be more inclined to take the lead on lyricism, Elliott isn’t yet ready to ask them for the chance, with her lyrical focus something she’s not ready to cede as of now.
 
 \-
 
