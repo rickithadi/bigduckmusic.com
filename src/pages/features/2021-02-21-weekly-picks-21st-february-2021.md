@@ -35,7 +35,7 @@ A worthy sequel to his excellent 2018 industrial darkwave debut album, *Illegal 
 
  The album’s final two tracks do feel a little out of place, breaking *Illegal Experiments 2*’s immersive listening experience. Nevertheless, they still stand strong as individual songs, best seen as bonus tracks rather than a continuation of the album’s narrative. *Circuitry of Doom (Drumcorps Remix)* is a thoroughly enjoyable remix with breakcore sensibilities, *Myrtle Wyckoff (Love Spread Cover*) is a touchingly faithful tribute to bitcode duo [LOVE SPREAD](https://youtu.be/X-8UXYlQ-Qk) - whose member Ryota passed away in 2018. Admittedly, Microchip Terror’s sound may still feel like an anomaly amongst the rest of Singapore’s electronic music scene – but with *Illegal Experiments 2*, he proves that this mad doctor still has plenty of twisted tricks up his sleeve.
 
-**Listen to "ATL-245" here:**
+**Listen to "AL-245" here:**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3227547961/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3247046754/transparent=true/" seamless><a href="https://microchipterror.bandcamp.com/album/illegal-experiments-2">Illegal Experiments 2 by MICROCHIP TERROR</a></iframe>
 
