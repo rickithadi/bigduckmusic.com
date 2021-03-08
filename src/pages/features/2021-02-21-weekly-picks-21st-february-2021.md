@@ -1,117 +1,94 @@
 ---
 templateKey: blog-post
-title: "WEEKLY PICKS: 21st February 2021"
-author: JX Soo, Isaac Yackem and Chester
+title: "WEEKLY PICKS: 7th March 2021"
+author: Isaac Chiew & JX Soo
 col: white
-date: 2021-02-21T09:56:04.303Z
-description: Our top picks this week - a hilarious indie rock bop from deførmed,
-  hazily viscous hip-hop from Mary Sue , and a nu-metal effort from Trust The
-  Chaos!
+date: 2021-03-08T10:11:32.584Z
+description: Our top picks this week - sinister industrial darkwave from
+  Microchip Terror, a lush indie epic from Theron Lim, and soaring indie rock
+  from Grrrl Gang!
 category: feature
 spotify: ""
-featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1613901324/weeklybanner_bjznqx.jpg
-dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1613901324/weeklycard_zamjej.jpg
+featuredimageo: https://res.cloudinary.com/ddomozydd/image/upload/v1615198307/bannerweek_ckefvp.jpg
+dispImage: https://res.cloudinary.com/ddomozydd/image/upload/v1615198321/weeklycard_kwanko.jpg
 tags:
   - Top Picks
-  - deførmed
-  - mary sue
-  - Trust The Chaos
+  - Microchip Terror
+  - Theron Lim
+  - Grrrl Gang
 ---
-**Our top picks this week - a hilarious indie rock bop from deførmed, hazily viscous hip-hop from Mary Sue , and a nu-metal effort from Trust The Chaos!**
+**Our top picks this week - sinister industrial darkwave from Microchip Terror, a lush indie epic from Theron Lim, and soaring indie rock from Grrrl Gang!**
 
-# deførmed
+# Microchip Terror
 
-#### ***“my crush should confess to me instead”***
+#### ***“ATL-245”***
 
-**Single / Syndicate**
+**Illegap Experiments 2**
 
-![deførmed - my crush should confess to me instead](https://res.cloudinary.com/ddomozydd/image/upload/v1613900113/deformed_xb6ahu.jpg "deførmed - my crush should confess to me instead")
-
-\-
-
-A sensitive detour that melts down his ferocious, breakcore-tinged facade, deformed delivers an oddball indie rock ode to his prospective takes on love. Possibly both metaphor to the unprofessional BPM of one’s heart racing, and rhythms conjuring the tension of your ass sphincter clenched tight, muscle strain, ten reactions and all, his deadpan vocal delivery rides a pulsating note to reveal some hilarious, yet sincere confessions. As he avoids the losing end, attached below is an excerpt from his thesis:
-
-"I crush your head 
-
-my head is being crushed by this force!
-
-Can of worms 
-
-dropped 
-
-in your nostril
-
-It requires so much stress having a crush, and that’s why I want to steer clear of any romantic encounters. However my subconscious says otherwise - it kind of sucks that this instinctual urge is faster than this foreground process which is my logical thinking."
-
-Ah, romantic yearning is eternal! All I can say? Observations spot on - now that I feel dead inside, alas, I even feel jealous. I too crave for those heart-racing days, those days where your crush’s face looks like it comes in the shape of a surreal lemon. The days where I screamed like him! What even are confessions now? For that, we can now redirect to his instant-classic Valentine’s anthem, and in a gesture of solidarity and reassurance, here are the Top 10 reasons why staying single is great…
-
-1. 1- You’re totally in charge of your happiness.
-2. 2 - You may be more successful at work.
-3. 3 - You have a strong sense of self.
-4. 4 - You’re more likely to be (and stay) in shape.
-5. 5 - You’re able to avoid feeling lonely.
-6. 6 - You sleep more soundly.
-7. 7 - You can create your own routine.
-8. 8 - You’re more resilient.
-9. 9 - You have richer friendships.
-10. 10 - You stress less about money.
-
-Honestly, having the courage to run around with a guitar and lipsync and collapse on grass in public is probably enough to win your crush over…but that's right, why date! So smart! Why date…
-
-**Listen to "*my crush should confess to me instead*" here:**
-
-<iframe src="https://open.spotify.com/embed/track/3PqnD1lNcdOv6SVKG2djT6" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+![Microchip Terror - Illegal Experiments 2](https://res.cloudinary.com/ddomozydd/image/upload/v1615198401/microchip_eob9di.jpg "Microchip Terror - Illegal Experiments 2")
 
 \-
 
-**Watch the music video here:**
+A worthy sequel to his excellent 2018 industrial darkwave debut album, *Illegal Experiments 2* continues Microchip Terror’s deep dive into post-apocalyptic cyber horror, with arpeggiated synth freakouts, heavy blast beats, and even a tinge of existential introspection. Carrying forward its predecessor’s eerie atmosphere of dread, his undated sound fills the imagination with the terrors of a *[System Shock](https://youtu.be/vWUYz9x_I18)*-esque world – with B-movie body horror and haunted Nintendo cartridges alike. Although Microchip Terror does toe the line at times with its unapologetically retro synths, *Illegal Experiments 2* manages to find a balance of fun without landing into cheesy territory.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/D10X3loKDAU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Circuitry of Doom*, *Terror Bites Again* and *Mechanical Gore* are bangers that rev up the momentum. an accompaniment of unnatural gore and exasperated escape with its heavy synth riffing and driving double-pedal drum work and breakbeats.  Standout track *AL-245* brings groove-laden dance sensibilities alongside robotically vocoded vocals and guttural screams (“Help! Just let me go!”) - a juxtaposition mirroring the brutally synthetic world the album paints a picture of. Finally, tracks like *Rusty Angels*, on the other hand, leave listeners with some breathing space – as they bask in the little hope left in its depraved world, contemplating the album’s existential horrors.
 
-* **\- by JX Soo**
+ The album’s final two tracks do feel a little out of place, breaking *Illegal Experiments 2*’s immersive listening experience. Nevertheless, they still stand strong as individual songs, best seen as bonus tracks rather than a continuation of the album’s narrative. *Circuitry of Doom (Drumcorps Remix)* is a thoroughly enjoyable remix with breakcore sensibilities, *Myrtle Wyckoff (Love Spread Cover*) is a touchingly faithful tribute to bitcode duo [LOVE SPREAD](https://youtu.be/X-8UXYlQ-Qk) - whose member Ryota passed away in 2018. Admittedly, Microchip Terror’s sound may still feel like an anomaly amongst the rest of Singapore’s electronic music scene – but with *Illegal Experiments 2*, he proves that this mad doctor still has plenty of twisted tricks up his sleeve.
 
-# mary sue
+**Listen to "ATL-245" here:**
 
-#### ***"ornament"***
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3227547961/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3247046754/transparent=true/" seamless><a href="https://microchipterror.bandcamp.com/album/illegal-experiments-2">Illegal Experiments 2 by MICROCHIP TERROR</a></iframe>
 
-###### to those foreign nights, i love you
-
-![mary sue - to those foreign nights, i love you](https://res.cloudinary.com/ddomozydd/image/upload/v1613900624/marysue_ans79k.jpg "mary sue - to those foreign nights, i love you")
+**\- by Isaac Yackem**
 
 \-
 
-With a refreshingly organic approach to sample-driven hip-hop, mary sue’s latest visual EP to *those foreign nights, I love you* presents the producer/rapper’s darkest entry yet. Be it the viscous production on tracks like *for hours* and *ornament*, or the gorgeously sparse keys on *been here before* (which stylings can be easily traced to Fauxe’s hand in additional production), sue’s production choices perfectly compliment his bars, delivered in an assured Earl Sweatshirt-esque drawl. 
+# Theron Lim
 
-*ornament*, in particular, is a standout track. With its lyrics alone, Sue details an insomnia-stricken experience that morphs to overthinking. Digging up past regrets, his delivery carries an uncomfortable and desperate energy, powerfully mimicking the struggle of failing to fall asleep (“sleepless in the night i couldn’t stop fidgeting/ nibble at the past could u hear the dissonance/ seeing thru the cracks couldnt make amends/ got my conscious shrivelling”). Accentuated by repetitive and deceptively simple beat work, its atmospheres conjure a sinking feeling.
+#### ***"Underneath the Rocks"***
 
-But they aren’t the only things that sue brings to the table. On *been there before* he flexes his singing chops - resulting in a surprisingly moving and intimate performance. Kanye West’s influence is apparent throughout, be it on *ornament*’s *[Bound 2](https://youtu.be/BBAtAM7vtgc)*-type beat, or his take on *[Runaway](https://youtu.be/L7_jYl8A73g)*’s satisfyingly cathartic distorted autotune “solo” on *seen this before*. Thankfully, sue manages to avoid the pitfalls of hero worship. With his own emotional vulnerability, husky production choices, and unique delivery, sue’s sets his work well apart from his influences. As Sue brings you falling down insomnia’s rabbit hole with him, you’re not sure when this is ever going to end.
+###### The Boy Who Felt Forever Blue
 
-**Experience “*to those foreign nights, i love you*” here:**
+![Theron Lim - The Boy Who Felt Forever Blue](https://res.cloudinary.com/ddomozydd/image/upload/v1615198402/theron_qtlp0g.jpg "Theron Lim - The Boy Who Felt Forever Blue")
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Owj5AXzBHj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+\-
+
+If there is one thing that Theron Lim doesn’t lack, it’s sincerity. Brother to fellow indie rock upstart [kotoji](https://open.spotify.com/track/6TVV2KYaS6hxkHlMzBsyaU?si=hHLlGuAzSLeXPbwIZY8zew), the siblings share a foundation in conjuring magic through lo-fi glory – but while his sister’s songcraft basks in sentimental melodicism, Theron’s music takes on a decidedly widescreen path. Remaking his first album, *The Boy Who Felt Forever Blue* traverses tales of friendship, coming-of age and heart-on-sleeve confessionalism with ambitious, winding epics - with his suites running up to lengths of 20 minutes, he certainly can’t be faulted for a lack of trying.
+
+Within these tracks, bold sonic references also colour Theron’s decisions – most notably stylistic homages to the overflowing and overwhelming sincerity championed by emo-experimentalists *The Brave Little Abacus*. Undoubtedly, their unapologetic nature makes for a good blueprint in mirroring coming-of-age in all of its messy glory – subject matter that his music shares. Yet unlike their epic masterpieces (see: *Masked Dancers*), Theron's ambition unfortunately becomes its fatal flaw, a crutch that holds back the great potential his music holds. Whereas his idols used their frenetic pacing and tension-building to convey a sense of adolescent awe, *The Boy*... comes across instead as giddily trying to fit too many ideas into single tracks – with a large chunk of these songs feeling like disparate parts, wandering off to new lands before solidifying themselves as ideas.
+
+Often too much, Theron fails to recognise his songs’ strengths, hampering his decisions on when to hold back or double down. It's a trend that persists – an absolute shame, because within the rough hides several moments that rank amongst the most wondrous cuts Singaporean music has offered this year so far. The opening is a microcosm of this imperfection. After opening with stunning grooves and fuzzed textures that establishes its epic atmosphere, the tension soon fizzles out, as he tries his hand from funk touches, to Radiohead-like modalities, to extended verses. But none of these sections ever lock into focus until its final minutes – as poignant chords morph into an axis of building guitars, a patient build explodes into a joyous bliss, finding Microphones-like, noise rock perfection with powerfully crushed drums and triumphant horns. For a lack of a better word, these closing minutes are jaw-dropping.
+
+Indeed, as a drummer himself, his music finds itself magical at its most energetic, whether it be when he uses his rhythms as conduits for building catharsis, or simply punctuating moments of sincere emotionalism. In *Wandering Son*, his epic tribute named after the coming-of-age manga Horou Musuko, that duality is apparent. While the first half struggles to find focus with low-key folk detours, it soon finds itself morphing into complete bliss at the halfway point, riding an endlessly accelerating groove charging towards the light. And without complicated structures distracting him, his melodic instincts find room to shine, as *Underneath the Rocks*' blissful simplicity allows it to bloom as the album’s strongest track. A resonant folk ode that glimmers with gorgeous Alex G-like warmth, jangly guitars serve as bedrock for his soaring vocal melodies, before his backbeat powerfully kicks in, punctuating his painfully melancholic refrains. As levitating synth flourishes and glockenspiel round off his reflections on summer, a undeniable glimmer of beauty reveals itself – a light that radiates obscured potential. For one willing to take such risks, one can only imagine what it’d be like if he found an editor...
+
+**Experience *Underneath the Rocks* here:**
+
+<iframe src="https://open.spotify.com/embed/track/50ywQ4GE9ig7pI8c48l4Ot" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * **\- by Isaac Yackem**
 
-# Trust The Chaos
+# Grrrl Gang
 
-#### ***“World Gone Crazy (I've Got You)*"**
+#### ***“Honey, Baby*"**
 
-###### World Gone Crazy (I've Got You)
+###### Single / Kolibri Rekords
 
-![Trust The Chaos - World Gone Crazy (I've Got You)](https://res.cloudinary.com/ddomozydd/image/upload/v1613900114/trustchaos_rjl3js.jpg "Trust The Chaos - World Gone Crazy (I've Got You)")
+![Grrrl Gang - Honey, Baby](https://res.cloudinary.com/ddomozydd/image/upload/v1615198401/grrrlgang_knb4ar.jpg "Grrrl Gang - Honey, Baby")
 
 \-
 
-*World Gone Crazy (I've Got You)* is the latest single from nu-metal outfit and Noise Music Mentorship alumni Trust The Chaos. They seem to be trying out something new here - from their synth usage for the main refrain, to adding more sections to their established sound. Props to the guys for trying out something new in their music, but it seems to be lacking... a little something.
+On their latest single, Yogyakarta-based indie rock trio Grrrl Gang trade the youthful immediacy typically associated with them for a sensitive sincerity. Delivering a more patient and mature sound that’s in equal parts dreamy and cathartic, *Honey, Baby* is a jangle anthem that soars.
 
-There are redeeming things about the song - noticeably the killer bass tone, which probably ranks amongst the best bass performances that TTC has had so far. But large parts of *World Gone Crazy* are sabotaged by the mix. Especially compared to their other tracks, the single's low end is truly lacking, sapping all the power the song holds. I can tell that they are trying to add in more layers and instruments into the song, but perhaps a focus on improving one aspect may have led them to overlook an important one.
+Amalgamating jangly rhythm guitars, creamy overdriven leads, driving bass grooves, gorgeous harmonies the track’s production forms a lush backdrop for the crystal clear voice of vocalist/guitarist Angeeta Sentana. Wearing her heart on her sleeve, her intricate melodies manage to encapsulate the confusion and excitement that accompanies love (You're the kind of guy that I've been dreamin' all my life/ You swept me off my feet/ And you crawl to me when you're neck-deep in madness/ I wear my dress and take you out”). With a genuinely catchy chorus (“You taste like honey, baby/ Everything that he isn’t/ You taste like honey, baby/ I would hate to see you go”), and sublimely gratifying key change at its end, the song’s elaborate songwriting manages to not hinder Grrrl Gang’s energy, and instead bring its way to a soaring conclusion. 
 
-It's not a problem that just plagues the bass either. Li En's vocals in the mix seem to mismatched as well - for someone whose vocals are a nice searing tenor (fully displayed in the second pre-chorus), it is left by itself for relatively the entire song. Too forward in the mix, without harmonies in the choruses to support it, his voice stands out awkwardly, making for a strange listening experience. Even just a little more reverb might solidify it.
+If anything, it presents a step in the right direction towards a more exciting and mature sound for the band. *Honey, Baby* also has a tongue-in-cheek music video that documents a planned trip to Texas that never happened. Grrrl Gang were slated to play at SXSW 2020 just as the pandemic struck - effectively cancelling the trip and show. The music video presents an entertaining “what if” scenario – in the form of fake footage from the trip, actors stand in for the band, hilariously complete with “American” dive bars and “American” people all sourced and filmed in their home country of Indonesia. Even when robbed of the opportunity to play at SXSW, Grrrl Gang ignore their bummer in *Honey, Baby*’s fun, lively absurdity.
 
-With their prior release being the *Unravel* EP in 2019, I think I expected something spectacular for this release. It has been quite awhile since Trust The Chaos released new music, after all. But with a few refinements to their new direction, their next few efforts might be more successful.
+**You can listen to "*Honey, Baby*” here:**
 
-**You can listen to "World Gone Crazy (I've Got You)” here:**
+<iframe src="https://open.spotify.com/embed/track/6JOUIMPgmUKe4Y0g0bI9LS" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://open.spotify.com/embed/track/5OZiSOIOTnYX2Y7INFu6W4" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+**Check out the music video here:**
 
-* **\- by Chester**
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bnokQtPRtlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* **\- by Isaac Yackem**
