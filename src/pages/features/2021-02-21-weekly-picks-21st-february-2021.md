@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "WEEKLY PICKS: 7th March 2021"
 author: Isaac Chiew & JX Soo
 col: white
-date: 2021-03-08T10:11:32.584Z
+date: 2021-03-08T10:35:24.338Z
 description: Our top picks this week - sinister industrial darkwave from
   Microchip Terror, a lush indie epic from Theron Lim, and soaring indie rock
   from Grrrl Gang!
@@ -23,7 +23,7 @@ tags:
 
 #### ***“ATL-245”***
 
-**Illegap Experiments 2**
+**Illegal Experiments 2**
 
 ![Microchip Terror - Illegal Experiments 2](https://res.cloudinary.com/ddomozydd/image/upload/v1615198401/microchip_eob9di.jpg "Microchip Terror - Illegal Experiments 2")
 
