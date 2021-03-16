@@ -48,7 +48,7 @@ With his deconstructed electronica traversing obtuse vocal manipulations, lute-a
 
 \-
 
-Indicative of music to come, *Eldritch Terror (Prelude)* sees underground producer and DJ MZA of Yen Disco summoning woozy textures and idiosyncratic sampling over steady downtempo beats. The result is a hypnotic, kaleidoscopic listening experience. Here, its densely layered beatwork is deceivingly simple – as hazy yet concise textures mesh with sparse key work and eccentric sax samples, MZA anchors its sum with a skittering groove. With its bass synths, steady kicks and snares set alongside intricate hi-hat patterns, *Eldritch Terror (Prelude)* finds a keen kinetic energy that also recognises the power of dynamics – captivatingly alternating between holding back and letting loose. Together, they form a unique sonic take on the mystery and bewilderment that accompanies the track’s Lovecroftian 
+Indicative of music to come, *Eldritch Terror (Prelude)* sees underground producer and DJ MZA of Yen Disco summoning woozy textures and idiosyncratic sampling over steady downtempo beats. The result is a hypnotic, kaleidoscopic listening experience. Here, its densely layered beatwork is deceivingly simple – as hazy yet concise textures mesh with sparse key work and eccentric sax samples, MZA anchors its sum with a skittering groove. With its bass synths, steady kicks and snares set alongside intricate hi-hat patterns, *Eldritch Terror (Prelude)* finds a keen kinetic energy that also recognises the power of dynamics – captivatingly alternating between holding back and letting loose. Together, they form a unique sonic take on the mystery and bewilderment that accompanies the track’s Lovecroftian namesake.
 
 **Listen to *Eldritch Terror (Prelude)* here:**
 
