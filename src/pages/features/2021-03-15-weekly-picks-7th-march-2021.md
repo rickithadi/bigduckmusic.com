@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "WEEKLY PICKS: 7th March 2021"
-author: Isaac Chiew & JX Soo
+author: Isaac Yackem & JX Soo
 col: white
 date: 2021-03-07T03:47:32.180Z
 description: Our top picks this week - sinister industrial darkwave from
@@ -61,7 +61,7 @@ Often too much, Theron fails to recognise his songs’ strengths, hampering his 
 
 Indeed, as a drummer himself, his music finds itself magical at its most energetic, whether it be when he uses his rhythms as conduits for building catharsis, or simply punctuating moments of sincere emotionalism. In *Wandering Son*, his epic tribute named after the coming-of-age manga Horou Musuko, that duality is apparent. While the first half struggles to find focus with low-key folk detours, it soon finds itself morphing into complete bliss at the halfway point, riding an endlessly accelerating groove charging towards the light. And without complicated structures distracting him, his melodic instincts find room to shine, as *Underneath the Rocks*' blissful simplicity allows it to bloom as the album’s strongest track. A resonant folk ode that glimmers with gorgeous Alex G-like warmth, jangly guitars serve as bedrock for his soaring vocal melodies, before his backbeat powerfully kicks in, punctuating his painfully melancholic refrains. As levitating synth flourishes and glockenspiel round off his reflections on summer, a undeniable glimmer of beauty reveals itself – a light that radiates obscured potential. For one willing to take such risks, one can only imagine what it’d be like if he found an editor...
 
-**Experience *Underneath the Rocks* here:**
+**Listen to *Underneath the Rocks* here:**
 
 <iframe src="https://open.spotify.com/embed/track/50ywQ4GE9ig7pI8c48l4Ot" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -83,7 +83,7 @@ Amalgamating jangly rhythm guitars, creamy overdriven leads, driving bass groove
 
 If anything, it presents a step in the right direction towards a more exciting and mature sound for the band. *Honey, Baby* also has a tongue-in-cheek music video that documents a planned trip to Texas that never happened. Grrrl Gang were slated to play at SXSW 2020 just as the pandemic struck - effectively cancelling the trip and show. The music video presents an entertaining “what if” scenario – in the form of fake footage from the trip, actors stand in for the band, hilariously complete with “American” dive bars and “American” people all sourced and filmed in their home country of Indonesia. Even when robbed of the opportunity to play at SXSW, Grrrl Gang ignore their bummer in *Honey, Baby*’s fun, lively absurdity.
 
-**You can listen to "*Honey, Baby*” here:**
+**Listen to "*Honey, Baby*” here:**
 
 <iframe src="https://open.spotify.com/embed/track/6JOUIMPgmUKe4Y0g0bI9LS" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
