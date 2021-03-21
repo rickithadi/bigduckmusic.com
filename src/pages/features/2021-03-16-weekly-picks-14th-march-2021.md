@@ -24,7 +24,7 @@ tags:
 
 **Alone Again / TWIN**
 
-![WY Huang - Alone Again](https://res.cloudinary.com/ddomozydd/image/upload/v1615887608/photo_2021-03-16_17-27-00_j4pmum.jpg "WY Huang - Alone Again")
+![WY Huang - Alone Again](https://res.cloudinary.com/ddomozydd/image/upload/v1616311644/aloneagainwyhuang_scri2c.jpg "WY Huang - Alone Again")
 
 \-
 
