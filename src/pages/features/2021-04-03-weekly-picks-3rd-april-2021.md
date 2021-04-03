@@ -4,8 +4,8 @@ title: "WEEKLY PICKS: 3rd April 2021"
 author: Isaac Yackem, & Chester
 col: white
 date: 2021-04-03T09:19:31.484Z
-description: Our featured picks this week - rock 'n' roll from KAZZMIR ,
-  cross-genre beat explorations from KoFlow and David Loke Kai Yuan, and
+description: Our featured picks this week - rock 'n' roll from KAZZMIR , a
+  cross-genre beat collaboration from KoFlow and David Loke Kai Yuan, and
   heartbreaking indie rock from kotoji!
 category: feature
 spotify: ""
@@ -18,7 +18,7 @@ tags:
   - David Loke Kai Yuan
   - kotoji
 ---
-**Our featured picks this week - rock 'n' roll from KAZZMIR , cross-genre beat explorations from KoFlow and David Loke Kai Yuan, and heartbreaking indie rock from kotoji!**
+**Our featured picks this week - rock 'n' roll from KAZZMIR , a cross-genre beat collaboration from KoFlow and David Loke Kai Yuan, and heartbreaking indie rock from kotoji!**
 
 # KAZZMIR
 
