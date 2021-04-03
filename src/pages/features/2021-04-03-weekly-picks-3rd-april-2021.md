@@ -30,7 +30,7 @@ tags:
 
 \-
 
-To be completely honest, at the first listen I was not impressed. Fortunately, over time upon multiple plays while doing housework, I found myself instinctively bobbing my head. This might be KAZZMIR's best release so far – its stylings remind me of 80s rock staple Jane's Addiction, while the bassline reminds me of Jane's Addiction's fellow 80s contemporaries, Talk Talk. To me, it is a perfect blend of both, and could possibly be my favoUrite parts of the song.
+To be completely honest, at the first listen I was not impressed. Fortunately, over time upon multiple plays while doing housework, I found myself instinctively bobbing my head. This might be KAZZMIR's best release so far – its stylings remind me of 80s rock staple Jane's Addiction, while the bassline reminds me of Jane's Addiction's fellow 80s contemporaries, Talk Talk. To me, it is a perfect blend of both, and could possibly be my favourite parts of the song.
 
 In line with the prior singles, the vocals for *When It's Done* sound great and is mixed well. The reverb is applied just nicely to bring out the singer's vocal stylings while maintaining their grit. However, I can't help but think that it could use just a smidgen less of the dry signal. Normally, I would advocate for harmonies in vocal tracks – but I feel the lack of it works for this song. That being said, I would have loved it if it was perhaps doubled on the chorus – it is quite verbose.  
 
