@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "WEEKLY PICKS: 10th April 2021"
 author: JX Soo, Chester, & Isaac Yackem
 col: white
-date: 2021-04-14T09:17:15.502Z
+date: 2021-04-10T09:17:15.502Z
 description: Our featured picks this week - hazy dreampop from FERS, a pop tune
   from kinny, and fuzzed-out shoegaze from Winona Dryver!
 category: feature
@@ -76,7 +76,7 @@ As much as I love heartfelt pop ballads with steady build-ups (see: *With or Wit
 
 \-
 
-Over *Super Flower Scene*’s relatively short 2 minute runtime, Winona Dryver don’t try to reinvent the wheel. Instead, the Yogyakarta-based shoegaze outfit simply flexes massive fuzzed-out soundscapes, with the impressive driving, urgent nature and emotional depth present on their debut EP First Echo Solution taking a backseat to simply exploring some rather straightforward vibes. With its lyrics simply consisting of names of varied flower species, there’s nothing new or particularly captivating about the track sonically either, seemingly more stripped back - largely harkening back to shoegaze’s roots, with both its accentuated guitar bends and hazy vocal production. Then again, it’s not necessarily a bad thing - by paving new sonic horizons through looking back, *Super Flower Scene* reveals a path perhaps indicative for Winona Dryver’s way forward.
+Over *Super Flower Scene*’s relatively short 2 minute runtime, Winona Dryver don’t try to reinvent the wheel. Instead, the Yogyakarta-based shoegaze outfit simply flexes massive fuzzed-out soundscapes, with the impressive driving, urgent nature and emotional depth present on their debut EP *First Echo Solution* taking a backseat to simply exploring some rather straightforward vibes. With its lyrics simply consisting of names of varied flower species, there’s nothing new or particularly captivating about the track sonically either, seemingly more stripped back - largely harkening back to shoegaze’s roots, with both its accentuated guitar bends and hazy vocal production. Then again, it’s not necessarily a bad thing - by paving new sonic horizons through looking back, *Super Flower Scene* reveals a path perhaps indicative for Winona Dryver’s way forward.
 
 **Listen to "*Super Flower Scene*” here:**
 
