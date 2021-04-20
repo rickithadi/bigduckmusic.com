@@ -17,7 +17,7 @@ tags:
   - Planeswalker
   - Kanina
 ---
-**Our featured picks this week - lush dreampop from FERS, a pop tune from kinny, and fuzzed-out shoegaze from Winona Dryver!**
+**Our featured picks this week - earnest dreampop from Cherry Syrup, thrilling electronic soundscapes from Planeswalker, and soul-baring indie rock from Kanina!**
 
 # Cherry Syrup
 
